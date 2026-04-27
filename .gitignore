@@ -1,0 +1,9 @@
+checkpoints/
+metrics/
+games/
+__pycache__/
+*.py[cod]
+*.pt
+*.pth
+*.zip
+*.pkl

@@ -1,0 +1,13 @@
+name: rlcc
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - numpy
+  - pytorch
+  - pip:
+      - gymnasium>=0.29
+      - stable-baselines3>=2.3
+      - sb3-contrib>=2.3
+      - wandb>=0.16
