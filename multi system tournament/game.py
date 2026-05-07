@@ -18,7 +18,7 @@ from checkers_pins import Pin
 import pandas as pd
 
 
-round_number = 1  # Update this for each new round of the tournament to track games and players in the round data file
+round_number = 2  # Update this for each new round of the tournament to track games and players in the round data file
 # ==========================================================
 # Utilities
 # ==========================================================
@@ -365,7 +365,7 @@ class Session:
             if rowcnt==0:
                 print("No games to be created. All games already created for this round.")
             else:
-                print(f"{rowcnt} round games created.")
+                print(f"{rowcnt} round games created for Round {round_number}.")
             # Save updated round_df back to file
             # try to save the round_df back to the round file, and log any errors that occur during saving without crashing the server
             try:
