@@ -1,0 +1,284 @@
+[2026-05-08 10:06:21] GAME CREATED
+[2026-05-08 10:06:23] PLAYER JOINED: Robert as lawn green
+[2026-05-08 10:06:28] PLAYER JOINED: Erlend Og Linor as gray0
+[2026-05-08 10:06:29] PLAYER START: Robert (lawn green)
+[2026-05-08 10:06:29] PLAYER START: Erlend Og Linor (gray0)
+[2026-05-08 10:06:29] GAME START — turn order ['lawn green', 'gray0']
+[2026-05-08 10:06:29] MOVE 1: Robert (lawn green) 20->18 [0.01ms]
+[2026-05-08 10:06:29] SCORE Robert (lawn green): Final=283.8, Time=99.8, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 10:06:29] SCORE Erlend Og Linor (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:06:31] SCORE Robert (lawn green): Final=283.8, Time=99.8, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 10:06:31] SCORE Erlend Og Linor (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:06:31] TURN TIMEOUT: Player with colour gray0 exceeded 2s at move 1. Turn skipped.
+[2026-05-08 10:06:32] MOVE 2: Robert (lawn green) 18->17 [0.01ms]
+[2026-05-08 10:06:32] SCORE Robert (lawn green): Final=285.7, Time=99.7, Moves(2)=0.0, Pins(0)=0.0, Dist=186.0, Win Bonus=0.0
+[2026-05-08 10:06:32] SCORE Erlend Og Linor (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:06:34] SCORE Robert (lawn green): Final=285.7, Time=99.7, Moves(2)=0.0, Pins(0)=0.0, Dist=186.0, Win Bonus=0.0
+[2026-05-08 10:06:34] SCORE Erlend Og Linor (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:06:34] TURN TIMEOUT: Player with colour gray0 exceeded 2s at move 2. Turn skipped.
+[2026-05-08 10:06:34] MOVE 3: Robert (lawn green) 22->16 [0.00ms]
+[2026-05-08 10:06:34] SCORE Robert (lawn green): Final=297.5, Time=99.5, Moves(3)=0.0, Pins(0)=0.0, Dist=198.0, Win Bonus=0.0
+[2026-05-08 10:06:34] SCORE Erlend Og Linor (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:06:36] SCORE Robert (lawn green): Final=297.5, Time=99.5, Moves(3)=0.0, Pins(0)=0.0, Dist=198.0, Win Bonus=0.0
+[2026-05-08 10:06:36] SCORE Erlend Og Linor (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:06:36] TURN TIMEOUT: Player with colour gray0 exceeded 2s at move 3. Turn skipped.
+[2026-05-08 10:06:36] MOVE 4: Robert (lawn green) 16->15 [0.00ms]
+[2026-05-08 10:06:36] SCORE Robert (lawn green): Final=299.3, Time=99.3, Moves(4)=0.0, Pins(0)=0.0, Dist=200.0, Win Bonus=0.0
+[2026-05-08 10:06:36] SCORE Erlend Og Linor (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:06:39] SCORE Robert (lawn green): Final=299.3, Time=99.3, Moves(4)=0.0, Pins(0)=0.0, Dist=200.0, Win Bonus=0.0
+[2026-05-08 10:06:39] SCORE Erlend Og Linor (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:06:39] TURN TIMEOUT: Player with colour gray0 exceeded 2s at move 4. Turn skipped.
+[2026-05-08 10:06:39] MOVE 5: Robert (lawn green) 45->14 [0.01ms]
+[2026-05-08 10:06:39] SCORE Robert (lawn green): Final=311.2, Time=99.2, Moves(5)=0.0, Pins(0)=0.0, Dist=212.0, Win Bonus=0.0
+[2026-05-08 10:06:39] SCORE Erlend Og Linor (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:06:39] PLAYER START: Robert (lawn green)
+[2026-05-08 10:06:39] PLAYER START: Erlend Og Linor (gray0)
+[2026-05-08 10:06:39] MOVE 6: Erlend Og Linor (gray0) 87->66 [0.01ms]
+[2026-05-08 10:06:39] SCORE Robert (lawn green): Final=311.2, Time=99.2, Moves(5)=0.0, Pins(0)=0.0, Dist=212.0, Win Bonus=0.0
+[2026-05-08 10:06:39] SCORE Erlend Og Linor (gray0): Final=283.4, Time=99.4, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 10:06:40] MOVE 7: Robert (lawn green) 19->18 [0.01ms]
+[2026-05-08 10:06:40] SCORE Robert (lawn green): Final=312.3, Time=98.3, Moves(6)=0.0, Pins(0)=0.0, Dist=214.0, Win Bonus=0.0
+[2026-05-08 10:06:40] SCORE Erlend Og Linor (gray0): Final=283.4, Time=99.4, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 10:06:40] MOVE 8: Erlend Og Linor (gray0) 65->67 [0.01ms]
+[2026-05-08 10:06:40] SCORE Robert (lawn green): Final=312.3, Time=98.3, Moves(6)=0.0, Pins(0)=0.0, Dist=214.0, Win Bonus=0.0
+[2026-05-08 10:06:40] SCORE Erlend Og Linor (gray0): Final=287.2, Time=99.2, Moves(2)=0.0, Pins(0)=0.0, Dist=188.0, Win Bonus=0.0
+[2026-05-08 10:06:41] MOVE 9: Robert (lawn green) 14->26 [0.01ms]
+[2026-05-08 10:06:41] SCORE Robert (lawn green): Final=313.7, Time=97.7, Moves(7)=0.0, Pins(0)=0.0, Dist=216.0, Win Bonus=0.0
+[2026-05-08 10:06:41] SCORE Erlend Og Linor (gray0): Final=287.2, Time=99.2, Moves(2)=0.0, Pins(0)=0.0, Dist=188.0, Win Bonus=0.0
+[2026-05-08 10:06:41] MOVE 10: Erlend Og Linor (gray0) 75->58 [0.01ms]
+[2026-05-08 10:06:41] SCORE Robert (lawn green): Final=313.7, Time=97.7, Moves(7)=0.0, Pins(0)=0.0, Dist=216.0, Win Bonus=0.0
+[2026-05-08 10:06:41] SCORE Erlend Og Linor (gray0): Final=295.1, Time=99.1, Moves(3)=0.0, Pins(0)=0.0, Dist=196.0, Win Bonus=0.0
+[2026-05-08 10:06:42] MOVE 11: Robert (lawn green) 33->29 [0.01ms]
+[2026-05-08 10:06:42] SCORE Robert (lawn green): Final=321.0, Time=97.0, Moves(8)=0.0, Pins(0)=0.0, Dist=224.0, Win Bonus=0.0
+[2026-05-08 10:06:42] SCORE Erlend Og Linor (gray0): Final=295.1, Time=99.1, Moves(3)=0.0, Pins(0)=0.0, Dist=196.0, Win Bonus=0.0
+[2026-05-08 10:06:42] MOVE 12: Erlend Og Linor (gray0) 98->77 [0.00ms]
+[2026-05-08 10:06:42] SCORE Robert (lawn green): Final=321.0, Time=97.0, Moves(8)=0.0, Pins(0)=0.0, Dist=224.0, Win Bonus=0.0
+[2026-05-08 10:06:42] SCORE Erlend Og Linor (gray0): Final=303.0, Time=99.0, Moves(4)=0.0, Pins(0)=0.0, Dist=204.0, Win Bonus=0.0
+[2026-05-08 10:06:43] MOVE 13: Robert (lawn green) 18->37 [0.01ms]
+[2026-05-08 10:06:43] SCORE Robert (lawn green): Final=332.3, Time=96.3, Moves(9)=0.0, Pins(0)=0.0, Dist=236.0, Win Bonus=0.0
+[2026-05-08 10:06:43] SCORE Erlend Og Linor (gray0): Final=303.0, Time=99.0, Moves(4)=0.0, Pins(0)=0.0, Dist=204.0, Win Bonus=0.0
+[2026-05-08 10:06:43] MOVE 14: Erlend Og Linor (gray0) 86->87 [0.01ms]
+[2026-05-08 10:06:43] SCORE Robert (lawn green): Final=332.3, Time=96.3, Moves(9)=0.0, Pins(0)=0.0, Dist=236.0, Win Bonus=0.0
+[2026-05-08 10:06:43] SCORE Erlend Og Linor (gray0): Final=304.8, Time=98.8, Moves(5)=0.0, Pins(0)=0.0, Dist=206.0, Win Bonus=0.0
+[2026-05-08 10:06:43] MOVE 15: Robert (lawn green) 17->16 [0.01ms]
+[2026-05-08 10:06:43] SCORE Robert (lawn green): Final=333.7, Time=95.7, Moves(10)=0.0, Pins(0)=0.0, Dist=238.0, Win Bonus=0.0
+[2026-05-08 10:06:43] SCORE Erlend Og Linor (gray0): Final=304.8, Time=98.8, Moves(5)=0.0, Pins(0)=0.0, Dist=206.0, Win Bonus=0.0
+[2026-05-08 10:06:44] MOVE 16: Erlend Og Linor (gray0) 76->59 [0.01ms]
+[2026-05-08 10:06:44] SCORE Robert (lawn green): Final=333.7, Time=95.7, Moves(10)=0.0, Pins(0)=0.0, Dist=238.0, Win Bonus=0.0
+[2026-05-08 10:06:44] SCORE Erlend Og Linor (gray0): Final=312.7, Time=98.7, Moves(6)=0.0, Pins(0)=0.0, Dist=214.0, Win Bonus=0.0
+[2026-05-08 10:06:44] MOVE 17: Robert (lawn green) 37->47 [0.01ms]
+[2026-05-08 10:06:44] SCORE Robert (lawn green): Final=334.9, Time=94.9, Moves(11)=0.0, Pins(0)=0.0, Dist=240.0, Win Bonus=0.0
+[2026-05-08 10:06:44] SCORE Erlend Og Linor (gray0): Final=312.7, Time=98.7, Moves(6)=0.0, Pins(0)=0.0, Dist=214.0, Win Bonus=0.0
+[2026-05-08 10:06:44] MOVE 18: Erlend Og Linor (gray0) 99->57 [0.01ms]
+[2026-05-08 10:06:44] SCORE Robert (lawn green): Final=334.9, Time=94.9, Moves(11)=0.0, Pins(0)=0.0, Dist=240.0, Win Bonus=0.0
+[2026-05-08 10:06:44] SCORE Erlend Og Linor (gray0): Final=320.6, Time=98.6, Moves(7)=0.0, Pins(0)=0.0, Dist=222.0, Win Bonus=0.0
+[2026-05-08 10:06:45] MOVE 19: Robert (lawn green) 29->25 [0.01ms]
+[2026-05-08 10:06:45] SCORE Robert (lawn green): Final=340.1, Time=94.1, Moves(12)=0.0, Pins(0)=0.0, Dist=246.0, Win Bonus=0.0
+[2026-05-08 10:06:45] SCORE Erlend Og Linor (gray0): Final=320.6, Time=98.6, Moves(7)=0.0, Pins(0)=0.0, Dist=222.0, Win Bonus=0.0
+[2026-05-08 10:06:45] MOVE 20: Erlend Og Linor (gray0) 87->89 [0.01ms]
+[2026-05-08 10:06:45] SCORE Robert (lawn green): Final=340.1, Time=94.1, Moves(12)=0.0, Pins(0)=0.0, Dist=246.0, Win Bonus=0.0
+[2026-05-08 10:06:45] SCORE Erlend Og Linor (gray0): Final=324.4, Time=98.4, Moves(8)=0.0, Pins(0)=0.0, Dist=226.0, Win Bonus=0.0
+[2026-05-08 10:06:46] MOVE 21: Robert (lawn green) 16->56 [0.01ms]
+[2026-05-08 10:06:46] SCORE Robert (lawn green): Final=351.0, Time=93.0, Moves(13)=0.0, Pins(0)=0.0, Dist=258.0, Win Bonus=0.0
+[2026-05-08 10:06:46] SCORE Erlend Og Linor (gray0): Final=324.4, Time=98.4, Moves(8)=0.0, Pins(0)=0.0, Dist=226.0, Win Bonus=0.0
+[2026-05-08 10:06:47] MOVE 22: Erlend Og Linor (gray0) 101->78 [0.01ms]
+[2026-05-08 10:06:47] SCORE Robert (lawn green): Final=351.0, Time=93.0, Moves(13)=0.0, Pins(0)=0.0, Dist=258.0, Win Bonus=0.0
+[2026-05-08 10:06:47] SCORE Erlend Og Linor (gray0): Final=328.1, Time=98.1, Moves(9)=0.0, Pins(0)=0.0, Dist=230.0, Win Bonus=0.0
+[2026-05-08 10:06:47] MOVE 23: Robert (lawn green) 47->65 [0.01ms]
+[2026-05-08 10:06:47] SCORE Robert (lawn green): Final=454.5, Time=92.5, Moves(14)=0.0, Pins(1)=100.0, Dist=262.0, Win Bonus=0.0
+[2026-05-08 10:06:47] SCORE Erlend Og Linor (gray0): Final=328.1, Time=98.1, Moves(9)=0.0, Pins(0)=0.0, Dist=230.0, Win Bonus=0.0
+[2026-05-08 10:06:47] MOVE 24: Erlend Og Linor (gray0) 66->50 [0.01ms]
+[2026-05-08 10:06:47] SCORE Robert (lawn green): Final=454.5, Time=92.5, Moves(14)=0.0, Pins(1)=100.0, Dist=262.0, Win Bonus=0.0
+[2026-05-08 10:06:47] SCORE Erlend Og Linor (gray0): Final=336.0, Time=98.0, Moves(10)=0.0, Pins(0)=0.0, Dist=238.0, Win Bonus=0.0
+[2026-05-08 10:06:48] MOVE 25: Robert (lawn green) 26->37 [0.00ms]
+[2026-05-08 10:06:48] SCORE Robert (lawn green): Final=455.8, Time=91.8, Moves(15)=0.0, Pins(1)=100.0, Dist=264.0, Win Bonus=0.0
+[2026-05-08 10:06:48] SCORE Erlend Og Linor (gray0): Final=336.0, Time=98.0, Moves(10)=0.0, Pins(0)=0.0, Dist=238.0, Win Bonus=0.0
+[2026-05-08 10:06:48] MOVE 26: Erlend Og Linor (gray0) 89->68 [0.00ms]
+[2026-05-08 10:06:48] SCORE Robert (lawn green): Final=455.8, Time=91.8, Moves(15)=0.0, Pins(1)=100.0, Dist=264.0, Win Bonus=0.0
+[2026-05-08 10:06:48] SCORE Erlend Og Linor (gray0): Final=339.8, Time=97.8, Moves(11)=0.0, Pins(0)=0.0, Dist=242.0, Win Bonus=0.0
+[2026-05-08 10:06:49] MOVE 27: Robert (lawn green) 25->87 [0.00ms]
+[2026-05-08 10:06:49] SCORE Robert (lawn green): Final=562.7, Time=90.7, Moves(16)=0.0, Pins(2)=200.0, Dist=272.0, Win Bonus=0.0
+[2026-05-08 10:06:49] SCORE Erlend Og Linor (gray0): Final=339.8, Time=97.8, Moves(11)=0.0, Pins(0)=0.0, Dist=242.0, Win Bonus=0.0
+[2026-05-08 10:06:50] MOVE 28: Erlend Og Linor (gray0) 67->69 [0.00ms]
+[2026-05-08 10:06:50] SCORE Robert (lawn green): Final=562.7, Time=90.7, Moves(16)=0.0, Pins(2)=200.0, Dist=272.0, Win Bonus=0.0
+[2026-05-08 10:06:50] SCORE Erlend Og Linor (gray0): Final=343.6, Time=97.6, Moves(12)=0.0, Pins(0)=0.0, Dist=246.0, Win Bonus=0.0
+[2026-05-08 10:06:50] MOVE 29: Robert (lawn green) 21->20 [0.01ms]
+[2026-05-08 10:06:50] SCORE Robert (lawn green): Final=563.8, Time=89.8, Moves(17)=0.0, Pins(2)=200.0, Dist=274.0, Win Bonus=0.0
+[2026-05-08 10:06:50] SCORE Erlend Og Linor (gray0): Final=343.6, Time=97.6, Moves(12)=0.0, Pins(0)=0.0, Dist=246.0, Win Bonus=0.0
+[2026-05-08 10:06:51] MOVE 30: Erlend Og Linor (gray0) 88->51 [0.00ms]
+[2026-05-08 10:06:51] SCORE Robert (lawn green): Final=563.8, Time=89.8, Moves(17)=0.0, Pins(2)=200.0, Dist=274.0, Win Bonus=0.0
+[2026-05-08 10:06:51] SCORE Erlend Og Linor (gray0): Final=355.5, Time=97.5, Moves(13)=0.0, Pins(0)=0.0, Dist=258.0, Win Bonus=0.0
+[2026-05-08 10:06:51] MOVE 31: Robert (lawn green) 20->43 [0.01ms]
+[2026-05-08 10:06:51] SCORE Robert (lawn green): Final=567.0, Time=89.0, Moves(18)=0.0, Pins(2)=200.0, Dist=278.0, Win Bonus=0.0
+[2026-05-08 10:06:51] SCORE Erlend Og Linor (gray0): Final=355.5, Time=97.5, Moves(13)=0.0, Pins(0)=0.0, Dist=258.0, Win Bonus=0.0
+[2026-05-08 10:06:51] MOVE 32: Erlend Og Linor (gray0) 100->88 [0.01ms]
+[2026-05-08 10:06:51] SCORE Robert (lawn green): Final=567.0, Time=89.0, Moves(18)=0.0, Pins(2)=200.0, Dist=278.0, Win Bonus=0.0
+[2026-05-08 10:06:51] SCORE Erlend Og Linor (gray0): Final=357.4, Time=97.4, Moves(14)=0.0, Pins(0)=0.0, Dist=260.0, Win Bonus=0.0
+[2026-05-08 10:06:52] MOVE 33: Robert (lawn green) 44->42 [0.01ms]
+[2026-05-08 10:06:52] SCORE Robert (lawn green): Final=570.1, Time=88.1, Moves(19)=0.0, Pins(2)=200.0, Dist=282.0, Win Bonus=0.0
+[2026-05-08 10:06:52] SCORE Erlend Og Linor (gray0): Final=357.4, Time=97.4, Moves(14)=0.0, Pins(0)=0.0, Dist=260.0, Win Bonus=0.0
+[2026-05-08 10:06:53] MOVE 34: Erlend Og Linor (gray0) 88->49 [0.01ms]
+[2026-05-08 10:06:53] SCORE Robert (lawn green): Final=570.1, Time=88.1, Moves(19)=0.0, Pins(2)=200.0, Dist=282.0, Win Bonus=0.0
+[2026-05-08 10:06:53] SCORE Erlend Og Linor (gray0): Final=365.3, Time=97.3, Moves(15)=0.0, Pins(0)=0.0, Dist=268.0, Win Bonus=0.0
+[2026-05-08 10:06:53] MOVE 35: Robert (lawn green) 32->30 [0.01ms]
+[2026-05-08 10:06:53] SCORE Robert (lawn green): Final=573.3, Time=87.3, Moves(20)=0.0, Pins(2)=200.0, Dist=286.0, Win Bonus=0.0
+[2026-05-08 10:06:53] SCORE Erlend Og Linor (gray0): Final=365.3, Time=97.3, Moves(15)=0.0, Pins(0)=0.0, Dist=268.0, Win Bonus=0.0
+[2026-05-08 10:06:54] MOVE 36: Erlend Og Linor (gray0) 58->18 [0.01ms]
+[2026-05-08 10:06:54] SCORE Robert (lawn green): Final=573.3, Time=87.3, Moves(20)=0.0, Pins(2)=200.0, Dist=286.0, Win Bonus=0.0
+[2026-05-08 10:06:54] SCORE Erlend Og Linor (gray0): Final=377.1, Time=97.1, Moves(16)=0.0, Pins(0)=0.0, Dist=280.0, Win Bonus=0.0
+[2026-05-08 10:06:54] MOVE 37: Robert (lawn green) 56->100 [0.01ms]
+[2026-05-08 10:06:54] SCORE Robert (lawn green): Final=674.5, Time=86.5, Moves(21)=0.0, Pins(3)=300.0, Dist=288.0, Win Bonus=0.0
+[2026-05-08 10:06:54] SCORE Erlend Og Linor (gray0): Final=377.1, Time=97.1, Moves(16)=0.0, Pins(0)=0.0, Dist=280.0, Win Bonus=0.0
+[2026-05-08 10:06:55] MOVE 38: Erlend Og Linor (gray0) 77->41 [0.01ms]
+[2026-05-08 10:06:55] SCORE Robert (lawn green): Final=674.5, Time=86.5, Moves(21)=0.0, Pins(3)=300.0, Dist=288.0, Win Bonus=0.0
+[2026-05-08 10:06:55] SCORE Erlend Og Linor (gray0): Final=388.8, Time=96.8, Moves(17)=0.0, Pins(0)=0.0, Dist=292.0, Win Bonus=0.0
+[2026-05-08 10:06:55] MOVE 39: Robert (lawn green) 42->40 [0.01ms]
+[2026-05-08 10:06:55] SCORE Robert (lawn green): Final=677.7, Time=85.7, Moves(22)=0.0, Pins(3)=300.0, Dist=292.0, Win Bonus=0.0
+[2026-05-08 10:06:55] SCORE Erlend Og Linor (gray0): Final=388.8, Time=96.8, Moves(17)=0.0, Pins(0)=0.0, Dist=292.0, Win Bonus=0.0
+[2026-05-08 10:06:56] MOVE 40: Erlend Og Linor (gray0) 57->58 [0.01ms]
+[2026-05-08 10:06:56] SCORE Robert (lawn green): Final=677.7, Time=85.7, Moves(22)=0.0, Pins(3)=300.0, Dist=292.0, Win Bonus=0.0
+[2026-05-08 10:06:56] SCORE Erlend Og Linor (gray0): Final=390.7, Time=96.7, Moves(18)=0.0, Pins(0)=0.0, Dist=294.0, Win Bonus=0.0
+[2026-05-08 10:06:56] MOVE 41: Robert (lawn green) 40->39 [0.00ms]
+[2026-05-08 10:06:56] SCORE Robert (lawn green): Final=679.0, Time=85.0, Moves(23)=0.0, Pins(3)=300.0, Dist=294.0, Win Bonus=0.0
+[2026-05-08 10:06:56] SCORE Erlend Og Linor (gray0): Final=390.7, Time=96.7, Moves(18)=0.0, Pins(0)=0.0, Dist=294.0, Win Bonus=0.0
+[2026-05-08 10:06:56] MOVE 42: Erlend Og Linor (gray0) 58->60 [0.00ms]
+[2026-05-08 10:06:56] SCORE Robert (lawn green): Final=679.0, Time=85.0, Moves(23)=0.0, Pins(3)=300.0, Dist=294.0, Win Bonus=0.0
+[2026-05-08 10:06:56] SCORE Erlend Og Linor (gray0): Final=394.6, Time=96.6, Moves(19)=0.0, Pins(0)=0.0, Dist=298.0, Win Bonus=0.0
+[2026-05-08 10:06:57] MOVE 43: Robert (lawn green) 55->44 [0.01ms]
+[2026-05-08 10:06:57] SCORE Robert (lawn green): Final=678.3, Time=84.3, Moves(24)=0.0, Pins(3)=300.0, Dist=294.0, Win Bonus=0.0
+[2026-05-08 10:06:57] SCORE Erlend Og Linor (gray0): Final=394.6, Time=96.6, Moves(19)=0.0, Pins(0)=0.0, Dist=298.0, Win Bonus=0.0
+[2026-05-08 10:06:57] MOVE 44: Erlend Og Linor (gray0) 59->61 [0.00ms]
+[2026-05-08 10:06:57] SCORE Robert (lawn green): Final=678.3, Time=84.3, Moves(24)=0.0, Pins(3)=300.0, Dist=294.0, Win Bonus=0.0
+[2026-05-08 10:06:57] SCORE Erlend Og Linor (gray0): Final=398.4, Time=96.4, Moves(20)=0.0, Pins(0)=0.0, Dist=302.0, Win Bonus=0.0
+[2026-05-08 10:06:58] MOVE 45: Robert (lawn green) 44->36 [0.01ms]
+[2026-05-08 10:06:58] SCORE Robert (lawn green): Final=691.4, Time=83.4, Moves(25)=0.0, Pins(3)=300.0, Dist=308.0, Win Bonus=0.0
+[2026-05-08 10:06:58] SCORE Erlend Og Linor (gray0): Final=398.4, Time=96.4, Moves(20)=0.0, Pins(0)=0.0, Dist=302.0, Win Bonus=0.0
+[2026-05-08 10:06:58] MOVE 46: Erlend Og Linor (gray0) 78->44 [0.00ms]
+[2026-05-08 10:06:58] SCORE Robert (lawn green): Final=691.4, Time=83.4, Moves(25)=0.0, Pins(3)=300.0, Dist=308.0, Win Bonus=0.0
+[2026-05-08 10:06:58] SCORE Erlend Og Linor (gray0): Final=514.3, Time=96.3, Moves(21)=0.0, Pins(1)=100.0, Dist=318.0, Win Bonus=0.0
+[2026-05-08 10:06:59] MOVE 47: Robert (lawn green) 43->42 [0.00ms]
+[2026-05-08 10:06:59] SCORE Robert (lawn green): Final=692.6, Time=82.6, Moves(26)=0.0, Pins(3)=300.0, Dist=310.0, Win Bonus=0.0
+[2026-05-08 10:06:59] SCORE Erlend Og Linor (gray0): Final=514.3, Time=96.3, Moves(21)=0.0, Pins(1)=100.0, Dist=318.0, Win Bonus=0.0
+[2026-05-08 10:06:59] MOVE 48: Erlend Og Linor (gray0) 49->59 [0.00ms]
+[2026-05-08 10:06:59] SCORE Robert (lawn green): Final=692.6, Time=82.6, Moves(26)=0.0, Pins(3)=300.0, Dist=310.0, Win Bonus=0.0
+[2026-05-08 10:06:59] SCORE Erlend Og Linor (gray0): Final=514.2, Time=96.2, Moves(22)=0.0, Pins(1)=100.0, Dist=318.0, Win Bonus=0.0
+[2026-05-08 10:07:00] MOVE 49: Robert (lawn green) 36->47 [0.01ms]
+[2026-05-08 10:07:00] SCORE Robert (lawn green): Final=693.8, Time=81.8, Moves(27)=0.0, Pins(3)=300.0, Dist=312.0, Win Bonus=0.0
+[2026-05-08 10:07:00] SCORE Erlend Og Linor (gray0): Final=514.2, Time=96.2, Moves(22)=0.0, Pins(1)=100.0, Dist=318.0, Win Bonus=0.0
+[2026-05-08 10:07:00] MOVE 50: Erlend Og Linor (gray0) 50->31 [0.00ms]
+[2026-05-08 10:07:00] SCORE Robert (lawn green): Final=693.8, Time=81.8, Moves(27)=0.0, Pins(3)=300.0, Dist=312.0, Win Bonus=0.0
+[2026-05-08 10:07:00] SCORE Erlend Og Linor (gray0): Final=522.1, Time=96.1, Moves(23)=0.0, Pins(1)=100.0, Dist=326.0, Win Bonus=0.0
+[2026-05-08 10:07:01] MOVE 51: Robert (lawn green) 42->57 [0.01ms]
+[2026-05-08 10:07:01] SCORE Robert (lawn green): Final=704.8, Time=80.8, Moves(28)=0.0, Pins(3)=300.0, Dist=324.0, Win Bonus=0.0
+[2026-05-08 10:07:01] SCORE Erlend Og Linor (gray0): Final=522.1, Time=96.1, Moves(23)=0.0, Pins(1)=100.0, Dist=326.0, Win Bonus=0.0
+[2026-05-08 10:07:01] MOVE 52: Erlend Og Linor (gray0) 68->52 [0.01ms]
+[2026-05-08 10:07:01] SCORE Robert (lawn green): Final=704.8, Time=80.8, Moves(28)=0.0, Pins(3)=300.0, Dist=324.0, Win Bonus=0.0
+[2026-05-08 10:07:01] SCORE Erlend Og Linor (gray0): Final=529.9, Time=95.9, Moves(24)=0.0, Pins(1)=100.0, Dist=334.0, Win Bonus=0.0
+[2026-05-08 10:07:02] MOVE 53: Robert (lawn green) 30->17 [0.00ms]
+[2026-05-08 10:07:02] SCORE Robert (lawn green): Final=703.9, Time=79.9, Moves(29)=0.0, Pins(3)=300.0, Dist=324.0, Win Bonus=0.0
+[2026-05-08 10:07:02] SCORE Erlend Og Linor (gray0): Final=529.9, Time=95.9, Moves(24)=0.0, Pins(1)=100.0, Dist=334.0, Win Bonus=0.0
+[2026-05-08 10:07:02] MOVE 54: Erlend Og Linor (gray0) 61->19 [0.00ms]
+[2026-05-08 10:07:02] SCORE Robert (lawn green): Final=703.9, Time=79.9, Moves(29)=0.0, Pins(3)=300.0, Dist=324.0, Win Bonus=0.0
+[2026-05-08 10:07:02] SCORE Erlend Og Linor (gray0): Final=637.8, Time=95.8, Moves(25)=0.0, Pins(2)=200.0, Dist=342.0, Win Bonus=0.0
+[2026-05-08 10:07:03] MOVE 55: Robert (lawn green) 37->75 [0.01ms]
+[2026-05-08 10:07:03] SCORE Robert (lawn green): Final=809.2, Time=79.2, Moves(30)=0.0, Pins(4)=400.0, Dist=330.0, Win Bonus=0.0
+[2026-05-08 10:07:03] SCORE Erlend Og Linor (gray0): Final=637.8, Time=95.8, Moves(25)=0.0, Pins(2)=200.0, Dist=342.0, Win Bonus=0.0
+[2026-05-08 10:07:03] MOVE 56: Erlend Og Linor (gray0) 59->42 [0.01ms]
+[2026-05-08 10:07:03] SCORE Robert (lawn green): Final=809.2, Time=79.2, Moves(30)=0.0, Pins(4)=400.0, Dist=330.0, Win Bonus=0.0
+[2026-05-08 10:07:03] SCORE Erlend Og Linor (gray0): Final=645.7, Time=95.7, Moves(26)=0.0, Pins(2)=200.0, Dist=350.0, Win Bonus=0.0
+[2026-05-08 10:07:04] MOVE 57: Robert (lawn green) 15->27 [0.00ms]
+[2026-05-08 10:07:04] SCORE Robert (lawn green): Final=810.5, Time=78.5, Moves(31)=0.0, Pins(4)=400.0, Dist=332.0, Win Bonus=0.0
+[2026-05-08 10:07:04] SCORE Erlend Og Linor (gray0): Final=645.7, Time=95.7, Moves(26)=0.0, Pins(2)=200.0, Dist=350.0, Win Bonus=0.0
+[2026-05-08 10:07:04] MOVE 58: Erlend Og Linor (gray0) 42->43 [0.01ms]
+[2026-05-08 10:07:04] SCORE Robert (lawn green): Final=810.5, Time=78.5, Moves(31)=0.0, Pins(4)=400.0, Dist=332.0, Win Bonus=0.0
+[2026-05-08 10:07:04] SCORE Erlend Og Linor (gray0): Final=647.5, Time=95.5, Moves(27)=0.0, Pins(2)=200.0, Dist=352.0, Win Bonus=0.0
+[2026-05-08 10:07:05] MOVE 59: Robert (lawn green) 27->38 [0.01ms]
+[2026-05-08 10:07:05] SCORE Robert (lawn green): Final=811.7, Time=77.7, Moves(32)=0.0, Pins(4)=400.0, Dist=334.0, Win Bonus=0.0
+[2026-05-08 10:07:05] SCORE Erlend Og Linor (gray0): Final=647.5, Time=95.5, Moves(27)=0.0, Pins(2)=200.0, Dist=352.0, Win Bonus=0.0
+[2026-05-08 10:07:05] MOVE 60: Erlend Og Linor (gray0) 69->59 [0.01ms]
+[2026-05-08 10:07:05] SCORE Robert (lawn green): Final=811.7, Time=77.7, Moves(32)=0.0, Pins(4)=400.0, Dist=334.0, Win Bonus=0.0
+[2026-05-08 10:07:05] SCORE Erlend Og Linor (gray0): Final=647.4, Time=95.4, Moves(28)=0.0, Pins(2)=200.0, Dist=352.0, Win Bonus=0.0
+[2026-05-08 10:07:06] MOVE 61: Robert (lawn green) 39->56 [0.01ms]
+[2026-05-08 10:07:06] SCORE Robert (lawn green): Final=818.9, Time=76.9, Moves(33)=0.0, Pins(4)=400.0, Dist=342.0, Win Bonus=0.0
+[2026-05-08 10:07:06] SCORE Erlend Og Linor (gray0): Final=647.4, Time=95.4, Moves(28)=0.0, Pins(2)=200.0, Dist=352.0, Win Bonus=0.0
+[2026-05-08 10:07:06] MOVE 62: Erlend Og Linor (gray0) 59->42 [0.01ms]
+[2026-05-08 10:07:06] SCORE Robert (lawn green): Final=818.9, Time=76.9, Moves(33)=0.0, Pins(4)=400.0, Dist=342.0, Win Bonus=0.0
+[2026-05-08 10:07:06] SCORE Erlend Og Linor (gray0): Final=655.3, Time=95.3, Moves(29)=0.0, Pins(2)=200.0, Dist=360.0, Win Bonus=0.0
+[2026-05-08 10:07:06] MOVE 63: Robert (lawn green) 38->48 [0.01ms]
+[2026-05-08 10:07:07] SCORE Robert (lawn green): Final=820.2, Time=76.2, Moves(34)=0.0, Pins(4)=400.0, Dist=344.0, Win Bonus=0.0
+[2026-05-08 10:07:07] SCORE Erlend Og Linor (gray0): Final=655.3, Time=95.3, Moves(29)=0.0, Pins(2)=200.0, Dist=360.0, Win Bonus=0.0
+[2026-05-08 10:07:07] MOVE 64: Erlend Og Linor (gray0) 51->53 [0.01ms]
+[2026-05-08 10:07:07] SCORE Robert (lawn green): Final=820.2, Time=76.2, Moves(34)=0.0, Pins(4)=400.0, Dist=344.0, Win Bonus=0.0
+[2026-05-08 10:07:07] SCORE Erlend Og Linor (gray0): Final=659.3, Time=95.3, Moves(30)=0.0, Pins(2)=200.0, Dist=364.0, Win Bonus=0.0
+[2026-05-08 10:07:07] MOVE 65: Robert (lawn green) 48->66 [0.01ms]
+[2026-05-08 10:07:07] SCORE Robert (lawn green): Final=823.6, Time=75.5, Moves(35)=0.0, Pins(4)=400.0, Dist=348.0, Win Bonus=0.0
+[2026-05-08 10:07:07] SCORE Erlend Og Linor (gray0): Final=659.3, Time=95.3, Moves(30)=0.0, Pins(2)=200.0, Dist=364.0, Win Bonus=0.0
+[2026-05-08 10:07:07] MOVE 66: Erlend Og Linor (gray0) 60->51 [0.01ms]
+[2026-05-08 10:07:07] SCORE Robert (lawn green): Final=823.6, Time=75.5, Moves(35)=0.0, Pins(4)=400.0, Dist=348.0, Win Bonus=0.0
+[2026-05-08 10:07:07] SCORE Erlend Og Linor (gray0): Final=661.1, Time=95.1, Moves(31)=0.0, Pins(2)=200.0, Dist=366.0, Win Bonus=0.0
+[2026-05-08 10:07:08] MOVE 67: Robert (lawn green) 57->76 [0.01ms]
+[2026-05-08 10:07:08] SCORE Robert (lawn green): Final=927.0, Time=74.9, Moves(36)=0.1, Pins(5)=500.0, Dist=352.0, Win Bonus=0.0
+[2026-05-08 10:07:08] SCORE Erlend Og Linor (gray0): Final=661.1, Time=95.1, Moves(31)=0.0, Pins(2)=200.0, Dist=366.0, Win Bonus=0.0
+[2026-05-08 10:07:08] MOVE 68: Erlend Og Linor (gray0) 52->33 [0.01ms]
+[2026-05-08 10:07:08] SCORE Robert (lawn green): Final=927.0, Time=74.9, Moves(36)=0.1, Pins(5)=500.0, Dist=352.0, Win Bonus=0.0
+[2026-05-08 10:07:08] SCORE Erlend Og Linor (gray0): Final=767.0, Time=95.0, Moves(32)=0.0, Pins(3)=300.0, Dist=372.0, Win Bonus=0.0
+[2026-05-08 10:07:09] MOVE 69: Robert (lawn green) 17->29 [0.01ms]
+[2026-05-08 10:07:09] SCORE Robert (lawn green): Final=928.3, Time=74.2, Moves(37)=0.1, Pins(5)=500.0, Dist=354.0, Win Bonus=0.0
+[2026-05-08 10:07:09] SCORE Erlend Og Linor (gray0): Final=767.0, Time=95.0, Moves(32)=0.0, Pins(3)=300.0, Dist=372.0, Win Bonus=0.0
+[2026-05-08 10:07:09] MOVE 70: Erlend Og Linor (gray0) 44->21 [0.01ms]
+[2026-05-08 10:07:09] SCORE Robert (lawn green): Final=928.3, Time=74.2, Moves(37)=0.1, Pins(5)=500.0, Dist=354.0, Win Bonus=0.0
+[2026-05-08 10:07:09] SCORE Erlend Og Linor (gray0): Final=766.9, Time=94.8, Moves(33)=0.0, Pins(3)=300.0, Dist=372.0, Win Bonus=0.0
+[2026-05-08 10:07:10] MOVE 71: Robert (lawn green) 34->28 [0.00ms]
+[2026-05-08 10:07:10] SCORE Robert (lawn green): Final=939.8, Time=73.6, Moves(38)=0.2, Pins(5)=500.0, Dist=366.0, Win Bonus=0.0
+[2026-05-08 10:07:10] SCORE Erlend Og Linor (gray0): Final=766.9, Time=94.8, Moves(33)=0.0, Pins(3)=300.0, Dist=372.0, Win Bonus=0.0
+[2026-05-08 10:07:10] MOVE 72: Erlend Og Linor (gray0) 42->44 [0.00ms]
+[2026-05-08 10:07:10] SCORE Robert (lawn green): Final=939.8, Time=73.6, Moves(38)=0.2, Pins(5)=500.0, Dist=366.0, Win Bonus=0.0
+[2026-05-08 10:07:10] SCORE Erlend Og Linor (gray0): Final=870.8, Time=94.7, Moves(34)=0.0, Pins(4)=400.0, Dist=376.0, Win Bonus=0.0
+[2026-05-08 10:07:10] MOVE 73: Robert (lawn green) 29->27 [0.01ms]
+[2026-05-08 10:07:10] SCORE Robert (lawn green): Final=943.2, Time=72.9, Moves(39)=0.3, Pins(5)=500.0, Dist=370.0, Win Bonus=0.0
+[2026-05-08 10:07:10] SCORE Erlend Og Linor (gray0): Final=870.8, Time=94.7, Moves(34)=0.0, Pins(4)=400.0, Dist=376.0, Win Bonus=0.0
+[2026-05-08 10:07:11] MOVE 74: Erlend Og Linor (gray0) 51->34 [0.01ms]
+[2026-05-08 10:07:11] SCORE Robert (lawn green): Final=943.2, Time=72.9, Moves(39)=0.3, Pins(5)=500.0, Dist=370.0, Win Bonus=0.0
+[2026-05-08 10:07:11] SCORE Erlend Og Linor (gray0): Final=978.6, Time=94.6, Moves(35)=0.0, Pins(5)=500.0, Dist=384.0, Win Bonus=0.0
+[2026-05-08 10:07:11] MOVE 75: Robert (lawn green) 28->26 [0.02ms]
+[2026-05-08 10:07:11] SCORE Robert (lawn green): Final=946.7, Time=72.3, Moves(40)=0.5, Pins(5)=500.0, Dist=374.0, Win Bonus=0.0
+[2026-05-08 10:07:11] SCORE Erlend Og Linor (gray0): Final=978.6, Time=94.6, Moves(35)=0.0, Pins(5)=500.0, Dist=384.0, Win Bonus=0.0
+[2026-05-08 10:07:11] MOVE 76: Erlend Og Linor (gray0) 18->22 [0.00ms]
+[2026-05-08 10:07:11] SCORE Robert (lawn green): Final=946.7, Time=72.3, Moves(40)=0.5, Pins(5)=500.0, Dist=374.0, Win Bonus=0.0
+[2026-05-08 10:07:11] SCORE Erlend Og Linor (gray0): Final=1080.6, Time=94.5, Moves(36)=0.1, Pins(6)=600.0, Dist=386.0, Win Bonus=0.0
+[2026-05-08 10:07:12] MOVE 77: Robert (lawn green) 26->38 [0.00ms]
+[2026-05-08 10:07:12] SCORE Robert (lawn green): Final=946.2, Time=71.6, Moves(41)=0.6, Pins(5)=500.0, Dist=374.0, Win Bonus=0.0
+[2026-05-08 10:07:12] SCORE Erlend Og Linor (gray0): Final=1080.6, Time=94.5, Moves(36)=0.1, Pins(6)=600.0, Dist=386.0, Win Bonus=0.0
+[2026-05-08 10:07:12] MOVE 78: Erlend Og Linor (gray0) 53->55 [0.01ms]
+[2026-05-08 10:07:12] SCORE Robert (lawn green): Final=946.2, Time=71.6, Moves(41)=0.6, Pins(5)=500.0, Dist=374.0, Win Bonus=0.0
+[2026-05-08 10:07:12] SCORE Erlend Og Linor (gray0): Final=1184.4, Time=94.3, Moves(37)=0.1, Pins(7)=700.0, Dist=390.0, Win Bonus=0.0
+[2026-05-08 10:07:13] MOVE 79: Robert (lawn green) 27->46 [0.01ms]
+[2026-05-08 10:07:13] SCORE Robert (lawn green): Final=951.8, Time=71.0, Moves(42)=0.8, Pins(5)=500.0, Dist=380.0, Win Bonus=0.0
+[2026-05-08 10:07:13] SCORE Erlend Og Linor (gray0): Final=1184.4, Time=94.3, Moves(37)=0.1, Pins(7)=700.0, Dist=390.0, Win Bonus=0.0
+[2026-05-08 10:07:13] MOVE 80: Erlend Og Linor (gray0) 31->32 [0.00ms]
+[2026-05-08 10:07:13] SCORE Robert (lawn green): Final=951.8, Time=71.0, Moves(42)=0.8, Pins(5)=500.0, Dist=380.0, Win Bonus=0.0
+[2026-05-08 10:07:13] SCORE Erlend Og Linor (gray0): Final=1286.3, Time=94.1, Moves(38)=0.2, Pins(8)=800.0, Dist=392.0, Win Bonus=0.0
+[2026-05-08 10:07:14] MOVE 81: Robert (lawn green) 38->48 [0.01ms]
+[2026-05-08 10:07:14] SCORE Robert (lawn green): Final=953.4, Time=70.5, Moves(43)=0.9, Pins(5)=500.0, Dist=382.0, Win Bonus=0.0
+[2026-05-08 10:07:14] SCORE Erlend Og Linor (gray0): Final=1286.3, Time=94.1, Moves(38)=0.2, Pins(8)=800.0, Dist=392.0, Win Bonus=0.0
+[2026-05-08 10:07:14] MOVE 82: Erlend Og Linor (gray0) 41->42 [0.01ms]
+[2026-05-08 10:07:14] SCORE Robert (lawn green): Final=953.4, Time=70.5, Moves(43)=0.9, Pins(5)=500.0, Dist=382.0, Win Bonus=0.0
+[2026-05-08 10:07:14] SCORE Erlend Og Linor (gray0): Final=1288.3, Time=94.0, Moves(39)=0.3, Pins(8)=800.0, Dist=394.0, Win Bonus=0.0
+[2026-05-08 10:07:14] MOVE 83: Robert (lawn green) 65->86 [0.00ms]
+[2026-05-08 10:07:14] SCORE Robert (lawn green): Final=952.9, Time=69.9, Moves(44)=1.0, Pins(5)=500.0, Dist=382.0, Win Bonus=0.0
+[2026-05-08 10:07:14] SCORE Erlend Og Linor (gray0): Final=1288.3, Time=94.0, Moves(39)=0.3, Pins(8)=800.0, Dist=394.0, Win Bonus=0.0
+[2026-05-08 10:07:14] MOVE 84: Erlend Og Linor (gray0) 43->45 [0.00ms]
+[2026-05-08 10:07:14] SCORE Robert (lawn green): Final=952.9, Time=69.9, Moves(44)=1.0, Pins(5)=500.0, Dist=382.0, Win Bonus=0.0
+[2026-05-08 10:07:14] SCORE Erlend Og Linor (gray0): Final=1390.3, Time=93.9, Moves(40)=0.5, Pins(9)=900.0, Dist=396.0, Win Bonus=0.0
+[2026-05-08 10:07:15] MOVE 85: Robert (lawn green) 47->88 [0.01ms]
+[2026-05-08 10:07:15] SCORE Robert (lawn green): Final=1056.3, Time=69.3, Moves(45)=1.0, Pins(6)=600.0, Dist=386.0, Win Bonus=0.0
+[2026-05-08 10:07:15] SCORE Erlend Og Linor (gray0): Final=1390.3, Time=93.9, Moves(40)=0.5, Pins(9)=900.0, Dist=396.0, Win Bonus=0.0
+[2026-05-08 10:07:15] MOVE 86: Erlend Og Linor (gray0) 42->43 [0.00ms]
+[2026-05-08 10:07:15] SCORE Robert (lawn green): Final=1056.3, Time=69.3, Moves(45)=1.0, Pins(6)=600.0, Dist=386.0, Win Bonus=0.0
+[2026-05-08 10:07:15] SCORE Erlend Og Linor (gray0): Final=1392.3, Time=93.7, Moves(41)=0.6, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:07:16] MOVE 87: Robert (lawn green) 66->65 [0.00ms]
+[2026-05-08 10:07:16] SCORE Robert (lawn green): Final=1157.7, Time=68.7, Moves(46)=1.0, Pins(7)=700.0, Dist=388.0, Win Bonus=0.0
+[2026-05-08 10:07:16] SCORE Erlend Og Linor (gray0): Final=1392.3, Time=93.7, Moves(41)=0.6, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:07:16] MOVE 88: Erlend Og Linor (gray0) 43->20 [0.00ms]
+[2026-05-08 10:07:16] SCORE Robert (lawn green): Final=1157.7, Time=68.7, Moves(46)=1.0, Pins(7)=700.0, Dist=388.0, Win Bonus=0.0
+[2026-05-08 10:07:16] SCORE Erlend Og Linor (gray0): Final=2494.4, Time=93.6, Moves(42)=0.8, Pins(10)=1000.0, Dist=400.0, Win Bonus=1000.0

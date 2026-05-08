@@ -18,7 +18,7 @@ from checkers_pins import Pin
 import pandas as pd
 
 
-round_number = 1  # Update this for each new round of the tournament to track games and players in the round data file
+round_number = 3  # Update this for each new round of the tournament to track games and players in the round data file
 # ==========================================================
 # Utilities
 # ==========================================================
@@ -52,7 +52,7 @@ PRIMARY_COLOURS = ['red', 'lawn green', 'yellow']
 COMPLEMENT = {'red': 'blue', 'lawn green': 'gray0', 'yellow': 'purple'}
 MAX_PLAYERS = 6
 TURN_TIMEOUT_SEC = 2
-GAME_TIME_LIMIT_SEC = 60
+GAME_TIME_LIMIT_SEC = 120
 
 
 # ==========================================================
@@ -403,8 +403,8 @@ class Session:
         with self.lock:
             # Filter rows where player_name is in any of the player columns and status is GAME_CREATED or WAITING_FOR_OTHER_PLAYER and player has not already joined the game (to prevent joining multiple times if player refreshes)
             candidate_rows = self.round_df[
-                (self.round_df[['player1', 'player2', 'player3', 'player4', 'player5', 'player6'].apply(lambda row: player_name in row.values, axis=1)) &
-                (self.round_df['status'].isin(['GAME_CREATED', 'WAITING_FOR_OTHER_PLAYER'])) ]
+                (self.round_df[['player1', 'player2', 'player3', 'player4', 'player5', 'player6']].apply(lambda row: player_name in row.values, axis=1) &
+                (self.round_df['status'].isin(['GAME_CREATED', 'WAITING_FOR_OTHER_PLAYER'])) )]
             for row in candidate_rows.itertuples():
                 candidate_game_id = row.game_id
                 candidate_game_players = self.games[candidate_game_id].players
@@ -442,7 +442,7 @@ class Session:
             # Update game status based on how many players have joined compared to how many are expected from the round data
             all_players_in_row = selected_row[['player1', 'player2', 'player3', 'player4', 'player5', 'player6']]
             all_players_in_row = all_players_in_row[all_players_in_row != 'NA']
-            try:
+            '''try:
                 with open(f"joined_{self.round_number}.txt", "w") as f:
                     for gid in self.session_games:
                         g = self.games[gid]
@@ -453,7 +453,7 @@ class Session:
             except Exception as e:
                 error_msg = f"Error occurred while writing to joined_{self.round_number}.txt: {e}"
                 print(error_msg)
-                write_log("SESSION", error_msg)
+                write_log("SESSION", error_msg)'''
 
             if len(g.players) < len(all_players_in_row):
                 g.status = "waiting for other player"
@@ -797,9 +797,9 @@ def handle_request(req: Dict[str, Any]) -> Dict[str, Any]:
 def server_loop():
     s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     s.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
-    s.bind(("0.0.0.0", 50555))
+    s.bind(("10.245.30.129", 50555))
     s.listen(50)
-    print("[Server] Listening on 0.0.0.0:50555")
+    print("[Server] Listening on 10.245.30.129:50555")
 
     while True:
         conn, addr = s.accept()

@@ -1,0 +1,11 @@
+[2026-05-08 09:56:49] Round game created: 4594f828-7f83-47f5-bb32-37d8e1872cc9 for row 1
+[2026-05-08 09:56:49] Round game created: a1070264-31ba-4883-a3c6-0bca2973d933 for row 2
+[2026-05-08 09:56:58] Error occurred while saving round_df: [Errno 13] Permission denied: 'round3.txt'
+[2026-05-08 09:57:18] Round game created: 84aa3b29-dbdd-4a3d-b426-2044d3f2eb43 for row 0
+[2026-05-08 09:57:18] Round game created: aa1b422b-dec9-467a-8781-064424dfba0d for row 1
+[2026-05-08 09:57:18] Round game created: 871ba48c-29a1-4131-baa0-4553c84e1828 for row 2
+[2026-05-08 09:58:07] Error occurred while saving round_df after score update: [Errno 13] Permission denied: 'round3.txt'
+[2026-05-08 10:13:22] Round game created: 1834ff00-b0fe-4a18-8ebd-2e20c31e48fb for row 0
+[2026-05-08 10:13:22] Round game created: ca7c75cc-12ea-4976-8b51-949d75568c52 for row 1
+[2026-05-08 10:13:22] Round game created: ed7fc6b9-e0c5-4985-8d0d-84d57f9bc06d for row 2
+[2026-05-08 10:13:22] Round game created: 0f5f45f3-ffa3-4cc6-b493-f8207ad7e329 for row 3

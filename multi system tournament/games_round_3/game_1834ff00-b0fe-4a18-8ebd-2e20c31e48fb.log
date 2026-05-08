@@ -1,0 +1,699 @@
+[2026-05-08 10:13:22] GAME CREATED
+[2026-05-08 10:13:22] PLAYER JOINED: Group 99 as lawn green
+[2026-05-08 10:13:49] PLAYER JOINED: Group7 as gray0
+[2026-05-08 10:13:52] PLAYER JOINED: Gruppe 67 as yellow
+[2026-05-08 10:13:54] PLAYER JOINED: S&S as purple
+[2026-05-08 10:15:46] PLAYER JOINED: Gruppe 2 as red
+[2026-05-08 10:16:45] PLAYER JOINED: Gruppe 1 as blue
+[2026-05-08 10:16:45] PLAYER START: Group 99 (lawn green)
+[2026-05-08 10:16:45] PLAYER START: Group7 (gray0)
+[2026-05-08 10:16:45] PLAYER START: Gruppe 67 (yellow)
+[2026-05-08 10:16:45] PLAYER START: S&S (purple)
+[2026-05-08 10:16:45] PLAYER START: Gruppe 2 (red)
+[2026-05-08 10:16:45] PLAYER START: Gruppe 1 (blue)
+[2026-05-08 10:16:45] GAME START — turn order ['lawn green', 'yellow', 'blue', 'gray0', 'purple', 'red']
+[2026-05-08 10:16:45] PLAYER START: Group 99 (lawn green)
+[2026-05-08 10:16:45] PLAYER START: Group7 (gray0)
+[2026-05-08 10:16:45] PLAYER START: Gruppe 67 (yellow)
+[2026-05-08 10:16:45] PLAYER START: S&S (purple)
+[2026-05-08 10:16:45] PLAYER START: Gruppe 2 (red)
+[2026-05-08 10:16:45] PLAYER START: Gruppe 1 (blue)
+[2026-05-08 10:16:47] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:16:47] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:16:47] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:16:47] SCORE S&S (purple): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:16:48] SCORE Gruppe 2 (red): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:16:48] SCORE Gruppe 1 (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:16:48] TURN TIMEOUT: Player with colour lawn green exceeded 2s at move 0. Turn skipped.
+[2026-05-08 10:16:50] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:16:50] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:16:50] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:16:50] SCORE S&S (purple): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:16:50] SCORE Gruppe 2 (red): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:16:50] SCORE Gruppe 1 (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:16:50] TURN TIMEOUT: Player with colour yellow exceeded 2s at move 0. Turn skipped.
+[2026-05-08 10:16:50] MOVE 1: Gruppe 1 (blue) 4->15 [0.01ms]
+[2026-05-08 10:16:50] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:16:50] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:16:50] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:16:50] SCORE S&S (purple): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:16:50] SCORE Gruppe 2 (red): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:16:50] SCORE Gruppe 1 (blue): Final=283.7, Time=99.7, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 10:16:52] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:16:52] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:16:52] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:16:52] SCORE S&S (purple): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:16:52] SCORE Gruppe 2 (red): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:16:52] SCORE Gruppe 1 (blue): Final=283.7, Time=99.7, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 10:16:52] TURN TIMEOUT: Player with colour gray0 exceeded 2s at move 1. Turn skipped.
+[2026-05-08 10:16:52] MOVE 2: S&S (purple) 74->73 [0.01ms]
+[2026-05-08 10:16:52] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:16:52] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:16:52] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:16:52] SCORE S&S (purple): Final=281.7, Time=99.7, Moves(1)=0.0, Pins(0)=0.0, Dist=182.0, Win Bonus=0.0
+[2026-05-08 10:16:52] SCORE Gruppe 2 (red): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:16:52] SCORE Gruppe 1 (blue): Final=283.7, Time=99.7, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 10:16:53] MOVE 3: Gruppe 2 (red) 111->102 [0.01ms]
+[2026-05-08 10:16:53] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:16:53] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:16:53] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:16:53] SCORE S&S (purple): Final=281.7, Time=99.7, Moves(1)=0.0, Pins(0)=0.0, Dist=182.0, Win Bonus=0.0
+[2026-05-08 10:16:53] SCORE Gruppe 2 (red): Final=281.6, Time=99.6, Moves(1)=0.0, Pins(0)=0.0, Dist=182.0, Win Bonus=0.0
+[2026-05-08 10:16:53] SCORE Gruppe 1 (blue): Final=283.7, Time=99.7, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 10:16:55] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:16:55] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:16:55] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:16:55] SCORE S&S (purple): Final=281.7, Time=99.7, Moves(1)=0.0, Pins(0)=0.0, Dist=182.0, Win Bonus=0.0
+[2026-05-08 10:16:55] SCORE Gruppe 2 (red): Final=281.6, Time=99.6, Moves(1)=0.0, Pins(0)=0.0, Dist=182.0, Win Bonus=0.0
+[2026-05-08 10:16:55] SCORE Gruppe 1 (blue): Final=283.7, Time=99.7, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 10:16:55] TURN TIMEOUT: Player with colour lawn green exceeded 2s at move 3. Turn skipped.
+[2026-05-08 10:16:57] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:16:57] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:16:57] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:16:57] SCORE S&S (purple): Final=281.7, Time=99.7, Moves(1)=0.0, Pins(0)=0.0, Dist=182.0, Win Bonus=0.0
+[2026-05-08 10:16:57] SCORE Gruppe 2 (red): Final=281.6, Time=99.6, Moves(1)=0.0, Pins(0)=0.0, Dist=182.0, Win Bonus=0.0
+[2026-05-08 10:16:57] SCORE Gruppe 1 (blue): Final=283.7, Time=99.7, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 10:16:57] TURN TIMEOUT: Player with colour yellow exceeded 2s at move 3. Turn skipped.
+[2026-05-08 10:16:57] MOVE 4: Gruppe 1 (blue) 5->14 [0.00ms]
+[2026-05-08 10:16:57] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:16:57] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:16:57] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:16:57] SCORE S&S (purple): Final=281.7, Time=99.7, Moves(1)=0.0, Pins(0)=0.0, Dist=182.0, Win Bonus=0.0
+[2026-05-08 10:16:57] SCORE Gruppe 2 (red): Final=281.6, Time=99.6, Moves(1)=0.0, Pins(0)=0.0, Dist=182.0, Win Bonus=0.0
+[2026-05-08 10:16:57] SCORE Gruppe 1 (blue): Final=287.5, Time=99.5, Moves(2)=0.0, Pins(0)=0.0, Dist=188.0, Win Bonus=0.0
+[2026-05-08 10:17:00] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:00] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:00] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:00] SCORE S&S (purple): Final=281.7, Time=99.7, Moves(1)=0.0, Pins(0)=0.0, Dist=182.0, Win Bonus=0.0
+[2026-05-08 10:17:00] SCORE Gruppe 2 (red): Final=281.6, Time=99.6, Moves(1)=0.0, Pins(0)=0.0, Dist=182.0, Win Bonus=0.0
+[2026-05-08 10:17:00] SCORE Gruppe 1 (blue): Final=287.5, Time=99.5, Moves(2)=0.0, Pins(0)=0.0, Dist=188.0, Win Bonus=0.0
+[2026-05-08 10:17:00] TURN TIMEOUT: Player with colour gray0 exceeded 2s at move 4. Turn skipped.
+[2026-05-08 10:17:00] MOVE 5: S&S (purple) 97->72 [0.01ms]
+[2026-05-08 10:17:00] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:00] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:00] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:00] SCORE S&S (purple): Final=289.4, Time=99.4, Moves(2)=0.0, Pins(0)=0.0, Dist=190.0, Win Bonus=0.0
+[2026-05-08 10:17:00] SCORE Gruppe 2 (red): Final=281.6, Time=99.6, Moves(1)=0.0, Pins(0)=0.0, Dist=182.0, Win Bonus=0.0
+[2026-05-08 10:17:00] SCORE Gruppe 1 (blue): Final=287.5, Time=99.5, Moves(2)=0.0, Pins(0)=0.0, Dist=188.0, Win Bonus=0.0
+[2026-05-08 10:17:00] MOVE 6: Gruppe 2 (red) 115->104 [0.01ms]
+[2026-05-08 10:17:00] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:00] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:00] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:00] SCORE S&S (purple): Final=289.4, Time=99.4, Moves(2)=0.0, Pins(0)=0.0, Dist=190.0, Win Bonus=0.0
+[2026-05-08 10:17:00] SCORE Gruppe 2 (red): Final=285.2, Time=99.2, Moves(2)=0.0, Pins(0)=0.0, Dist=186.0, Win Bonus=0.0
+[2026-05-08 10:17:00] SCORE Gruppe 1 (blue): Final=287.5, Time=99.5, Moves(2)=0.0, Pins(0)=0.0, Dist=188.0, Win Bonus=0.0
+[2026-05-08 10:17:02] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:02] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:02] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:02] SCORE S&S (purple): Final=289.4, Time=99.4, Moves(2)=0.0, Pins(0)=0.0, Dist=190.0, Win Bonus=0.0
+[2026-05-08 10:17:02] SCORE Gruppe 2 (red): Final=285.2, Time=99.2, Moves(2)=0.0, Pins(0)=0.0, Dist=186.0, Win Bonus=0.0
+[2026-05-08 10:17:02] SCORE Gruppe 1 (blue): Final=287.5, Time=99.5, Moves(2)=0.0, Pins(0)=0.0, Dist=188.0, Win Bonus=0.0
+[2026-05-08 10:17:02] TURN TIMEOUT: Player with colour lawn green exceeded 2s at move 6. Turn skipped.
+[2026-05-08 10:17:05] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:05] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:05] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:05] SCORE S&S (purple): Final=289.4, Time=99.4, Moves(2)=0.0, Pins(0)=0.0, Dist=190.0, Win Bonus=0.0
+[2026-05-08 10:17:05] SCORE Gruppe 2 (red): Final=285.2, Time=99.2, Moves(2)=0.0, Pins(0)=0.0, Dist=186.0, Win Bonus=0.0
+[2026-05-08 10:17:05] SCORE Gruppe 1 (blue): Final=287.5, Time=99.5, Moves(2)=0.0, Pins(0)=0.0, Dist=188.0, Win Bonus=0.0
+[2026-05-08 10:17:05] TURN TIMEOUT: Player with colour yellow exceeded 2s at move 6. Turn skipped.
+[2026-05-08 10:17:05] MOVE 7: Gruppe 1 (blue) 0->18 [0.16ms]
+[2026-05-08 10:17:05] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:05] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:05] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:05] SCORE S&S (purple): Final=289.4, Time=99.4, Moves(2)=0.0, Pins(0)=0.0, Dist=190.0, Win Bonus=0.0
+[2026-05-08 10:17:05] SCORE Gruppe 2 (red): Final=285.2, Time=99.2, Moves(2)=0.0, Pins(0)=0.0, Dist=186.0, Win Bonus=0.0
+[2026-05-08 10:17:05] SCORE Gruppe 1 (blue): Final=295.4, Time=99.4, Moves(3)=0.0, Pins(0)=0.0, Dist=196.0, Win Bonus=0.0
+[2026-05-08 10:17:07] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:07] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:07] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:07] SCORE S&S (purple): Final=289.4, Time=99.4, Moves(2)=0.0, Pins(0)=0.0, Dist=190.0, Win Bonus=0.0
+[2026-05-08 10:17:07] SCORE Gruppe 2 (red): Final=285.2, Time=99.2, Moves(2)=0.0, Pins(0)=0.0, Dist=186.0, Win Bonus=0.0
+[2026-05-08 10:17:07] SCORE Gruppe 1 (blue): Final=295.4, Time=99.4, Moves(3)=0.0, Pins(0)=0.0, Dist=196.0, Win Bonus=0.0
+[2026-05-08 10:17:07] TURN TIMEOUT: Player with colour gray0 exceeded 2s at move 7. Turn skipped.
+[2026-05-08 10:17:08] MOVE 8: S&S (purple) 108->62 [0.01ms]
+[2026-05-08 10:17:08] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:08] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:08] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:08] SCORE S&S (purple): Final=296.9, Time=98.9, Moves(3)=0.0, Pins(0)=0.0, Dist=198.0, Win Bonus=0.0
+[2026-05-08 10:17:08] SCORE Gruppe 2 (red): Final=285.2, Time=99.2, Moves(2)=0.0, Pins(0)=0.0, Dist=186.0, Win Bonus=0.0
+[2026-05-08 10:17:08] SCORE Gruppe 1 (blue): Final=295.4, Time=99.4, Moves(3)=0.0, Pins(0)=0.0, Dist=196.0, Win Bonus=0.0
+[2026-05-08 10:17:08] MOVE 9: Gruppe 2 (red) 117->64 [0.01ms]
+[2026-05-08 10:17:08] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:08] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:08] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:08] SCORE S&S (purple): Final=296.9, Time=98.9, Moves(3)=0.0, Pins(0)=0.0, Dist=198.0, Win Bonus=0.0
+[2026-05-08 10:17:08] SCORE Gruppe 2 (red): Final=297.0, Time=99.0, Moves(3)=0.0, Pins(0)=0.0, Dist=198.0, Win Bonus=0.0
+[2026-05-08 10:17:08] SCORE Gruppe 1 (blue): Final=295.4, Time=99.4, Moves(3)=0.0, Pins(0)=0.0, Dist=196.0, Win Bonus=0.0
+[2026-05-08 10:17:10] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:10] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:10] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:10] SCORE S&S (purple): Final=296.9, Time=98.9, Moves(3)=0.0, Pins(0)=0.0, Dist=198.0, Win Bonus=0.0
+[2026-05-08 10:17:10] SCORE Gruppe 2 (red): Final=297.0, Time=99.0, Moves(3)=0.0, Pins(0)=0.0, Dist=198.0, Win Bonus=0.0
+[2026-05-08 10:17:10] SCORE Gruppe 1 (blue): Final=295.4, Time=99.4, Moves(3)=0.0, Pins(0)=0.0, Dist=196.0, Win Bonus=0.0
+[2026-05-08 10:17:10] TURN TIMEOUT: Player with colour lawn green exceeded 2s at move 9. Turn skipped.
+[2026-05-08 10:17:12] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:12] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:12] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:12] SCORE S&S (purple): Final=296.9, Time=98.9, Moves(3)=0.0, Pins(0)=0.0, Dist=198.0, Win Bonus=0.0
+[2026-05-08 10:17:12] SCORE Gruppe 2 (red): Final=297.0, Time=99.0, Moves(3)=0.0, Pins(0)=0.0, Dist=198.0, Win Bonus=0.0
+[2026-05-08 10:17:12] SCORE Gruppe 1 (blue): Final=295.4, Time=99.4, Moves(3)=0.0, Pins(0)=0.0, Dist=196.0, Win Bonus=0.0
+[2026-05-08 10:17:12] TURN TIMEOUT: Player with colour yellow exceeded 2s at move 9. Turn skipped.
+[2026-05-08 10:17:13] MOVE 10: Gruppe 1 (blue) 7->27 [0.01ms]
+[2026-05-08 10:17:13] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:13] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:13] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:13] SCORE S&S (purple): Final=296.9, Time=98.9, Moves(3)=0.0, Pins(0)=0.0, Dist=198.0, Win Bonus=0.0
+[2026-05-08 10:17:13] SCORE Gruppe 2 (red): Final=297.0, Time=99.0, Moves(3)=0.0, Pins(0)=0.0, Dist=198.0, Win Bonus=0.0
+[2026-05-08 10:17:13] SCORE Gruppe 1 (blue): Final=299.1, Time=99.1, Moves(4)=0.0, Pins(0)=0.0, Dist=200.0, Win Bonus=0.0
+[2026-05-08 10:17:15] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:15] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:15] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:15] SCORE S&S (purple): Final=296.9, Time=98.9, Moves(3)=0.0, Pins(0)=0.0, Dist=198.0, Win Bonus=0.0
+[2026-05-08 10:17:15] SCORE Gruppe 2 (red): Final=297.0, Time=99.0, Moves(3)=0.0, Pins(0)=0.0, Dist=198.0, Win Bonus=0.0
+[2026-05-08 10:17:15] SCORE Gruppe 1 (blue): Final=299.1, Time=99.1, Moves(4)=0.0, Pins(0)=0.0, Dist=200.0, Win Bonus=0.0
+[2026-05-08 10:17:15] TURN TIMEOUT: Player with colour gray0 exceeded 2s at move 10. Turn skipped.
+[2026-05-08 10:17:15] MOVE 11: S&S (purple) 84->61 [0.01ms]
+[2026-05-08 10:17:15] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:15] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:15] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:15] SCORE S&S (purple): Final=304.5, Time=98.5, Moves(4)=0.0, Pins(0)=0.0, Dist=206.0, Win Bonus=0.0
+[2026-05-08 10:17:15] SCORE Gruppe 2 (red): Final=297.0, Time=99.0, Moves(3)=0.0, Pins(0)=0.0, Dist=198.0, Win Bonus=0.0
+[2026-05-08 10:17:15] SCORE Gruppe 1 (blue): Final=299.1, Time=99.1, Moves(4)=0.0, Pins(0)=0.0, Dist=200.0, Win Bonus=0.0
+[2026-05-08 10:17:16] MOVE 12: Gruppe 2 (red) 118->115 [0.00ms]
+[2026-05-08 10:17:16] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:16] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:16] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:16] SCORE S&S (purple): Final=304.5, Time=98.5, Moves(4)=0.0, Pins(0)=0.0, Dist=206.0, Win Bonus=0.0
+[2026-05-08 10:17:16] SCORE Gruppe 2 (red): Final=298.7, Time=98.7, Moves(4)=0.0, Pins(0)=0.0, Dist=200.0, Win Bonus=0.0
+[2026-05-08 10:17:16] SCORE Gruppe 1 (blue): Final=299.1, Time=99.1, Moves(4)=0.0, Pins(0)=0.0, Dist=200.0, Win Bonus=0.0
+[2026-05-08 10:17:18] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:18] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:18] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:18] SCORE S&S (purple): Final=304.5, Time=98.5, Moves(4)=0.0, Pins(0)=0.0, Dist=206.0, Win Bonus=0.0
+[2026-05-08 10:17:18] SCORE Gruppe 2 (red): Final=298.7, Time=98.7, Moves(4)=0.0, Pins(0)=0.0, Dist=200.0, Win Bonus=0.0
+[2026-05-08 10:17:18] SCORE Gruppe 1 (blue): Final=299.1, Time=99.1, Moves(4)=0.0, Pins(0)=0.0, Dist=200.0, Win Bonus=0.0
+[2026-05-08 10:17:18] TURN TIMEOUT: Player with colour lawn green exceeded 2s at move 12. Turn skipped.
+[2026-05-08 10:17:20] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:20] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:20] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:20] SCORE S&S (purple): Final=304.5, Time=98.5, Moves(4)=0.0, Pins(0)=0.0, Dist=206.0, Win Bonus=0.0
+[2026-05-08 10:17:20] SCORE Gruppe 2 (red): Final=298.7, Time=98.7, Moves(4)=0.0, Pins(0)=0.0, Dist=200.0, Win Bonus=0.0
+[2026-05-08 10:17:20] SCORE Gruppe 1 (blue): Final=299.1, Time=99.1, Moves(4)=0.0, Pins(0)=0.0, Dist=200.0, Win Bonus=0.0
+[2026-05-08 10:17:20] TURN TIMEOUT: Player with colour yellow exceeded 2s at move 12. Turn skipped.
+[2026-05-08 10:17:20] MOVE 13: Gruppe 1 (blue) 3->16 [0.00ms]
+[2026-05-08 10:17:20] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:20] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:20] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:20] SCORE S&S (purple): Final=304.5, Time=98.5, Moves(4)=0.0, Pins(0)=0.0, Dist=206.0, Win Bonus=0.0
+[2026-05-08 10:17:20] SCORE Gruppe 2 (red): Final=298.7, Time=98.7, Moves(4)=0.0, Pins(0)=0.0, Dist=200.0, Win Bonus=0.0
+[2026-05-08 10:17:20] SCORE Gruppe 1 (blue): Final=302.8, Time=98.8, Moves(5)=0.0, Pins(0)=0.0, Dist=204.0, Win Bonus=0.0
+[2026-05-08 10:17:22] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:22] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:22] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:22] SCORE S&S (purple): Final=304.5, Time=98.5, Moves(4)=0.0, Pins(0)=0.0, Dist=206.0, Win Bonus=0.0
+[2026-05-08 10:17:22] SCORE Gruppe 2 (red): Final=298.7, Time=98.7, Moves(4)=0.0, Pins(0)=0.0, Dist=200.0, Win Bonus=0.0
+[2026-05-08 10:17:22] SCORE Gruppe 1 (blue): Final=302.8, Time=98.8, Moves(5)=0.0, Pins(0)=0.0, Dist=204.0, Win Bonus=0.0
+[2026-05-08 10:17:22] TURN TIMEOUT: Player with colour gray0 exceeded 2s at move 13. Turn skipped.
+[2026-05-08 10:17:23] MOVE 14: S&S (purple) 110->83 [0.01ms]
+[2026-05-08 10:17:23] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:23] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:23] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:23] SCORE S&S (purple): Final=311.8, Time=97.8, Moves(5)=0.0, Pins(0)=0.0, Dist=214.0, Win Bonus=0.0
+[2026-05-08 10:17:23] SCORE Gruppe 2 (red): Final=298.7, Time=98.7, Moves(4)=0.0, Pins(0)=0.0, Dist=200.0, Win Bonus=0.0
+[2026-05-08 10:17:23] SCORE Gruppe 1 (blue): Final=302.8, Time=98.8, Moves(5)=0.0, Pins(0)=0.0, Dist=204.0, Win Bonus=0.0
+[2026-05-08 10:17:23] MOVE 15: Gruppe 2 (red) 120->110 [0.01ms]
+[2026-05-08 10:17:23] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:23] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:23] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:23] SCORE S&S (purple): Final=311.8, Time=97.8, Moves(5)=0.0, Pins(0)=0.0, Dist=214.0, Win Bonus=0.0
+[2026-05-08 10:17:23] SCORE Gruppe 2 (red): Final=306.5, Time=98.5, Moves(5)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-08 10:17:23] SCORE Gruppe 1 (blue): Final=302.8, Time=98.8, Moves(5)=0.0, Pins(0)=0.0, Dist=204.0, Win Bonus=0.0
+[2026-05-08 10:17:25] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:25] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:25] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:25] SCORE S&S (purple): Final=311.8, Time=97.8, Moves(5)=0.0, Pins(0)=0.0, Dist=214.0, Win Bonus=0.0
+[2026-05-08 10:17:25] SCORE Gruppe 2 (red): Final=306.5, Time=98.5, Moves(5)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-08 10:17:25] SCORE Gruppe 1 (blue): Final=302.8, Time=98.8, Moves(5)=0.0, Pins(0)=0.0, Dist=204.0, Win Bonus=0.0
+[2026-05-08 10:17:25] TURN TIMEOUT: Player with colour lawn green exceeded 2s at move 15. Turn skipped.
+[2026-05-08 10:17:27] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:27] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:27] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:27] SCORE S&S (purple): Final=311.8, Time=97.8, Moves(5)=0.0, Pins(0)=0.0, Dist=214.0, Win Bonus=0.0
+[2026-05-08 10:17:27] SCORE Gruppe 2 (red): Final=306.5, Time=98.5, Moves(5)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-08 10:17:27] SCORE Gruppe 1 (blue): Final=302.8, Time=98.8, Moves(5)=0.0, Pins(0)=0.0, Dist=204.0, Win Bonus=0.0
+[2026-05-08 10:17:27] TURN TIMEOUT: Player with colour yellow exceeded 2s at move 15. Turn skipped.
+[2026-05-08 10:17:28] MOVE 16: Gruppe 1 (blue) 8->26 [0.01ms]
+[2026-05-08 10:17:28] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:28] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:28] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:28] SCORE S&S (purple): Final=311.8, Time=97.8, Moves(5)=0.0, Pins(0)=0.0, Dist=214.0, Win Bonus=0.0
+[2026-05-08 10:17:28] SCORE Gruppe 2 (red): Final=306.5, Time=98.5, Moves(5)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-08 10:17:28] SCORE Gruppe 1 (blue): Final=306.5, Time=98.5, Moves(6)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-08 10:17:30] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:30] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:30] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:30] SCORE S&S (purple): Final=311.8, Time=97.8, Moves(5)=0.0, Pins(0)=0.0, Dist=214.0, Win Bonus=0.0
+[2026-05-08 10:17:30] SCORE Gruppe 2 (red): Final=306.5, Time=98.5, Moves(5)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-08 10:17:30] SCORE Gruppe 1 (blue): Final=306.5, Time=98.5, Moves(6)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-08 10:17:30] TURN TIMEOUT: Player with colour gray0 exceeded 2s at move 16. Turn skipped.
+[2026-05-08 10:17:31] MOVE 17: S&S (purple) 109->82 [0.00ms]
+[2026-05-08 10:17:31] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:31] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:31] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:31] SCORE S&S (purple): Final=319.4, Time=97.4, Moves(6)=0.0, Pins(0)=0.0, Dist=222.0, Win Bonus=0.0
+[2026-05-08 10:17:31] SCORE Gruppe 2 (red): Final=306.5, Time=98.5, Moves(5)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-08 10:17:31] SCORE Gruppe 1 (blue): Final=306.5, Time=98.5, Moves(6)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-08 10:17:31] MOVE 18: Gruppe 2 (red) 115->108 [0.01ms]
+[2026-05-08 10:17:31] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:31] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:31] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:31] SCORE S&S (purple): Final=319.4, Time=97.4, Moves(6)=0.0, Pins(0)=0.0, Dist=222.0, Win Bonus=0.0
+[2026-05-08 10:17:31] SCORE Gruppe 2 (red): Final=310.3, Time=98.3, Moves(6)=0.0, Pins(0)=0.0, Dist=212.0, Win Bonus=0.0
+[2026-05-08 10:17:31] SCORE Gruppe 1 (blue): Final=306.5, Time=98.5, Moves(6)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-08 10:17:33] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:33] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:33] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:33] SCORE S&S (purple): Final=319.4, Time=97.4, Moves(6)=0.0, Pins(0)=0.0, Dist=222.0, Win Bonus=0.0
+[2026-05-08 10:17:33] SCORE Gruppe 2 (red): Final=310.3, Time=98.3, Moves(6)=0.0, Pins(0)=0.0, Dist=212.0, Win Bonus=0.0
+[2026-05-08 10:17:33] SCORE Gruppe 1 (blue): Final=306.5, Time=98.5, Moves(6)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-08 10:17:33] TURN TIMEOUT: Player with colour lawn green exceeded 2s at move 18. Turn skipped.
+[2026-05-08 10:17:35] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:35] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:35] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:35] SCORE S&S (purple): Final=319.4, Time=97.4, Moves(6)=0.0, Pins(0)=0.0, Dist=222.0, Win Bonus=0.0
+[2026-05-08 10:17:35] SCORE Gruppe 2 (red): Final=310.3, Time=98.3, Moves(6)=0.0, Pins(0)=0.0, Dist=212.0, Win Bonus=0.0
+[2026-05-08 10:17:35] SCORE Gruppe 1 (blue): Final=306.5, Time=98.5, Moves(6)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-08 10:17:35] TURN TIMEOUT: Player with colour yellow exceeded 2s at move 18. Turn skipped.
+[2026-05-08 10:17:35] MOVE 19: Gruppe 1 (blue) 6->28 [0.01ms]
+[2026-05-08 10:17:35] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:35] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:35] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:35] SCORE S&S (purple): Final=319.4, Time=97.4, Moves(6)=0.0, Pins(0)=0.0, Dist=222.0, Win Bonus=0.0
+[2026-05-08 10:17:35] SCORE Gruppe 2 (red): Final=310.3, Time=98.3, Moves(6)=0.0, Pins(0)=0.0, Dist=212.0, Win Bonus=0.0
+[2026-05-08 10:17:35] SCORE Gruppe 1 (blue): Final=310.5, Time=98.5, Moves(7)=0.0, Pins(0)=0.0, Dist=212.0, Win Bonus=0.0
+[2026-05-08 10:17:37] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:37] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:37] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:37] SCORE S&S (purple): Final=319.4, Time=97.4, Moves(6)=0.0, Pins(0)=0.0, Dist=222.0, Win Bonus=0.0
+[2026-05-08 10:17:37] SCORE Gruppe 2 (red): Final=310.3, Time=98.3, Moves(6)=0.0, Pins(0)=0.0, Dist=212.0, Win Bonus=0.0
+[2026-05-08 10:17:37] SCORE Gruppe 1 (blue): Final=310.5, Time=98.5, Moves(7)=0.0, Pins(0)=0.0, Dist=212.0, Win Bonus=0.0
+[2026-05-08 10:17:37] TURN TIMEOUT: Player with colour gray0 exceeded 2s at move 19. Turn skipped.
+[2026-05-08 10:17:38] MOVE 20: S&S (purple) 96->51 [0.01ms]
+[2026-05-08 10:17:38] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:38] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:38] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:38] SCORE S&S (purple): Final=330.9, Time=96.9, Moves(7)=0.0, Pins(0)=0.0, Dist=234.0, Win Bonus=0.0
+[2026-05-08 10:17:38] SCORE Gruppe 2 (red): Final=310.3, Time=98.3, Moves(6)=0.0, Pins(0)=0.0, Dist=212.0, Win Bonus=0.0
+[2026-05-08 10:17:38] SCORE Gruppe 1 (blue): Final=310.5, Time=98.5, Moves(7)=0.0, Pins(0)=0.0, Dist=212.0, Win Bonus=0.0
+[2026-05-08 10:17:38] MOVE 21: Gruppe 2 (red) 108->96 [0.01ms]
+[2026-05-08 10:17:38] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:38] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:38] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:38] SCORE S&S (purple): Final=330.9, Time=96.9, Moves(7)=0.0, Pins(0)=0.0, Dist=234.0, Win Bonus=0.0
+[2026-05-08 10:17:38] SCORE Gruppe 2 (red): Final=312.2, Time=98.2, Moves(7)=0.0, Pins(0)=0.0, Dist=214.0, Win Bonus=0.0
+[2026-05-08 10:17:38] SCORE Gruppe 1 (blue): Final=310.5, Time=98.5, Moves(7)=0.0, Pins(0)=0.0, Dist=212.0, Win Bonus=0.0
+[2026-05-08 10:17:40] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:40] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:40] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:40] SCORE S&S (purple): Final=330.9, Time=96.9, Moves(7)=0.0, Pins(0)=0.0, Dist=234.0, Win Bonus=0.0
+[2026-05-08 10:17:40] SCORE Gruppe 2 (red): Final=312.2, Time=98.2, Moves(7)=0.0, Pins(0)=0.0, Dist=214.0, Win Bonus=0.0
+[2026-05-08 10:17:40] SCORE Gruppe 1 (blue): Final=310.5, Time=98.5, Moves(7)=0.0, Pins(0)=0.0, Dist=212.0, Win Bonus=0.0
+[2026-05-08 10:17:40] TURN TIMEOUT: Player with colour lawn green exceeded 2s at move 21. Turn skipped.
+[2026-05-08 10:17:42] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:42] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:42] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:42] SCORE S&S (purple): Final=330.9, Time=96.9, Moves(7)=0.0, Pins(0)=0.0, Dist=234.0, Win Bonus=0.0
+[2026-05-08 10:17:42] SCORE Gruppe 2 (red): Final=312.2, Time=98.2, Moves(7)=0.0, Pins(0)=0.0, Dist=214.0, Win Bonus=0.0
+[2026-05-08 10:17:42] SCORE Gruppe 1 (blue): Final=310.5, Time=98.5, Moves(7)=0.0, Pins(0)=0.0, Dist=212.0, Win Bonus=0.0
+[2026-05-08 10:17:42] TURN TIMEOUT: Player with colour yellow exceeded 2s at move 21. Turn skipped.
+[2026-05-08 10:17:42] MOVE 22: Gruppe 1 (blue) 9->31 [0.01ms]
+[2026-05-08 10:17:42] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:42] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:42] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:42] SCORE S&S (purple): Final=330.9, Time=96.9, Moves(7)=0.0, Pins(0)=0.0, Dist=234.0, Win Bonus=0.0
+[2026-05-08 10:17:42] SCORE Gruppe 2 (red): Final=312.2, Time=98.2, Moves(7)=0.0, Pins(0)=0.0, Dist=214.0, Win Bonus=0.0
+[2026-05-08 10:17:42] SCORE Gruppe 1 (blue): Final=314.3, Time=98.3, Moves(8)=0.0, Pins(0)=0.0, Dist=216.0, Win Bonus=0.0
+[2026-05-08 10:17:45] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:45] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:45] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:45] SCORE S&S (purple): Final=330.9, Time=96.9, Moves(7)=0.0, Pins(0)=0.0, Dist=234.0, Win Bonus=0.0
+[2026-05-08 10:17:45] SCORE Gruppe 2 (red): Final=312.2, Time=98.2, Moves(7)=0.0, Pins(0)=0.0, Dist=214.0, Win Bonus=0.0
+[2026-05-08 10:17:45] SCORE Gruppe 1 (blue): Final=314.3, Time=98.3, Moves(8)=0.0, Pins(0)=0.0, Dist=216.0, Win Bonus=0.0
+[2026-05-08 10:17:45] TURN TIMEOUT: Player with colour gray0 exceeded 2s at move 22. Turn skipped.
+[2026-05-08 10:17:45] MOVE 23: S&S (purple) 85->115 [0.01ms]
+[2026-05-08 10:17:45] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:45] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:45] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:45] SCORE S&S (purple): Final=338.5, Time=96.5, Moves(8)=0.0, Pins(0)=0.0, Dist=242.0, Win Bonus=0.0
+[2026-05-08 10:17:45] SCORE Gruppe 2 (red): Final=312.2, Time=98.2, Moves(7)=0.0, Pins(0)=0.0, Dist=214.0, Win Bonus=0.0
+[2026-05-08 10:17:45] SCORE Gruppe 1 (blue): Final=314.3, Time=98.3, Moves(8)=0.0, Pins(0)=0.0, Dist=216.0, Win Bonus=0.0
+[2026-05-08 10:17:45] MOVE 24: Gruppe 2 (red) 113->91 [0.01ms]
+[2026-05-08 10:17:45] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:45] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:45] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:45] SCORE S&S (purple): Final=338.5, Time=96.5, Moves(8)=0.0, Pins(0)=0.0, Dist=242.0, Win Bonus=0.0
+[2026-05-08 10:17:45] SCORE Gruppe 2 (red): Final=315.7, Time=97.7, Moves(8)=0.0, Pins(0)=0.0, Dist=218.0, Win Bonus=0.0
+[2026-05-08 10:17:45] SCORE Gruppe 1 (blue): Final=314.3, Time=98.3, Moves(8)=0.0, Pins(0)=0.0, Dist=216.0, Win Bonus=0.0
+[2026-05-08 10:17:48] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:48] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:48] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:48] SCORE S&S (purple): Final=338.5, Time=96.5, Moves(8)=0.0, Pins(0)=0.0, Dist=242.0, Win Bonus=0.0
+[2026-05-08 10:17:48] SCORE Gruppe 2 (red): Final=315.7, Time=97.7, Moves(8)=0.0, Pins(0)=0.0, Dist=218.0, Win Bonus=0.0
+[2026-05-08 10:17:48] SCORE Gruppe 1 (blue): Final=314.3, Time=98.3, Moves(8)=0.0, Pins(0)=0.0, Dist=216.0, Win Bonus=0.0
+[2026-05-08 10:17:48] TURN TIMEOUT: Player with colour lawn green exceeded 2s at move 24. Turn skipped.
+[2026-05-08 10:17:50] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:50] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:50] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:50] SCORE S&S (purple): Final=338.5, Time=96.5, Moves(8)=0.0, Pins(0)=0.0, Dist=242.0, Win Bonus=0.0
+[2026-05-08 10:17:50] SCORE Gruppe 2 (red): Final=315.7, Time=97.7, Moves(8)=0.0, Pins(0)=0.0, Dist=218.0, Win Bonus=0.0
+[2026-05-08 10:17:50] SCORE Gruppe 1 (blue): Final=314.3, Time=98.3, Moves(8)=0.0, Pins(0)=0.0, Dist=216.0, Win Bonus=0.0
+[2026-05-08 10:17:50] TURN TIMEOUT: Player with colour yellow exceeded 2s at move 24. Turn skipped.
+[2026-05-08 10:17:50] MOVE 25: Gruppe 1 (blue) 15->38 [0.01ms]
+[2026-05-08 10:17:50] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:50] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:50] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:50] SCORE S&S (purple): Final=338.5, Time=96.5, Moves(8)=0.0, Pins(0)=0.0, Dist=242.0, Win Bonus=0.0
+[2026-05-08 10:17:50] SCORE Gruppe 2 (red): Final=315.7, Time=97.7, Moves(8)=0.0, Pins(0)=0.0, Dist=218.0, Win Bonus=0.0
+[2026-05-08 10:17:50] SCORE Gruppe 1 (blue): Final=317.9, Time=97.9, Moves(9)=0.0, Pins(0)=0.0, Dist=220.0, Win Bonus=0.0
+[2026-05-08 10:17:52] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:52] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:52] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:52] SCORE S&S (purple): Final=338.5, Time=96.5, Moves(8)=0.0, Pins(0)=0.0, Dist=242.0, Win Bonus=0.0
+[2026-05-08 10:17:52] SCORE Gruppe 2 (red): Final=315.7, Time=97.7, Moves(8)=0.0, Pins(0)=0.0, Dist=218.0, Win Bonus=0.0
+[2026-05-08 10:17:52] SCORE Gruppe 1 (blue): Final=317.9, Time=97.9, Moves(9)=0.0, Pins(0)=0.0, Dist=220.0, Win Bonus=0.0
+[2026-05-08 10:17:52] TURN TIMEOUT: Player with colour gray0 exceeded 2s at move 25. Turn skipped.
+[2026-05-08 10:17:53] MOVE 26: S&S (purple) 72->50 [0.01ms]
+[2026-05-08 10:17:53] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:53] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:53] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:53] SCORE S&S (purple): Final=345.7, Time=95.7, Moves(9)=0.0, Pins(0)=0.0, Dist=250.0, Win Bonus=0.0
+[2026-05-08 10:17:53] SCORE Gruppe 2 (red): Final=315.7, Time=97.7, Moves(8)=0.0, Pins(0)=0.0, Dist=218.0, Win Bonus=0.0
+[2026-05-08 10:17:53] SCORE Gruppe 1 (blue): Final=317.9, Time=97.9, Moves(9)=0.0, Pins(0)=0.0, Dist=220.0, Win Bonus=0.0
+[2026-05-08 10:17:53] MOVE 27: Gruppe 2 (red) 96->53 [0.01ms]
+[2026-05-08 10:17:53] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:53] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:53] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:53] SCORE S&S (purple): Final=345.7, Time=95.7, Moves(9)=0.0, Pins(0)=0.0, Dist=250.0, Win Bonus=0.0
+[2026-05-08 10:17:53] SCORE Gruppe 2 (red): Final=323.5, Time=97.5, Moves(9)=0.0, Pins(0)=0.0, Dist=226.0, Win Bonus=0.0
+[2026-05-08 10:17:53] SCORE Gruppe 1 (blue): Final=317.9, Time=97.9, Moves(9)=0.0, Pins(0)=0.0, Dist=220.0, Win Bonus=0.0
+[2026-05-08 10:17:55] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:55] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:55] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:55] SCORE S&S (purple): Final=345.7, Time=95.7, Moves(9)=0.0, Pins(0)=0.0, Dist=250.0, Win Bonus=0.0
+[2026-05-08 10:17:55] SCORE Gruppe 2 (red): Final=323.5, Time=97.5, Moves(9)=0.0, Pins(0)=0.0, Dist=226.0, Win Bonus=0.0
+[2026-05-08 10:17:55] SCORE Gruppe 1 (blue): Final=317.9, Time=97.9, Moves(9)=0.0, Pins(0)=0.0, Dist=220.0, Win Bonus=0.0
+[2026-05-08 10:17:55] TURN TIMEOUT: Player with colour lawn green exceeded 2s at move 27. Turn skipped.
+[2026-05-08 10:17:58] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:58] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:58] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:58] SCORE S&S (purple): Final=345.7, Time=95.7, Moves(9)=0.0, Pins(0)=0.0, Dist=250.0, Win Bonus=0.0
+[2026-05-08 10:17:58] SCORE Gruppe 2 (red): Final=323.5, Time=97.5, Moves(9)=0.0, Pins(0)=0.0, Dist=226.0, Win Bonus=0.0
+[2026-05-08 10:17:58] SCORE Gruppe 1 (blue): Final=317.9, Time=97.9, Moves(9)=0.0, Pins(0)=0.0, Dist=220.0, Win Bonus=0.0
+[2026-05-08 10:17:58] TURN TIMEOUT: Player with colour yellow exceeded 2s at move 27. Turn skipped.
+[2026-05-08 10:17:58] MOVE 28: Gruppe 1 (blue) 16->60 [0.00ms]
+[2026-05-08 10:17:58] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:58] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:58] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:17:58] SCORE S&S (purple): Final=345.7, Time=95.7, Moves(9)=0.0, Pins(0)=0.0, Dist=250.0, Win Bonus=0.0
+[2026-05-08 10:17:58] SCORE Gruppe 2 (red): Final=323.5, Time=97.5, Moves(9)=0.0, Pins(0)=0.0, Dist=226.0, Win Bonus=0.0
+[2026-05-08 10:17:58] SCORE Gruppe 1 (blue): Final=325.8, Time=97.8, Moves(10)=0.0, Pins(0)=0.0, Dist=228.0, Win Bonus=0.0
+[2026-05-08 10:18:00] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:00] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:00] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:00] SCORE S&S (purple): Final=345.7, Time=95.7, Moves(9)=0.0, Pins(0)=0.0, Dist=250.0, Win Bonus=0.0
+[2026-05-08 10:18:00] SCORE Gruppe 2 (red): Final=323.5, Time=97.5, Moves(9)=0.0, Pins(0)=0.0, Dist=226.0, Win Bonus=0.0
+[2026-05-08 10:18:00] SCORE Gruppe 1 (blue): Final=325.8, Time=97.8, Moves(10)=0.0, Pins(0)=0.0, Dist=228.0, Win Bonus=0.0
+[2026-05-08 10:18:00] TURN TIMEOUT: Player with colour gray0 exceeded 2s at move 28. Turn skipped.
+[2026-05-08 10:18:00] MOVE 29: S&S (purple) 107->42 [0.01ms]
+[2026-05-08 10:18:00] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:00] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:00] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:00] SCORE S&S (purple): Final=353.4, Time=95.4, Moves(10)=0.0, Pins(0)=0.0, Dist=258.0, Win Bonus=0.0
+[2026-05-08 10:18:00] SCORE Gruppe 2 (red): Final=323.5, Time=97.5, Moves(9)=0.0, Pins(0)=0.0, Dist=226.0, Win Bonus=0.0
+[2026-05-08 10:18:00] SCORE Gruppe 1 (blue): Final=325.8, Time=97.8, Moves(10)=0.0, Pins(0)=0.0, Dist=228.0, Win Bonus=0.0
+[2026-05-08 10:18:00] MOVE 30: Gruppe 2 (red) 116->80 [0.01ms]
+[2026-05-08 10:18:00] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:00] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:00] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:00] SCORE S&S (purple): Final=353.4, Time=95.4, Moves(10)=0.0, Pins(0)=0.0, Dist=258.0, Win Bonus=0.0
+[2026-05-08 10:18:00] SCORE Gruppe 2 (red): Final=331.3, Time=97.3, Moves(10)=0.0, Pins(0)=0.0, Dist=234.0, Win Bonus=0.0
+[2026-05-08 10:18:00] SCORE Gruppe 1 (blue): Final=325.8, Time=97.8, Moves(10)=0.0, Pins(0)=0.0, Dist=228.0, Win Bonus=0.0
+[2026-05-08 10:18:03] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:03] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:03] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:03] SCORE S&S (purple): Final=353.4, Time=95.4, Moves(10)=0.0, Pins(0)=0.0, Dist=258.0, Win Bonus=0.0
+[2026-05-08 10:18:03] SCORE Gruppe 2 (red): Final=331.3, Time=97.3, Moves(10)=0.0, Pins(0)=0.0, Dist=234.0, Win Bonus=0.0
+[2026-05-08 10:18:03] SCORE Gruppe 1 (blue): Final=325.8, Time=97.8, Moves(10)=0.0, Pins(0)=0.0, Dist=228.0, Win Bonus=0.0
+[2026-05-08 10:18:03] TURN TIMEOUT: Player with colour lawn green exceeded 2s at move 30. Turn skipped.
+[2026-05-08 10:18:05] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:05] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:05] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:05] SCORE S&S (purple): Final=353.4, Time=95.4, Moves(10)=0.0, Pins(0)=0.0, Dist=258.0, Win Bonus=0.0
+[2026-05-08 10:18:05] SCORE Gruppe 2 (red): Final=331.3, Time=97.3, Moves(10)=0.0, Pins(0)=0.0, Dist=234.0, Win Bonus=0.0
+[2026-05-08 10:18:05] SCORE Gruppe 1 (blue): Final=325.8, Time=97.8, Moves(10)=0.0, Pins(0)=0.0, Dist=228.0, Win Bonus=0.0
+[2026-05-08 10:18:05] TURN TIMEOUT: Player with colour yellow exceeded 2s at move 30. Turn skipped.
+[2026-05-08 10:18:05] MOVE 31: Gruppe 1 (blue) 31->93 [0.01ms]
+[2026-05-08 10:18:05] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:05] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:05] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:05] SCORE S&S (purple): Final=353.4, Time=95.4, Moves(10)=0.0, Pins(0)=0.0, Dist=258.0, Win Bonus=0.0
+[2026-05-08 10:18:05] SCORE Gruppe 2 (red): Final=331.3, Time=97.3, Moves(10)=0.0, Pins(0)=0.0, Dist=234.0, Win Bonus=0.0
+[2026-05-08 10:18:05] SCORE Gruppe 1 (blue): Final=337.5, Time=97.5, Moves(11)=0.0, Pins(0)=0.0, Dist=240.0, Win Bonus=0.0
+[2026-05-08 10:18:07] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:07] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:07] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:07] SCORE S&S (purple): Final=353.4, Time=95.4, Moves(10)=0.0, Pins(0)=0.0, Dist=258.0, Win Bonus=0.0
+[2026-05-08 10:18:07] SCORE Gruppe 2 (red): Final=331.3, Time=97.3, Moves(10)=0.0, Pins(0)=0.0, Dist=234.0, Win Bonus=0.0
+[2026-05-08 10:18:07] SCORE Gruppe 1 (blue): Final=337.5, Time=97.5, Moves(11)=0.0, Pins(0)=0.0, Dist=240.0, Win Bonus=0.0
+[2026-05-08 10:18:07] TURN TIMEOUT: Player with colour gray0 exceeded 2s at move 31. Turn skipped.
+[2026-05-08 10:18:08] MOVE 32: S&S (purple) 73->69 [0.01ms]
+[2026-05-08 10:18:08] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:08] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:08] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:08] SCORE S&S (purple): Final=360.8, Time=94.8, Moves(11)=0.0, Pins(0)=0.0, Dist=266.0, Win Bonus=0.0
+[2026-05-08 10:18:08] SCORE Gruppe 2 (red): Final=331.3, Time=97.3, Moves(10)=0.0, Pins(0)=0.0, Dist=234.0, Win Bonus=0.0
+[2026-05-08 10:18:08] SCORE Gruppe 1 (blue): Final=337.5, Time=97.5, Moves(11)=0.0, Pins(0)=0.0, Dist=240.0, Win Bonus=0.0
+[2026-05-08 10:18:09] MOVE 33: Gruppe 2 (red) 91->9 [0.01ms]
+[2026-05-08 10:18:09] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:09] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:09] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:09] SCORE S&S (purple): Final=360.8, Time=94.8, Moves(11)=0.0, Pins(0)=0.0, Dist=266.0, Win Bonus=0.0
+[2026-05-08 10:18:09] SCORE Gruppe 2 (red): Final=446.6, Time=96.6, Moves(11)=0.0, Pins(1)=100.0, Dist=250.0, Win Bonus=0.0
+[2026-05-08 10:18:09] SCORE Gruppe 1 (blue): Final=337.5, Time=97.5, Moves(11)=0.0, Pins(0)=0.0, Dist=240.0, Win Bonus=0.0
+[2026-05-08 10:18:11] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:11] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:11] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:11] SCORE S&S (purple): Final=360.8, Time=94.8, Moves(11)=0.0, Pins(0)=0.0, Dist=266.0, Win Bonus=0.0
+[2026-05-08 10:18:11] SCORE Gruppe 2 (red): Final=446.6, Time=96.6, Moves(11)=0.0, Pins(1)=100.0, Dist=250.0, Win Bonus=0.0
+[2026-05-08 10:18:11] SCORE Gruppe 1 (blue): Final=337.5, Time=97.5, Moves(11)=0.0, Pins(0)=0.0, Dist=240.0, Win Bonus=0.0
+[2026-05-08 10:18:11] TURN TIMEOUT: Player with colour lawn green exceeded 2s at move 33. Turn skipped.
+[2026-05-08 10:18:13] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:13] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:13] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:13] SCORE S&S (purple): Final=360.8, Time=94.8, Moves(11)=0.0, Pins(0)=0.0, Dist=266.0, Win Bonus=0.0
+[2026-05-08 10:18:13] SCORE Gruppe 2 (red): Final=446.6, Time=96.6, Moves(11)=0.0, Pins(1)=100.0, Dist=250.0, Win Bonus=0.0
+[2026-05-08 10:18:13] SCORE Gruppe 1 (blue): Final=337.5, Time=97.5, Moves(11)=0.0, Pins(0)=0.0, Dist=240.0, Win Bonus=0.0
+[2026-05-08 10:18:13] TURN TIMEOUT: Player with colour yellow exceeded 2s at move 33. Turn skipped.
+[2026-05-08 10:18:13] MOVE 34: Gruppe 1 (blue) 60->120 [0.01ms]
+[2026-05-08 10:18:13] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:13] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:13] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:13] SCORE S&S (purple): Final=360.8, Time=94.8, Moves(11)=0.0, Pins(0)=0.0, Dist=266.0, Win Bonus=0.0
+[2026-05-08 10:18:13] SCORE Gruppe 2 (red): Final=446.6, Time=96.6, Moves(11)=0.0, Pins(1)=100.0, Dist=250.0, Win Bonus=0.0
+[2026-05-08 10:18:13] SCORE Gruppe 1 (blue): Final=447.3, Time=97.3, Moves(12)=0.0, Pins(1)=100.0, Dist=250.0, Win Bonus=0.0
+[2026-05-08 10:18:15] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:15] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:15] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:15] SCORE S&S (purple): Final=360.8, Time=94.8, Moves(11)=0.0, Pins(0)=0.0, Dist=266.0, Win Bonus=0.0
+[2026-05-08 10:18:15] SCORE Gruppe 2 (red): Final=446.6, Time=96.6, Moves(11)=0.0, Pins(1)=100.0, Dist=250.0, Win Bonus=0.0
+[2026-05-08 10:18:15] SCORE Gruppe 1 (blue): Final=447.3, Time=97.3, Moves(12)=0.0, Pins(1)=100.0, Dist=250.0, Win Bonus=0.0
+[2026-05-08 10:18:15] TURN TIMEOUT: Player with colour gray0 exceeded 2s at move 34. Turn skipped.
+[2026-05-08 10:18:16] MOVE 35: S&S (purple) 83->37 [0.01ms]
+[2026-05-08 10:18:16] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:16] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:16] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:16] SCORE S&S (purple): Final=376.4, Time=94.4, Moves(12)=0.0, Pins(0)=0.0, Dist=282.0, Win Bonus=0.0
+[2026-05-08 10:18:16] SCORE Gruppe 2 (red): Final=446.6, Time=96.6, Moves(11)=0.0, Pins(1)=100.0, Dist=250.0, Win Bonus=0.0
+[2026-05-08 10:18:16] SCORE Gruppe 1 (blue): Final=447.3, Time=97.3, Moves(12)=0.0, Pins(1)=100.0, Dist=250.0, Win Bonus=0.0
+[2026-05-08 10:18:16] MOVE 36: Gruppe 2 (red) 80->15 [0.01ms]
+[2026-05-08 10:18:16] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:16] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:16] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:16] SCORE S&S (purple): Final=376.4, Time=94.4, Moves(12)=0.0, Pins(0)=0.0, Dist=282.0, Win Bonus=0.0
+[2026-05-08 10:18:16] SCORE Gruppe 2 (red): Final=458.3, Time=96.3, Moves(12)=0.0, Pins(1)=100.0, Dist=262.0, Win Bonus=0.0
+[2026-05-08 10:18:16] SCORE Gruppe 1 (blue): Final=447.3, Time=97.3, Moves(12)=0.0, Pins(1)=100.0, Dist=250.0, Win Bonus=0.0
+[2026-05-08 10:18:18] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:18] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:18] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:18] SCORE S&S (purple): Final=376.4, Time=94.4, Moves(12)=0.0, Pins(0)=0.0, Dist=282.0, Win Bonus=0.0
+[2026-05-08 10:18:18] SCORE Gruppe 2 (red): Final=458.3, Time=96.3, Moves(12)=0.0, Pins(1)=100.0, Dist=262.0, Win Bonus=0.0
+[2026-05-08 10:18:18] SCORE Gruppe 1 (blue): Final=447.3, Time=97.3, Moves(12)=0.0, Pins(1)=100.0, Dist=250.0, Win Bonus=0.0
+[2026-05-08 10:18:18] TURN TIMEOUT: Player with colour lawn green exceeded 2s at move 36. Turn skipped.
+[2026-05-08 10:18:20] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:20] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:20] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:20] SCORE S&S (purple): Final=376.4, Time=94.4, Moves(12)=0.0, Pins(0)=0.0, Dist=282.0, Win Bonus=0.0
+[2026-05-08 10:18:20] SCORE Gruppe 2 (red): Final=458.3, Time=96.3, Moves(12)=0.0, Pins(1)=100.0, Dist=262.0, Win Bonus=0.0
+[2026-05-08 10:18:20] SCORE Gruppe 1 (blue): Final=447.3, Time=97.3, Moves(12)=0.0, Pins(1)=100.0, Dist=250.0, Win Bonus=0.0
+[2026-05-08 10:18:20] TURN TIMEOUT: Player with colour yellow exceeded 2s at move 36. Turn skipped.
+[2026-05-08 10:18:21] MOVE 37: Gruppe 1 (blue) 14->79 [0.01ms]
+[2026-05-08 10:18:21] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:21] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:21] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:21] SCORE S&S (purple): Final=376.4, Time=94.4, Moves(12)=0.0, Pins(0)=0.0, Dist=282.0, Win Bonus=0.0
+[2026-05-08 10:18:21] SCORE Gruppe 2 (red): Final=458.3, Time=96.3, Moves(12)=0.0, Pins(1)=100.0, Dist=262.0, Win Bonus=0.0
+[2026-05-08 10:18:21] SCORE Gruppe 1 (blue): Final=458.8, Time=96.8, Moves(13)=0.0, Pins(1)=100.0, Dist=262.0, Win Bonus=0.0
+[2026-05-08 10:18:23] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:23] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:23] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:23] SCORE S&S (purple): Final=376.4, Time=94.4, Moves(12)=0.0, Pins(0)=0.0, Dist=282.0, Win Bonus=0.0
+[2026-05-08 10:18:23] SCORE Gruppe 2 (red): Final=458.3, Time=96.3, Moves(12)=0.0, Pins(1)=100.0, Dist=262.0, Win Bonus=0.0
+[2026-05-08 10:18:23] SCORE Gruppe 1 (blue): Final=458.8, Time=96.8, Moves(13)=0.0, Pins(1)=100.0, Dist=262.0, Win Bonus=0.0
+[2026-05-08 10:18:23] TURN TIMEOUT: Player with colour gray0 exceeded 2s at move 37. Turn skipped.
+[2026-05-08 10:18:24] MOVE 38: S&S (purple) 62->14 [0.01ms]
+[2026-05-08 10:18:24] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:24] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:24] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:24] SCORE S&S (purple): Final=387.9, Time=93.9, Moves(13)=0.0, Pins(0)=0.0, Dist=294.0, Win Bonus=0.0
+[2026-05-08 10:18:24] SCORE Gruppe 2 (red): Final=458.3, Time=96.3, Moves(12)=0.0, Pins(1)=100.0, Dist=262.0, Win Bonus=0.0
+[2026-05-08 10:18:24] SCORE Gruppe 1 (blue): Final=458.8, Time=96.8, Moves(13)=0.0, Pins(1)=100.0, Dist=262.0, Win Bonus=0.0
+[2026-05-08 10:18:24] MOVE 39: Gruppe 2 (red) 15->6 [0.01ms]
+[2026-05-08 10:18:24] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:24] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:24] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:24] SCORE S&S (purple): Final=387.9, Time=93.9, Moves(13)=0.0, Pins(0)=0.0, Dist=294.0, Win Bonus=0.0
+[2026-05-08 10:18:24] SCORE Gruppe 2 (red): Final=560.1, Time=96.1, Moves(13)=0.0, Pins(2)=200.0, Dist=264.0, Win Bonus=0.0
+[2026-05-08 10:18:24] SCORE Gruppe 1 (blue): Final=458.8, Time=96.8, Moves(13)=0.0, Pins(1)=100.0, Dist=262.0, Win Bonus=0.0
+[2026-05-08 10:18:26] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:26] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:26] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:26] SCORE S&S (purple): Final=387.9, Time=93.9, Moves(13)=0.0, Pins(0)=0.0, Dist=294.0, Win Bonus=0.0
+[2026-05-08 10:18:26] SCORE Gruppe 2 (red): Final=560.1, Time=96.1, Moves(13)=0.0, Pins(2)=200.0, Dist=264.0, Win Bonus=0.0
+[2026-05-08 10:18:26] SCORE Gruppe 1 (blue): Final=458.8, Time=96.8, Moves(13)=0.0, Pins(1)=100.0, Dist=262.0, Win Bonus=0.0
+[2026-05-08 10:18:26] TURN TIMEOUT: Player with colour lawn green exceeded 2s at move 39. Turn skipped.
+[2026-05-08 10:18:28] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:28] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:28] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:28] SCORE S&S (purple): Final=387.9, Time=93.9, Moves(13)=0.0, Pins(0)=0.0, Dist=294.0, Win Bonus=0.0
+[2026-05-08 10:18:28] SCORE Gruppe 2 (red): Final=560.1, Time=96.1, Moves(13)=0.0, Pins(2)=200.0, Dist=264.0, Win Bonus=0.0
+[2026-05-08 10:18:28] SCORE Gruppe 1 (blue): Final=458.8, Time=96.8, Moves(13)=0.0, Pins(1)=100.0, Dist=262.0, Win Bonus=0.0
+[2026-05-08 10:18:28] TURN TIMEOUT: Player with colour yellow exceeded 2s at move 39. Turn skipped.
+[2026-05-08 10:18:28] MOVE 40: Gruppe 1 (blue) 38->80 [0.01ms]
+[2026-05-08 10:18:28] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:28] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:28] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:28] SCORE S&S (purple): Final=387.9, Time=93.9, Moves(13)=0.0, Pins(0)=0.0, Dist=294.0, Win Bonus=0.0
+[2026-05-08 10:18:28] SCORE Gruppe 2 (red): Final=560.1, Time=96.1, Moves(13)=0.0, Pins(2)=200.0, Dist=264.0, Win Bonus=0.0
+[2026-05-08 10:18:28] SCORE Gruppe 1 (blue): Final=466.5, Time=96.5, Moves(14)=0.0, Pins(1)=100.0, Dist=270.0, Win Bonus=0.0
+[2026-05-08 10:18:30] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:30] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:30] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:30] SCORE S&S (purple): Final=387.9, Time=93.9, Moves(13)=0.0, Pins(0)=0.0, Dist=294.0, Win Bonus=0.0
+[2026-05-08 10:18:30] SCORE Gruppe 2 (red): Final=560.1, Time=96.1, Moves(13)=0.0, Pins(2)=200.0, Dist=264.0, Win Bonus=0.0
+[2026-05-08 10:18:30] SCORE Gruppe 1 (blue): Final=466.5, Time=96.5, Moves(14)=0.0, Pins(1)=100.0, Dist=270.0, Win Bonus=0.0
+[2026-05-08 10:18:30] TURN TIMEOUT: Player with colour gray0 exceeded 2s at move 40. Turn skipped.
+[2026-05-08 10:18:31] MOVE 41: S&S (purple) 42->31 [0.01ms]
+[2026-05-08 10:18:31] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:31] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:31] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:31] SCORE S&S (purple): Final=387.6, Time=93.6, Moves(14)=0.0, Pins(0)=0.0, Dist=294.0, Win Bonus=0.0
+[2026-05-08 10:18:31] SCORE Gruppe 2 (red): Final=560.1, Time=96.1, Moves(13)=0.0, Pins(2)=200.0, Dist=264.0, Win Bonus=0.0
+[2026-05-08 10:18:31] SCORE Gruppe 1 (blue): Final=466.5, Time=96.5, Moves(14)=0.0, Pins(1)=100.0, Dist=270.0, Win Bonus=0.0
+[2026-05-08 10:18:31] MOVE 42: Gruppe 2 (red) 64->54 [0.01ms]
+[2026-05-08 10:18:31] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:31] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:31] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:31] SCORE S&S (purple): Final=387.6, Time=93.6, Moves(14)=0.0, Pins(0)=0.0, Dist=294.0, Win Bonus=0.0
+[2026-05-08 10:18:31] SCORE Gruppe 2 (red): Final=561.7, Time=95.7, Moves(14)=0.0, Pins(2)=200.0, Dist=266.0, Win Bonus=0.0
+[2026-05-08 10:18:31] SCORE Gruppe 1 (blue): Final=466.5, Time=96.5, Moves(14)=0.0, Pins(1)=100.0, Dist=270.0, Win Bonus=0.0
+[2026-05-08 10:18:33] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:33] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:33] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:33] SCORE S&S (purple): Final=387.6, Time=93.6, Moves(14)=0.0, Pins(0)=0.0, Dist=294.0, Win Bonus=0.0
+[2026-05-08 10:18:33] SCORE Gruppe 2 (red): Final=561.7, Time=95.7, Moves(14)=0.0, Pins(2)=200.0, Dist=266.0, Win Bonus=0.0
+[2026-05-08 10:18:33] SCORE Gruppe 1 (blue): Final=466.5, Time=96.5, Moves(14)=0.0, Pins(1)=100.0, Dist=270.0, Win Bonus=0.0
+[2026-05-08 10:18:33] TURN TIMEOUT: Player with colour lawn green exceeded 2s at move 42. Turn skipped.
+[2026-05-08 10:18:36] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:36] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:36] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:36] SCORE S&S (purple): Final=387.6, Time=93.6, Moves(14)=0.0, Pins(0)=0.0, Dist=294.0, Win Bonus=0.0
+[2026-05-08 10:18:36] SCORE Gruppe 2 (red): Final=561.7, Time=95.7, Moves(14)=0.0, Pins(2)=200.0, Dist=266.0, Win Bonus=0.0
+[2026-05-08 10:18:36] SCORE Gruppe 1 (blue): Final=466.5, Time=96.5, Moves(14)=0.0, Pins(1)=100.0, Dist=270.0, Win Bonus=0.0
+[2026-05-08 10:18:36] TURN TIMEOUT: Player with colour yellow exceeded 2s at move 42. Turn skipped.
+[2026-05-08 10:18:36] MOVE 43: Gruppe 1 (blue) 18->60 [0.01ms]
+[2026-05-08 10:18:36] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:36] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:36] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:36] SCORE S&S (purple): Final=387.6, Time=93.6, Moves(14)=0.0, Pins(0)=0.0, Dist=294.0, Win Bonus=0.0
+[2026-05-08 10:18:36] SCORE Gruppe 2 (red): Final=561.7, Time=95.7, Moves(14)=0.0, Pins(2)=200.0, Dist=266.0, Win Bonus=0.0
+[2026-05-08 10:18:36] SCORE Gruppe 1 (blue): Final=474.1, Time=96.1, Moves(15)=0.0, Pins(1)=100.0, Dist=278.0, Win Bonus=0.0
+[2026-05-08 10:18:38] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:38] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:38] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:38] SCORE S&S (purple): Final=387.6, Time=93.6, Moves(14)=0.0, Pins(0)=0.0, Dist=294.0, Win Bonus=0.0
+[2026-05-08 10:18:38] SCORE Gruppe 2 (red): Final=561.7, Time=95.7, Moves(14)=0.0, Pins(2)=200.0, Dist=266.0, Win Bonus=0.0
+[2026-05-08 10:18:38] SCORE Gruppe 1 (blue): Final=474.1, Time=96.1, Moves(15)=0.0, Pins(1)=100.0, Dist=278.0, Win Bonus=0.0
+[2026-05-08 10:18:38] TURN TIMEOUT: Player with colour gray0 exceeded 2s at move 43. Turn skipped.
+[2026-05-08 10:18:39] MOVE 44: S&S (purple) 115->111 [0.01ms]
+[2026-05-08 10:18:39] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:39] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:39] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:39] SCORE S&S (purple): Final=389.2, Time=93.2, Moves(15)=0.0, Pins(0)=0.0, Dist=296.0, Win Bonus=0.0
+[2026-05-08 10:18:39] SCORE Gruppe 2 (red): Final=561.7, Time=95.7, Moves(14)=0.0, Pins(2)=200.0, Dist=266.0, Win Bonus=0.0
+[2026-05-08 10:18:39] SCORE Gruppe 1 (blue): Final=474.1, Time=96.1, Moves(15)=0.0, Pins(1)=100.0, Dist=278.0, Win Bonus=0.0
+[2026-05-08 10:18:39] MOVE 45: Gruppe 2 (red) 53->43 [0.01ms]
+[2026-05-08 10:18:39] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:39] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:39] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:39] SCORE S&S (purple): Final=389.2, Time=93.2, Moves(15)=0.0, Pins(0)=0.0, Dist=296.0, Win Bonus=0.0
+[2026-05-08 10:18:39] SCORE Gruppe 2 (red): Final=563.4, Time=95.4, Moves(15)=0.0, Pins(2)=200.0, Dist=268.0, Win Bonus=0.0
+[2026-05-08 10:18:39] SCORE Gruppe 1 (blue): Final=474.1, Time=96.1, Moves(15)=0.0, Pins(1)=100.0, Dist=278.0, Win Bonus=0.0
+[2026-05-08 10:18:41] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:41] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:41] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:41] SCORE S&S (purple): Final=389.2, Time=93.2, Moves(15)=0.0, Pins(0)=0.0, Dist=296.0, Win Bonus=0.0
+[2026-05-08 10:18:41] SCORE Gruppe 2 (red): Final=563.4, Time=95.4, Moves(15)=0.0, Pins(2)=200.0, Dist=268.0, Win Bonus=0.0
+[2026-05-08 10:18:41] SCORE Gruppe 1 (blue): Final=474.1, Time=96.1, Moves(15)=0.0, Pins(1)=100.0, Dist=278.0, Win Bonus=0.0
+[2026-05-08 10:18:41] TURN TIMEOUT: Player with colour lawn green exceeded 2s at move 45. Turn skipped.
+[2026-05-08 10:18:43] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:43] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:43] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:43] SCORE S&S (purple): Final=389.2, Time=93.2, Moves(15)=0.0, Pins(0)=0.0, Dist=296.0, Win Bonus=0.0
+[2026-05-08 10:18:43] SCORE Gruppe 2 (red): Final=563.4, Time=95.4, Moves(15)=0.0, Pins(2)=200.0, Dist=268.0, Win Bonus=0.0
+[2026-05-08 10:18:43] SCORE Gruppe 1 (blue): Final=474.1, Time=96.1, Moves(15)=0.0, Pins(1)=100.0, Dist=278.0, Win Bonus=0.0
+[2026-05-08 10:18:43] TURN TIMEOUT: Player with colour yellow exceeded 2s at move 45. Turn skipped.
+[2026-05-08 10:18:43] MOVE 46: Gruppe 1 (blue) 79->117 [0.01ms]
+[2026-05-08 10:18:43] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:43] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:43] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:43] SCORE S&S (purple): Final=389.2, Time=93.2, Moves(15)=0.0, Pins(0)=0.0, Dist=296.0, Win Bonus=0.0
+[2026-05-08 10:18:43] SCORE Gruppe 2 (red): Final=563.4, Time=95.4, Moves(15)=0.0, Pins(2)=200.0, Dist=268.0, Win Bonus=0.0
+[2026-05-08 10:18:43] SCORE Gruppe 1 (blue): Final=580.1, Time=96.1, Moves(16)=0.0, Pins(2)=200.0, Dist=284.0, Win Bonus=0.0
+[2026-05-08 10:18:45] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:45] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:45] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:45] SCORE S&S (purple): Final=389.2, Time=93.2, Moves(15)=0.0, Pins(0)=0.0, Dist=296.0, Win Bonus=0.0
+[2026-05-08 10:18:45] SCORE Gruppe 2 (red): Final=563.4, Time=95.4, Moves(15)=0.0, Pins(2)=200.0, Dist=268.0, Win Bonus=0.0
+[2026-05-08 10:18:45] SCORE Gruppe 1 (blue): Final=580.1, Time=96.1, Moves(16)=0.0, Pins(2)=200.0, Dist=284.0, Win Bonus=0.0
+[2026-05-08 10:18:45] TURN TIMEOUT: Player with colour gray0 exceeded 2s at move 46. Turn skipped.
+[2026-05-08 10:18:45] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:45] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:45] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:45] SCORE S&S (purple): Final=389.2, Time=93.2, Moves(15)=0.0, Pins(0)=0.0, Dist=296.0, Win Bonus=0.0
+[2026-05-08 10:18:45] SCORE Gruppe 2 (red): Final=563.4, Time=95.4, Moves(15)=0.0, Pins(2)=200.0, Dist=268.0, Win Bonus=0.0
+[2026-05-08 10:18:45] SCORE Gruppe 1 (blue): Final=580.1, Time=96.1, Moves(16)=0.0, Pins(2)=200.0, Dist=284.0, Win Bonus=0.0
+[2026-05-08 10:18:45] GAME TIME LIMIT REACHED.
+[2026-05-08 10:18:46] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:46] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:46] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:46] SCORE S&S (purple): Final=389.2, Time=93.2, Moves(15)=0.0, Pins(0)=0.0, Dist=296.0, Win Bonus=0.0
+[2026-05-08 10:18:46] SCORE Gruppe 2 (red): Final=563.4, Time=95.4, Moves(15)=0.0, Pins(2)=200.0, Dist=268.0, Win Bonus=0.0
+[2026-05-08 10:18:46] SCORE Gruppe 1 (blue): Final=580.1, Time=96.1, Moves(16)=0.0, Pins(2)=200.0, Dist=284.0, Win Bonus=0.0
+[2026-05-08 10:18:46] GAME TIME LIMIT REACHED.
+[2026-05-08 10:18:46] SCORE Group 99 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:46] SCORE Group7 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:46] SCORE Gruppe 67 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:18:46] SCORE S&S (purple): Final=389.2, Time=93.2, Moves(15)=0.0, Pins(0)=0.0, Dist=296.0, Win Bonus=0.0
+[2026-05-08 10:18:46] SCORE Gruppe 2 (red): Final=563.4, Time=95.4, Moves(15)=0.0, Pins(2)=200.0, Dist=268.0, Win Bonus=0.0
+[2026-05-08 10:18:46] SCORE Gruppe 1 (blue): Final=580.1, Time=96.1, Moves(16)=0.0, Pins(2)=200.0, Dist=284.0, Win Bonus=0.0
+[2026-05-08 10:18:46] GAME TIME LIMIT REACHED.

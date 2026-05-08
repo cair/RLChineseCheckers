@@ -1,0 +1,1059 @@
+[2026-05-08 10:06:21] GAME CREATED
+[2026-05-08 10:06:22] PLAYER JOINED: jat as red
+[2026-05-08 10:06:24] PLAYER JOINED: The bandits as blue
+[2026-05-08 10:06:27] PLAYER JOINED: Tiefes Verstarkendes Lernen as yellow
+[2026-05-08 10:06:28] PLAYER JOINED: Gruppe 67 as purple
+[2026-05-08 10:06:30] PLAYER JOINED: Group7 as lawn green
+[2026-05-08 10:06:46] PLAYER JOINED: Group 99 as gray0
+[2026-05-08 10:06:46] PLAYER START: jat (red)
+[2026-05-08 10:06:46] PLAYER START: The bandits (blue)
+[2026-05-08 10:06:46] PLAYER START: Tiefes Verstarkendes Lernen (yellow)
+[2026-05-08 10:06:46] PLAYER START: Gruppe 67 (purple)
+[2026-05-08 10:06:46] PLAYER START: Group7 (lawn green)
+[2026-05-08 10:06:46] PLAYER START: Group 99 (gray0)
+[2026-05-08 10:06:46] GAME START — turn order ['red', 'lawn green', 'yellow', 'blue', 'gray0', 'purple']
+[2026-05-08 10:06:47] PLAYER START: jat (red)
+[2026-05-08 10:06:47] PLAYER START: The bandits (blue)
+[2026-05-08 10:06:47] PLAYER START: Tiefes Verstarkendes Lernen (yellow)
+[2026-05-08 10:06:47] PLAYER START: Gruppe 67 (purple)
+[2026-05-08 10:06:47] PLAYER START: Group7 (lawn green)
+[2026-05-08 10:06:47] PLAYER START: Group 99 (gray0)
+[2026-05-08 10:06:47] PLAYER START: jat (red)
+[2026-05-08 10:06:47] PLAYER START: The bandits (blue)
+[2026-05-08 10:06:47] PLAYER START: Tiefes Verstarkendes Lernen (yellow)
+[2026-05-08 10:06:47] PLAYER START: Gruppe 67 (purple)
+[2026-05-08 10:06:47] PLAYER START: Group7 (lawn green)
+[2026-05-08 10:06:47] PLAYER START: Group 99 (gray0)
+[2026-05-08 10:06:47] PLAYER START: jat (red)
+[2026-05-08 10:06:47] PLAYER START: The bandits (blue)
+[2026-05-08 10:06:47] PLAYER START: Tiefes Verstarkendes Lernen (yellow)
+[2026-05-08 10:06:47] PLAYER START: Gruppe 67 (purple)
+[2026-05-08 10:06:47] PLAYER START: Group7 (lawn green)
+[2026-05-08 10:06:47] PLAYER START: Group 99 (gray0)
+[2026-05-08 10:06:47] PLAYER START: jat (red)
+[2026-05-08 10:06:47] PLAYER START: The bandits (blue)
+[2026-05-08 10:06:47] PLAYER START: Tiefes Verstarkendes Lernen (yellow)
+[2026-05-08 10:06:47] PLAYER START: Gruppe 67 (purple)
+[2026-05-08 10:06:47] PLAYER START: Group7 (lawn green)
+[2026-05-08 10:06:47] PLAYER START: Group 99 (gray0)
+[2026-05-08 10:06:47] MOVE 1: jat (red) 115->104 [0.01ms]
+[2026-05-08 10:06:47] SCORE jat (red): Final=283.5, Time=99.5, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 10:06:47] SCORE The bandits (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:06:47] SCORE Tiefes Verstarkendes Lernen (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:06:47] SCORE Gruppe 67 (purple): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:06:47] SCORE Group7 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:06:47] SCORE Group 99 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:06:49] SCORE jat (red): Final=283.5, Time=99.5, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 10:06:49] SCORE The bandits (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:06:49] SCORE Tiefes Verstarkendes Lernen (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:06:49] SCORE Gruppe 67 (purple): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:06:49] SCORE Group7 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:06:49] SCORE Group 99 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:06:49] TURN TIMEOUT: Player with colour lawn green exceeded 2s at move 1. Turn skipped.
+[2026-05-08 10:06:49] MOVE 2: Tiefes Verstarkendes Lernen (yellow) 24->26 [0.01ms]
+[2026-05-08 10:06:49] SCORE jat (red): Final=283.5, Time=99.5, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 10:06:50] SCORE The bandits (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:06:50] SCORE Tiefes Verstarkendes Lernen (yellow): Final=283.6, Time=99.6, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 10:06:50] SCORE Gruppe 67 (purple): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:06:50] SCORE Group7 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:06:50] SCORE Group 99 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:06:50] MOVE 3: The bandits (blue) 3->37 [0.00ms]
+[2026-05-08 10:06:50] SCORE jat (red): Final=283.5, Time=99.5, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 10:06:50] SCORE The bandits (blue): Final=287.9, Time=99.9, Moves(1)=0.0, Pins(0)=0.0, Dist=188.0, Win Bonus=0.0
+[2026-05-08 10:06:50] SCORE Tiefes Verstarkendes Lernen (yellow): Final=283.6, Time=99.6, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 10:06:50] SCORE Gruppe 67 (purple): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:06:50] SCORE Group7 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:06:50] SCORE Group 99 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:06:51] MOVE 4: Group 99 (gray0) 100->115 [0.01ms]
+[2026-05-08 10:06:51] SCORE jat (red): Final=283.5, Time=99.5, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 10:06:51] SCORE The bandits (blue): Final=287.9, Time=99.9, Moves(1)=0.0, Pins(0)=0.0, Dist=188.0, Win Bonus=0.0
+[2026-05-08 10:06:51] SCORE Tiefes Verstarkendes Lernen (yellow): Final=283.6, Time=99.6, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 10:06:51] SCORE Gruppe 67 (purple): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:06:51] SCORE Group7 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:06:51] SCORE Group 99 (gray0): Final=282.6, Time=98.6, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 10:06:52] MOVE 5: Gruppe 67 (purple) 108->106 [0.01ms]
+[2026-05-08 10:06:52] SCORE jat (red): Final=283.5, Time=99.5, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 10:06:52] SCORE The bandits (blue): Final=287.9, Time=99.9, Moves(1)=0.0, Pins(0)=0.0, Dist=188.0, Win Bonus=0.0
+[2026-05-08 10:06:52] SCORE Tiefes Verstarkendes Lernen (yellow): Final=283.6, Time=99.6, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 10:06:52] SCORE Gruppe 67 (purple): Final=283.5, Time=99.5, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 10:06:52] SCORE Group7 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:06:52] SCORE Group 99 (gray0): Final=282.6, Time=98.6, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 10:06:52] MOVE 6: jat (red) 113->91 [0.01ms]
+[2026-05-08 10:06:52] SCORE jat (red): Final=287.3, Time=99.3, Moves(2)=0.0, Pins(0)=0.0, Dist=188.0, Win Bonus=0.0
+[2026-05-08 10:06:52] SCORE The bandits (blue): Final=287.9, Time=99.9, Moves(1)=0.0, Pins(0)=0.0, Dist=188.0, Win Bonus=0.0
+[2026-05-08 10:06:52] SCORE Tiefes Verstarkendes Lernen (yellow): Final=283.6, Time=99.6, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 10:06:52] SCORE Gruppe 67 (purple): Final=283.5, Time=99.5, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 10:06:52] SCORE Group7 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:06:52] SCORE Group 99 (gray0): Final=282.6, Time=98.6, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 10:06:54] SCORE jat (red): Final=287.3, Time=99.3, Moves(2)=0.0, Pins(0)=0.0, Dist=188.0, Win Bonus=0.0
+[2026-05-08 10:06:54] SCORE The bandits (blue): Final=287.9, Time=99.9, Moves(1)=0.0, Pins(0)=0.0, Dist=188.0, Win Bonus=0.0
+[2026-05-08 10:06:54] SCORE Tiefes Verstarkendes Lernen (yellow): Final=283.6, Time=99.6, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 10:06:54] SCORE Gruppe 67 (purple): Final=283.5, Time=99.5, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 10:06:54] SCORE Group7 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:06:54] SCORE Group 99 (gray0): Final=282.6, Time=98.6, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 10:06:54] TURN TIMEOUT: Player with colour lawn green exceeded 2s at move 6. Turn skipped.
+[2026-05-08 10:06:55] MOVE 7: Tiefes Verstarkendes Lernen (yellow) 12->16 [0.01ms]
+[2026-05-08 10:06:55] SCORE jat (red): Final=287.3, Time=99.3, Moves(2)=0.0, Pins(0)=0.0, Dist=188.0, Win Bonus=0.0
+[2026-05-08 10:06:55] SCORE The bandits (blue): Final=287.9, Time=99.9, Moves(1)=0.0, Pins(0)=0.0, Dist=188.0, Win Bonus=0.0
+[2026-05-08 10:06:55] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:06:55] SCORE Gruppe 67 (purple): Final=283.5, Time=99.5, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 10:06:55] SCORE Group7 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:06:55] SCORE Group 99 (gray0): Final=282.6, Time=98.6, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 10:06:55] MOVE 8: The bandits (blue) 0->14 [0.01ms]
+[2026-05-08 10:06:55] SCORE jat (red): Final=287.3, Time=99.3, Moves(2)=0.0, Pins(0)=0.0, Dist=188.0, Win Bonus=0.0
+[2026-05-08 10:06:55] SCORE The bandits (blue): Final=295.8, Time=99.8, Moves(2)=0.0, Pins(0)=0.0, Dist=196.0, Win Bonus=0.0
+[2026-05-08 10:06:55] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:06:55] SCORE Gruppe 67 (purple): Final=283.5, Time=99.5, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 10:06:55] SCORE Group7 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:06:55] SCORE Group 99 (gray0): Final=282.6, Time=98.6, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 10:06:56] MOVE 9: Group 99 (gray0) 98->77 [0.01ms]
+[2026-05-08 10:06:56] SCORE jat (red): Final=287.3, Time=99.3, Moves(2)=0.0, Pins(0)=0.0, Dist=188.0, Win Bonus=0.0
+[2026-05-08 10:06:56] SCORE The bandits (blue): Final=295.8, Time=99.8, Moves(2)=0.0, Pins(0)=0.0, Dist=196.0, Win Bonus=0.0
+[2026-05-08 10:06:56] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:06:56] SCORE Gruppe 67 (purple): Final=283.5, Time=99.5, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 10:06:56] SCORE Group7 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:06:56] SCORE Group 99 (gray0): Final=289.3, Time=97.3, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:06:56] MOVE 10: Gruppe 67 (purple) 96->94 [0.00ms]
+[2026-05-08 10:06:56] SCORE jat (red): Final=287.3, Time=99.3, Moves(2)=0.0, Pins(0)=0.0, Dist=188.0, Win Bonus=0.0
+[2026-05-08 10:06:56] SCORE The bandits (blue): Final=295.8, Time=99.8, Moves(2)=0.0, Pins(0)=0.0, Dist=196.0, Win Bonus=0.0
+[2026-05-08 10:06:56] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:06:56] SCORE Gruppe 67 (purple): Final=287.1, Time=99.1, Moves(2)=0.0, Pins(0)=0.0, Dist=188.0, Win Bonus=0.0
+[2026-05-08 10:06:56] SCORE Group7 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:06:56] SCORE Group 99 (gray0): Final=289.3, Time=97.3, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:06:56] MOVE 11: jat (red) 116->80 [0.01ms]
+[2026-05-08 10:06:56] SCORE jat (red): Final=295.1, Time=99.1, Moves(3)=0.0, Pins(0)=0.0, Dist=196.0, Win Bonus=0.0
+[2026-05-08 10:06:56] SCORE The bandits (blue): Final=295.8, Time=99.8, Moves(2)=0.0, Pins(0)=0.0, Dist=196.0, Win Bonus=0.0
+[2026-05-08 10:06:56] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:06:56] SCORE Gruppe 67 (purple): Final=287.1, Time=99.1, Moves(2)=0.0, Pins(0)=0.0, Dist=188.0, Win Bonus=0.0
+[2026-05-08 10:06:56] SCORE Group7 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:06:56] SCORE Group 99 (gray0): Final=289.3, Time=97.3, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:06:59] SCORE jat (red): Final=295.1, Time=99.1, Moves(3)=0.0, Pins(0)=0.0, Dist=196.0, Win Bonus=0.0
+[2026-05-08 10:06:59] SCORE The bandits (blue): Final=295.8, Time=99.8, Moves(2)=0.0, Pins(0)=0.0, Dist=196.0, Win Bonus=0.0
+[2026-05-08 10:06:59] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:06:59] SCORE Gruppe 67 (purple): Final=287.1, Time=99.1, Moves(2)=0.0, Pins(0)=0.0, Dist=188.0, Win Bonus=0.0
+[2026-05-08 10:06:59] SCORE Group7 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:06:59] SCORE Group 99 (gray0): Final=289.3, Time=97.3, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:06:59] TURN TIMEOUT: Player with colour lawn green exceeded 2s at move 11. Turn skipped.
+[2026-05-08 10:07:00] PLAYER START: jat (red)
+[2026-05-08 10:07:00] PLAYER START: The bandits (blue)
+[2026-05-08 10:07:00] PLAYER START: Tiefes Verstarkendes Lernen (yellow)
+[2026-05-08 10:07:00] PLAYER START: Gruppe 67 (purple)
+[2026-05-08 10:07:00] PLAYER START: Group7 (lawn green)
+[2026-05-08 10:07:00] PLAYER START: Group 99 (gray0)
+[2026-05-08 10:07:01] SCORE jat (red): Final=295.1, Time=99.1, Moves(3)=0.0, Pins(0)=0.0, Dist=196.0, Win Bonus=0.0
+[2026-05-08 10:07:01] SCORE The bandits (blue): Final=295.8, Time=99.8, Moves(2)=0.0, Pins(0)=0.0, Dist=196.0, Win Bonus=0.0
+[2026-05-08 10:07:01] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:01] SCORE Gruppe 67 (purple): Final=287.1, Time=99.1, Moves(2)=0.0, Pins(0)=0.0, Dist=188.0, Win Bonus=0.0
+[2026-05-08 10:07:01] SCORE Group7 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:07:01] SCORE Group 99 (gray0): Final=289.3, Time=97.3, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:01] TURN TIMEOUT: Player with colour yellow exceeded 2s at move 11. Turn skipped.
+[2026-05-08 10:07:01] MOVE 12: The bandits (blue) 4->15 [0.00ms]
+[2026-05-08 10:07:01] SCORE jat (red): Final=295.1, Time=99.1, Moves(3)=0.0, Pins(0)=0.0, Dist=196.0, Win Bonus=0.0
+[2026-05-08 10:07:01] SCORE The bandits (blue): Final=299.7, Time=99.7, Moves(3)=0.0, Pins(0)=0.0, Dist=200.0, Win Bonus=0.0
+[2026-05-08 10:07:01] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:01] SCORE Gruppe 67 (purple): Final=287.1, Time=99.1, Moves(2)=0.0, Pins(0)=0.0, Dist=188.0, Win Bonus=0.0
+[2026-05-08 10:07:01] SCORE Group7 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:07:01] SCORE Group 99 (gray0): Final=289.3, Time=97.3, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:02] MOVE 13: Group 99 (gray0) 76->78 [0.01ms]
+[2026-05-08 10:07:02] SCORE jat (red): Final=295.1, Time=99.1, Moves(3)=0.0, Pins(0)=0.0, Dist=196.0, Win Bonus=0.0
+[2026-05-08 10:07:02] SCORE The bandits (blue): Final=299.7, Time=99.7, Moves(3)=0.0, Pins(0)=0.0, Dist=200.0, Win Bonus=0.0
+[2026-05-08 10:07:02] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:02] SCORE Gruppe 67 (purple): Final=287.1, Time=99.1, Moves(2)=0.0, Pins(0)=0.0, Dist=188.0, Win Bonus=0.0
+[2026-05-08 10:07:02] SCORE Group7 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:07:02] SCORE Group 99 (gray0): Final=292.1, Time=96.1, Moves(3)=0.0, Pins(0)=0.0, Dist=196.0, Win Bonus=0.0
+[2026-05-08 10:07:02] MOVE 14: Gruppe 67 (purple) 109->96 [0.00ms]
+[2026-05-08 10:07:02] SCORE jat (red): Final=295.1, Time=99.1, Moves(3)=0.0, Pins(0)=0.0, Dist=196.0, Win Bonus=0.0
+[2026-05-08 10:07:02] SCORE The bandits (blue): Final=299.7, Time=99.7, Moves(3)=0.0, Pins(0)=0.0, Dist=200.0, Win Bonus=0.0
+[2026-05-08 10:07:02] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:02] SCORE Gruppe 67 (purple): Final=288.7, Time=98.7, Moves(3)=0.0, Pins(0)=0.0, Dist=190.0, Win Bonus=0.0
+[2026-05-08 10:07:02] SCORE Group7 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:07:02] SCORE Group 99 (gray0): Final=292.1, Time=96.1, Moves(3)=0.0, Pins(0)=0.0, Dist=196.0, Win Bonus=0.0
+[2026-05-08 10:07:02] MOVE 15: jat (red) 112->69 [0.00ms]
+[2026-05-08 10:07:02] SCORE jat (red): Final=303.0, Time=99.0, Moves(4)=0.0, Pins(0)=0.0, Dist=204.0, Win Bonus=0.0
+[2026-05-08 10:07:02] SCORE The bandits (blue): Final=299.7, Time=99.7, Moves(3)=0.0, Pins(0)=0.0, Dist=200.0, Win Bonus=0.0
+[2026-05-08 10:07:02] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:02] SCORE Gruppe 67 (purple): Final=288.7, Time=98.7, Moves(3)=0.0, Pins(0)=0.0, Dist=190.0, Win Bonus=0.0
+[2026-05-08 10:07:02] SCORE Group7 (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:07:02] SCORE Group 99 (gray0): Final=292.1, Time=96.1, Moves(3)=0.0, Pins(0)=0.0, Dist=196.0, Win Bonus=0.0
+[2026-05-08 10:07:03] MOVE 16: Group7 (lawn green) 45->43 [0.01ms]
+[2026-05-08 10:07:03] SCORE jat (red): Final=303.0, Time=99.0, Moves(4)=0.0, Pins(0)=0.0, Dist=204.0, Win Bonus=0.0
+[2026-05-08 10:07:03] SCORE The bandits (blue): Final=299.7, Time=99.7, Moves(3)=0.0, Pins(0)=0.0, Dist=200.0, Win Bonus=0.0
+[2026-05-08 10:07:03] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:03] SCORE Gruppe 67 (purple): Final=288.7, Time=98.7, Moves(3)=0.0, Pins(0)=0.0, Dist=190.0, Win Bonus=0.0
+[2026-05-08 10:07:03] SCORE Group7 (lawn green): Final=283.4, Time=99.4, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 10:07:03] SCORE Group 99 (gray0): Final=292.1, Time=96.1, Moves(3)=0.0, Pins(0)=0.0, Dist=196.0, Win Bonus=0.0
+[2026-05-08 10:07:05] SCORE jat (red): Final=303.0, Time=99.0, Moves(4)=0.0, Pins(0)=0.0, Dist=204.0, Win Bonus=0.0
+[2026-05-08 10:07:05] SCORE The bandits (blue): Final=299.7, Time=99.7, Moves(3)=0.0, Pins(0)=0.0, Dist=200.0, Win Bonus=0.0
+[2026-05-08 10:07:05] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:05] SCORE Gruppe 67 (purple): Final=288.7, Time=98.7, Moves(3)=0.0, Pins(0)=0.0, Dist=190.0, Win Bonus=0.0
+[2026-05-08 10:07:05] SCORE Group7 (lawn green): Final=283.4, Time=99.4, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 10:07:05] SCORE Group 99 (gray0): Final=292.1, Time=96.1, Moves(3)=0.0, Pins(0)=0.0, Dist=196.0, Win Bonus=0.0
+[2026-05-08 10:07:05] TURN TIMEOUT: Player with colour yellow exceeded 2s at move 16. Turn skipped.
+[2026-05-08 10:07:05] MOVE 17: The bandits (blue) 8->28 [0.01ms]
+[2026-05-08 10:07:05] SCORE jat (red): Final=303.0, Time=99.0, Moves(4)=0.0, Pins(0)=0.0, Dist=204.0, Win Bonus=0.0
+[2026-05-08 10:07:05] SCORE The bandits (blue): Final=303.6, Time=99.6, Moves(4)=0.0, Pins(0)=0.0, Dist=204.0, Win Bonus=0.0
+[2026-05-08 10:07:05] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:05] SCORE Gruppe 67 (purple): Final=288.7, Time=98.7, Moves(3)=0.0, Pins(0)=0.0, Dist=190.0, Win Bonus=0.0
+[2026-05-08 10:07:05] SCORE Group7 (lawn green): Final=283.4, Time=99.4, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 10:07:05] SCORE Group 99 (gray0): Final=292.1, Time=96.1, Moves(3)=0.0, Pins(0)=0.0, Dist=196.0, Win Bonus=0.0
+[2026-05-08 10:07:06] MOVE 18: Group 99 (gray0) 87->70 [0.01ms]
+[2026-05-08 10:07:06] SCORE jat (red): Final=303.0, Time=99.0, Moves(4)=0.0, Pins(0)=0.0, Dist=204.0, Win Bonus=0.0
+[2026-05-08 10:07:06] SCORE The bandits (blue): Final=303.6, Time=99.6, Moves(4)=0.0, Pins(0)=0.0, Dist=204.0, Win Bonus=0.0
+[2026-05-08 10:07:06] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:06] SCORE Gruppe 67 (purple): Final=288.7, Time=98.7, Moves(3)=0.0, Pins(0)=0.0, Dist=190.0, Win Bonus=0.0
+[2026-05-08 10:07:06] SCORE Group7 (lawn green): Final=283.4, Time=99.4, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 10:07:06] SCORE Group 99 (gray0): Final=302.8, Time=94.8, Moves(4)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-08 10:07:07] MOVE 19: Gruppe 67 (purple) 106->105 [0.01ms]
+[2026-05-08 10:07:07] SCORE jat (red): Final=303.0, Time=99.0, Moves(4)=0.0, Pins(0)=0.0, Dist=204.0, Win Bonus=0.0
+[2026-05-08 10:07:07] SCORE The bandits (blue): Final=303.6, Time=99.6, Moves(4)=0.0, Pins(0)=0.0, Dist=204.0, Win Bonus=0.0
+[2026-05-08 10:07:07] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:07] SCORE Gruppe 67 (purple): Final=290.3, Time=98.3, Moves(4)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:07] SCORE Group7 (lawn green): Final=283.4, Time=99.4, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 10:07:07] SCORE Group 99 (gray0): Final=302.8, Time=94.8, Moves(4)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-08 10:07:07] MOVE 20: jat (red) 114->67 [0.01ms]
+[2026-05-08 10:07:07] SCORE jat (red): Final=310.8, Time=98.8, Moves(5)=0.0, Pins(0)=0.0, Dist=212.0, Win Bonus=0.0
+[2026-05-08 10:07:07] SCORE The bandits (blue): Final=303.6, Time=99.6, Moves(4)=0.0, Pins(0)=0.0, Dist=204.0, Win Bonus=0.0
+[2026-05-08 10:07:07] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:07] SCORE Gruppe 67 (purple): Final=290.3, Time=98.3, Moves(4)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:07] SCORE Group7 (lawn green): Final=283.4, Time=99.4, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 10:07:07] SCORE Group 99 (gray0): Final=302.8, Time=94.8, Moves(4)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-08 10:07:07] MOVE 21: Group7 (lawn green) 22->64 [0.01ms]
+[2026-05-08 10:07:07] SCORE jat (red): Final=310.8, Time=98.8, Moves(5)=0.0, Pins(0)=0.0, Dist=212.0, Win Bonus=0.0
+[2026-05-08 10:07:07] SCORE The bandits (blue): Final=303.6, Time=99.6, Moves(4)=0.0, Pins(0)=0.0, Dist=204.0, Win Bonus=0.0
+[2026-05-08 10:07:07] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:07] SCORE Gruppe 67 (purple): Final=290.3, Time=98.3, Moves(4)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:08] SCORE Group7 (lawn green): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:08] SCORE Group 99 (gray0): Final=302.8, Time=94.8, Moves(4)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-08 10:07:10] SCORE jat (red): Final=310.8, Time=98.8, Moves(5)=0.0, Pins(0)=0.0, Dist=212.0, Win Bonus=0.0
+[2026-05-08 10:07:10] SCORE The bandits (blue): Final=303.6, Time=99.6, Moves(4)=0.0, Pins(0)=0.0, Dist=204.0, Win Bonus=0.0
+[2026-05-08 10:07:10] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:10] SCORE Gruppe 67 (purple): Final=290.3, Time=98.3, Moves(4)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:10] SCORE Group7 (lawn green): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:10] SCORE Group 99 (gray0): Final=302.8, Time=94.8, Moves(4)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-08 10:07:10] TURN TIMEOUT: Player with colour yellow exceeded 2s at move 21. Turn skipped.
+[2026-05-08 10:07:10] MOVE 22: The bandits (blue) 7->27 [0.00ms]
+[2026-05-08 10:07:10] SCORE jat (red): Final=310.8, Time=98.8, Moves(5)=0.0, Pins(0)=0.0, Dist=212.0, Win Bonus=0.0
+[2026-05-08 10:07:10] SCORE The bandits (blue): Final=307.6, Time=99.6, Moves(5)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-08 10:07:10] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:10] SCORE Gruppe 67 (purple): Final=290.3, Time=98.3, Moves(4)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:10] SCORE Group7 (lawn green): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:10] SCORE Group 99 (gray0): Final=302.8, Time=94.8, Moves(4)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-08 10:07:11] MOVE 23: Group 99 (gray0) 77->60 [0.01ms]
+[2026-05-08 10:07:11] SCORE jat (red): Final=310.8, Time=98.8, Moves(5)=0.0, Pins(0)=0.0, Dist=212.0, Win Bonus=0.0
+[2026-05-08 10:07:11] SCORE The bandits (blue): Final=307.6, Time=99.6, Moves(5)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-08 10:07:11] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:11] SCORE Gruppe 67 (purple): Final=290.3, Time=98.3, Moves(4)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:11] SCORE Group7 (lawn green): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:11] SCORE Group 99 (gray0): Final=309.2, Time=93.2, Moves(5)=0.0, Pins(0)=0.0, Dist=216.0, Win Bonus=0.0
+[2026-05-08 10:07:12] MOVE 24: Gruppe 67 (purple) 84->83 [0.00ms]
+[2026-05-08 10:07:12] SCORE jat (red): Final=310.8, Time=98.8, Moves(5)=0.0, Pins(0)=0.0, Dist=212.0, Win Bonus=0.0
+[2026-05-08 10:07:12] SCORE The bandits (blue): Final=307.6, Time=99.6, Moves(5)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-08 10:07:12] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:12] SCORE Gruppe 67 (purple): Final=291.8, Time=97.8, Moves(5)=0.0, Pins(0)=0.0, Dist=194.0, Win Bonus=0.0
+[2026-05-08 10:07:12] SCORE Group7 (lawn green): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:12] SCORE Group 99 (gray0): Final=309.2, Time=93.2, Moves(5)=0.0, Pins(0)=0.0, Dist=216.0, Win Bonus=0.0
+[2026-05-08 10:07:12] MOVE 25: jat (red) 119->90 [0.00ms]
+[2026-05-08 10:07:12] SCORE jat (red): Final=318.6, Time=98.6, Moves(6)=0.0, Pins(0)=0.0, Dist=220.0, Win Bonus=0.0
+[2026-05-08 10:07:12] SCORE The bandits (blue): Final=307.6, Time=99.6, Moves(5)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-08 10:07:12] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:12] SCORE Gruppe 67 (purple): Final=291.8, Time=97.8, Moves(5)=0.0, Pins(0)=0.0, Dist=194.0, Win Bonus=0.0
+[2026-05-08 10:07:12] SCORE Group7 (lawn green): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:12] SCORE Group 99 (gray0): Final=309.2, Time=93.2, Moves(5)=0.0, Pins(0)=0.0, Dist=216.0, Win Bonus=0.0
+[2026-05-08 10:07:13] MOVE 26: Group7 (lawn green) 33->31 [0.01ms]
+[2026-05-08 10:07:13] SCORE jat (red): Final=318.6, Time=98.6, Moves(6)=0.0, Pins(0)=0.0, Dist=220.0, Win Bonus=0.0
+[2026-05-08 10:07:13] SCORE The bandits (blue): Final=307.6, Time=99.6, Moves(5)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-08 10:07:13] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:13] SCORE Gruppe 67 (purple): Final=291.8, Time=97.8, Moves(5)=0.0, Pins(0)=0.0, Dist=194.0, Win Bonus=0.0
+[2026-05-08 10:07:13] SCORE Group7 (lawn green): Final=294.0, Time=98.0, Moves(3)=0.0, Pins(0)=0.0, Dist=196.0, Win Bonus=0.0
+[2026-05-08 10:07:13] SCORE Group 99 (gray0): Final=309.2, Time=93.2, Moves(5)=0.0, Pins(0)=0.0, Dist=216.0, Win Bonus=0.0
+[2026-05-08 10:07:15] SCORE jat (red): Final=318.6, Time=98.6, Moves(6)=0.0, Pins(0)=0.0, Dist=220.0, Win Bonus=0.0
+[2026-05-08 10:07:15] SCORE The bandits (blue): Final=307.6, Time=99.6, Moves(5)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-08 10:07:15] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:15] SCORE Gruppe 67 (purple): Final=291.8, Time=97.8, Moves(5)=0.0, Pins(0)=0.0, Dist=194.0, Win Bonus=0.0
+[2026-05-08 10:07:15] SCORE Group7 (lawn green): Final=294.0, Time=98.0, Moves(3)=0.0, Pins(0)=0.0, Dist=196.0, Win Bonus=0.0
+[2026-05-08 10:07:15] SCORE Group 99 (gray0): Final=309.2, Time=93.2, Moves(5)=0.0, Pins(0)=0.0, Dist=216.0, Win Bonus=0.0
+[2026-05-08 10:07:15] TURN TIMEOUT: Player with colour yellow exceeded 2s at move 26. Turn skipped.
+[2026-05-08 10:07:15] MOVE 27: The bandits (blue) 9->17 [0.00ms]
+[2026-05-08 10:07:15] SCORE jat (red): Final=318.6, Time=98.6, Moves(6)=0.0, Pins(0)=0.0, Dist=220.0, Win Bonus=0.0
+[2026-05-08 10:07:15] SCORE The bandits (blue): Final=309.5, Time=99.5, Moves(6)=0.0, Pins(0)=0.0, Dist=210.0, Win Bonus=0.0
+[2026-05-08 10:07:15] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:15] SCORE Gruppe 67 (purple): Final=291.8, Time=97.8, Moves(5)=0.0, Pins(0)=0.0, Dist=194.0, Win Bonus=0.0
+[2026-05-08 10:07:15] SCORE Group7 (lawn green): Final=294.0, Time=98.0, Moves(3)=0.0, Pins(0)=0.0, Dist=196.0, Win Bonus=0.0
+[2026-05-08 10:07:15] SCORE Group 99 (gray0): Final=309.2, Time=93.2, Moves(5)=0.0, Pins(0)=0.0, Dist=216.0, Win Bonus=0.0
+[2026-05-08 10:07:17] SCORE jat (red): Final=318.6, Time=98.6, Moves(6)=0.0, Pins(0)=0.0, Dist=220.0, Win Bonus=0.0
+[2026-05-08 10:07:17] SCORE The bandits (blue): Final=309.5, Time=99.5, Moves(6)=0.0, Pins(0)=0.0, Dist=210.0, Win Bonus=0.0
+[2026-05-08 10:07:17] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:17] SCORE Gruppe 67 (purple): Final=291.8, Time=97.8, Moves(5)=0.0, Pins(0)=0.0, Dist=194.0, Win Bonus=0.0
+[2026-05-08 10:07:17] SCORE Group7 (lawn green): Final=294.0, Time=98.0, Moves(3)=0.0, Pins(0)=0.0, Dist=196.0, Win Bonus=0.0
+[2026-05-08 10:07:17] SCORE Group 99 (gray0): Final=309.2, Time=93.2, Moves(5)=0.0, Pins(0)=0.0, Dist=216.0, Win Bonus=0.0
+[2026-05-08 10:07:17] TURN TIMEOUT: Player with colour gray0 exceeded 2s at move 27. Turn skipped.
+[2026-05-08 10:07:18] MOVE 28: Gruppe 67 (purple) 74->84 [0.00ms]
+[2026-05-08 10:07:18] SCORE jat (red): Final=318.6, Time=98.6, Moves(6)=0.0, Pins(0)=0.0, Dist=220.0, Win Bonus=0.0
+[2026-05-08 10:07:18] SCORE The bandits (blue): Final=309.5, Time=99.5, Moves(6)=0.0, Pins(0)=0.0, Dist=210.0, Win Bonus=0.0
+[2026-05-08 10:07:18] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:18] SCORE Gruppe 67 (purple): Final=291.4, Time=97.4, Moves(6)=0.0, Pins(0)=0.0, Dist=194.0, Win Bonus=0.0
+[2026-05-08 10:07:18] SCORE Group7 (lawn green): Final=294.0, Time=98.0, Moves(3)=0.0, Pins(0)=0.0, Dist=196.0, Win Bonus=0.0
+[2026-05-08 10:07:18] SCORE Group 99 (gray0): Final=309.2, Time=93.2, Moves(5)=0.0, Pins(0)=0.0, Dist=216.0, Win Bonus=0.0
+[2026-05-08 10:07:18] MOVE 29: jat (red) 104->58 [0.00ms]
+[2026-05-08 10:07:18] SCORE jat (red): Final=326.4, Time=98.4, Moves(7)=0.0, Pins(0)=0.0, Dist=228.0, Win Bonus=0.0
+[2026-05-08 10:07:18] SCORE The bandits (blue): Final=309.5, Time=99.5, Moves(6)=0.0, Pins(0)=0.0, Dist=210.0, Win Bonus=0.0
+[2026-05-08 10:07:18] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:18] SCORE Gruppe 67 (purple): Final=291.4, Time=97.4, Moves(6)=0.0, Pins(0)=0.0, Dist=194.0, Win Bonus=0.0
+[2026-05-08 10:07:18] SCORE Group7 (lawn green): Final=294.0, Time=98.0, Moves(3)=0.0, Pins(0)=0.0, Dist=196.0, Win Bonus=0.0
+[2026-05-08 10:07:18] SCORE Group 99 (gray0): Final=309.2, Time=93.2, Moves(5)=0.0, Pins(0)=0.0, Dist=216.0, Win Bonus=0.0
+[2026-05-08 10:07:19] MOVE 30: Group7 (lawn green) 19->42 [0.00ms]
+[2026-05-08 10:07:19] SCORE jat (red): Final=326.4, Time=98.4, Moves(7)=0.0, Pins(0)=0.0, Dist=228.0, Win Bonus=0.0
+[2026-05-08 10:07:19] SCORE The bandits (blue): Final=309.5, Time=99.5, Moves(6)=0.0, Pins(0)=0.0, Dist=210.0, Win Bonus=0.0
+[2026-05-08 10:07:19] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:19] SCORE Gruppe 67 (purple): Final=291.4, Time=97.4, Moves(6)=0.0, Pins(0)=0.0, Dist=194.0, Win Bonus=0.0
+[2026-05-08 10:07:19] SCORE Group7 (lawn green): Final=296.8, Time=96.8, Moves(4)=0.0, Pins(0)=0.0, Dist=200.0, Win Bonus=0.0
+[2026-05-08 10:07:19] SCORE Group 99 (gray0): Final=309.2, Time=93.2, Moves(5)=0.0, Pins(0)=0.0, Dist=216.0, Win Bonus=0.0
+[2026-05-08 10:07:21] SCORE jat (red): Final=326.4, Time=98.4, Moves(7)=0.0, Pins(0)=0.0, Dist=228.0, Win Bonus=0.0
+[2026-05-08 10:07:21] SCORE The bandits (blue): Final=309.5, Time=99.5, Moves(6)=0.0, Pins(0)=0.0, Dist=210.0, Win Bonus=0.0
+[2026-05-08 10:07:21] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:21] SCORE Gruppe 67 (purple): Final=291.4, Time=97.4, Moves(6)=0.0, Pins(0)=0.0, Dist=194.0, Win Bonus=0.0
+[2026-05-08 10:07:21] SCORE Group7 (lawn green): Final=296.8, Time=96.8, Moves(4)=0.0, Pins(0)=0.0, Dist=200.0, Win Bonus=0.0
+[2026-05-08 10:07:21] SCORE Group 99 (gray0): Final=309.2, Time=93.2, Moves(5)=0.0, Pins(0)=0.0, Dist=216.0, Win Bonus=0.0
+[2026-05-08 10:07:21] TURN TIMEOUT: Player with colour yellow exceeded 2s at move 30. Turn skipped.
+[2026-05-08 10:07:21] MOVE 31: The bandits (blue) 2->29 [0.00ms]
+[2026-05-08 10:07:21] SCORE jat (red): Final=326.4, Time=98.4, Moves(7)=0.0, Pins(0)=0.0, Dist=228.0, Win Bonus=0.0
+[2026-05-08 10:07:21] SCORE The bandits (blue): Final=317.4, Time=99.4, Moves(7)=0.0, Pins(0)=0.0, Dist=218.0, Win Bonus=0.0
+[2026-05-08 10:07:21] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:21] SCORE Gruppe 67 (purple): Final=291.4, Time=97.4, Moves(6)=0.0, Pins(0)=0.0, Dist=194.0, Win Bonus=0.0
+[2026-05-08 10:07:21] SCORE Group7 (lawn green): Final=296.8, Time=96.8, Moves(4)=0.0, Pins(0)=0.0, Dist=200.0, Win Bonus=0.0
+[2026-05-08 10:07:21] SCORE Group 99 (gray0): Final=309.2, Time=93.2, Moves(5)=0.0, Pins(0)=0.0, Dist=216.0, Win Bonus=0.0
+[2026-05-08 10:07:22] MOVE 32: Group 99 (gray0) 75->106 [0.00ms]
+[2026-05-08 10:07:22] SCORE jat (red): Final=326.4, Time=98.4, Moves(7)=0.0, Pins(0)=0.0, Dist=228.0, Win Bonus=0.0
+[2026-05-08 10:07:22] SCORE The bandits (blue): Final=317.4, Time=99.4, Moves(7)=0.0, Pins(0)=0.0, Dist=218.0, Win Bonus=0.0
+[2026-05-08 10:07:22] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:22] SCORE Gruppe 67 (purple): Final=291.4, Time=97.4, Moves(6)=0.0, Pins(0)=0.0, Dist=194.0, Win Bonus=0.0
+[2026-05-08 10:07:22] SCORE Group7 (lawn green): Final=296.8, Time=96.8, Moves(4)=0.0, Pins(0)=0.0, Dist=200.0, Win Bonus=0.0
+[2026-05-08 10:07:22] SCORE Group 99 (gray0): Final=319.9, Time=91.9, Moves(6)=0.0, Pins(0)=0.0, Dist=228.0, Win Bonus=0.0
+[2026-05-08 10:07:23] MOVE 33: Gruppe 67 (purple) 107->108 [0.01ms]
+[2026-05-08 10:07:23] SCORE jat (red): Final=326.4, Time=98.4, Moves(7)=0.0, Pins(0)=0.0, Dist=228.0, Win Bonus=0.0
+[2026-05-08 10:07:23] SCORE The bandits (blue): Final=317.4, Time=99.4, Moves(7)=0.0, Pins(0)=0.0, Dist=218.0, Win Bonus=0.0
+[2026-05-08 10:07:23] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:23] SCORE Gruppe 67 (purple): Final=288.6, Time=96.6, Moves(7)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:23] SCORE Group7 (lawn green): Final=296.8, Time=96.8, Moves(4)=0.0, Pins(0)=0.0, Dist=200.0, Win Bonus=0.0
+[2026-05-08 10:07:23] SCORE Group 99 (gray0): Final=319.9, Time=91.9, Moves(6)=0.0, Pins(0)=0.0, Dist=228.0, Win Bonus=0.0
+[2026-05-08 10:07:23] MOVE 34: jat (red) 91->48 [0.01ms]
+[2026-05-08 10:07:23] SCORE jat (red): Final=334.2, Time=98.2, Moves(8)=0.0, Pins(0)=0.0, Dist=236.0, Win Bonus=0.0
+[2026-05-08 10:07:23] SCORE The bandits (blue): Final=317.4, Time=99.4, Moves(7)=0.0, Pins(0)=0.0, Dist=218.0, Win Bonus=0.0
+[2026-05-08 10:07:23] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:23] SCORE Gruppe 67 (purple): Final=288.6, Time=96.6, Moves(7)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:23] SCORE Group7 (lawn green): Final=296.8, Time=96.8, Moves(4)=0.0, Pins(0)=0.0, Dist=200.0, Win Bonus=0.0
+[2026-05-08 10:07:23] SCORE Group 99 (gray0): Final=319.9, Time=91.9, Moves(6)=0.0, Pins(0)=0.0, Dist=228.0, Win Bonus=0.0
+[2026-05-08 10:07:24] MOVE 35: Group7 (lawn green) 21->19 [0.01ms]
+[2026-05-08 10:07:24] SCORE jat (red): Final=334.2, Time=98.2, Moves(8)=0.0, Pins(0)=0.0, Dist=236.0, Win Bonus=0.0
+[2026-05-08 10:07:24] SCORE The bandits (blue): Final=317.4, Time=99.4, Moves(7)=0.0, Pins(0)=0.0, Dist=218.0, Win Bonus=0.0
+[2026-05-08 10:07:24] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:24] SCORE Gruppe 67 (purple): Final=288.6, Time=96.6, Moves(7)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:24] SCORE Group7 (lawn green): Final=299.8, Time=95.8, Moves(5)=0.0, Pins(0)=0.0, Dist=204.0, Win Bonus=0.0
+[2026-05-08 10:07:24] SCORE Group 99 (gray0): Final=319.9, Time=91.9, Moves(6)=0.0, Pins(0)=0.0, Dist=228.0, Win Bonus=0.0
+[2026-05-08 10:07:26] SCORE jat (red): Final=334.2, Time=98.2, Moves(8)=0.0, Pins(0)=0.0, Dist=236.0, Win Bonus=0.0
+[2026-05-08 10:07:26] SCORE The bandits (blue): Final=317.4, Time=99.4, Moves(7)=0.0, Pins(0)=0.0, Dist=218.0, Win Bonus=0.0
+[2026-05-08 10:07:26] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:26] SCORE Gruppe 67 (purple): Final=288.6, Time=96.6, Moves(7)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:26] SCORE Group7 (lawn green): Final=299.8, Time=95.8, Moves(5)=0.0, Pins(0)=0.0, Dist=204.0, Win Bonus=0.0
+[2026-05-08 10:07:26] SCORE Group 99 (gray0): Final=319.9, Time=91.9, Moves(6)=0.0, Pins(0)=0.0, Dist=228.0, Win Bonus=0.0
+[2026-05-08 10:07:26] TURN TIMEOUT: Player with colour yellow exceeded 2s at move 35. Turn skipped.
+[2026-05-08 10:07:27] MOVE 36: The bandits (blue) 15->57 [0.00ms]
+[2026-05-08 10:07:27] SCORE jat (red): Final=334.2, Time=98.2, Moves(8)=0.0, Pins(0)=0.0, Dist=236.0, Win Bonus=0.0
+[2026-05-08 10:07:27] SCORE The bandits (blue): Final=325.4, Time=99.4, Moves(8)=0.0, Pins(0)=0.0, Dist=226.0, Win Bonus=0.0
+[2026-05-08 10:07:27] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:27] SCORE Gruppe 67 (purple): Final=288.6, Time=96.6, Moves(7)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:27] SCORE Group7 (lawn green): Final=299.8, Time=95.8, Moves(5)=0.0, Pins(0)=0.0, Dist=204.0, Win Bonus=0.0
+[2026-05-08 10:07:27] SCORE Group 99 (gray0): Final=319.9, Time=91.9, Moves(6)=0.0, Pins(0)=0.0, Dist=228.0, Win Bonus=0.0
+[2026-05-08 10:07:28] MOVE 37: Group 99 (gray0) 65->56 [0.01ms]
+[2026-05-08 10:07:28] SCORE jat (red): Final=334.2, Time=98.2, Moves(8)=0.0, Pins(0)=0.0, Dist=236.0, Win Bonus=0.0
+[2026-05-08 10:07:28] SCORE The bandits (blue): Final=325.4, Time=99.4, Moves(8)=0.0, Pins(0)=0.0, Dist=226.0, Win Bonus=0.0
+[2026-05-08 10:07:28] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:28] SCORE Gruppe 67 (purple): Final=288.6, Time=96.6, Moves(7)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:28] SCORE Group7 (lawn green): Final=299.8, Time=95.8, Moves(5)=0.0, Pins(0)=0.0, Dist=204.0, Win Bonus=0.0
+[2026-05-08 10:07:28] SCORE Group 99 (gray0): Final=320.6, Time=90.6, Moves(7)=0.0, Pins(0)=0.0, Dist=230.0, Win Bonus=0.0
+[2026-05-08 10:07:28] MOVE 38: Gruppe 67 (purple) 83->72 [0.00ms]
+[2026-05-08 10:07:28] SCORE jat (red): Final=334.2, Time=98.2, Moves(8)=0.0, Pins(0)=0.0, Dist=236.0, Win Bonus=0.0
+[2026-05-08 10:07:28] SCORE The bandits (blue): Final=325.4, Time=99.4, Moves(8)=0.0, Pins(0)=0.0, Dist=226.0, Win Bonus=0.0
+[2026-05-08 10:07:28] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:28] SCORE Gruppe 67 (purple): Final=290.1, Time=96.1, Moves(8)=0.0, Pins(0)=0.0, Dist=194.0, Win Bonus=0.0
+[2026-05-08 10:07:28] SCORE Group7 (lawn green): Final=299.8, Time=95.8, Moves(5)=0.0, Pins(0)=0.0, Dist=204.0, Win Bonus=0.0
+[2026-05-08 10:07:28] SCORE Group 99 (gray0): Final=320.6, Time=90.6, Moves(7)=0.0, Pins(0)=0.0, Dist=230.0, Win Bonus=0.0
+[2026-05-08 10:07:28] MOVE 39: jat (red) 120->119 [0.00ms]
+[2026-05-08 10:07:28] SCORE jat (red): Final=336.0, Time=98.0, Moves(9)=0.0, Pins(0)=0.0, Dist=238.0, Win Bonus=0.0
+[2026-05-08 10:07:28] SCORE The bandits (blue): Final=325.4, Time=99.4, Moves(8)=0.0, Pins(0)=0.0, Dist=226.0, Win Bonus=0.0
+[2026-05-08 10:07:28] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:28] SCORE Gruppe 67 (purple): Final=290.1, Time=96.1, Moves(8)=0.0, Pins(0)=0.0, Dist=194.0, Win Bonus=0.0
+[2026-05-08 10:07:28] SCORE Group7 (lawn green): Final=299.8, Time=95.8, Moves(5)=0.0, Pins(0)=0.0, Dist=204.0, Win Bonus=0.0
+[2026-05-08 10:07:28] SCORE Group 99 (gray0): Final=320.6, Time=90.6, Moves(7)=0.0, Pins(0)=0.0, Dist=230.0, Win Bonus=0.0
+[2026-05-08 10:07:29] MOVE 40: Group7 (lawn green) 55->71 [0.01ms]
+[2026-05-08 10:07:29] SCORE jat (red): Final=336.0, Time=98.0, Moves(9)=0.0, Pins(0)=0.0, Dist=238.0, Win Bonus=0.0
+[2026-05-08 10:07:29] SCORE The bandits (blue): Final=325.4, Time=99.4, Moves(8)=0.0, Pins(0)=0.0, Dist=226.0, Win Bonus=0.0
+[2026-05-08 10:07:29] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:29] SCORE Gruppe 67 (purple): Final=290.1, Time=96.1, Moves(8)=0.0, Pins(0)=0.0, Dist=194.0, Win Bonus=0.0
+[2026-05-08 10:07:29] SCORE Group7 (lawn green): Final=306.8, Time=94.8, Moves(6)=0.0, Pins(0)=0.0, Dist=212.0, Win Bonus=0.0
+[2026-05-08 10:07:29] SCORE Group 99 (gray0): Final=320.6, Time=90.6, Moves(7)=0.0, Pins(0)=0.0, Dist=230.0, Win Bonus=0.0
+[2026-05-08 10:07:31] SCORE jat (red): Final=336.0, Time=98.0, Moves(9)=0.0, Pins(0)=0.0, Dist=238.0, Win Bonus=0.0
+[2026-05-08 10:07:31] SCORE The bandits (blue): Final=325.4, Time=99.4, Moves(8)=0.0, Pins(0)=0.0, Dist=226.0, Win Bonus=0.0
+[2026-05-08 10:07:31] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:31] SCORE Gruppe 67 (purple): Final=290.1, Time=96.1, Moves(8)=0.0, Pins(0)=0.0, Dist=194.0, Win Bonus=0.0
+[2026-05-08 10:07:31] SCORE Group7 (lawn green): Final=306.8, Time=94.8, Moves(6)=0.0, Pins(0)=0.0, Dist=212.0, Win Bonus=0.0
+[2026-05-08 10:07:31] SCORE Group 99 (gray0): Final=320.6, Time=90.6, Moves(7)=0.0, Pins(0)=0.0, Dist=230.0, Win Bonus=0.0
+[2026-05-08 10:07:32] TURN TIMEOUT: Player with colour yellow exceeded 2s at move 40. Turn skipped.
+[2026-05-08 10:07:32] MOVE 41: The bandits (blue) 6->15 [0.01ms]
+[2026-05-08 10:07:32] SCORE jat (red): Final=336.0, Time=98.0, Moves(9)=0.0, Pins(0)=0.0, Dist=238.0, Win Bonus=0.0
+[2026-05-08 10:07:32] SCORE The bandits (blue): Final=327.3, Time=99.3, Moves(9)=0.0, Pins(0)=0.0, Dist=228.0, Win Bonus=0.0
+[2026-05-08 10:07:32] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:32] SCORE Gruppe 67 (purple): Final=290.1, Time=96.1, Moves(8)=0.0, Pins(0)=0.0, Dist=194.0, Win Bonus=0.0
+[2026-05-08 10:07:32] SCORE Group7 (lawn green): Final=306.8, Time=94.8, Moves(6)=0.0, Pins(0)=0.0, Dist=212.0, Win Bonus=0.0
+[2026-05-08 10:07:32] SCORE Group 99 (gray0): Final=320.6, Time=90.6, Moves(7)=0.0, Pins(0)=0.0, Dist=230.0, Win Bonus=0.0
+[2026-05-08 10:07:33] MOVE 42: Group 99 (gray0) 88->77 [0.01ms]
+[2026-05-08 10:07:33] SCORE jat (red): Final=336.0, Time=98.0, Moves(9)=0.0, Pins(0)=0.0, Dist=238.0, Win Bonus=0.0
+[2026-05-08 10:07:33] SCORE The bandits (blue): Final=327.3, Time=99.3, Moves(9)=0.0, Pins(0)=0.0, Dist=228.0, Win Bonus=0.0
+[2026-05-08 10:07:33] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:33] SCORE Gruppe 67 (purple): Final=290.1, Time=96.1, Moves(8)=0.0, Pins(0)=0.0, Dist=194.0, Win Bonus=0.0
+[2026-05-08 10:07:33] SCORE Group7 (lawn green): Final=306.8, Time=94.8, Moves(6)=0.0, Pins(0)=0.0, Dist=212.0, Win Bonus=0.0
+[2026-05-08 10:07:33] SCORE Group 99 (gray0): Final=321.3, Time=89.3, Moves(8)=0.0, Pins(0)=0.0, Dist=232.0, Win Bonus=0.0
+[2026-05-08 10:07:33] MOVE 43: Gruppe 67 (purple) 96->73 [0.00ms]
+[2026-05-08 10:07:33] SCORE jat (red): Final=336.0, Time=98.0, Moves(9)=0.0, Pins(0)=0.0, Dist=238.0, Win Bonus=0.0
+[2026-05-08 10:07:33] SCORE The bandits (blue): Final=327.3, Time=99.3, Moves(9)=0.0, Pins(0)=0.0, Dist=228.0, Win Bonus=0.0
+[2026-05-08 10:07:33] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:33] SCORE Gruppe 67 (purple): Final=293.8, Time=95.8, Moves(9)=0.0, Pins(0)=0.0, Dist=198.0, Win Bonus=0.0
+[2026-05-08 10:07:33] SCORE Group7 (lawn green): Final=306.8, Time=94.8, Moves(6)=0.0, Pins(0)=0.0, Dist=212.0, Win Bonus=0.0
+[2026-05-08 10:07:33] SCORE Group 99 (gray0): Final=321.3, Time=89.3, Moves(8)=0.0, Pins(0)=0.0, Dist=232.0, Win Bonus=0.0
+[2026-05-08 10:07:33] MOVE 44: jat (red) 119->92 [0.00ms]
+[2026-05-08 10:07:33] SCORE jat (red): Final=343.7, Time=97.7, Moves(10)=0.0, Pins(0)=0.0, Dist=246.0, Win Bonus=0.0
+[2026-05-08 10:07:33] SCORE The bandits (blue): Final=327.3, Time=99.3, Moves(9)=0.0, Pins(0)=0.0, Dist=228.0, Win Bonus=0.0
+[2026-05-08 10:07:33] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:33] SCORE Gruppe 67 (purple): Final=293.8, Time=95.8, Moves(9)=0.0, Pins(0)=0.0, Dist=198.0, Win Bonus=0.0
+[2026-05-08 10:07:33] SCORE Group7 (lawn green): Final=306.8, Time=94.8, Moves(6)=0.0, Pins(0)=0.0, Dist=212.0, Win Bonus=0.0
+[2026-05-08 10:07:33] SCORE Group 99 (gray0): Final=321.3, Time=89.3, Moves(8)=0.0, Pins(0)=0.0, Dist=232.0, Win Bonus=0.0
+[2026-05-08 10:07:34] MOVE 45: Group7 (lawn green) 64->100 [0.00ms]
+[2026-05-08 10:07:34] SCORE jat (red): Final=343.7, Time=97.7, Moves(10)=0.0, Pins(0)=0.0, Dist=246.0, Win Bonus=0.0
+[2026-05-08 10:07:34] SCORE The bandits (blue): Final=327.3, Time=99.3, Moves(9)=0.0, Pins(0)=0.0, Dist=228.0, Win Bonus=0.0
+[2026-05-08 10:07:34] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:34] SCORE Gruppe 67 (purple): Final=293.8, Time=95.8, Moves(9)=0.0, Pins(0)=0.0, Dist=198.0, Win Bonus=0.0
+[2026-05-08 10:07:34] SCORE Group7 (lawn green): Final=423.8, Time=93.8, Moves(7)=0.0, Pins(1)=100.0, Dist=230.0, Win Bonus=0.0
+[2026-05-08 10:07:34] SCORE Group 99 (gray0): Final=321.3, Time=89.3, Moves(8)=0.0, Pins(0)=0.0, Dist=232.0, Win Bonus=0.0
+[2026-05-08 10:07:36] SCORE jat (red): Final=343.7, Time=97.7, Moves(10)=0.0, Pins(0)=0.0, Dist=246.0, Win Bonus=0.0
+[2026-05-08 10:07:36] SCORE The bandits (blue): Final=327.3, Time=99.3, Moves(9)=0.0, Pins(0)=0.0, Dist=228.0, Win Bonus=0.0
+[2026-05-08 10:07:36] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:36] SCORE Gruppe 67 (purple): Final=293.8, Time=95.8, Moves(9)=0.0, Pins(0)=0.0, Dist=198.0, Win Bonus=0.0
+[2026-05-08 10:07:36] SCORE Group7 (lawn green): Final=423.8, Time=93.8, Moves(7)=0.0, Pins(1)=100.0, Dist=230.0, Win Bonus=0.0
+[2026-05-08 10:07:36] SCORE Group 99 (gray0): Final=321.3, Time=89.3, Moves(8)=0.0, Pins(0)=0.0, Dist=232.0, Win Bonus=0.0
+[2026-05-08 10:07:36] TURN TIMEOUT: Player with colour yellow exceeded 2s at move 45. Turn skipped.
+[2026-05-08 10:07:37] MOVE 46: The bandits (blue) 1->3 [0.00ms]
+[2026-05-08 10:07:37] SCORE jat (red): Final=343.7, Time=97.7, Moves(10)=0.0, Pins(0)=0.0, Dist=246.0, Win Bonus=0.0
+[2026-05-08 10:07:37] SCORE The bandits (blue): Final=329.2, Time=99.2, Moves(10)=0.0, Pins(0)=0.0, Dist=230.0, Win Bonus=0.0
+[2026-05-08 10:07:37] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:37] SCORE Gruppe 67 (purple): Final=293.8, Time=95.8, Moves(9)=0.0, Pins(0)=0.0, Dist=198.0, Win Bonus=0.0
+[2026-05-08 10:07:37] SCORE Group7 (lawn green): Final=423.8, Time=93.8, Moves(7)=0.0, Pins(1)=100.0, Dist=230.0, Win Bonus=0.0
+[2026-05-08 10:07:37] SCORE Group 99 (gray0): Final=321.3, Time=89.3, Moves(8)=0.0, Pins(0)=0.0, Dist=232.0, Win Bonus=0.0
+[2026-05-08 10:07:38] MOVE 47: Group 99 (gray0) 106->64 [0.00ms]
+[2026-05-08 10:07:38] SCORE jat (red): Final=343.7, Time=97.7, Moves(10)=0.0, Pins(0)=0.0, Dist=246.0, Win Bonus=0.0
+[2026-05-08 10:07:38] SCORE The bandits (blue): Final=329.2, Time=99.2, Moves(10)=0.0, Pins(0)=0.0, Dist=230.0, Win Bonus=0.0
+[2026-05-08 10:07:38] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:38] SCORE Gruppe 67 (purple): Final=293.8, Time=95.8, Moves(9)=0.0, Pins(0)=0.0, Dist=198.0, Win Bonus=0.0
+[2026-05-08 10:07:38] SCORE Group7 (lawn green): Final=423.8, Time=93.8, Moves(7)=0.0, Pins(1)=100.0, Dist=230.0, Win Bonus=0.0
+[2026-05-08 10:07:38] SCORE Group 99 (gray0): Final=328.1, Time=88.1, Moves(9)=0.0, Pins(0)=0.0, Dist=240.0, Win Bonus=0.0
+[2026-05-08 10:07:38] MOVE 48: Gruppe 67 (purple) 84->83 [0.00ms]
+[2026-05-08 10:07:38] SCORE jat (red): Final=343.7, Time=97.7, Moves(10)=0.0, Pins(0)=0.0, Dist=246.0, Win Bonus=0.0
+[2026-05-08 10:07:38] SCORE The bandits (blue): Final=329.2, Time=99.2, Moves(10)=0.0, Pins(0)=0.0, Dist=230.0, Win Bonus=0.0
+[2026-05-08 10:07:38] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:38] SCORE Gruppe 67 (purple): Final=295.4, Time=95.4, Moves(10)=0.0, Pins(0)=0.0, Dist=200.0, Win Bonus=0.0
+[2026-05-08 10:07:38] SCORE Group7 (lawn green): Final=423.8, Time=93.8, Moves(7)=0.0, Pins(1)=100.0, Dist=230.0, Win Bonus=0.0
+[2026-05-08 10:07:38] SCORE Group 99 (gray0): Final=328.1, Time=88.1, Moves(9)=0.0, Pins(0)=0.0, Dist=240.0, Win Bonus=0.0
+[2026-05-08 10:07:39] MOVE 49: jat (red) 111->103 [0.00ms]
+[2026-05-08 10:07:39] SCORE jat (red): Final=345.4, Time=97.4, Moves(11)=0.0, Pins(0)=0.0, Dist=248.0, Win Bonus=0.0
+[2026-05-08 10:07:39] SCORE The bandits (blue): Final=329.2, Time=99.2, Moves(10)=0.0, Pins(0)=0.0, Dist=230.0, Win Bonus=0.0
+[2026-05-08 10:07:39] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:39] SCORE Gruppe 67 (purple): Final=295.4, Time=95.4, Moves(10)=0.0, Pins(0)=0.0, Dist=200.0, Win Bonus=0.0
+[2026-05-08 10:07:39] SCORE Group7 (lawn green): Final=423.8, Time=93.8, Moves(7)=0.0, Pins(1)=100.0, Dist=230.0, Win Bonus=0.0
+[2026-05-08 10:07:39] SCORE Group 99 (gray0): Final=328.1, Time=88.1, Moves(9)=0.0, Pins(0)=0.0, Dist=240.0, Win Bonus=0.0
+[2026-05-08 10:07:40] MOVE 50: Group7 (lawn green) 32->8 [0.01ms]
+[2026-05-08 10:07:40] SCORE jat (red): Final=345.4, Time=97.4, Moves(11)=0.0, Pins(0)=0.0, Dist=248.0, Win Bonus=0.0
+[2026-05-08 10:07:40] SCORE The bandits (blue): Final=329.2, Time=99.2, Moves(10)=0.0, Pins(0)=0.0, Dist=230.0, Win Bonus=0.0
+[2026-05-08 10:07:40] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:40] SCORE Gruppe 67 (purple): Final=295.4, Time=95.4, Moves(10)=0.0, Pins(0)=0.0, Dist=200.0, Win Bonus=0.0
+[2026-05-08 10:07:40] SCORE Group7 (lawn green): Final=426.7, Time=92.7, Moves(8)=0.0, Pins(1)=100.0, Dist=234.0, Win Bonus=0.0
+[2026-05-08 10:07:40] SCORE Group 99 (gray0): Final=328.1, Time=88.1, Moves(9)=0.0, Pins(0)=0.0, Dist=240.0, Win Bonus=0.0
+[2026-05-08 10:07:42] SCORE jat (red): Final=345.4, Time=97.4, Moves(11)=0.0, Pins(0)=0.0, Dist=248.0, Win Bonus=0.0
+[2026-05-08 10:07:42] SCORE The bandits (blue): Final=329.2, Time=99.2, Moves(10)=0.0, Pins(0)=0.0, Dist=230.0, Win Bonus=0.0
+[2026-05-08 10:07:42] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:42] SCORE Gruppe 67 (purple): Final=295.4, Time=95.4, Moves(10)=0.0, Pins(0)=0.0, Dist=200.0, Win Bonus=0.0
+[2026-05-08 10:07:42] SCORE Group7 (lawn green): Final=426.7, Time=92.7, Moves(8)=0.0, Pins(1)=100.0, Dist=234.0, Win Bonus=0.0
+[2026-05-08 10:07:42] SCORE Group 99 (gray0): Final=328.1, Time=88.1, Moves(9)=0.0, Pins(0)=0.0, Dist=240.0, Win Bonus=0.0
+[2026-05-08 10:07:42] TURN TIMEOUT: Player with colour yellow exceeded 2s at move 50. Turn skipped.
+[2026-05-08 10:07:42] MOVE 51: The bandits (blue) 17->40 [0.01ms]
+[2026-05-08 10:07:42] SCORE jat (red): Final=345.4, Time=97.4, Moves(11)=0.0, Pins(0)=0.0, Dist=248.0, Win Bonus=0.0
+[2026-05-08 10:07:42] SCORE The bandits (blue): Final=333.2, Time=99.2, Moves(11)=0.0, Pins(0)=0.0, Dist=234.0, Win Bonus=0.0
+[2026-05-08 10:07:42] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:42] SCORE Gruppe 67 (purple): Final=295.4, Time=95.4, Moves(10)=0.0, Pins(0)=0.0, Dist=200.0, Win Bonus=0.0
+[2026-05-08 10:07:42] SCORE Group7 (lawn green): Final=426.7, Time=92.7, Moves(8)=0.0, Pins(1)=100.0, Dist=234.0, Win Bonus=0.0
+[2026-05-08 10:07:42] SCORE Group 99 (gray0): Final=328.1, Time=88.1, Moves(9)=0.0, Pins(0)=0.0, Dist=240.0, Win Bonus=0.0
+[2026-05-08 10:07:43] MOVE 52: Group 99 (gray0) 64->55 [0.01ms]
+[2026-05-08 10:07:43] SCORE jat (red): Final=345.4, Time=97.4, Moves(11)=0.0, Pins(0)=0.0, Dist=248.0, Win Bonus=0.0
+[2026-05-08 10:07:43] SCORE The bandits (blue): Final=333.2, Time=99.2, Moves(11)=0.0, Pins(0)=0.0, Dist=234.0, Win Bonus=0.0
+[2026-05-08 10:07:43] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:43] SCORE Gruppe 67 (purple): Final=295.4, Time=95.4, Moves(10)=0.0, Pins(0)=0.0, Dist=200.0, Win Bonus=0.0
+[2026-05-08 10:07:43] SCORE Group7 (lawn green): Final=426.7, Time=92.7, Moves(8)=0.0, Pins(1)=100.0, Dist=234.0, Win Bonus=0.0
+[2026-05-08 10:07:43] SCORE Group 99 (gray0): Final=428.8, Time=86.8, Moves(10)=0.0, Pins(1)=100.0, Dist=242.0, Win Bonus=0.0
+[2026-05-08 10:07:43] MOVE 53: Gruppe 67 (purple) 94->82 [0.00ms]
+[2026-05-08 10:07:43] SCORE jat (red): Final=345.4, Time=97.4, Moves(11)=0.0, Pins(0)=0.0, Dist=248.0, Win Bonus=0.0
+[2026-05-08 10:07:43] SCORE The bandits (blue): Final=333.2, Time=99.2, Moves(11)=0.0, Pins(0)=0.0, Dist=234.0, Win Bonus=0.0
+[2026-05-08 10:07:43] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:43] SCORE Gruppe 67 (purple): Final=296.9, Time=94.9, Moves(11)=0.0, Pins(0)=0.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:07:43] SCORE Group7 (lawn green): Final=426.7, Time=92.7, Moves(8)=0.0, Pins(1)=100.0, Dist=234.0, Win Bonus=0.0
+[2026-05-08 10:07:43] SCORE Group 99 (gray0): Final=428.8, Time=86.8, Moves(10)=0.0, Pins(1)=100.0, Dist=242.0, Win Bonus=0.0
+[2026-05-08 10:07:44] MOVE 54: jat (red) 118->68 [0.00ms]
+[2026-05-08 10:07:44] SCORE jat (red): Final=357.3, Time=97.3, Moves(12)=0.0, Pins(0)=0.0, Dist=260.0, Win Bonus=0.0
+[2026-05-08 10:07:44] SCORE The bandits (blue): Final=333.2, Time=99.2, Moves(11)=0.0, Pins(0)=0.0, Dist=234.0, Win Bonus=0.0
+[2026-05-08 10:07:44] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:44] SCORE Gruppe 67 (purple): Final=296.9, Time=94.9, Moves(11)=0.0, Pins(0)=0.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:07:44] SCORE Group7 (lawn green): Final=426.7, Time=92.7, Moves(8)=0.0, Pins(1)=100.0, Dist=234.0, Win Bonus=0.0
+[2026-05-08 10:07:44] SCORE Group 99 (gray0): Final=428.8, Time=86.8, Moves(10)=0.0, Pins(1)=100.0, Dist=242.0, Win Bonus=0.0
+[2026-05-08 10:07:45] MOVE 55: Group7 (lawn green) 43->39 [0.00ms]
+[2026-05-08 10:07:45] SCORE jat (red): Final=357.3, Time=97.3, Moves(12)=0.0, Pins(0)=0.0, Dist=260.0, Win Bonus=0.0
+[2026-05-08 10:07:45] SCORE The bandits (blue): Final=333.2, Time=99.2, Moves(11)=0.0, Pins(0)=0.0, Dist=234.0, Win Bonus=0.0
+[2026-05-08 10:07:45] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:45] SCORE Gruppe 67 (purple): Final=296.9, Time=94.9, Moves(11)=0.0, Pins(0)=0.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:07:45] SCORE Group7 (lawn green): Final=433.6, Time=91.6, Moves(9)=0.0, Pins(1)=100.0, Dist=242.0, Win Bonus=0.0
+[2026-05-08 10:07:45] SCORE Group 99 (gray0): Final=428.8, Time=86.8, Moves(10)=0.0, Pins(1)=100.0, Dist=242.0, Win Bonus=0.0
+[2026-05-08 10:07:47] SCORE jat (red): Final=357.3, Time=97.3, Moves(12)=0.0, Pins(0)=0.0, Dist=260.0, Win Bonus=0.0
+[2026-05-08 10:07:47] SCORE The bandits (blue): Final=333.2, Time=99.2, Moves(11)=0.0, Pins(0)=0.0, Dist=234.0, Win Bonus=0.0
+[2026-05-08 10:07:47] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:47] SCORE Gruppe 67 (purple): Final=296.9, Time=94.9, Moves(11)=0.0, Pins(0)=0.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:07:47] SCORE Group7 (lawn green): Final=433.6, Time=91.6, Moves(9)=0.0, Pins(1)=100.0, Dist=242.0, Win Bonus=0.0
+[2026-05-08 10:07:47] SCORE Group 99 (gray0): Final=428.8, Time=86.8, Moves(10)=0.0, Pins(1)=100.0, Dist=242.0, Win Bonus=0.0
+[2026-05-08 10:07:47] TURN TIMEOUT: Player with colour yellow exceeded 2s at move 55. Turn skipped.
+[2026-05-08 10:07:47] MOVE 56: The bandits (blue) 29->50 [0.00ms]
+[2026-05-08 10:07:47] SCORE jat (red): Final=357.3, Time=97.3, Moves(12)=0.0, Pins(0)=0.0, Dist=260.0, Win Bonus=0.0
+[2026-05-08 10:07:47] SCORE The bandits (blue): Final=337.1, Time=99.1, Moves(12)=0.0, Pins(0)=0.0, Dist=238.0, Win Bonus=0.0
+[2026-05-08 10:07:47] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:47] SCORE Gruppe 67 (purple): Final=296.9, Time=94.9, Moves(11)=0.0, Pins(0)=0.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:07:47] SCORE Group7 (lawn green): Final=433.6, Time=91.6, Moves(9)=0.0, Pins(1)=100.0, Dist=242.0, Win Bonus=0.0
+[2026-05-08 10:07:47] SCORE Group 99 (gray0): Final=428.8, Time=86.8, Moves(10)=0.0, Pins(1)=100.0, Dist=242.0, Win Bonus=0.0
+[2026-05-08 10:07:48] MOVE 57: Group 99 (gray0) 77->62 [0.00ms]
+[2026-05-08 10:07:48] SCORE jat (red): Final=357.3, Time=97.3, Moves(12)=0.0, Pins(0)=0.0, Dist=260.0, Win Bonus=0.0
+[2026-05-08 10:07:48] SCORE The bandits (blue): Final=337.1, Time=99.1, Moves(12)=0.0, Pins(0)=0.0, Dist=238.0, Win Bonus=0.0
+[2026-05-08 10:07:48] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:48] SCORE Gruppe 67 (purple): Final=296.9, Time=94.9, Moves(11)=0.0, Pins(0)=0.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:07:48] SCORE Group7 (lawn green): Final=433.6, Time=91.6, Moves(9)=0.0, Pins(1)=100.0, Dist=242.0, Win Bonus=0.0
+[2026-05-08 10:07:48] SCORE Group 99 (gray0): Final=439.4, Time=85.4, Moves(11)=0.0, Pins(1)=100.0, Dist=254.0, Win Bonus=0.0
+[2026-05-08 10:07:49] MOVE 58: Gruppe 67 (purple) 95->94 [0.01ms]
+[2026-05-08 10:07:49] SCORE jat (red): Final=357.3, Time=97.3, Moves(12)=0.0, Pins(0)=0.0, Dist=260.0, Win Bonus=0.0
+[2026-05-08 10:07:49] SCORE The bandits (blue): Final=337.1, Time=99.1, Moves(12)=0.0, Pins(0)=0.0, Dist=238.0, Win Bonus=0.0
+[2026-05-08 10:07:49] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:49] SCORE Gruppe 67 (purple): Final=298.5, Time=94.5, Moves(12)=0.0, Pins(0)=0.0, Dist=204.0, Win Bonus=0.0
+[2026-05-08 10:07:49] SCORE Group7 (lawn green): Final=433.6, Time=91.6, Moves(9)=0.0, Pins(1)=100.0, Dist=242.0, Win Bonus=0.0
+[2026-05-08 10:07:49] SCORE Group 99 (gray0): Final=439.4, Time=85.4, Moves(11)=0.0, Pins(1)=100.0, Dist=254.0, Win Bonus=0.0
+[2026-05-08 10:07:49] MOVE 59: jat (red) 117->113 [0.01ms]
+[2026-05-08 10:07:49] SCORE jat (red): Final=359.1, Time=97.1, Moves(13)=0.0, Pins(0)=0.0, Dist=262.0, Win Bonus=0.0
+[2026-05-08 10:07:49] SCORE The bandits (blue): Final=337.1, Time=99.1, Moves(12)=0.0, Pins(0)=0.0, Dist=238.0, Win Bonus=0.0
+[2026-05-08 10:07:49] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:49] SCORE Gruppe 67 (purple): Final=298.5, Time=94.5, Moves(12)=0.0, Pins(0)=0.0, Dist=204.0, Win Bonus=0.0
+[2026-05-08 10:07:49] SCORE Group7 (lawn green): Final=433.6, Time=91.6, Moves(9)=0.0, Pins(1)=100.0, Dist=242.0, Win Bonus=0.0
+[2026-05-08 10:07:49] SCORE Group 99 (gray0): Final=439.4, Time=85.4, Moves(11)=0.0, Pins(1)=100.0, Dist=254.0, Win Bonus=0.0
+[2026-05-08 10:07:50] MOVE 60: Group7 (lawn green) 20->41 [0.01ms]
+[2026-05-08 10:07:50] SCORE jat (red): Final=359.1, Time=97.1, Moves(13)=0.0, Pins(0)=0.0, Dist=262.0, Win Bonus=0.0
+[2026-05-08 10:07:50] SCORE The bandits (blue): Final=337.1, Time=99.1, Moves(12)=0.0, Pins(0)=0.0, Dist=238.0, Win Bonus=0.0
+[2026-05-08 10:07:50] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:50] SCORE Gruppe 67 (purple): Final=298.5, Time=94.5, Moves(12)=0.0, Pins(0)=0.0, Dist=204.0, Win Bonus=0.0
+[2026-05-08 10:07:50] SCORE Group7 (lawn green): Final=440.6, Time=90.6, Moves(10)=0.0, Pins(1)=100.0, Dist=250.0, Win Bonus=0.0
+[2026-05-08 10:07:50] SCORE Group 99 (gray0): Final=439.4, Time=85.4, Moves(11)=0.0, Pins(1)=100.0, Dist=254.0, Win Bonus=0.0
+[2026-05-08 10:07:52] SCORE jat (red): Final=359.1, Time=97.1, Moves(13)=0.0, Pins(0)=0.0, Dist=262.0, Win Bonus=0.0
+[2026-05-08 10:07:52] SCORE The bandits (blue): Final=337.1, Time=99.1, Moves(12)=0.0, Pins(0)=0.0, Dist=238.0, Win Bonus=0.0
+[2026-05-08 10:07:52] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:52] SCORE Gruppe 67 (purple): Final=298.5, Time=94.5, Moves(12)=0.0, Pins(0)=0.0, Dist=204.0, Win Bonus=0.0
+[2026-05-08 10:07:52] SCORE Group7 (lawn green): Final=440.6, Time=90.6, Moves(10)=0.0, Pins(1)=100.0, Dist=250.0, Win Bonus=0.0
+[2026-05-08 10:07:52] SCORE Group 99 (gray0): Final=439.4, Time=85.4, Moves(11)=0.0, Pins(1)=100.0, Dist=254.0, Win Bonus=0.0
+[2026-05-08 10:07:52] TURN TIMEOUT: Player with colour yellow exceeded 2s at move 60. Turn skipped.
+[2026-05-08 10:07:52] MOVE 61: The bandits (blue) 28->49 [0.00ms]
+[2026-05-08 10:07:52] SCORE jat (red): Final=359.1, Time=97.1, Moves(13)=0.0, Pins(0)=0.0, Dist=262.0, Win Bonus=0.0
+[2026-05-08 10:07:52] SCORE The bandits (blue): Final=340.8, Time=98.8, Moves(13)=0.0, Pins(0)=0.0, Dist=242.0, Win Bonus=0.0
+[2026-05-08 10:07:52] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:52] SCORE Gruppe 67 (purple): Final=298.5, Time=94.5, Moves(12)=0.0, Pins(0)=0.0, Dist=204.0, Win Bonus=0.0
+[2026-05-08 10:07:52] SCORE Group7 (lawn green): Final=440.6, Time=90.6, Moves(10)=0.0, Pins(1)=100.0, Dist=250.0, Win Bonus=0.0
+[2026-05-08 10:07:52] SCORE Group 99 (gray0): Final=439.4, Time=85.4, Moves(11)=0.0, Pins(1)=100.0, Dist=254.0, Win Bonus=0.0
+[2026-05-08 10:07:54] MOVE 62: Group 99 (gray0) 78->63 [0.00ms]
+[2026-05-08 10:07:54] SCORE jat (red): Final=359.1, Time=97.1, Moves(13)=0.0, Pins(0)=0.0, Dist=262.0, Win Bonus=0.0
+[2026-05-08 10:07:54] SCORE The bandits (blue): Final=340.8, Time=98.8, Moves(13)=0.0, Pins(0)=0.0, Dist=242.0, Win Bonus=0.0
+[2026-05-08 10:07:54] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:54] SCORE Gruppe 67 (purple): Final=298.5, Time=94.5, Moves(12)=0.0, Pins(0)=0.0, Dist=204.0, Win Bonus=0.0
+[2026-05-08 10:07:54] SCORE Group7 (lawn green): Final=440.6, Time=90.6, Moves(10)=0.0, Pins(1)=100.0, Dist=250.0, Win Bonus=0.0
+[2026-05-08 10:07:54] SCORE Group 99 (gray0): Final=449.9, Time=83.9, Moves(12)=0.0, Pins(1)=100.0, Dist=266.0, Win Bonus=0.0
+[2026-05-08 10:07:55] MOVE 63: Gruppe 67 (purple) 108->95 [0.01ms]
+[2026-05-08 10:07:55] SCORE jat (red): Final=359.1, Time=97.1, Moves(13)=0.0, Pins(0)=0.0, Dist=262.0, Win Bonus=0.0
+[2026-05-08 10:07:55] SCORE The bandits (blue): Final=340.8, Time=98.8, Moves(13)=0.0, Pins(0)=0.0, Dist=242.0, Win Bonus=0.0
+[2026-05-08 10:07:55] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:55] SCORE Gruppe 67 (purple): Final=299.8, Time=93.8, Moves(13)=0.0, Pins(0)=0.0, Dist=206.0, Win Bonus=0.0
+[2026-05-08 10:07:55] SCORE Group7 (lawn green): Final=440.6, Time=90.6, Moves(10)=0.0, Pins(1)=100.0, Dist=250.0, Win Bonus=0.0
+[2026-05-08 10:07:55] SCORE Group 99 (gray0): Final=449.9, Time=83.9, Moves(12)=0.0, Pins(1)=100.0, Dist=266.0, Win Bonus=0.0
+[2026-05-08 10:07:55] MOVE 64: jat (red) 103->38 [0.00ms]
+[2026-05-08 10:07:55] SCORE jat (red): Final=370.8, Time=96.8, Moves(14)=0.0, Pins(0)=0.0, Dist=274.0, Win Bonus=0.0
+[2026-05-08 10:07:55] SCORE The bandits (blue): Final=340.8, Time=98.8, Moves(13)=0.0, Pins(0)=0.0, Dist=242.0, Win Bonus=0.0
+[2026-05-08 10:07:55] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:55] SCORE Gruppe 67 (purple): Final=299.8, Time=93.8, Moves(13)=0.0, Pins(0)=0.0, Dist=206.0, Win Bonus=0.0
+[2026-05-08 10:07:55] SCORE Group7 (lawn green): Final=440.6, Time=90.6, Moves(10)=0.0, Pins(1)=100.0, Dist=250.0, Win Bonus=0.0
+[2026-05-08 10:07:55] SCORE Group 99 (gray0): Final=449.9, Time=83.9, Moves(12)=0.0, Pins(1)=100.0, Dist=266.0, Win Bonus=0.0
+[2026-05-08 10:07:56] MOVE 65: Group7 (lawn green) 31->52 [0.01ms]
+[2026-05-08 10:07:56] SCORE jat (red): Final=370.8, Time=96.8, Moves(14)=0.0, Pins(0)=0.0, Dist=274.0, Win Bonus=0.0
+[2026-05-08 10:07:56] SCORE The bandits (blue): Final=340.8, Time=98.8, Moves(13)=0.0, Pins(0)=0.0, Dist=242.0, Win Bonus=0.0
+[2026-05-08 10:07:56] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:56] SCORE Gruppe 67 (purple): Final=299.8, Time=93.8, Moves(13)=0.0, Pins(0)=0.0, Dist=206.0, Win Bonus=0.0
+[2026-05-08 10:07:56] SCORE Group7 (lawn green): Final=443.6, Time=89.6, Moves(11)=0.0, Pins(1)=100.0, Dist=254.0, Win Bonus=0.0
+[2026-05-08 10:07:56] SCORE Group 99 (gray0): Final=449.9, Time=83.9, Moves(12)=0.0, Pins(1)=100.0, Dist=266.0, Win Bonus=0.0
+[2026-05-08 10:07:58] SCORE jat (red): Final=370.8, Time=96.8, Moves(14)=0.0, Pins(0)=0.0, Dist=274.0, Win Bonus=0.0
+[2026-05-08 10:07:58] SCORE The bandits (blue): Final=340.8, Time=98.8, Moves(13)=0.0, Pins(0)=0.0, Dist=242.0, Win Bonus=0.0
+[2026-05-08 10:07:58] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:58] SCORE Gruppe 67 (purple): Final=299.8, Time=93.8, Moves(13)=0.0, Pins(0)=0.0, Dist=206.0, Win Bonus=0.0
+[2026-05-08 10:07:58] SCORE Group7 (lawn green): Final=443.6, Time=89.6, Moves(11)=0.0, Pins(1)=100.0, Dist=254.0, Win Bonus=0.0
+[2026-05-08 10:07:58] SCORE Group 99 (gray0): Final=449.9, Time=83.9, Moves(12)=0.0, Pins(1)=100.0, Dist=266.0, Win Bonus=0.0
+[2026-05-08 10:07:58] TURN TIMEOUT: Player with colour yellow exceeded 2s at move 65. Turn skipped.
+[2026-05-08 10:07:58] MOVE 66: The bandits (blue) 40->78 [0.01ms]
+[2026-05-08 10:07:58] SCORE jat (red): Final=370.8, Time=96.8, Moves(14)=0.0, Pins(0)=0.0, Dist=274.0, Win Bonus=0.0
+[2026-05-08 10:07:58] SCORE The bandits (blue): Final=348.8, Time=98.8, Moves(14)=0.0, Pins(0)=0.0, Dist=250.0, Win Bonus=0.0
+[2026-05-08 10:07:58] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:58] SCORE Gruppe 67 (purple): Final=299.8, Time=93.8, Moves(13)=0.0, Pins(0)=0.0, Dist=206.0, Win Bonus=0.0
+[2026-05-08 10:07:58] SCORE Group7 (lawn green): Final=443.6, Time=89.6, Moves(11)=0.0, Pins(1)=100.0, Dist=254.0, Win Bonus=0.0
+[2026-05-08 10:07:58] SCORE Group 99 (gray0): Final=449.9, Time=83.9, Moves(12)=0.0, Pins(1)=100.0, Dist=266.0, Win Bonus=0.0
+[2026-05-08 10:07:59] MOVE 67: Group 99 (gray0) 62->22 [0.00ms]
+[2026-05-08 10:07:59] SCORE jat (red): Final=370.8, Time=96.8, Moves(14)=0.0, Pins(0)=0.0, Dist=274.0, Win Bonus=0.0
+[2026-05-08 10:07:59] SCORE The bandits (blue): Final=348.8, Time=98.8, Moves(14)=0.0, Pins(0)=0.0, Dist=250.0, Win Bonus=0.0
+[2026-05-08 10:07:59] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:07:59] SCORE Gruppe 67 (purple): Final=299.8, Time=93.8, Moves(13)=0.0, Pins(0)=0.0, Dist=206.0, Win Bonus=0.0
+[2026-05-08 10:07:59] SCORE Group7 (lawn green): Final=443.6, Time=89.6, Moves(11)=0.0, Pins(1)=100.0, Dist=254.0, Win Bonus=0.0
+[2026-05-08 10:07:59] SCORE Group 99 (gray0): Final=554.6, Time=82.6, Moves(13)=0.0, Pins(2)=200.0, Dist=272.0, Win Bonus=0.0
+[2026-05-08 10:08:00] MOVE 68: Gruppe 67 (purple) 110->109 [0.01ms]
+[2026-05-08 10:08:00] SCORE jat (red): Final=370.8, Time=96.8, Moves(14)=0.0, Pins(0)=0.0, Dist=274.0, Win Bonus=0.0
+[2026-05-08 10:08:00] SCORE The bandits (blue): Final=348.8, Time=98.8, Moves(14)=0.0, Pins(0)=0.0, Dist=250.0, Win Bonus=0.0
+[2026-05-08 10:08:00] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:08:00] SCORE Gruppe 67 (purple): Final=301.4, Time=93.4, Moves(14)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-08 10:08:00] SCORE Group7 (lawn green): Final=443.6, Time=89.6, Moves(11)=0.0, Pins(1)=100.0, Dist=254.0, Win Bonus=0.0
+[2026-05-08 10:08:00] SCORE Group 99 (gray0): Final=554.6, Time=82.6, Moves(13)=0.0, Pins(2)=200.0, Dist=272.0, Win Bonus=0.0
+[2026-05-08 10:08:00] MOVE 69: jat (red) 113->91 [0.01ms]
+[2026-05-08 10:08:00] SCORE jat (red): Final=374.7, Time=96.7, Moves(15)=0.0, Pins(0)=0.0, Dist=278.0, Win Bonus=0.0
+[2026-05-08 10:08:00] SCORE The bandits (blue): Final=348.8, Time=98.8, Moves(14)=0.0, Pins(0)=0.0, Dist=250.0, Win Bonus=0.0
+[2026-05-08 10:08:00] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:08:00] SCORE Gruppe 67 (purple): Final=301.4, Time=93.4, Moves(14)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-08 10:08:00] SCORE Group7 (lawn green): Final=443.6, Time=89.6, Moves(11)=0.0, Pins(1)=100.0, Dist=254.0, Win Bonus=0.0
+[2026-05-08 10:08:00] SCORE Group 99 (gray0): Final=554.6, Time=82.6, Moves(13)=0.0, Pins(2)=200.0, Dist=272.0, Win Bonus=0.0
+[2026-05-08 10:08:01] MOVE 70: Group7 (lawn green) 41->102 [0.00ms]
+[2026-05-08 10:08:01] SCORE jat (red): Final=374.7, Time=96.7, Moves(15)=0.0, Pins(0)=0.0, Dist=278.0, Win Bonus=0.0
+[2026-05-08 10:08:01] SCORE The bandits (blue): Final=348.8, Time=98.8, Moves(14)=0.0, Pins(0)=0.0, Dist=250.0, Win Bonus=0.0
+[2026-05-08 10:08:01] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:08:01] SCORE Gruppe 67 (purple): Final=301.4, Time=93.4, Moves(14)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-08 10:08:01] SCORE Group7 (lawn green): Final=454.5, Time=88.5, Moves(12)=0.0, Pins(1)=100.0, Dist=266.0, Win Bonus=0.0
+[2026-05-08 10:08:01] SCORE Group 99 (gray0): Final=554.6, Time=82.6, Moves(13)=0.0, Pins(2)=200.0, Dist=272.0, Win Bonus=0.0
+[2026-05-08 10:08:03] SCORE jat (red): Final=374.7, Time=96.7, Moves(15)=0.0, Pins(0)=0.0, Dist=278.0, Win Bonus=0.0
+[2026-05-08 10:08:03] SCORE The bandits (blue): Final=348.8, Time=98.8, Moves(14)=0.0, Pins(0)=0.0, Dist=250.0, Win Bonus=0.0
+[2026-05-08 10:08:03] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:08:03] SCORE Gruppe 67 (purple): Final=301.4, Time=93.4, Moves(14)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-08 10:08:03] SCORE Group7 (lawn green): Final=454.5, Time=88.5, Moves(12)=0.0, Pins(1)=100.0, Dist=266.0, Win Bonus=0.0
+[2026-05-08 10:08:03] SCORE Group 99 (gray0): Final=554.6, Time=82.6, Moves(13)=0.0, Pins(2)=200.0, Dist=272.0, Win Bonus=0.0
+[2026-05-08 10:08:03] TURN TIMEOUT: Player with colour yellow exceeded 2s at move 70. Turn skipped.
+[2026-05-08 10:08:03] MOVE 71: The bandits (blue) 50->59 [0.01ms]
+[2026-05-08 10:08:03] SCORE jat (red): Final=374.7, Time=96.7, Moves(15)=0.0, Pins(0)=0.0, Dist=278.0, Win Bonus=0.0
+[2026-05-08 10:08:03] SCORE The bandits (blue): Final=350.7, Time=98.7, Moves(15)=0.0, Pins(0)=0.0, Dist=252.0, Win Bonus=0.0
+[2026-05-08 10:08:03] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:08:03] SCORE Gruppe 67 (purple): Final=301.4, Time=93.4, Moves(14)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-08 10:08:03] SCORE Group7 (lawn green): Final=454.5, Time=88.5, Moves(12)=0.0, Pins(1)=100.0, Dist=266.0, Win Bonus=0.0
+[2026-05-08 10:08:03] SCORE Group 99 (gray0): Final=554.6, Time=82.6, Moves(13)=0.0, Pins(2)=200.0, Dist=272.0, Win Bonus=0.0
+[2026-05-08 10:08:04] MOVE 72: Group 99 (gray0) 60->45 [0.00ms]
+[2026-05-08 10:08:04] SCORE jat (red): Final=374.7, Time=96.7, Moves(15)=0.0, Pins(0)=0.0, Dist=278.0, Win Bonus=0.0
+[2026-05-08 10:08:04] SCORE The bandits (blue): Final=350.7, Time=98.7, Moves(15)=0.0, Pins(0)=0.0, Dist=252.0, Win Bonus=0.0
+[2026-05-08 10:08:04] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:08:04] SCORE Gruppe 67 (purple): Final=301.4, Time=93.4, Moves(14)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-08 10:08:04] SCORE Group7 (lawn green): Final=454.5, Time=88.5, Moves(12)=0.0, Pins(1)=100.0, Dist=266.0, Win Bonus=0.0
+[2026-05-08 10:08:04] SCORE Group 99 (gray0): Final=663.4, Time=81.4, Moves(14)=0.0, Pins(3)=300.0, Dist=282.0, Win Bonus=0.0
+[2026-05-08 10:08:05] MOVE 73: Gruppe 67 (purple) 85->110 [0.00ms]
+[2026-05-08 10:08:05] SCORE jat (red): Final=374.7, Time=96.7, Moves(15)=0.0, Pins(0)=0.0, Dist=278.0, Win Bonus=0.0
+[2026-05-08 10:08:05] SCORE The bandits (blue): Final=350.7, Time=98.7, Moves(15)=0.0, Pins(0)=0.0, Dist=252.0, Win Bonus=0.0
+[2026-05-08 10:08:05] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:08:05] SCORE Gruppe 67 (purple): Final=296.9, Time=92.9, Moves(15)=0.0, Pins(0)=0.0, Dist=204.0, Win Bonus=0.0
+[2026-05-08 10:08:05] SCORE Group7 (lawn green): Final=454.5, Time=88.5, Moves(12)=0.0, Pins(1)=100.0, Dist=266.0, Win Bonus=0.0
+[2026-05-08 10:08:05] SCORE Group 99 (gray0): Final=663.4, Time=81.4, Moves(14)=0.0, Pins(3)=300.0, Dist=282.0, Win Bonus=0.0
+[2026-05-08 10:08:05] MOVE 74: jat (red) 80->61 [0.00ms]
+[2026-05-08 10:08:05] SCORE jat (red): Final=378.6, Time=96.6, Moves(16)=0.0, Pins(0)=0.0, Dist=282.0, Win Bonus=0.0
+[2026-05-08 10:08:05] SCORE The bandits (blue): Final=350.7, Time=98.7, Moves(15)=0.0, Pins(0)=0.0, Dist=252.0, Win Bonus=0.0
+[2026-05-08 10:08:05] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:08:05] SCORE Gruppe 67 (purple): Final=296.9, Time=92.9, Moves(15)=0.0, Pins(0)=0.0, Dist=204.0, Win Bonus=0.0
+[2026-05-08 10:08:05] SCORE Group7 (lawn green): Final=454.5, Time=88.5, Moves(12)=0.0, Pins(1)=100.0, Dist=266.0, Win Bonus=0.0
+[2026-05-08 10:08:05] SCORE Group 99 (gray0): Final=663.4, Time=81.4, Moves(14)=0.0, Pins(3)=300.0, Dist=282.0, Win Bonus=0.0
+[2026-05-08 10:08:06] MOVE 75: Group7 (lawn green) 8->6 [0.00ms]
+[2026-05-08 10:08:06] SCORE jat (red): Final=378.6, Time=96.6, Moves(16)=0.0, Pins(0)=0.0, Dist=282.0, Win Bonus=0.0
+[2026-05-08 10:08:06] SCORE The bandits (blue): Final=350.7, Time=98.7, Moves(15)=0.0, Pins(0)=0.0, Dist=252.0, Win Bonus=0.0
+[2026-05-08 10:08:06] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:08:06] SCORE Gruppe 67 (purple): Final=296.9, Time=92.9, Moves(15)=0.0, Pins(0)=0.0, Dist=204.0, Win Bonus=0.0
+[2026-05-08 10:08:06] SCORE Group7 (lawn green): Final=457.6, Time=87.6, Moves(13)=0.0, Pins(1)=100.0, Dist=270.0, Win Bonus=0.0
+[2026-05-08 10:08:06] SCORE Group 99 (gray0): Final=663.4, Time=81.4, Moves(14)=0.0, Pins(3)=300.0, Dist=282.0, Win Bonus=0.0
+[2026-05-08 10:08:08] SCORE jat (red): Final=378.6, Time=96.6, Moves(16)=0.0, Pins(0)=0.0, Dist=282.0, Win Bonus=0.0
+[2026-05-08 10:08:08] SCORE The bandits (blue): Final=350.7, Time=98.7, Moves(15)=0.0, Pins(0)=0.0, Dist=252.0, Win Bonus=0.0
+[2026-05-08 10:08:08] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:08:08] SCORE Gruppe 67 (purple): Final=296.9, Time=92.9, Moves(15)=0.0, Pins(0)=0.0, Dist=204.0, Win Bonus=0.0
+[2026-05-08 10:08:08] SCORE Group7 (lawn green): Final=457.6, Time=87.6, Moves(13)=0.0, Pins(1)=100.0, Dist=270.0, Win Bonus=0.0
+[2026-05-08 10:08:08] SCORE Group 99 (gray0): Final=663.4, Time=81.4, Moves(14)=0.0, Pins(3)=300.0, Dist=282.0, Win Bonus=0.0
+[2026-05-08 10:08:08] TURN TIMEOUT: Player with colour yellow exceeded 2s at move 75. Turn skipped.
+[2026-05-08 10:08:08] MOVE 76: The bandits (blue) 5->8 [0.01ms]
+[2026-05-08 10:08:08] SCORE jat (red): Final=378.6, Time=96.6, Moves(16)=0.0, Pins(0)=0.0, Dist=282.0, Win Bonus=0.0
+[2026-05-08 10:08:08] SCORE The bandits (blue): Final=352.7, Time=98.7, Moves(16)=0.0, Pins(0)=0.0, Dist=254.0, Win Bonus=0.0
+[2026-05-08 10:08:08] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:08:08] SCORE Gruppe 67 (purple): Final=296.9, Time=92.9, Moves(15)=0.0, Pins(0)=0.0, Dist=204.0, Win Bonus=0.0
+[2026-05-08 10:08:08] SCORE Group7 (lawn green): Final=457.6, Time=87.6, Moves(13)=0.0, Pins(1)=100.0, Dist=270.0, Win Bonus=0.0
+[2026-05-08 10:08:08] SCORE Group 99 (gray0): Final=663.4, Time=81.4, Moves(14)=0.0, Pins(3)=300.0, Dist=282.0, Win Bonus=0.0
+[2026-05-08 10:08:09] MOVE 77: Group 99 (gray0) 101->80 [0.01ms]
+[2026-05-08 10:08:09] SCORE jat (red): Final=378.6, Time=96.6, Moves(16)=0.0, Pins(0)=0.0, Dist=282.0, Win Bonus=0.0
+[2026-05-08 10:08:09] SCORE The bandits (blue): Final=352.7, Time=98.7, Moves(16)=0.0, Pins(0)=0.0, Dist=254.0, Win Bonus=0.0
+[2026-05-08 10:08:09] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:08:09] SCORE Gruppe 67 (purple): Final=296.9, Time=92.9, Moves(15)=0.0, Pins(0)=0.0, Dist=204.0, Win Bonus=0.0
+[2026-05-08 10:08:09] SCORE Group7 (lawn green): Final=457.6, Time=87.6, Moves(13)=0.0, Pins(1)=100.0, Dist=270.0, Win Bonus=0.0
+[2026-05-08 10:08:09] SCORE Group 99 (gray0): Final=670.0, Time=80.0, Moves(15)=0.0, Pins(3)=300.0, Dist=290.0, Win Bonus=0.0
+[2026-05-08 10:08:10] MOVE 78: Gruppe 67 (purple) 105->106 [0.01ms]
+[2026-05-08 10:08:10] SCORE jat (red): Final=378.6, Time=96.6, Moves(16)=0.0, Pins(0)=0.0, Dist=282.0, Win Bonus=0.0
+[2026-05-08 10:08:10] SCORE The bandits (blue): Final=352.7, Time=98.7, Moves(16)=0.0, Pins(0)=0.0, Dist=254.0, Win Bonus=0.0
+[2026-05-08 10:08:10] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:08:10] SCORE Gruppe 67 (purple): Final=294.6, Time=92.6, Moves(16)=0.0, Pins(0)=0.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:08:10] SCORE Group7 (lawn green): Final=457.6, Time=87.6, Moves(13)=0.0, Pins(1)=100.0, Dist=270.0, Win Bonus=0.0
+[2026-05-08 10:08:10] SCORE Group 99 (gray0): Final=670.0, Time=80.0, Moves(15)=0.0, Pins(3)=300.0, Dist=290.0, Win Bonus=0.0
+[2026-05-08 10:08:10] MOVE 79: jat (red) 90->79 [0.01ms]
+[2026-05-08 10:08:10] SCORE jat (red): Final=380.4, Time=96.4, Moves(17)=0.0, Pins(0)=0.0, Dist=284.0, Win Bonus=0.0
+[2026-05-08 10:08:10] SCORE The bandits (blue): Final=352.7, Time=98.7, Moves(16)=0.0, Pins(0)=0.0, Dist=254.0, Win Bonus=0.0
+[2026-05-08 10:08:10] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:08:10] SCORE Gruppe 67 (purple): Final=294.6, Time=92.6, Moves(16)=0.0, Pins(0)=0.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:08:10] SCORE Group7 (lawn green): Final=457.6, Time=87.6, Moves(13)=0.0, Pins(1)=100.0, Dist=270.0, Win Bonus=0.0
+[2026-05-08 10:08:10] SCORE Group 99 (gray0): Final=670.0, Time=80.0, Moves(15)=0.0, Pins(3)=300.0, Dist=290.0, Win Bonus=0.0
+[2026-05-08 10:08:11] MOVE 80: Group7 (lawn green) 102->101 [0.01ms]
+[2026-05-08 10:08:11] SCORE jat (red): Final=380.4, Time=96.4, Moves(17)=0.0, Pins(0)=0.0, Dist=284.0, Win Bonus=0.0
+[2026-05-08 10:08:11] SCORE The bandits (blue): Final=352.7, Time=98.7, Moves(16)=0.0, Pins(0)=0.0, Dist=254.0, Win Bonus=0.0
+[2026-05-08 10:08:11] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:08:11] SCORE Gruppe 67 (purple): Final=294.6, Time=92.6, Moves(16)=0.0, Pins(0)=0.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:08:11] SCORE Group7 (lawn green): Final=558.4, Time=86.4, Moves(14)=0.0, Pins(2)=200.0, Dist=272.0, Win Bonus=0.0
+[2026-05-08 10:08:11] SCORE Group 99 (gray0): Final=670.0, Time=80.0, Moves(15)=0.0, Pins(3)=300.0, Dist=290.0, Win Bonus=0.0
+[2026-05-08 10:08:13] SCORE jat (red): Final=380.4, Time=96.4, Moves(17)=0.0, Pins(0)=0.0, Dist=284.0, Win Bonus=0.0
+[2026-05-08 10:08:13] SCORE The bandits (blue): Final=352.7, Time=98.7, Moves(16)=0.0, Pins(0)=0.0, Dist=254.0, Win Bonus=0.0
+[2026-05-08 10:08:13] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:08:13] SCORE Gruppe 67 (purple): Final=294.6, Time=92.6, Moves(16)=0.0, Pins(0)=0.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:08:13] SCORE Group7 (lawn green): Final=558.4, Time=86.4, Moves(14)=0.0, Pins(2)=200.0, Dist=272.0, Win Bonus=0.0
+[2026-05-08 10:08:13] SCORE Group 99 (gray0): Final=670.0, Time=80.0, Moves(15)=0.0, Pins(3)=300.0, Dist=290.0, Win Bonus=0.0
+[2026-05-08 10:08:13] TURN TIMEOUT: Player with colour yellow exceeded 2s at move 80. Turn skipped.
+[2026-05-08 10:08:13] MOVE 81: The bandits (blue) 8->28 [0.01ms]
+[2026-05-08 10:08:13] SCORE jat (red): Final=380.4, Time=96.4, Moves(17)=0.0, Pins(0)=0.0, Dist=284.0, Win Bonus=0.0
+[2026-05-08 10:08:13] SCORE The bandits (blue): Final=356.6, Time=98.6, Moves(17)=0.0, Pins(0)=0.0, Dist=258.0, Win Bonus=0.0
+[2026-05-08 10:08:13] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:08:13] SCORE Gruppe 67 (purple): Final=294.6, Time=92.6, Moves(16)=0.0, Pins(0)=0.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:08:13] SCORE Group7 (lawn green): Final=558.4, Time=86.4, Moves(14)=0.0, Pins(2)=200.0, Dist=272.0, Win Bonus=0.0
+[2026-05-08 10:08:13] SCORE Group 99 (gray0): Final=670.0, Time=80.0, Moves(15)=0.0, Pins(3)=300.0, Dist=290.0, Win Bonus=0.0
+[2026-05-08 10:08:14] MOVE 82: Group 99 (gray0) 63->84 [0.00ms]
+[2026-05-08 10:08:14] SCORE jat (red): Final=380.4, Time=96.4, Moves(17)=0.0, Pins(0)=0.0, Dist=284.0, Win Bonus=0.0
+[2026-05-08 10:08:14] SCORE The bandits (blue): Final=356.6, Time=98.6, Moves(17)=0.0, Pins(0)=0.0, Dist=258.0, Win Bonus=0.0
+[2026-05-08 10:08:14] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:08:14] SCORE Gruppe 67 (purple): Final=294.6, Time=92.6, Moves(16)=0.0, Pins(0)=0.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:08:14] SCORE Group7 (lawn green): Final=558.4, Time=86.4, Moves(14)=0.0, Pins(2)=200.0, Dist=272.0, Win Bonus=0.0
+[2026-05-08 10:08:14] SCORE Group 99 (gray0): Final=666.9, Time=78.9, Moves(16)=0.0, Pins(3)=300.0, Dist=288.0, Win Bonus=0.0
+[2026-05-08 10:08:15] MOVE 83: Gruppe 67 (purple) 94->93 [0.00ms]
+[2026-05-08 10:08:15] SCORE jat (red): Final=380.4, Time=96.4, Moves(17)=0.0, Pins(0)=0.0, Dist=284.0, Win Bonus=0.0
+[2026-05-08 10:08:15] SCORE The bandits (blue): Final=356.6, Time=98.6, Moves(17)=0.0, Pins(0)=0.0, Dist=258.0, Win Bonus=0.0
+[2026-05-08 10:08:15] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:08:15] SCORE Gruppe 67 (purple): Final=296.1, Time=92.1, Moves(17)=0.0, Pins(0)=0.0, Dist=204.0, Win Bonus=0.0
+[2026-05-08 10:08:15] SCORE Group7 (lawn green): Final=558.4, Time=86.4, Moves(14)=0.0, Pins(2)=200.0, Dist=272.0, Win Bonus=0.0
+[2026-05-08 10:08:15] SCORE Group 99 (gray0): Final=666.9, Time=78.9, Moves(16)=0.0, Pins(3)=300.0, Dist=288.0, Win Bonus=0.0
+[2026-05-08 10:08:15] MOVE 84: jat (red) 79->41 [0.01ms]
+[2026-05-08 10:08:15] SCORE jat (red): Final=388.2, Time=96.2, Moves(18)=0.0, Pins(0)=0.0, Dist=292.0, Win Bonus=0.0
+[2026-05-08 10:08:15] SCORE The bandits (blue): Final=356.6, Time=98.6, Moves(17)=0.0, Pins(0)=0.0, Dist=258.0, Win Bonus=0.0
+[2026-05-08 10:08:15] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:08:15] SCORE Gruppe 67 (purple): Final=296.1, Time=92.1, Moves(17)=0.0, Pins(0)=0.0, Dist=204.0, Win Bonus=0.0
+[2026-05-08 10:08:15] SCORE Group7 (lawn green): Final=558.4, Time=86.4, Moves(14)=0.0, Pins(2)=200.0, Dist=272.0, Win Bonus=0.0
+[2026-05-08 10:08:15] SCORE Group 99 (gray0): Final=666.9, Time=78.9, Moves(16)=0.0, Pins(3)=300.0, Dist=288.0, Win Bonus=0.0
+[2026-05-08 10:08:16] MOVE 85: Group7 (lawn green) 42->40 [0.00ms]
+[2026-05-08 10:08:16] SCORE jat (red): Final=388.2, Time=96.2, Moves(18)=0.0, Pins(0)=0.0, Dist=292.0, Win Bonus=0.0
+[2026-05-08 10:08:16] SCORE The bandits (blue): Final=356.6, Time=98.6, Moves(17)=0.0, Pins(0)=0.0, Dist=258.0, Win Bonus=0.0
+[2026-05-08 10:08:16] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:08:16] SCORE Gruppe 67 (purple): Final=296.1, Time=92.1, Moves(17)=0.0, Pins(0)=0.0, Dist=204.0, Win Bonus=0.0
+[2026-05-08 10:08:16] SCORE Group7 (lawn green): Final=561.5, Time=85.5, Moves(15)=0.0, Pins(2)=200.0, Dist=276.0, Win Bonus=0.0
+[2026-05-08 10:08:16] SCORE Group 99 (gray0): Final=666.9, Time=78.9, Moves(16)=0.0, Pins(3)=300.0, Dist=288.0, Win Bonus=0.0
+[2026-05-08 10:08:18] SCORE jat (red): Final=388.2, Time=96.2, Moves(18)=0.0, Pins(0)=0.0, Dist=292.0, Win Bonus=0.0
+[2026-05-08 10:08:18] SCORE The bandits (blue): Final=356.6, Time=98.6, Moves(17)=0.0, Pins(0)=0.0, Dist=258.0, Win Bonus=0.0
+[2026-05-08 10:08:18] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:08:18] SCORE Gruppe 67 (purple): Final=296.1, Time=92.1, Moves(17)=0.0, Pins(0)=0.0, Dist=204.0, Win Bonus=0.0
+[2026-05-08 10:08:18] SCORE Group7 (lawn green): Final=561.5, Time=85.5, Moves(15)=0.0, Pins(2)=200.0, Dist=276.0, Win Bonus=0.0
+[2026-05-08 10:08:18] SCORE Group 99 (gray0): Final=666.9, Time=78.9, Moves(16)=0.0, Pins(3)=300.0, Dist=288.0, Win Bonus=0.0
+[2026-05-08 10:08:18] TURN TIMEOUT: Player with colour yellow exceeded 2s at move 85. Turn skipped.
+[2026-05-08 10:08:18] MOVE 86: The bandits (blue) 27->50 [0.01ms]
+[2026-05-08 10:08:18] SCORE jat (red): Final=388.2, Time=96.2, Moves(18)=0.0, Pins(0)=0.0, Dist=292.0, Win Bonus=0.0
+[2026-05-08 10:08:18] SCORE The bandits (blue): Final=360.5, Time=98.5, Moves(18)=0.0, Pins(0)=0.0, Dist=262.0, Win Bonus=0.0
+[2026-05-08 10:08:18] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:08:18] SCORE Gruppe 67 (purple): Final=296.1, Time=92.1, Moves(17)=0.0, Pins(0)=0.0, Dist=204.0, Win Bonus=0.0
+[2026-05-08 10:08:18] SCORE Group7 (lawn green): Final=561.5, Time=85.5, Moves(15)=0.0, Pins(2)=200.0, Dist=276.0, Win Bonus=0.0
+[2026-05-08 10:08:18] SCORE Group 99 (gray0): Final=666.9, Time=78.9, Moves(16)=0.0, Pins(3)=300.0, Dist=288.0, Win Bonus=0.0
+[2026-05-08 10:08:19] MOVE 87: Group 99 (gray0) 84->74 [0.00ms]
+[2026-05-08 10:08:19] SCORE jat (red): Final=388.2, Time=96.2, Moves(18)=0.0, Pins(0)=0.0, Dist=292.0, Win Bonus=0.0
+[2026-05-08 10:08:19] SCORE The bandits (blue): Final=360.5, Time=98.5, Moves(18)=0.0, Pins(0)=0.0, Dist=262.0, Win Bonus=0.0
+[2026-05-08 10:08:19] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:08:19] SCORE Gruppe 67 (purple): Final=296.1, Time=92.1, Moves(17)=0.0, Pins(0)=0.0, Dist=204.0, Win Bonus=0.0
+[2026-05-08 10:08:19] SCORE Group7 (lawn green): Final=561.5, Time=85.5, Moves(15)=0.0, Pins(2)=200.0, Dist=276.0, Win Bonus=0.0
+[2026-05-08 10:08:19] SCORE Group 99 (gray0): Final=667.7, Time=77.7, Moves(17)=0.0, Pins(3)=300.0, Dist=290.0, Win Bonus=0.0
+[2026-05-08 10:08:20] MOVE 88: Gruppe 67 (purple) 109->96 [0.01ms]
+[2026-05-08 10:08:20] SCORE jat (red): Final=388.2, Time=96.2, Moves(18)=0.0, Pins(0)=0.0, Dist=292.0, Win Bonus=0.0
+[2026-05-08 10:08:20] SCORE The bandits (blue): Final=360.5, Time=98.5, Moves(18)=0.0, Pins(0)=0.0, Dist=262.0, Win Bonus=0.0
+[2026-05-08 10:08:20] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:08:20] SCORE Gruppe 67 (purple): Final=297.7, Time=91.7, Moves(18)=0.0, Pins(0)=0.0, Dist=206.0, Win Bonus=0.0
+[2026-05-08 10:08:20] SCORE Group7 (lawn green): Final=561.5, Time=85.5, Moves(15)=0.0, Pins(2)=200.0, Dist=276.0, Win Bonus=0.0
+[2026-05-08 10:08:20] SCORE Group 99 (gray0): Final=667.7, Time=77.7, Moves(17)=0.0, Pins(3)=300.0, Dist=290.0, Win Bonus=0.0
+[2026-05-08 10:08:20] MOVE 89: jat (red) 48->7 [0.01ms]
+[2026-05-08 10:08:20] SCORE jat (red): Final=496.0, Time=96.0, Moves(19)=0.0, Pins(1)=100.0, Dist=300.0, Win Bonus=0.0
+[2026-05-08 10:08:20] SCORE The bandits (blue): Final=360.5, Time=98.5, Moves(18)=0.0, Pins(0)=0.0, Dist=262.0, Win Bonus=0.0
+[2026-05-08 10:08:20] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:08:20] SCORE Gruppe 67 (purple): Final=297.7, Time=91.7, Moves(18)=0.0, Pins(0)=0.0, Dist=206.0, Win Bonus=0.0
+[2026-05-08 10:08:20] SCORE Group7 (lawn green): Final=561.5, Time=85.5, Moves(15)=0.0, Pins(2)=200.0, Dist=276.0, Win Bonus=0.0
+[2026-05-08 10:08:20] SCORE Group 99 (gray0): Final=667.7, Time=77.7, Moves(17)=0.0, Pins(3)=300.0, Dist=290.0, Win Bonus=0.0
+[2026-05-08 10:08:21] MOVE 90: Group7 (lawn green) 52->66 [0.01ms]
+[2026-05-08 10:08:21] SCORE jat (red): Final=496.0, Time=96.0, Moves(19)=0.0, Pins(1)=100.0, Dist=300.0, Win Bonus=0.0
+[2026-05-08 10:08:21] SCORE The bandits (blue): Final=360.5, Time=98.5, Moves(18)=0.0, Pins(0)=0.0, Dist=262.0, Win Bonus=0.0
+[2026-05-08 10:08:21] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:08:21] SCORE Gruppe 67 (purple): Final=297.7, Time=91.7, Moves(18)=0.0, Pins(0)=0.0, Dist=206.0, Win Bonus=0.0
+[2026-05-08 10:08:21] SCORE Group7 (lawn green): Final=572.5, Time=84.5, Moves(16)=0.0, Pins(2)=200.0, Dist=288.0, Win Bonus=0.0
+[2026-05-08 10:08:21] SCORE Group 99 (gray0): Final=667.7, Time=77.7, Moves(17)=0.0, Pins(3)=300.0, Dist=290.0, Win Bonus=0.0
+[2026-05-08 10:08:23] SCORE jat (red): Final=496.0, Time=96.0, Moves(19)=0.0, Pins(1)=100.0, Dist=300.0, Win Bonus=0.0
+[2026-05-08 10:08:23] SCORE The bandits (blue): Final=360.5, Time=98.5, Moves(18)=0.0, Pins(0)=0.0, Dist=262.0, Win Bonus=0.0
+[2026-05-08 10:08:23] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:08:23] SCORE Gruppe 67 (purple): Final=297.7, Time=91.7, Moves(18)=0.0, Pins(0)=0.0, Dist=206.0, Win Bonus=0.0
+[2026-05-08 10:08:23] SCORE Group7 (lawn green): Final=572.5, Time=84.5, Moves(16)=0.0, Pins(2)=200.0, Dist=288.0, Win Bonus=0.0
+[2026-05-08 10:08:23] SCORE Group 99 (gray0): Final=667.7, Time=77.7, Moves(17)=0.0, Pins(3)=300.0, Dist=290.0, Win Bonus=0.0
+[2026-05-08 10:08:23] TURN TIMEOUT: Player with colour yellow exceeded 2s at move 90. Turn skipped.
+[2026-05-08 10:08:23] MOVE 91: The bandits (blue) 15->27 [0.00ms]
+[2026-05-08 10:08:23] SCORE jat (red): Final=496.0, Time=96.0, Moves(19)=0.0, Pins(1)=100.0, Dist=300.0, Win Bonus=0.0
+[2026-05-08 10:08:23] SCORE The bandits (blue): Final=362.5, Time=98.5, Moves(19)=0.0, Pins(0)=0.0, Dist=264.0, Win Bonus=0.0
+[2026-05-08 10:08:23] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:08:23] SCORE Gruppe 67 (purple): Final=297.7, Time=91.7, Moves(18)=0.0, Pins(0)=0.0, Dist=206.0, Win Bonus=0.0
+[2026-05-08 10:08:23] SCORE Group7 (lawn green): Final=572.5, Time=84.5, Moves(16)=0.0, Pins(2)=200.0, Dist=288.0, Win Bonus=0.0
+[2026-05-08 10:08:23] SCORE Group 99 (gray0): Final=667.7, Time=77.7, Moves(17)=0.0, Pins(3)=300.0, Dist=290.0, Win Bonus=0.0
+[2026-05-08 10:08:24] MOVE 92: Group 99 (gray0) 56->62 [0.01ms]
+[2026-05-08 10:08:24] SCORE jat (red): Final=496.0, Time=96.0, Moves(19)=0.0, Pins(1)=100.0, Dist=300.0, Win Bonus=0.0
+[2026-05-08 10:08:24] SCORE The bandits (blue): Final=362.5, Time=98.5, Moves(19)=0.0, Pins(0)=0.0, Dist=264.0, Win Bonus=0.0
+[2026-05-08 10:08:24] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:08:24] SCORE Gruppe 67 (purple): Final=297.7, Time=91.7, Moves(18)=0.0, Pins(0)=0.0, Dist=206.0, Win Bonus=0.0
+[2026-05-08 10:08:24] SCORE Group7 (lawn green): Final=572.5, Time=84.5, Moves(16)=0.0, Pins(2)=200.0, Dist=288.0, Win Bonus=0.0
+[2026-05-08 10:08:24] SCORE Group 99 (gray0): Final=678.5, Time=76.5, Moves(18)=0.0, Pins(3)=300.0, Dist=302.0, Win Bonus=0.0
+[2026-05-08 10:08:25] MOVE 93: Gruppe 67 (purple) 95->94 [0.00ms]
+[2026-05-08 10:08:25] SCORE jat (red): Final=496.0, Time=96.0, Moves(19)=0.0, Pins(1)=100.0, Dist=300.0, Win Bonus=0.0
+[2026-05-08 10:08:25] SCORE The bandits (blue): Final=362.5, Time=98.5, Moves(19)=0.0, Pins(0)=0.0, Dist=264.0, Win Bonus=0.0
+[2026-05-08 10:08:25] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:08:25] SCORE Gruppe 67 (purple): Final=299.3, Time=91.3, Moves(19)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-08 10:08:25] SCORE Group7 (lawn green): Final=572.5, Time=84.5, Moves(16)=0.0, Pins(2)=200.0, Dist=288.0, Win Bonus=0.0
+[2026-05-08 10:08:25] SCORE Group 99 (gray0): Final=678.5, Time=76.5, Moves(18)=0.0, Pins(3)=300.0, Dist=302.0, Win Bonus=0.0
+[2026-05-08 10:08:25] MOVE 94: jat (red) 38->4 [0.00ms]
+[2026-05-08 10:08:25] SCORE jat (red): Final=601.8, Time=95.8, Moves(20)=0.0, Pins(2)=200.0, Dist=306.0, Win Bonus=0.0
+[2026-05-08 10:08:25] SCORE The bandits (blue): Final=362.5, Time=98.5, Moves(19)=0.0, Pins(0)=0.0, Dist=264.0, Win Bonus=0.0
+[2026-05-08 10:08:25] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:08:25] SCORE Gruppe 67 (purple): Final=299.3, Time=91.3, Moves(19)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-08 10:08:25] SCORE Group7 (lawn green): Final=572.5, Time=84.5, Moves(16)=0.0, Pins(2)=200.0, Dist=288.0, Win Bonus=0.0
+[2026-05-08 10:08:25] SCORE Group 99 (gray0): Final=678.5, Time=76.5, Moves(18)=0.0, Pins(3)=300.0, Dist=302.0, Win Bonus=0.0
+[2026-05-08 10:08:26] MOVE 95: Group7 (lawn green) 66->76 [0.00ms]
+[2026-05-08 10:08:26] SCORE jat (red): Final=601.8, Time=95.8, Moves(20)=0.0, Pins(2)=200.0, Dist=306.0, Win Bonus=0.0
+[2026-05-08 10:08:26] SCORE The bandits (blue): Final=362.5, Time=98.5, Moves(19)=0.0, Pins(0)=0.0, Dist=264.0, Win Bonus=0.0
+[2026-05-08 10:08:26] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:08:26] SCORE Gruppe 67 (purple): Final=299.3, Time=91.3, Moves(19)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-08 10:08:26] SCORE Group7 (lawn green): Final=673.5, Time=83.5, Moves(17)=0.0, Pins(3)=300.0, Dist=290.0, Win Bonus=0.0
+[2026-05-08 10:08:26] SCORE Group 99 (gray0): Final=678.5, Time=76.5, Moves(18)=0.0, Pins(3)=300.0, Dist=302.0, Win Bonus=0.0
+[2026-05-08 10:08:28] SCORE jat (red): Final=601.8, Time=95.8, Moves(20)=0.0, Pins(2)=200.0, Dist=306.0, Win Bonus=0.0
+[2026-05-08 10:08:28] SCORE The bandits (blue): Final=362.5, Time=98.5, Moves(19)=0.0, Pins(0)=0.0, Dist=264.0, Win Bonus=0.0
+[2026-05-08 10:08:28] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:08:28] SCORE Gruppe 67 (purple): Final=299.3, Time=91.3, Moves(19)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-08 10:08:28] SCORE Group7 (lawn green): Final=673.5, Time=83.5, Moves(17)=0.0, Pins(3)=300.0, Dist=290.0, Win Bonus=0.0
+[2026-05-08 10:08:28] SCORE Group 99 (gray0): Final=678.5, Time=76.5, Moves(18)=0.0, Pins(3)=300.0, Dist=302.0, Win Bonus=0.0
+[2026-05-08 10:08:28] TURN TIMEOUT: Player with colour yellow exceeded 2s at move 95. Turn skipped.
+[2026-05-08 10:08:28] MOVE 96: The bandits (blue) 37->48 [0.00ms]
+[2026-05-08 10:08:28] SCORE jat (red): Final=601.8, Time=95.8, Moves(20)=0.0, Pins(2)=200.0, Dist=306.0, Win Bonus=0.0
+[2026-05-08 10:08:28] SCORE The bandits (blue): Final=364.3, Time=98.3, Moves(20)=0.0, Pins(0)=0.0, Dist=266.0, Win Bonus=0.0
+[2026-05-08 10:08:28] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:08:28] SCORE Gruppe 67 (purple): Final=299.3, Time=91.3, Moves(19)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-08 10:08:28] SCORE Group7 (lawn green): Final=673.5, Time=83.5, Moves(17)=0.0, Pins(3)=300.0, Dist=290.0, Win Bonus=0.0
+[2026-05-08 10:08:28] SCORE Group 99 (gray0): Final=678.5, Time=76.5, Moves(18)=0.0, Pins(3)=300.0, Dist=302.0, Win Bonus=0.0
+[2026-05-08 10:08:29] MOVE 97: Group 99 (gray0) 70->29 [0.00ms]
+[2026-05-08 10:08:29] SCORE jat (red): Final=601.8, Time=95.8, Moves(20)=0.0, Pins(2)=200.0, Dist=306.0, Win Bonus=0.0
+[2026-05-08 10:08:29] SCORE The bandits (blue): Final=364.3, Time=98.3, Moves(20)=0.0, Pins(0)=0.0, Dist=266.0, Win Bonus=0.0
+[2026-05-08 10:08:29] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:08:29] SCORE Gruppe 67 (purple): Final=299.3, Time=91.3, Moves(19)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-08 10:08:29] SCORE Group7 (lawn green): Final=673.5, Time=83.5, Moves(17)=0.0, Pins(3)=300.0, Dist=290.0, Win Bonus=0.0
+[2026-05-08 10:08:29] SCORE Group 99 (gray0): Final=681.3, Time=75.3, Moves(19)=0.0, Pins(3)=300.0, Dist=306.0, Win Bonus=0.0
+[2026-05-08 10:08:30] MOVE 98: Gruppe 67 (purple) 96->108 [0.01ms]
+[2026-05-08 10:08:30] SCORE jat (red): Final=601.8, Time=95.8, Moves(20)=0.0, Pins(2)=200.0, Dist=306.0, Win Bonus=0.0
+[2026-05-08 10:08:30] SCORE The bandits (blue): Final=364.3, Time=98.3, Moves(20)=0.0, Pins(0)=0.0, Dist=266.0, Win Bonus=0.0
+[2026-05-08 10:08:30] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:08:30] SCORE Gruppe 67 (purple): Final=298.8, Time=90.8, Moves(20)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-08 10:08:30] SCORE Group7 (lawn green): Final=673.5, Time=83.5, Moves(17)=0.0, Pins(3)=300.0, Dist=290.0, Win Bonus=0.0
+[2026-05-08 10:08:30] SCORE Group 99 (gray0): Final=681.3, Time=75.3, Moves(19)=0.0, Pins(3)=300.0, Dist=306.0, Win Bonus=0.0
+[2026-05-08 10:08:30] MOVE 99: jat (red) 91->52 [0.01ms]
+[2026-05-08 10:08:30] SCORE jat (red): Final=609.6, Time=95.6, Moves(21)=0.0, Pins(2)=200.0, Dist=314.0, Win Bonus=0.0
+[2026-05-08 10:08:30] SCORE The bandits (blue): Final=364.3, Time=98.3, Moves(20)=0.0, Pins(0)=0.0, Dist=266.0, Win Bonus=0.0
+[2026-05-08 10:08:30] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:08:30] SCORE Gruppe 67 (purple): Final=298.8, Time=90.8, Moves(20)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-08 10:08:30] SCORE Group7 (lawn green): Final=673.5, Time=83.5, Moves(17)=0.0, Pins(3)=300.0, Dist=290.0, Win Bonus=0.0
+[2026-05-08 10:08:30] SCORE Group 99 (gray0): Final=681.3, Time=75.3, Moves(19)=0.0, Pins(3)=300.0, Dist=306.0, Win Bonus=0.0
+[2026-05-08 10:08:31] MOVE 100: Group7 (lawn green) 39->75 [0.01ms]
+[2026-05-08 10:08:31] SCORE jat (red): Final=609.6, Time=95.6, Moves(21)=0.0, Pins(2)=200.0, Dist=314.0, Win Bonus=0.0
+[2026-05-08 10:08:31] SCORE The bandits (blue): Final=364.3, Time=98.3, Moves(20)=0.0, Pins(0)=0.0, Dist=266.0, Win Bonus=0.0
+[2026-05-08 10:08:31] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:08:31] SCORE Gruppe 67 (purple): Final=298.8, Time=90.8, Moves(20)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-08 10:08:31] SCORE Group7 (lawn green): Final=782.2, Time=82.2, Moves(18)=0.0, Pins(4)=400.0, Dist=300.0, Win Bonus=0.0
+[2026-05-08 10:08:31] SCORE Group 99 (gray0): Final=681.3, Time=75.3, Moves(19)=0.0, Pins(3)=300.0, Dist=306.0, Win Bonus=0.0
+[2026-05-08 10:08:33] SCORE jat (red): Final=609.6, Time=95.6, Moves(21)=0.0, Pins(2)=200.0, Dist=314.0, Win Bonus=0.0
+[2026-05-08 10:08:33] SCORE The bandits (blue): Final=364.3, Time=98.3, Moves(20)=0.0, Pins(0)=0.0, Dist=266.0, Win Bonus=0.0
+[2026-05-08 10:08:33] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:08:33] SCORE Gruppe 67 (purple): Final=298.8, Time=90.8, Moves(20)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-08 10:08:33] SCORE Group7 (lawn green): Final=782.2, Time=82.2, Moves(18)=0.0, Pins(4)=400.0, Dist=300.0, Win Bonus=0.0
+[2026-05-08 10:08:33] SCORE Group 99 (gray0): Final=681.3, Time=75.3, Moves(19)=0.0, Pins(3)=300.0, Dist=306.0, Win Bonus=0.0
+[2026-05-08 10:08:33] TURN TIMEOUT: Player with colour yellow exceeded 2s at move 100. Turn skipped.
+[2026-05-08 10:08:33] MOVE 101: The bandits (blue) 28->39 [0.00ms]
+[2026-05-08 10:08:33] SCORE jat (red): Final=609.6, Time=95.6, Moves(21)=0.0, Pins(2)=200.0, Dist=314.0, Win Bonus=0.0
+[2026-05-08 10:08:33] SCORE The bandits (blue): Final=366.2, Time=98.2, Moves(21)=0.0, Pins(0)=0.0, Dist=268.0, Win Bonus=0.0
+[2026-05-08 10:08:33] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:08:33] SCORE Gruppe 67 (purple): Final=298.8, Time=90.8, Moves(20)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-08 10:08:33] SCORE Group7 (lawn green): Final=782.2, Time=82.2, Moves(18)=0.0, Pins(4)=400.0, Dist=300.0, Win Bonus=0.0
+[2026-05-08 10:08:33] SCORE Group 99 (gray0): Final=681.3, Time=75.3, Moves(19)=0.0, Pins(3)=300.0, Dist=306.0, Win Bonus=0.0
+[2026-05-08 10:08:35] MOVE 102: Group 99 (gray0) 80->109 [0.01ms]
+[2026-05-08 10:08:35] SCORE jat (red): Final=609.6, Time=95.6, Moves(21)=0.0, Pins(2)=200.0, Dist=314.0, Win Bonus=0.0
+[2026-05-08 10:08:35] SCORE The bandits (blue): Final=366.2, Time=98.2, Moves(21)=0.0, Pins(0)=0.0, Dist=268.0, Win Bonus=0.0
+[2026-05-08 10:08:35] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:08:35] SCORE Gruppe 67 (purple): Final=298.8, Time=90.8, Moves(20)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-08 10:08:35] SCORE Group7 (lawn green): Final=782.2, Time=82.2, Moves(18)=0.0, Pins(4)=400.0, Dist=300.0, Win Bonus=0.0
+[2026-05-08 10:08:35] SCORE Group 99 (gray0): Final=682.0, Time=74.0, Moves(20)=0.0, Pins(3)=300.0, Dist=308.0, Win Bonus=0.0
+[2026-05-08 10:08:35] MOVE 103: Gruppe 67 (purple) 97->96 [0.01ms]
+[2026-05-08 10:08:35] SCORE jat (red): Final=609.6, Time=95.6, Moves(21)=0.0, Pins(2)=200.0, Dist=314.0, Win Bonus=0.0
+[2026-05-08 10:08:35] SCORE The bandits (blue): Final=366.2, Time=98.2, Moves(21)=0.0, Pins(0)=0.0, Dist=268.0, Win Bonus=0.0
+[2026-05-08 10:08:35] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:08:35] SCORE Gruppe 67 (purple): Final=300.4, Time=90.4, Moves(21)=0.0, Pins(0)=0.0, Dist=210.0, Win Bonus=0.0
+[2026-05-08 10:08:35] SCORE Group7 (lawn green): Final=782.2, Time=82.2, Moves(18)=0.0, Pins(4)=400.0, Dist=300.0, Win Bonus=0.0
+[2026-05-08 10:08:35] SCORE Group 99 (gray0): Final=682.0, Time=74.0, Moves(20)=0.0, Pins(3)=300.0, Dist=308.0, Win Bonus=0.0
+[2026-05-08 10:08:35] MOVE 104: jat (red) 92->81 [0.01ms]
+[2026-05-08 10:08:35] SCORE jat (red): Final=611.4, Time=95.4, Moves(22)=0.0, Pins(2)=200.0, Dist=316.0, Win Bonus=0.0
+[2026-05-08 10:08:35] SCORE The bandits (blue): Final=366.2, Time=98.2, Moves(21)=0.0, Pins(0)=0.0, Dist=268.0, Win Bonus=0.0
+[2026-05-08 10:08:35] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:08:35] SCORE Gruppe 67 (purple): Final=300.4, Time=90.4, Moves(21)=0.0, Pins(0)=0.0, Dist=210.0, Win Bonus=0.0
+[2026-05-08 10:08:35] SCORE Group7 (lawn green): Final=782.2, Time=82.2, Moves(18)=0.0, Pins(4)=400.0, Dist=300.0, Win Bonus=0.0
+[2026-05-08 10:08:35] SCORE Group 99 (gray0): Final=682.0, Time=74.0, Moves(20)=0.0, Pins(3)=300.0, Dist=308.0, Win Bonus=0.0
+[2026-05-08 10:08:36] MOVE 105: Group7 (lawn green) 71->92 [0.00ms]
+[2026-05-08 10:08:36] SCORE jat (red): Final=611.4, Time=95.4, Moves(22)=0.0, Pins(2)=200.0, Dist=316.0, Win Bonus=0.0
+[2026-05-08 10:08:36] SCORE The bandits (blue): Final=366.2, Time=98.2, Moves(21)=0.0, Pins(0)=0.0, Dist=268.0, Win Bonus=0.0
+[2026-05-08 10:08:36] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:08:36] SCORE Gruppe 67 (purple): Final=300.4, Time=90.4, Moves(21)=0.0, Pins(0)=0.0, Dist=210.0, Win Bonus=0.0
+[2026-05-08 10:08:36] SCORE Group7 (lawn green): Final=785.2, Time=81.2, Moves(19)=0.0, Pins(4)=400.0, Dist=304.0, Win Bonus=0.0
+[2026-05-08 10:08:36] SCORE Group 99 (gray0): Final=682.0, Time=74.0, Moves(20)=0.0, Pins(3)=300.0, Dist=308.0, Win Bonus=0.0
+[2026-05-08 10:08:38] SCORE jat (red): Final=611.4, Time=95.4, Moves(22)=0.0, Pins(2)=200.0, Dist=316.0, Win Bonus=0.0
+[2026-05-08 10:08:38] SCORE The bandits (blue): Final=366.2, Time=98.2, Moves(21)=0.0, Pins(0)=0.0, Dist=268.0, Win Bonus=0.0
+[2026-05-08 10:08:38] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:08:38] SCORE Gruppe 67 (purple): Final=300.4, Time=90.4, Moves(21)=0.0, Pins(0)=0.0, Dist=210.0, Win Bonus=0.0
+[2026-05-08 10:08:38] SCORE Group7 (lawn green): Final=785.2, Time=81.2, Moves(19)=0.0, Pins(4)=400.0, Dist=304.0, Win Bonus=0.0
+[2026-05-08 10:08:38] SCORE Group 99 (gray0): Final=682.0, Time=74.0, Moves(20)=0.0, Pins(3)=300.0, Dist=308.0, Win Bonus=0.0
+[2026-05-08 10:08:38] TURN TIMEOUT: Player with colour yellow exceeded 2s at move 105. Turn skipped.
+[2026-05-08 10:08:38] MOVE 106: The bandits (blue) 27->38 [0.01ms]
+[2026-05-08 10:08:38] SCORE jat (red): Final=611.4, Time=95.4, Moves(22)=0.0, Pins(2)=200.0, Dist=316.0, Win Bonus=0.0
+[2026-05-08 10:08:38] SCORE The bandits (blue): Final=368.2, Time=98.2, Moves(22)=0.0, Pins(0)=0.0, Dist=270.0, Win Bonus=0.0
+[2026-05-08 10:08:38] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:08:38] SCORE Gruppe 67 (purple): Final=300.4, Time=90.4, Moves(21)=0.0, Pins(0)=0.0, Dist=210.0, Win Bonus=0.0
+[2026-05-08 10:08:38] SCORE Group7 (lawn green): Final=785.2, Time=81.2, Moves(19)=0.0, Pins(4)=400.0, Dist=304.0, Win Bonus=0.0
+[2026-05-08 10:08:38] SCORE Group 99 (gray0): Final=682.0, Time=74.0, Moves(20)=0.0, Pins(3)=300.0, Dist=308.0, Win Bonus=0.0
+[2026-05-08 10:08:40] MOVE 107: Group 99 (gray0) 109->63 [0.01ms]
+[2026-05-08 10:08:40] SCORE jat (red): Final=611.4, Time=95.4, Moves(22)=0.0, Pins(2)=200.0, Dist=316.0, Win Bonus=0.0
+[2026-05-08 10:08:40] SCORE The bandits (blue): Final=368.2, Time=98.2, Moves(22)=0.0, Pins(0)=0.0, Dist=270.0, Win Bonus=0.0
+[2026-05-08 10:08:40] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:08:40] SCORE Gruppe 67 (purple): Final=300.4, Time=90.4, Moves(21)=0.0, Pins(0)=0.0, Dist=210.0, Win Bonus=0.0
+[2026-05-08 10:08:40] SCORE Group7 (lawn green): Final=785.2, Time=81.2, Moves(19)=0.0, Pins(4)=400.0, Dist=304.0, Win Bonus=0.0
+[2026-05-08 10:08:40] SCORE Group 99 (gray0): Final=686.7, Time=72.7, Moves(21)=0.0, Pins(3)=300.0, Dist=314.0, Win Bonus=0.0
+[2026-05-08 10:08:40] MOVE 108: Gruppe 67 (purple) 94->95 [0.00ms]
+[2026-05-08 10:08:40] SCORE jat (red): Final=611.4, Time=95.4, Moves(22)=0.0, Pins(2)=200.0, Dist=316.0, Win Bonus=0.0
+[2026-05-08 10:08:40] SCORE The bandits (blue): Final=368.2, Time=98.2, Moves(22)=0.0, Pins(0)=0.0, Dist=270.0, Win Bonus=0.0
+[2026-05-08 10:08:40] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:08:40] SCORE Gruppe 67 (purple): Final=298.0, Time=90.0, Moves(22)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-08 10:08:40] SCORE Group7 (lawn green): Final=785.2, Time=81.2, Moves(19)=0.0, Pins(4)=400.0, Dist=304.0, Win Bonus=0.0
+[2026-05-08 10:08:40] SCORE Group 99 (gray0): Final=686.7, Time=72.7, Moves(21)=0.0, Pins(3)=300.0, Dist=314.0, Win Bonus=0.0
+[2026-05-08 10:08:40] MOVE 109: jat (red) 61->42 [0.01ms]
+[2026-05-08 10:08:40] SCORE jat (red): Final=615.2, Time=95.2, Moves(23)=0.0, Pins(2)=200.0, Dist=320.0, Win Bonus=0.0
+[2026-05-08 10:08:40] SCORE The bandits (blue): Final=368.2, Time=98.2, Moves(22)=0.0, Pins(0)=0.0, Dist=270.0, Win Bonus=0.0
+[2026-05-08 10:08:40] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:08:40] SCORE Gruppe 67 (purple): Final=298.0, Time=90.0, Moves(22)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-08 10:08:40] SCORE Group7 (lawn green): Final=785.2, Time=81.2, Moves(19)=0.0, Pins(4)=400.0, Dist=304.0, Win Bonus=0.0
+[2026-05-08 10:08:40] SCORE Group 99 (gray0): Final=686.7, Time=72.7, Moves(21)=0.0, Pins(3)=300.0, Dist=314.0, Win Bonus=0.0
+[2026-05-08 10:08:41] MOVE 110: Group7 (lawn green) 19->18 [0.01ms]
+[2026-05-08 10:08:41] SCORE jat (red): Final=615.2, Time=95.2, Moves(23)=0.0, Pins(2)=200.0, Dist=320.0, Win Bonus=0.0
+[2026-05-08 10:08:41] SCORE The bandits (blue): Final=368.2, Time=98.2, Moves(22)=0.0, Pins(0)=0.0, Dist=270.0, Win Bonus=0.0
+[2026-05-08 10:08:41] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:08:41] SCORE Gruppe 67 (purple): Final=298.0, Time=90.0, Moves(22)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-08 10:08:41] SCORE Group7 (lawn green): Final=786.1, Time=80.1, Moves(20)=0.0, Pins(4)=400.0, Dist=306.0, Win Bonus=0.0
+[2026-05-08 10:08:41] SCORE Group 99 (gray0): Final=686.7, Time=72.7, Moves(21)=0.0, Pins(3)=300.0, Dist=314.0, Win Bonus=0.0
+[2026-05-08 10:08:43] SCORE jat (red): Final=615.2, Time=95.2, Moves(23)=0.0, Pins(2)=200.0, Dist=320.0, Win Bonus=0.0
+[2026-05-08 10:08:43] SCORE The bandits (blue): Final=368.2, Time=98.2, Moves(22)=0.0, Pins(0)=0.0, Dist=270.0, Win Bonus=0.0
+[2026-05-08 10:08:43] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:08:43] SCORE Gruppe 67 (purple): Final=298.0, Time=90.0, Moves(22)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-08 10:08:43] SCORE Group7 (lawn green): Final=786.1, Time=80.1, Moves(20)=0.0, Pins(4)=400.0, Dist=306.0, Win Bonus=0.0
+[2026-05-08 10:08:43] SCORE Group 99 (gray0): Final=686.7, Time=72.7, Moves(21)=0.0, Pins(3)=300.0, Dist=314.0, Win Bonus=0.0
+[2026-05-08 10:08:43] TURN TIMEOUT: Player with colour yellow exceeded 2s at move 110. Turn skipped.
+[2026-05-08 10:08:43] MOVE 111: The bandits (blue) 39->79 [0.01ms]
+[2026-05-08 10:08:43] SCORE jat (red): Final=615.2, Time=95.2, Moves(23)=0.0, Pins(2)=200.0, Dist=320.0, Win Bonus=0.0
+[2026-05-08 10:08:43] SCORE The bandits (blue): Final=376.1, Time=98.1, Moves(23)=0.0, Pins(0)=0.0, Dist=278.0, Win Bonus=0.0
+[2026-05-08 10:08:43] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:08:43] SCORE Gruppe 67 (purple): Final=298.0, Time=90.0, Moves(22)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-08 10:08:43] SCORE Group7 (lawn green): Final=786.1, Time=80.1, Moves(20)=0.0, Pins(4)=400.0, Dist=306.0, Win Bonus=0.0
+[2026-05-08 10:08:43] SCORE Group 99 (gray0): Final=686.7, Time=72.7, Moves(21)=0.0, Pins(3)=300.0, Dist=314.0, Win Bonus=0.0
+[2026-05-08 10:08:45] MOVE 112: Group 99 (gray0) 63->64 [0.00ms]
+[2026-05-08 10:08:45] SCORE jat (red): Final=615.2, Time=95.2, Moves(23)=0.0, Pins(2)=200.0, Dist=320.0, Win Bonus=0.0
+[2026-05-08 10:08:45] SCORE The bandits (blue): Final=376.1, Time=98.1, Moves(23)=0.0, Pins(0)=0.0, Dist=278.0, Win Bonus=0.0
+[2026-05-08 10:08:45] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:08:45] SCORE Gruppe 67 (purple): Final=298.0, Time=90.0, Moves(22)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-08 10:08:45] SCORE Group7 (lawn green): Final=786.1, Time=80.1, Moves(20)=0.0, Pins(4)=400.0, Dist=306.0, Win Bonus=0.0
+[2026-05-08 10:08:45] SCORE Group 99 (gray0): Final=687.6, Time=71.6, Moves(22)=0.0, Pins(3)=300.0, Dist=316.0, Win Bonus=0.0
+[2026-05-08 10:08:45] MOVE 113: Gruppe 67 (purple) 95->94 [0.01ms]
+[2026-05-08 10:08:45] SCORE jat (red): Final=615.2, Time=95.2, Moves(23)=0.0, Pins(2)=200.0, Dist=320.0, Win Bonus=0.0
+[2026-05-08 10:08:45] SCORE The bandits (blue): Final=376.1, Time=98.1, Moves(23)=0.0, Pins(0)=0.0, Dist=278.0, Win Bonus=0.0
+[2026-05-08 10:08:45] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:08:45] SCORE Gruppe 67 (purple): Final=299.5, Time=89.5, Moves(23)=0.0, Pins(0)=0.0, Dist=210.0, Win Bonus=0.0
+[2026-05-08 10:08:45] SCORE Group7 (lawn green): Final=786.1, Time=80.1, Moves(20)=0.0, Pins(4)=400.0, Dist=306.0, Win Bonus=0.0
+[2026-05-08 10:08:45] SCORE Group 99 (gray0): Final=687.6, Time=71.6, Moves(22)=0.0, Pins(3)=300.0, Dist=316.0, Win Bonus=0.0
+[2026-05-08 10:08:45] MOVE 114: jat (red) 52->9 [0.01ms]
+[2026-05-08 10:08:45] SCORE jat (red): Final=722.9, Time=94.9, Moves(24)=0.0, Pins(3)=300.0, Dist=328.0, Win Bonus=0.0
+[2026-05-08 10:08:45] SCORE The bandits (blue): Final=376.1, Time=98.1, Moves(23)=0.0, Pins(0)=0.0, Dist=278.0, Win Bonus=0.0
+[2026-05-08 10:08:45] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:08:45] SCORE Gruppe 67 (purple): Final=299.5, Time=89.5, Moves(23)=0.0, Pins(0)=0.0, Dist=210.0, Win Bonus=0.0
+[2026-05-08 10:08:45] SCORE Group7 (lawn green): Final=786.1, Time=80.1, Moves(20)=0.0, Pins(4)=400.0, Dist=306.0, Win Bonus=0.0
+[2026-05-08 10:08:45] SCORE Group 99 (gray0): Final=687.6, Time=71.6, Moves(22)=0.0, Pins(3)=300.0, Dist=316.0, Win Bonus=0.0
+[2026-05-08 10:08:46] MOVE 115: Group7 (lawn green) 40->39 [0.01ms]
+[2026-05-08 10:08:46] SCORE jat (red): Final=722.9, Time=94.9, Moves(24)=0.0, Pins(3)=300.0, Dist=328.0, Win Bonus=0.0
+[2026-05-08 10:08:46] SCORE The bandits (blue): Final=376.1, Time=98.1, Moves(23)=0.0, Pins(0)=0.0, Dist=278.0, Win Bonus=0.0
+[2026-05-08 10:08:46] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:08:46] SCORE Gruppe 67 (purple): Final=299.5, Time=89.5, Moves(23)=0.0, Pins(0)=0.0, Dist=210.0, Win Bonus=0.0
+[2026-05-08 10:08:46] SCORE Group7 (lawn green): Final=787.1, Time=79.1, Moves(21)=0.0, Pins(4)=400.0, Dist=308.0, Win Bonus=0.0
+[2026-05-08 10:08:46] SCORE Group 99 (gray0): Final=687.6, Time=71.6, Moves(22)=0.0, Pins(3)=300.0, Dist=316.0, Win Bonus=0.0
+[2026-05-08 10:08:46] SCORE jat (red): Final=722.9, Time=94.9, Moves(24)=0.0, Pins(3)=300.0, Dist=328.0, Win Bonus=0.0
+[2026-05-08 10:08:46] SCORE The bandits (blue): Final=376.1, Time=98.1, Moves(23)=0.0, Pins(0)=0.0, Dist=278.0, Win Bonus=0.0
+[2026-05-08 10:08:46] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:08:46] SCORE Gruppe 67 (purple): Final=299.5, Time=89.5, Moves(23)=0.0, Pins(0)=0.0, Dist=210.0, Win Bonus=0.0
+[2026-05-08 10:08:46] SCORE Group7 (lawn green): Final=787.1, Time=79.1, Moves(21)=0.0, Pins(4)=400.0, Dist=308.0, Win Bonus=0.0
+[2026-05-08 10:08:46] SCORE Group 99 (gray0): Final=687.6, Time=71.6, Moves(22)=0.0, Pins(3)=300.0, Dist=316.0, Win Bonus=0.0
+[2026-05-08 10:08:47] GAME TIME LIMIT REACHED.
+[2026-05-08 10:08:47] SCORE jat (red): Final=722.9, Time=94.9, Moves(24)=0.0, Pins(3)=300.0, Dist=328.0, Win Bonus=0.0
+[2026-05-08 10:08:47] SCORE The bandits (blue): Final=376.1, Time=98.1, Moves(23)=0.0, Pins(0)=0.0, Dist=278.0, Win Bonus=0.0
+[2026-05-08 10:08:47] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:08:47] SCORE Gruppe 67 (purple): Final=299.5, Time=89.5, Moves(23)=0.0, Pins(0)=0.0, Dist=210.0, Win Bonus=0.0
+[2026-05-08 10:08:47] SCORE Group7 (lawn green): Final=787.1, Time=79.1, Moves(21)=0.0, Pins(4)=400.0, Dist=308.0, Win Bonus=0.0
+[2026-05-08 10:08:47] SCORE Group 99 (gray0): Final=687.6, Time=71.6, Moves(22)=0.0, Pins(3)=300.0, Dist=316.0, Win Bonus=0.0
+[2026-05-08 10:08:47] GAME TIME LIMIT REACHED.
+[2026-05-08 10:08:47] SCORE jat (red): Final=722.9, Time=94.9, Moves(24)=0.0, Pins(3)=300.0, Dist=328.0, Win Bonus=0.0
+[2026-05-08 10:08:47] SCORE The bandits (blue): Final=376.1, Time=98.1, Moves(23)=0.0, Pins(0)=0.0, Dist=278.0, Win Bonus=0.0
+[2026-05-08 10:08:47] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:08:47] SCORE Gruppe 67 (purple): Final=299.5, Time=89.5, Moves(23)=0.0, Pins(0)=0.0, Dist=210.0, Win Bonus=0.0
+[2026-05-08 10:08:47] SCORE Group7 (lawn green): Final=787.1, Time=79.1, Moves(21)=0.0, Pins(4)=400.0, Dist=308.0, Win Bonus=0.0
+[2026-05-08 10:08:47] SCORE Group 99 (gray0): Final=687.6, Time=71.6, Moves(22)=0.0, Pins(3)=300.0, Dist=316.0, Win Bonus=0.0
+[2026-05-08 10:08:47] GAME TIME LIMIT REACHED.
+[2026-05-08 10:08:47] SCORE jat (red): Final=722.9, Time=94.9, Moves(24)=0.0, Pins(3)=300.0, Dist=328.0, Win Bonus=0.0
+[2026-05-08 10:08:47] SCORE The bandits (blue): Final=376.1, Time=98.1, Moves(23)=0.0, Pins(0)=0.0, Dist=278.0, Win Bonus=0.0
+[2026-05-08 10:08:47] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:08:47] SCORE Gruppe 67 (purple): Final=299.5, Time=89.5, Moves(23)=0.0, Pins(0)=0.0, Dist=210.0, Win Bonus=0.0
+[2026-05-08 10:08:47] SCORE Group7 (lawn green): Final=787.1, Time=79.1, Moves(21)=0.0, Pins(4)=400.0, Dist=308.0, Win Bonus=0.0
+[2026-05-08 10:08:47] SCORE Group 99 (gray0): Final=687.6, Time=71.6, Moves(22)=0.0, Pins(3)=300.0, Dist=316.0, Win Bonus=0.0
+[2026-05-08 10:08:47] GAME TIME LIMIT REACHED.
+[2026-05-08 10:08:47] SCORE jat (red): Final=722.9, Time=94.9, Moves(24)=0.0, Pins(3)=300.0, Dist=328.0, Win Bonus=0.0
+[2026-05-08 10:08:47] SCORE The bandits (blue): Final=376.1, Time=98.1, Moves(23)=0.0, Pins(0)=0.0, Dist=278.0, Win Bonus=0.0
+[2026-05-08 10:08:47] SCORE Tiefes Verstarkendes Lernen (yellow): Final=290.9, Time=98.9, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:08:47] SCORE Gruppe 67 (purple): Final=299.5, Time=89.5, Moves(23)=0.0, Pins(0)=0.0, Dist=210.0, Win Bonus=0.0
+[2026-05-08 10:08:47] SCORE Group7 (lawn green): Final=787.1, Time=79.1, Moves(21)=0.0, Pins(4)=400.0, Dist=308.0, Win Bonus=0.0
+[2026-05-08 10:08:47] SCORE Group 99 (gray0): Final=687.6, Time=71.6, Moves(22)=0.0, Pins(3)=300.0, Dist=316.0, Win Bonus=0.0
+[2026-05-08 10:08:47] GAME TIME LIMIT REACHED.

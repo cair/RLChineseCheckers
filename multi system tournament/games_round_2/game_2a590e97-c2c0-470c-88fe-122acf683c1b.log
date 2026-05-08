@@ -1,0 +1,327 @@
+[2026-05-08 09:38:52] GAME CREATED
+[2026-05-08 09:38:55] PLAYER JOINED: Robert as red
+[2026-05-08 09:38:59] PLAYER JOINED: S&S as blue
+[2026-05-08 09:39:04] PLAYER START: Robert (red)
+[2026-05-08 09:39:04] PLAYER START: S&S (blue)
+[2026-05-08 09:39:04] GAME START — turn order ['red', 'blue']
+[2026-05-08 09:39:04] MOVE 1: Robert (red) 115->102 [0.00ms]
+[2026-05-08 09:39:04] SCORE Robert (red): Final=283.5, Time=99.5, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 09:39:04] SCORE S&S (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:39:05] MOVE 2: S&S (blue) 5->16 [0.01ms]
+[2026-05-08 09:39:05] SCORE Robert (red): Final=283.5, Time=99.5, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 09:39:05] SCORE S&S (blue): Final=283.5, Time=99.5, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 09:39:05] MOVE 3: Robert (red) 102->89 [0.00ms]
+[2026-05-08 09:39:05] SCORE Robert (red): Final=285.2, Time=99.2, Moves(2)=0.0, Pins(0)=0.0, Dist=186.0, Win Bonus=0.0
+[2026-05-08 09:39:05] SCORE S&S (blue): Final=283.5, Time=99.5, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 09:39:06] MOVE 4: S&S (blue) 6->14 [0.00ms]
+[2026-05-08 09:39:06] SCORE Robert (red): Final=285.2, Time=99.2, Moves(2)=0.0, Pins(0)=0.0, Dist=186.0, Win Bonus=0.0
+[2026-05-08 09:39:06] SCORE S&S (blue): Final=285.1, Time=99.1, Moves(2)=0.0, Pins(0)=0.0, Dist=186.0, Win Bonus=0.0
+[2026-05-08 09:39:06] MOVE 5: Robert (red) 120->77 [0.01ms]
+[2026-05-08 09:39:06] SCORE Robert (red): Final=296.9, Time=98.9, Moves(3)=0.0, Pins(0)=0.0, Dist=198.0, Win Bonus=0.0
+[2026-05-08 09:39:06] SCORE S&S (blue): Final=285.1, Time=99.1, Moves(2)=0.0, Pins(0)=0.0, Dist=186.0, Win Bonus=0.0
+[2026-05-08 09:39:07] MOVE 6: S&S (blue) 4->13 [0.00ms]
+[2026-05-08 09:39:07] SCORE Robert (red): Final=296.9, Time=98.9, Moves(3)=0.0, Pins(0)=0.0, Dist=198.0, Win Bonus=0.0
+[2026-05-08 09:39:07] SCORE S&S (blue): Final=288.4, Time=98.4, Moves(3)=0.0, Pins(0)=0.0, Dist=190.0, Win Bonus=0.0
+[2026-05-08 09:39:07] MOVE 7: Robert (red) 112->103 [0.00ms]
+[2026-05-08 09:39:07] SCORE Robert (red): Final=298.7, Time=98.7, Moves(4)=0.0, Pins(0)=0.0, Dist=200.0, Win Bonus=0.0
+[2026-05-08 09:39:07] SCORE S&S (blue): Final=288.4, Time=98.4, Moves(3)=0.0, Pins(0)=0.0, Dist=190.0, Win Bonus=0.0
+[2026-05-08 09:39:07] MOVE 8: S&S (blue) 1->26 [0.00ms]
+[2026-05-08 09:39:07] SCORE Robert (red): Final=298.7, Time=98.7, Moves(4)=0.0, Pins(0)=0.0, Dist=200.0, Win Bonus=0.0
+[2026-05-08 09:39:07] SCORE S&S (blue): Final=295.8, Time=97.8, Moves(4)=0.0, Pins(0)=0.0, Dist=198.0, Win Bonus=0.0
+[2026-05-08 09:39:08] MOVE 9: Robert (red) 119->67 [0.00ms]
+[2026-05-08 09:39:08] SCORE Robert (red): Final=310.0, Time=98.0, Moves(5)=0.0, Pins(0)=0.0, Dist=212.0, Win Bonus=0.0
+[2026-05-08 09:39:08] SCORE S&S (blue): Final=295.8, Time=97.8, Moves(4)=0.0, Pins(0)=0.0, Dist=198.0, Win Bonus=0.0
+[2026-05-08 09:39:09] MOVE 10: S&S (blue) 7->15 [0.00ms]
+[2026-05-08 09:39:09] SCORE Robert (red): Final=310.0, Time=98.0, Moves(5)=0.0, Pins(0)=0.0, Dist=212.0, Win Bonus=0.0
+[2026-05-08 09:39:09] SCORE S&S (blue): Final=297.0, Time=97.0, Moves(5)=0.0, Pins(0)=0.0, Dist=200.0, Win Bonus=0.0
+[2026-05-08 09:39:09] MOVE 11: Robert (red) 67->57 [0.01ms]
+[2026-05-08 09:39:09] SCORE Robert (red): Final=311.4, Time=97.4, Moves(6)=0.0, Pins(0)=0.0, Dist=214.0, Win Bonus=0.0
+[2026-05-08 09:39:09] SCORE S&S (blue): Final=297.0, Time=97.0, Moves(5)=0.0, Pins(0)=0.0, Dist=200.0, Win Bonus=0.0
+[2026-05-08 09:39:10] MOVE 12: S&S (blue) 9->25 [0.01ms]
+[2026-05-08 09:39:10] SCORE Robert (red): Final=311.4, Time=97.4, Moves(6)=0.0, Pins(0)=0.0, Dist=214.0, Win Bonus=0.0
+[2026-05-08 09:39:10] SCORE S&S (blue): Final=300.3, Time=96.3, Moves(6)=0.0, Pins(0)=0.0, Dist=204.0, Win Bonus=0.0
+[2026-05-08 09:39:11] MOVE 13: Robert (red) 114->47 [0.01ms]
+[2026-05-08 09:39:11] SCORE Robert (red): Final=322.8, Time=96.8, Moves(7)=0.0, Pins(0)=0.0, Dist=226.0, Win Bonus=0.0
+[2026-05-08 09:39:11] SCORE S&S (blue): Final=300.3, Time=96.3, Moves(6)=0.0, Pins(0)=0.0, Dist=204.0, Win Bonus=0.0
+[2026-05-08 09:39:12] MOVE 14: S&S (blue) 26->24 [0.00ms]
+[2026-05-08 09:39:12] SCORE Robert (red): Final=322.8, Time=96.8, Moves(7)=0.0, Pins(0)=0.0, Dist=226.0, Win Bonus=0.0
+[2026-05-08 09:39:12] SCORE S&S (blue): Final=299.6, Time=95.6, Moves(7)=0.0, Pins(0)=0.0, Dist=204.0, Win Bonus=0.0
+[2026-05-08 09:39:12] MOVE 15: Robert (red) 77->66 [0.00ms]
+[2026-05-08 09:39:12] SCORE Robert (red): Final=323.9, Time=95.9, Moves(8)=0.0, Pins(0)=0.0, Dist=228.0, Win Bonus=0.0
+[2026-05-08 09:39:12] SCORE S&S (blue): Final=299.6, Time=95.6, Moves(7)=0.0, Pins(0)=0.0, Dist=204.0, Win Bonus=0.0
+[2026-05-08 09:39:13] MOVE 16: S&S (blue) 8->26 [0.01ms]
+[2026-05-08 09:39:13] SCORE Robert (red): Final=323.9, Time=95.9, Moves(8)=0.0, Pins(0)=0.0, Dist=228.0, Win Bonus=0.0
+[2026-05-08 09:39:13] SCORE S&S (blue): Final=303.0, Time=95.0, Moves(8)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-08 09:39:13] MOVE 17: Robert (red) 117->12 [0.01ms]
+[2026-05-08 09:39:13] SCORE Robert (red): Final=339.5, Time=95.5, Moves(9)=0.0, Pins(0)=0.0, Dist=244.0, Win Bonus=0.0
+[2026-05-08 09:39:13] SCORE S&S (blue): Final=303.0, Time=95.0, Moves(8)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-08 09:39:14] MOVE 18: S&S (blue) 13->11 [0.01ms]
+[2026-05-08 09:39:14] SCORE Robert (red): Final=339.5, Time=95.5, Moves(9)=0.0, Pins(0)=0.0, Dist=244.0, Win Bonus=0.0
+[2026-05-08 09:39:14] SCORE S&S (blue): Final=302.6, Time=94.6, Moves(9)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-08 09:39:14] MOVE 19: Robert (red) 118->115 [0.01ms]
+[2026-05-08 09:39:14] SCORE Robert (red): Final=341.0, Time=95.0, Moves(10)=0.0, Pins(0)=0.0, Dist=246.0, Win Bonus=0.0
+[2026-05-08 09:39:14] SCORE S&S (blue): Final=302.6, Time=94.6, Moves(9)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-08 09:39:15] MOVE 20: S&S (blue) 15->36 [0.01ms]
+[2026-05-08 09:39:15] SCORE Robert (red): Final=341.0, Time=95.0, Moves(10)=0.0, Pins(0)=0.0, Dist=246.0, Win Bonus=0.0
+[2026-05-08 09:39:15] SCORE S&S (blue): Final=306.3, Time=94.3, Moves(10)=0.0, Pins(0)=0.0, Dist=212.0, Win Bonus=0.0
+[2026-05-08 09:39:15] MOVE 21: Robert (red) 115->37 [0.01ms]
+[2026-05-08 09:39:15] SCORE Robert (red): Final=356.4, Time=94.4, Moves(11)=0.0, Pins(0)=0.0, Dist=262.0, Win Bonus=0.0
+[2026-05-08 09:39:15] SCORE S&S (blue): Final=306.3, Time=94.3, Moves(10)=0.0, Pins(0)=0.0, Dist=212.0, Win Bonus=0.0
+[2026-05-08 09:39:16] MOVE 22: S&S (blue) 3->6 [0.01ms]
+[2026-05-08 09:39:16] SCORE Robert (red): Final=356.4, Time=94.4, Moves(11)=0.0, Pins(0)=0.0, Dist=262.0, Win Bonus=0.0
+[2026-05-08 09:39:16] SCORE S&S (blue): Final=307.6, Time=93.6, Moves(11)=0.0, Pins(0)=0.0, Dist=214.0, Win Bonus=0.0
+[2026-05-08 09:39:16] MOVE 23: Robert (red) 66->48 [0.01ms]
+[2026-05-08 09:39:16] SCORE Robert (red): Final=360.0, Time=94.0, Moves(12)=0.0, Pins(0)=0.0, Dist=266.0, Win Bonus=0.0
+[2026-05-08 09:39:16] SCORE S&S (blue): Final=307.6, Time=93.6, Moves(11)=0.0, Pins(0)=0.0, Dist=214.0, Win Bonus=0.0
+[2026-05-08 09:39:17] MOVE 24: S&S (blue) 16->15 [0.01ms]
+[2026-05-08 09:39:17] SCORE Robert (red): Final=360.0, Time=94.0, Moves(12)=0.0, Pins(0)=0.0, Dist=266.0, Win Bonus=0.0
+[2026-05-08 09:39:17] SCORE S&S (blue): Final=307.2, Time=93.2, Moves(12)=0.0, Pins(0)=0.0, Dist=214.0, Win Bonus=0.0
+[2026-05-08 09:39:17] MOVE 25: Robert (red) 57->38 [0.01ms]
+[2026-05-08 09:39:17] SCORE Robert (red): Final=363.6, Time=93.6, Moves(13)=0.0, Pins(0)=0.0, Dist=270.0, Win Bonus=0.0
+[2026-05-08 09:39:17] SCORE S&S (blue): Final=307.2, Time=93.2, Moves(12)=0.0, Pins(0)=0.0, Dist=214.0, Win Bonus=0.0
+[2026-05-08 09:39:18] MOVE 26: S&S (blue) 15->13 [0.01ms]
+[2026-05-08 09:39:18] SCORE Robert (red): Final=363.6, Time=93.6, Moves(13)=0.0, Pins(0)=0.0, Dist=270.0, Win Bonus=0.0
+[2026-05-08 09:39:18] SCORE S&S (blue): Final=306.9, Time=92.9, Moves(13)=0.0, Pins(0)=0.0, Dist=214.0, Win Bonus=0.0
+[2026-05-08 09:39:18] MOVE 27: Robert (red) 111->91 [0.01ms]
+[2026-05-08 09:39:18] SCORE Robert (red): Final=367.1, Time=93.1, Moves(14)=0.0, Pins(0)=0.0, Dist=274.0, Win Bonus=0.0
+[2026-05-08 09:39:18] SCORE S&S (blue): Final=306.9, Time=92.9, Moves(13)=0.0, Pins(0)=0.0, Dist=214.0, Win Bonus=0.0
+[2026-05-08 09:39:18] MOVE 28: S&S (blue) 0->1 [0.01ms]
+[2026-05-08 09:39:18] SCORE Robert (red): Final=367.1, Time=93.1, Moves(14)=0.0, Pins(0)=0.0, Dist=274.0, Win Bonus=0.0
+[2026-05-08 09:39:18] SCORE S&S (blue): Final=308.6, Time=92.6, Moves(14)=0.0, Pins(0)=0.0, Dist=216.0, Win Bonus=0.0
+[2026-05-08 09:39:19] MOVE 29: Robert (red) 103->80 [0.01ms]
+[2026-05-08 09:39:19] SCORE Robert (red): Final=370.5, Time=92.5, Moves(15)=0.0, Pins(0)=0.0, Dist=278.0, Win Bonus=0.0
+[2026-05-08 09:39:19] SCORE S&S (blue): Final=308.6, Time=92.6, Moves(14)=0.0, Pins(0)=0.0, Dist=216.0, Win Bonus=0.0
+[2026-05-08 09:39:20] MOVE 30: S&S (blue) 25->23 [0.01ms]
+[2026-05-08 09:39:20] SCORE Robert (red): Final=370.5, Time=92.5, Moves(15)=0.0, Pins(0)=0.0, Dist=278.0, Win Bonus=0.0
+[2026-05-08 09:39:20] SCORE S&S (blue): Final=307.9, Time=91.9, Moves(15)=0.0, Pins(0)=0.0, Dist=216.0, Win Bonus=0.0
+[2026-05-08 09:39:20] MOVE 31: Robert (red) 91->70 [0.01ms]
+[2026-05-08 09:39:20] SCORE Robert (red): Final=373.9, Time=91.9, Moves(16)=0.0, Pins(0)=0.0, Dist=282.0, Win Bonus=0.0
+[2026-05-08 09:39:20] SCORE S&S (blue): Final=307.9, Time=91.9, Moves(15)=0.0, Pins(0)=0.0, Dist=216.0, Win Bonus=0.0
+[2026-05-08 09:39:21] MOVE 32: S&S (blue) 26->25 [0.01ms]
+[2026-05-08 09:39:21] SCORE Robert (red): Final=373.9, Time=91.9, Moves(16)=0.0, Pins(0)=0.0, Dist=282.0, Win Bonus=0.0
+[2026-05-08 09:39:21] SCORE S&S (blue): Final=307.2, Time=91.2, Moves(16)=0.0, Pins(0)=0.0, Dist=216.0, Win Bonus=0.0
+[2026-05-08 09:39:22] MOVE 33: Robert (red) 80->92 [0.01ms]
+[2026-05-08 09:39:22] SCORE Robert (red): Final=371.0, Time=91.0, Moves(17)=0.0, Pins(0)=0.0, Dist=280.0, Win Bonus=0.0
+[2026-05-08 09:39:22] SCORE S&S (blue): Final=307.2, Time=91.2, Moves(16)=0.0, Pins(0)=0.0, Dist=216.0, Win Bonus=0.0
+[2026-05-08 09:39:22] MOVE 34: S&S (blue) 6->26 [0.01ms]
+[2026-05-08 09:39:22] SCORE Robert (red): Final=371.0, Time=91.0, Moves(17)=0.0, Pins(0)=0.0, Dist=280.0, Win Bonus=0.0
+[2026-05-08 09:39:22] SCORE S&S (blue): Final=310.6, Time=90.6, Moves(17)=0.0, Pins(0)=0.0, Dist=220.0, Win Bonus=0.0
+[2026-05-08 09:39:23] MOVE 35: Robert (red) 116->61 [0.01ms]
+[2026-05-08 09:39:23] SCORE Robert (red): Final=382.2, Time=90.2, Moves(18)=0.0, Pins(0)=0.0, Dist=292.0, Win Bonus=0.0
+[2026-05-08 09:39:23] SCORE S&S (blue): Final=310.6, Time=90.6, Moves(17)=0.0, Pins(0)=0.0, Dist=220.0, Win Bonus=0.0
+[2026-05-08 09:39:24] MOVE 36: S&S (blue) 23->10 [0.01ms]
+[2026-05-08 09:39:24] SCORE Robert (red): Final=382.2, Time=90.2, Moves(18)=0.0, Pins(0)=0.0, Dist=292.0, Win Bonus=0.0
+[2026-05-08 09:39:24] SCORE S&S (blue): Final=308.0, Time=90.0, Moves(18)=0.0, Pins(0)=0.0, Dist=218.0, Win Bonus=0.0
+[2026-05-08 09:39:24] MOVE 37: Robert (red) 113->104 [0.00ms]
+[2026-05-08 09:39:24] SCORE Robert (red): Final=383.7, Time=89.7, Moves(19)=0.0, Pins(0)=0.0, Dist=294.0, Win Bonus=0.0
+[2026-05-08 09:39:24] SCORE S&S (blue): Final=308.0, Time=90.0, Moves(18)=0.0, Pins(0)=0.0, Dist=218.0, Win Bonus=0.0
+[2026-05-08 09:39:25] MOVE 38: S&S (blue) 25->23 [0.01ms]
+[2026-05-08 09:39:25] SCORE Robert (red): Final=383.7, Time=89.7, Moves(19)=0.0, Pins(0)=0.0, Dist=294.0, Win Bonus=0.0
+[2026-05-08 09:39:25] SCORE S&S (blue): Final=307.8, Time=89.8, Moves(19)=0.0, Pins(0)=0.0, Dist=218.0, Win Bonus=0.0
+[2026-05-08 09:39:25] MOVE 39: Robert (red) 61->51 [0.00ms]
+[2026-05-08 09:39:25] SCORE Robert (red): Final=384.9, Time=88.9, Moves(20)=0.0, Pins(0)=0.0, Dist=296.0, Win Bonus=0.0
+[2026-05-08 09:39:25] SCORE S&S (blue): Final=307.8, Time=89.8, Moves(19)=0.0, Pins(0)=0.0, Dist=218.0, Win Bonus=0.0
+[2026-05-08 09:39:26] MOVE 40: S&S (blue) 26->25 [0.01ms]
+[2026-05-08 09:39:26] SCORE Robert (red): Final=384.9, Time=88.9, Moves(20)=0.0, Pins(0)=0.0, Dist=296.0, Win Bonus=0.0
+[2026-05-08 09:39:26] SCORE S&S (blue): Final=307.3, Time=89.3, Moves(20)=0.0, Pins(0)=0.0, Dist=218.0, Win Bonus=0.0
+[2026-05-08 09:39:26] MOVE 41: Robert (red) 104->41 [0.01ms]
+[2026-05-08 09:39:26] SCORE Robert (red): Final=396.5, Time=88.5, Moves(21)=0.0, Pins(0)=0.0, Dist=308.0, Win Bonus=0.0
+[2026-05-08 09:39:26] SCORE S&S (blue): Final=307.3, Time=89.3, Moves(20)=0.0, Pins(0)=0.0, Dist=218.0, Win Bonus=0.0
+[2026-05-08 09:39:27] MOVE 42: S&S (blue) 36->46 [0.01ms]
+[2026-05-08 09:39:27] SCORE Robert (red): Final=396.5, Time=88.5, Moves(21)=0.0, Pins(0)=0.0, Dist=308.0, Win Bonus=0.0
+[2026-05-08 09:39:27] SCORE S&S (blue): Final=308.9, Time=88.9, Moves(21)=0.0, Pins(0)=0.0, Dist=220.0, Win Bonus=0.0
+[2026-05-08 09:39:27] MOVE 43: Robert (red) 47->6 [0.01ms]
+[2026-05-08 09:39:27] SCORE Robert (red): Final=504.1, Time=88.1, Moves(22)=0.0, Pins(1)=100.0, Dist=316.0, Win Bonus=0.0
+[2026-05-08 09:39:27] SCORE S&S (blue): Final=308.9, Time=88.9, Moves(21)=0.0, Pins(0)=0.0, Dist=220.0, Win Bonus=0.0
+[2026-05-08 09:39:27] MOVE 44: S&S (blue) 13->36 [0.01ms]
+[2026-05-08 09:39:27] SCORE Robert (red): Final=504.1, Time=88.1, Moves(22)=0.0, Pins(1)=100.0, Dist=316.0, Win Bonus=0.0
+[2026-05-08 09:39:27] SCORE S&S (blue): Final=312.6, Time=88.6, Moves(22)=0.0, Pins(0)=0.0, Dist=224.0, Win Bonus=0.0
+[2026-05-08 09:39:28] MOVE 45: Robert (red) 92->80 [0.01ms]
+[2026-05-08 09:39:28] SCORE Robert (red): Final=505.4, Time=87.4, Moves(23)=0.0, Pins(1)=100.0, Dist=318.0, Win Bonus=0.0
+[2026-05-08 09:39:28] SCORE S&S (blue): Final=312.6, Time=88.6, Moves(22)=0.0, Pins(0)=0.0, Dist=224.0, Win Bonus=0.0
+[2026-05-08 09:39:29] MOVE 46: S&S (blue) 1->3 [0.01ms]
+[2026-05-08 09:39:29] SCORE Robert (red): Final=505.4, Time=87.4, Moves(23)=0.0, Pins(1)=100.0, Dist=318.0, Win Bonus=0.0
+[2026-05-08 09:39:29] SCORE S&S (blue): Final=313.9, Time=87.9, Moves(23)=0.0, Pins(0)=0.0, Dist=226.0, Win Bonus=0.0
+[2026-05-08 09:39:30] MOVE 47: Robert (red) 41->29 [0.01ms]
+[2026-05-08 09:39:30] SCORE Robert (red): Final=506.6, Time=86.6, Moves(24)=0.0, Pins(1)=100.0, Dist=320.0, Win Bonus=0.0
+[2026-05-08 09:39:30] SCORE S&S (blue): Final=313.9, Time=87.9, Moves(23)=0.0, Pins(0)=0.0, Dist=226.0, Win Bonus=0.0
+[2026-05-08 09:39:30] MOVE 48: S&S (blue) 14->13 [0.00ms]
+[2026-05-08 09:39:30] SCORE Robert (red): Final=506.6, Time=86.6, Moves(24)=0.0, Pins(1)=100.0, Dist=320.0, Win Bonus=0.0
+[2026-05-08 09:39:30] SCORE S&S (blue): Final=313.3, Time=87.3, Moves(24)=0.0, Pins(0)=0.0, Dist=226.0, Win Bonus=0.0
+[2026-05-08 09:39:30] MOVE 49: Robert (red) 80->17 [0.01ms]
+[2026-05-08 09:39:30] SCORE Robert (red): Final=518.3, Time=86.3, Moves(25)=0.0, Pins(1)=100.0, Dist=332.0, Win Bonus=0.0
+[2026-05-08 09:39:30] SCORE S&S (blue): Final=313.3, Time=87.3, Moves(24)=0.0, Pins(0)=0.0, Dist=226.0, Win Bonus=0.0
+[2026-05-08 09:39:31] MOVE 50: S&S (blue) 3->14 [0.01ms]
+[2026-05-08 09:39:31] SCORE Robert (red): Final=518.3, Time=86.3, Moves(25)=0.0, Pins(1)=100.0, Dist=332.0, Win Bonus=0.0
+[2026-05-08 09:39:31] SCORE S&S (blue): Final=317.0, Time=87.0, Moves(25)=0.0, Pins(0)=0.0, Dist=230.0, Win Bonus=0.0
+[2026-05-08 09:39:31] MOVE 51: Robert (red) 70->60 [0.01ms]
+[2026-05-08 09:39:31] SCORE Robert (red): Final=519.8, Time=85.8, Moves(26)=0.0, Pins(1)=100.0, Dist=334.0, Win Bonus=0.0
+[2026-05-08 09:39:31] SCORE S&S (blue): Final=317.0, Time=87.0, Moves(25)=0.0, Pins(0)=0.0, Dist=230.0, Win Bonus=0.0
+[2026-05-08 09:39:32] MOVE 52: S&S (blue) 36->35 [0.01ms]
+[2026-05-08 09:39:32] SCORE Robert (red): Final=519.8, Time=85.8, Moves(26)=0.0, Pins(1)=100.0, Dist=334.0, Win Bonus=0.0
+[2026-05-08 09:39:32] SCORE S&S (blue): Final=316.6, Time=86.6, Moves(26)=0.0, Pins(0)=0.0, Dist=230.0, Win Bonus=0.0
+[2026-05-08 09:39:32] MOVE 53: Robert (red) 60->16 [0.01ms]
+[2026-05-08 09:39:32] SCORE Robert (red): Final=527.1, Time=85.1, Moves(27)=0.0, Pins(1)=100.0, Dist=342.0, Win Bonus=0.0
+[2026-05-08 09:39:32] SCORE S&S (blue): Final=316.6, Time=86.6, Moves(26)=0.0, Pins(0)=0.0, Dist=230.0, Win Bonus=0.0
+[2026-05-08 09:39:33] MOVE 54: S&S (blue) 13->36 [0.00ms]
+[2026-05-08 09:39:33] SCORE Robert (red): Final=527.1, Time=85.1, Moves(27)=0.0, Pins(1)=100.0, Dist=342.0, Win Bonus=0.0
+[2026-05-08 09:39:33] SCORE S&S (blue): Final=319.9, Time=85.9, Moves(27)=0.0, Pins(0)=0.0, Dist=234.0, Win Bonus=0.0
+[2026-05-08 09:39:34] MOVE 55: Robert (red) 29->7 [0.00ms]
+[2026-05-08 09:39:34] SCORE Robert (red): Final=630.4, Time=84.4, Moves(28)=0.0, Pins(2)=200.0, Dist=346.0, Win Bonus=0.0
+[2026-05-08 09:39:34] SCORE S&S (blue): Final=319.9, Time=85.9, Moves(27)=0.0, Pins(0)=0.0, Dist=234.0, Win Bonus=0.0
+[2026-05-08 09:39:34] MOVE 56: S&S (blue) 2->4 [0.00ms]
+[2026-05-08 09:39:34] SCORE Robert (red): Final=630.4, Time=84.4, Moves(28)=0.0, Pins(2)=200.0, Dist=346.0, Win Bonus=0.0
+[2026-05-08 09:39:34] SCORE S&S (blue): Final=321.4, Time=85.4, Moves(28)=0.0, Pins(0)=0.0, Dist=236.0, Win Bonus=0.0
+[2026-05-08 09:39:35] MOVE 57: Robert (red) 48->27 [0.01ms]
+[2026-05-08 09:39:35] SCORE Robert (red): Final=634.1, Time=84.1, Moves(29)=0.0, Pins(2)=200.0, Dist=350.0, Win Bonus=0.0
+[2026-05-08 09:39:35] SCORE S&S (blue): Final=321.4, Time=85.4, Moves(28)=0.0, Pins(0)=0.0, Dist=236.0, Win Bonus=0.0
+[2026-05-08 09:39:35] MOVE 58: S&S (blue) 4->13 [0.00ms]
+[2026-05-08 09:39:35] SCORE Robert (red): Final=634.1, Time=84.1, Moves(29)=0.0, Pins(2)=200.0, Dist=350.0, Win Bonus=0.0
+[2026-05-08 09:39:35] SCORE S&S (blue): Final=324.8, Time=84.8, Moves(29)=0.0, Pins(0)=0.0, Dist=240.0, Win Bonus=0.0
+[2026-05-08 09:39:35] MOVE 59: Robert (red) 38->4 [0.00ms]
+[2026-05-08 09:39:35] SCORE Robert (red): Final=739.7, Time=83.7, Moves(30)=0.0, Pins(3)=300.0, Dist=356.0, Win Bonus=0.0
+[2026-05-08 09:39:35] SCORE S&S (blue): Final=324.8, Time=84.8, Moves(29)=0.0, Pins(0)=0.0, Dist=240.0, Win Bonus=0.0
+[2026-05-08 09:39:36] MOVE 60: S&S (blue) 14->26 [0.01ms]
+[2026-05-08 09:39:36] SCORE Robert (red): Final=739.7, Time=83.7, Moves(30)=0.0, Pins(3)=300.0, Dist=356.0, Win Bonus=0.0
+[2026-05-08 09:39:36] SCORE S&S (blue): Final=326.5, Time=84.5, Moves(30)=0.0, Pins(0)=0.0, Dist=242.0, Win Bonus=0.0
+[2026-05-08 09:39:37] MOVE 61: Robert (red) 12->5 [0.00ms]
+[2026-05-08 09:39:37] SCORE Robert (red): Final=845.0, Time=83.0, Moves(31)=0.0, Pins(4)=400.0, Dist=362.0, Win Bonus=0.0
+[2026-05-08 09:39:37] SCORE S&S (blue): Final=326.5, Time=84.5, Moves(30)=0.0, Pins(0)=0.0, Dist=242.0, Win Bonus=0.0
+[2026-05-08 09:39:37] MOVE 62: S&S (blue) 13->12 [0.00ms]
+[2026-05-08 09:39:37] SCORE Robert (red): Final=845.0, Time=83.0, Moves(31)=0.0, Pins(4)=400.0, Dist=362.0, Win Bonus=0.0
+[2026-05-08 09:39:37] SCORE S&S (blue): Final=325.7, Time=83.7, Moves(31)=0.0, Pins(0)=0.0, Dist=242.0, Win Bonus=0.0
+[2026-05-08 09:39:38] MOVE 63: Robert (red) 37->3 [0.01ms]
+[2026-05-08 09:39:38] SCORE Robert (red): Final=950.4, Time=82.4, Moves(32)=0.0, Pins(5)=500.0, Dist=368.0, Win Bonus=0.0
+[2026-05-08 09:39:38] SCORE S&S (blue): Final=325.7, Time=83.7, Moves(31)=0.0, Pins(0)=0.0, Dist=242.0, Win Bonus=0.0
+[2026-05-08 09:39:39] MOVE 64: S&S (blue) 26->13 [0.00ms]
+[2026-05-08 09:39:39] SCORE Robert (red): Final=950.4, Time=82.4, Moves(32)=0.0, Pins(5)=500.0, Dist=368.0, Win Bonus=0.0
+[2026-05-08 09:39:39] SCORE S&S (blue): Final=323.2, Time=83.2, Moves(32)=0.0, Pins(0)=0.0, Dist=240.0, Win Bonus=0.0
+[2026-05-08 09:39:39] MOVE 65: Robert (red) 16->8 [0.00ms]
+[2026-05-08 09:39:39] SCORE Robert (red): Final=1052.2, Time=82.2, Moves(33)=0.0, Pins(6)=600.0, Dist=370.0, Win Bonus=0.0
+[2026-05-08 09:39:39] SCORE S&S (blue): Final=323.2, Time=83.2, Moves(32)=0.0, Pins(0)=0.0, Dist=240.0, Win Bonus=0.0
+[2026-05-08 09:39:39] MOVE 66: S&S (blue) 36->47 [0.01ms]
+[2026-05-08 09:39:39] SCORE Robert (red): Final=1052.2, Time=82.2, Moves(33)=0.0, Pins(6)=600.0, Dist=370.0, Win Bonus=0.0
+[2026-05-08 09:39:39] SCORE S&S (blue): Final=324.7, Time=82.7, Moves(33)=0.0, Pins(0)=0.0, Dist=242.0, Win Bonus=0.0
+[2026-05-08 09:39:39] MOVE 67: Robert (red) 17->9 [0.01ms]
+[2026-05-08 09:39:39] SCORE Robert (red): Final=1154.0, Time=82.0, Moves(34)=0.0, Pins(7)=700.0, Dist=372.0, Win Bonus=0.0
+[2026-05-08 09:39:39] SCORE S&S (blue): Final=324.7, Time=82.7, Moves(33)=0.0, Pins(0)=0.0, Dist=242.0, Win Bonus=0.0
+[2026-05-08 09:39:40] MOVE 68: S&S (blue) 47->36 [0.00ms]
+[2026-05-08 09:39:40] SCORE Robert (red): Final=1154.0, Time=82.0, Moves(34)=0.0, Pins(7)=700.0, Dist=372.0, Win Bonus=0.0
+[2026-05-08 09:39:40] SCORE S&S (blue): Final=322.1, Time=82.1, Moves(34)=0.0, Pins(0)=0.0, Dist=240.0, Win Bonus=0.0
+[2026-05-08 09:39:40] MOVE 69: Robert (red) 89->77 [0.00ms]
+[2026-05-08 09:39:40] SCORE Robert (red): Final=1155.9, Time=81.8, Moves(35)=0.0, Pins(7)=700.0, Dist=374.0, Win Bonus=0.0
+[2026-05-08 09:39:40] SCORE S&S (blue): Final=322.1, Time=82.1, Moves(34)=0.0, Pins(0)=0.0, Dist=240.0, Win Bonus=0.0
+[2026-05-08 09:39:41] MOVE 70: S&S (blue) 36->47 [0.01ms]
+[2026-05-08 09:39:41] SCORE Robert (red): Final=1155.9, Time=81.8, Moves(35)=0.0, Pins(7)=700.0, Dist=374.0, Win Bonus=0.0
+[2026-05-08 09:39:41] SCORE S&S (blue): Final=323.6, Time=81.6, Moves(35)=0.0, Pins(0)=0.0, Dist=242.0, Win Bonus=0.0
+[2026-05-08 09:39:41] MOVE 71: Robert (red) 77->66 [0.01ms]
+[2026-05-08 09:39:41] SCORE Robert (red): Final=1157.7, Time=81.6, Moves(36)=0.1, Pins(7)=700.0, Dist=376.0, Win Bonus=0.0
+[2026-05-08 09:39:41] SCORE S&S (blue): Final=323.6, Time=81.6, Moves(35)=0.0, Pins(0)=0.0, Dist=242.0, Win Bonus=0.0
+[2026-05-08 09:39:41] MOVE 72: S&S (blue) 47->36 [0.01ms]
+[2026-05-08 09:39:41] SCORE Robert (red): Final=1157.7, Time=81.6, Moves(36)=0.1, Pins(7)=700.0, Dist=376.0, Win Bonus=0.0
+[2026-05-08 09:39:41] SCORE S&S (blue): Final=321.1, Time=81.0, Moves(36)=0.1, Pins(0)=0.0, Dist=240.0, Win Bonus=0.0
+[2026-05-08 09:39:42] MOVE 73: Robert (red) 66->56 [0.01ms]
+[2026-05-08 09:39:42] SCORE Robert (red): Final=1159.6, Time=81.4, Moves(37)=0.1, Pins(7)=700.0, Dist=378.0, Win Bonus=0.0
+[2026-05-08 09:39:42] SCORE S&S (blue): Final=321.1, Time=81.0, Moves(36)=0.1, Pins(0)=0.0, Dist=240.0, Win Bonus=0.0
+[2026-05-08 09:39:42] MOVE 74: S&S (blue) 36->37 [0.01ms]
+[2026-05-08 09:39:42] SCORE Robert (red): Final=1159.6, Time=81.4, Moves(37)=0.1, Pins(7)=700.0, Dist=378.0, Win Bonus=0.0
+[2026-05-08 09:39:42] SCORE S&S (blue): Final=320.6, Time=80.5, Moves(37)=0.1, Pins(0)=0.0, Dist=240.0, Win Bonus=0.0
+[2026-05-08 09:39:42] MOVE 75: Robert (red) 56->47 [0.01ms]
+[2026-05-08 09:39:42] SCORE Robert (red): Final=1161.4, Time=81.2, Moves(38)=0.2, Pins(7)=700.0, Dist=380.0, Win Bonus=0.0
+[2026-05-08 09:39:42] SCORE S&S (blue): Final=320.6, Time=80.5, Moves(37)=0.1, Pins(0)=0.0, Dist=240.0, Win Bonus=0.0
+[2026-05-08 09:39:43] MOVE 76: S&S (blue) 37->36 [0.00ms]
+[2026-05-08 09:39:43] SCORE Robert (red): Final=1161.4, Time=81.2, Moves(38)=0.2, Pins(7)=700.0, Dist=380.0, Win Bonus=0.0
+[2026-05-08 09:39:43] SCORE S&S (blue): Final=320.2, Time=80.0, Moves(38)=0.2, Pins(0)=0.0, Dist=240.0, Win Bonus=0.0
+[2026-05-08 09:39:43] MOVE 77: Robert (red) 47->37 [0.01ms]
+[2026-05-08 09:39:43] SCORE Robert (red): Final=1163.3, Time=81.0, Moves(39)=0.3, Pins(7)=700.0, Dist=382.0, Win Bonus=0.0
+[2026-05-08 09:39:43] SCORE S&S (blue): Final=320.2, Time=80.0, Moves(38)=0.2, Pins(0)=0.0, Dist=240.0, Win Bonus=0.0
+[2026-05-08 09:39:44] MOVE 78: S&S (blue) 36->47 [0.01ms]
+[2026-05-08 09:39:44] SCORE Robert (red): Final=1163.3, Time=81.0, Moves(39)=0.3, Pins(7)=700.0, Dist=382.0, Win Bonus=0.0
+[2026-05-08 09:39:44] SCORE S&S (blue): Final=321.9, Time=79.6, Moves(39)=0.3, Pins(0)=0.0, Dist=242.0, Win Bonus=0.0
+[2026-05-08 09:39:44] MOVE 79: Robert (red) 37->26 [0.01ms]
+[2026-05-08 09:39:44] SCORE Robert (red): Final=1165.1, Time=80.6, Moves(40)=0.5, Pins(7)=700.0, Dist=384.0, Win Bonus=0.0
+[2026-05-08 09:39:44] SCORE S&S (blue): Final=321.9, Time=79.6, Moves(39)=0.3, Pins(0)=0.0, Dist=242.0, Win Bonus=0.0
+[2026-05-08 09:39:44] MOVE 80: S&S (blue) 47->36 [0.01ms]
+[2026-05-08 09:39:44] SCORE Robert (red): Final=1165.1, Time=80.6, Moves(40)=0.5, Pins(7)=700.0, Dist=384.0, Win Bonus=0.0
+[2026-05-08 09:39:44] SCORE S&S (blue): Final=319.6, Time=79.2, Moves(40)=0.5, Pins(0)=0.0, Dist=240.0, Win Bonus=0.0
+[2026-05-08 09:39:45] MOVE 81: Robert (red) 26->14 [0.01ms]
+[2026-05-08 09:39:45] SCORE Robert (red): Final=1166.9, Time=80.3, Moves(41)=0.6, Pins(7)=700.0, Dist=386.0, Win Bonus=0.0
+[2026-05-08 09:39:45] SCORE S&S (blue): Final=319.6, Time=79.2, Moves(40)=0.5, Pins(0)=0.0, Dist=240.0, Win Bonus=0.0
+[2026-05-08 09:39:45] MOVE 82: S&S (blue) 36->37 [0.01ms]
+[2026-05-08 09:39:45] SCORE Robert (red): Final=1166.9, Time=80.3, Moves(41)=0.6, Pins(7)=700.0, Dist=386.0, Win Bonus=0.0
+[2026-05-08 09:39:45] SCORE S&S (blue): Final=319.4, Time=78.8, Moves(41)=0.6, Pins(0)=0.0, Dist=240.0, Win Bonus=0.0
+[2026-05-08 09:39:45] MOVE 83: Robert (red) 51->40 [0.01ms]
+[2026-05-08 09:39:45] SCORE Robert (red): Final=1168.8, Time=80.0, Moves(42)=0.8, Pins(7)=700.0, Dist=388.0, Win Bonus=0.0
+[2026-05-08 09:39:45] SCORE S&S (blue): Final=319.4, Time=78.8, Moves(41)=0.6, Pins(0)=0.0, Dist=240.0, Win Bonus=0.0
+[2026-05-08 09:39:46] MOVE 84: S&S (blue) 37->36 [0.01ms]
+[2026-05-08 09:39:46] SCORE Robert (red): Final=1168.8, Time=80.0, Moves(42)=0.8, Pins(7)=700.0, Dist=388.0, Win Bonus=0.0
+[2026-05-08 09:39:46] SCORE S&S (blue): Final=319.1, Time=78.3, Moves(42)=0.8, Pins(0)=0.0, Dist=240.0, Win Bonus=0.0
+[2026-05-08 09:39:46] MOVE 85: Robert (red) 40->28 [0.01ms]
+[2026-05-08 09:39:46] SCORE Robert (red): Final=1170.7, Time=79.8, Moves(43)=0.9, Pins(7)=700.0, Dist=390.0, Win Bonus=0.0
+[2026-05-08 09:39:46] SCORE S&S (blue): Final=319.1, Time=78.3, Moves(42)=0.8, Pins(0)=0.0, Dist=240.0, Win Bonus=0.0
+[2026-05-08 09:39:47] MOVE 86: S&S (blue) 36->47 [0.01ms]
+[2026-05-08 09:39:47] SCORE Robert (red): Final=1170.7, Time=79.8, Moves(43)=0.9, Pins(7)=700.0, Dist=390.0, Win Bonus=0.0
+[2026-05-08 09:39:47] SCORE S&S (blue): Final=320.7, Time=77.8, Moves(43)=0.9, Pins(0)=0.0, Dist=242.0, Win Bonus=0.0
+[2026-05-08 09:39:47] MOVE 87: Robert (red) 28->16 [0.00ms]
+[2026-05-08 09:39:47] SCORE Robert (red): Final=1172.5, Time=79.5, Moves(44)=1.0, Pins(7)=700.0, Dist=392.0, Win Bonus=0.0
+[2026-05-08 09:39:47] SCORE S&S (blue): Final=320.7, Time=77.8, Moves(43)=0.9, Pins(0)=0.0, Dist=242.0, Win Bonus=0.0
+[2026-05-08 09:39:47] MOVE 88: S&S (blue) 47->36 [0.01ms]
+[2026-05-08 09:39:47] SCORE Robert (red): Final=1172.5, Time=79.5, Moves(44)=1.0, Pins(7)=700.0, Dist=392.0, Win Bonus=0.0
+[2026-05-08 09:39:47] SCORE S&S (blue): Final=318.3, Time=77.4, Moves(44)=1.0, Pins(0)=0.0, Dist=240.0, Win Bonus=0.0
+[2026-05-08 09:39:47] MOVE 89: Robert (red) 27->15 [0.01ms]
+[2026-05-08 09:39:47] SCORE Robert (red): Final=1174.3, Time=79.3, Moves(45)=1.0, Pins(7)=700.0, Dist=394.0, Win Bonus=0.0
+[2026-05-08 09:39:47] SCORE S&S (blue): Final=318.3, Time=77.4, Moves(44)=1.0, Pins(0)=0.0, Dist=240.0, Win Bonus=0.0
+[2026-05-08 09:39:48] MOVE 90: S&S (blue) 36->37 [0.00ms]
+[2026-05-08 09:39:48] SCORE Robert (red): Final=1174.3, Time=79.3, Moves(45)=1.0, Pins(7)=700.0, Dist=394.0, Win Bonus=0.0
+[2026-05-08 09:39:48] SCORE S&S (blue): Final=317.9, Time=76.9, Moves(45)=1.0, Pins(0)=0.0, Dist=240.0, Win Bonus=0.0
+[2026-05-08 09:39:48] MOVE 91: Robert (red) 8->1 [0.01ms]
+[2026-05-08 09:39:48] SCORE Robert (red): Final=1174.0, Time=79.0, Moves(46)=1.0, Pins(7)=700.0, Dist=394.0, Win Bonus=0.0
+[2026-05-08 09:39:48] SCORE S&S (blue): Final=317.9, Time=76.9, Moves(45)=1.0, Pins(0)=0.0, Dist=240.0, Win Bonus=0.0
+[2026-05-08 09:39:49] MOVE 92: S&S (blue) 37->36 [0.01ms]
+[2026-05-08 09:39:49] SCORE Robert (red): Final=1174.0, Time=79.0, Moves(46)=1.0, Pins(7)=700.0, Dist=394.0, Win Bonus=0.0
+[2026-05-08 09:39:49] SCORE S&S (blue): Final=317.5, Time=76.5, Moves(46)=1.0, Pins(0)=0.0, Dist=240.0, Win Bonus=0.0
+[2026-05-08 09:39:49] MOVE 93: Robert (red) 1->0 [0.00ms]
+[2026-05-08 09:39:49] SCORE Robert (red): Final=1173.6, Time=78.6, Moves(47)=1.0, Pins(7)=700.0, Dist=394.0, Win Bonus=0.0
+[2026-05-08 09:39:49] SCORE S&S (blue): Final=317.5, Time=76.5, Moves(46)=1.0, Pins(0)=0.0, Dist=240.0, Win Bonus=0.0
+[2026-05-08 09:39:49] MOVE 94: S&S (blue) 36->37 [0.00ms]
+[2026-05-08 09:39:49] SCORE Robert (red): Final=1173.6, Time=78.6, Moves(47)=1.0, Pins(7)=700.0, Dist=394.0, Win Bonus=0.0
+[2026-05-08 09:39:49] SCORE S&S (blue): Final=317.3, Time=76.3, Moves(47)=1.0, Pins(0)=0.0, Dist=240.0, Win Bonus=0.0
+[2026-05-08 09:39:50] MOVE 95: Robert (red) 16->8 [0.01ms]
+[2026-05-08 09:39:50] SCORE Robert (red): Final=1275.1, Time=78.1, Moves(48)=1.0, Pins(8)=800.0, Dist=396.0, Win Bonus=0.0
+[2026-05-08 09:39:50] SCORE S&S (blue): Final=317.3, Time=76.3, Moves(47)=1.0, Pins(0)=0.0, Dist=240.0, Win Bonus=0.0
+[2026-05-08 09:39:50] MOVE 96: S&S (blue) 37->36 [0.01ms]
+[2026-05-08 09:39:50] SCORE Robert (red): Final=1275.1, Time=78.1, Moves(48)=1.0, Pins(8)=800.0, Dist=396.0, Win Bonus=0.0
+[2026-05-08 09:39:50] SCORE S&S (blue): Final=317.1, Time=76.1, Moves(48)=1.0, Pins(0)=0.0, Dist=240.0, Win Bonus=0.0
+[2026-05-08 09:39:51] MOVE 97: Robert (red) 7->2 [0.01ms]
+[2026-05-08 09:39:51] SCORE Robert (red): Final=1274.4, Time=77.4, Moves(49)=1.0, Pins(8)=800.0, Dist=396.0, Win Bonus=0.0
+[2026-05-08 09:39:51] SCORE S&S (blue): Final=317.1, Time=76.1, Moves(48)=1.0, Pins(0)=0.0, Dist=240.0, Win Bonus=0.0
+[2026-05-08 09:39:51] MOVE 98: S&S (blue) 36->37 [0.01ms]
+[2026-05-08 09:39:51] SCORE Robert (red): Final=1274.4, Time=77.4, Moves(49)=1.0, Pins(8)=800.0, Dist=396.0, Win Bonus=0.0
+[2026-05-08 09:39:51] SCORE S&S (blue): Final=316.4, Time=75.5, Moves(49)=1.0, Pins(0)=0.0, Dist=240.0, Win Bonus=0.0
+[2026-05-08 09:39:52] MOVE 99: Robert (red) 0->1 [0.00ms]
+[2026-05-08 09:39:52] SCORE Robert (red): Final=1273.8, Time=76.8, Moves(50)=1.0, Pins(8)=800.0, Dist=396.0, Win Bonus=0.0
+[2026-05-08 09:39:52] SCORE S&S (blue): Final=316.4, Time=75.5, Moves(49)=1.0, Pins(0)=0.0, Dist=240.0, Win Bonus=0.0
+[2026-05-08 09:39:53] MOVE 100: S&S (blue) 37->36 [0.00ms]
+[2026-05-08 09:39:53] SCORE Robert (red): Final=1273.8, Time=76.8, Moves(50)=1.0, Pins(8)=800.0, Dist=396.0, Win Bonus=0.0
+[2026-05-08 09:39:53] SCORE S&S (blue): Final=315.8, Time=74.8, Moves(50)=1.0, Pins(0)=0.0, Dist=240.0, Win Bonus=0.0
+[2026-05-08 09:39:53] MOVE 101: Robert (red) 15->7 [0.01ms]
+[2026-05-08 09:39:53] SCORE Robert (red): Final=1374.9, Time=75.9, Moves(51)=0.9, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 09:39:53] SCORE S&S (blue): Final=315.8, Time=74.8, Moves(50)=1.0, Pins(0)=0.0, Dist=240.0, Win Bonus=0.0
+[2026-05-08 09:39:54] MOVE 102: S&S (blue) 36->37 [0.00ms]
+[2026-05-08 09:39:54] SCORE Robert (red): Final=1374.9, Time=75.9, Moves(51)=0.9, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 09:39:54] SCORE S&S (blue): Final=315.4, Time=74.5, Moves(51)=0.9, Pins(0)=0.0, Dist=240.0, Win Bonus=0.0
+[2026-05-08 09:39:54] MOVE 103: Robert (red) 3->0 [0.01ms]
+[2026-05-08 09:39:54] SCORE Robert (red): Final=1374.4, Time=75.4, Moves(52)=0.9, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 09:39:54] SCORE S&S (blue): Final=315.4, Time=74.5, Moves(51)=0.9, Pins(0)=0.0, Dist=240.0, Win Bonus=0.0
+[2026-05-08 09:39:54] MOVE 104: S&S (blue) 37->36 [0.01ms]
+[2026-05-08 09:39:54] SCORE Robert (red): Final=1374.4, Time=75.4, Moves(52)=0.9, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 09:39:54] SCORE S&S (blue): Final=315.2, Time=74.3, Moves(52)=0.9, Pins(0)=0.0, Dist=240.0, Win Bonus=0.0
+[2026-05-08 09:39:55] MOVE 105: Robert (red) 14->16 [0.00ms]
+[2026-05-08 09:39:55] SCORE Robert (red): Final=1373.4, Time=74.5, Moves(53)=0.9, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 09:39:55] SCORE S&S (blue): Final=315.2, Time=74.3, Moves(52)=0.9, Pins(0)=0.0, Dist=240.0, Win Bonus=0.0
+[2026-05-08 09:39:56] MOVE 106: S&S (blue) 36->47 [0.01ms]
+[2026-05-08 09:39:56] SCORE Robert (red): Final=1373.4, Time=74.5, Moves(53)=0.9, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 09:39:56] SCORE S&S (blue): Final=316.9, Time=74.0, Moves(53)=0.9, Pins(0)=0.0, Dist=242.0, Win Bonus=0.0
+[2026-05-08 09:39:56] MOVE 107: Robert (red) 16->3 [0.01ms]
+[2026-05-08 09:39:56] SCORE Robert (red): Final=2475.0, Time=74.2, Moves(54)=0.9, Pins(10)=1000.0, Dist=400.0, Win Bonus=1000.0
+[2026-05-08 09:39:56] SCORE S&S (blue): Final=316.9, Time=74.0, Moves(53)=0.9, Pins(0)=0.0, Dist=242.0, Win Bonus=0.0

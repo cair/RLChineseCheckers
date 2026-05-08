@@ -12,8 +12,9 @@
 </style>
 </head>
 <body>
-
-<h2>Players Leaderboard</h2>
+<!--add winner column. add data from 'joined'-->
+<!--python -m http.server-->
+<h2>Player Leaderboard</h2>
 
 <table>
   <thead>
@@ -46,7 +47,7 @@
 	"round3.txt"
 	];*/
 	const ROUND_FILES = [
-	"round1.txt"
+	"round1.txt", "round2.txt", "round3.txt"
 	];
 
 	async function loadAllData() {
@@ -190,7 +191,7 @@ async function refresh() {
 }
 
 refresh();
-setInterval(refresh, 50000);
+setInterval(refresh, 5000);
 </script>
 
 </body>

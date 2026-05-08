@@ -1,0 +1,249 @@
+[2026-05-08 10:06:21] GAME CREATED
+[2026-05-08 10:06:26] PLAYER JOINED: Gruppe 2 as yellow
+[2026-05-08 10:06:36] PLAYER JOINED: RL as purple
+[2026-05-08 10:06:37] PLAYER START: Gruppe 2 (yellow)
+[2026-05-08 10:06:37] PLAYER START: RL (purple)
+[2026-05-08 10:06:37] GAME START — turn order ['yellow', 'purple']
+[2026-05-08 10:06:39] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:06:39] SCORE RL (purple): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:06:39] TURN TIMEOUT: Player with colour yellow exceeded 2s at move 0. Turn skipped.
+[2026-05-08 10:06:41] MOVE 1: RL (purple) 108->83 [0.01ms]
+[2026-05-08 10:06:41] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:06:41] SCORE RL (purple): Final=282.5, Time=98.5, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 10:06:43] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:06:43] SCORE RL (purple): Final=282.5, Time=98.5, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 10:06:43] TURN TIMEOUT: Player with colour yellow exceeded 2s at move 1. Turn skipped.
+[2026-05-08 10:06:44] MOVE 2: RL (purple) 110->106 [0.01ms]
+[2026-05-08 10:06:44] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:06:44] SCORE RL (purple): Final=289.7, Time=97.7, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:06:46] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:06:46] SCORE RL (purple): Final=289.7, Time=97.7, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:06:46] TURN TIMEOUT: Player with colour yellow exceeded 2s at move 2. Turn skipped.
+[2026-05-08 10:06:47] MOVE 3: RL (purple) 96->114 [0.01ms]
+[2026-05-08 10:06:47] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:06:47] SCORE RL (purple): Final=292.6, Time=96.6, Moves(3)=0.0, Pins(0)=0.0, Dist=196.0, Win Bonus=0.0
+[2026-05-08 10:06:49] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:06:49] SCORE RL (purple): Final=292.6, Time=96.6, Moves(3)=0.0, Pins(0)=0.0, Dist=196.0, Win Bonus=0.0
+[2026-05-08 10:06:49] TURN TIMEOUT: Player with colour yellow exceeded 2s at move 3. Turn skipped.
+[2026-05-08 10:06:50] MOVE 4: RL (purple) 95->72 [0.01ms]
+[2026-05-08 10:06:50] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:06:50] SCORE RL (purple): Final=295.7, Time=95.7, Moves(4)=0.0, Pins(0)=0.0, Dist=200.0, Win Bonus=0.0
+[2026-05-08 10:06:52] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:06:52] SCORE RL (purple): Final=295.7, Time=95.7, Moves(4)=0.0, Pins(0)=0.0, Dist=200.0, Win Bonus=0.0
+[2026-05-08 10:06:52] TURN TIMEOUT: Player with colour yellow exceeded 2s at move 4. Turn skipped.
+[2026-05-08 10:06:53] MOVE 5: RL (purple) 114->71 [0.01ms]
+[2026-05-08 10:06:53] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:06:53] SCORE RL (purple): Final=298.8, Time=94.8, Moves(5)=0.0, Pins(0)=0.0, Dist=204.0, Win Bonus=0.0
+[2026-05-08 10:06:55] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:06:55] SCORE RL (purple): Final=298.8, Time=94.8, Moves(5)=0.0, Pins(0)=0.0, Dist=204.0, Win Bonus=0.0
+[2026-05-08 10:06:55] TURN TIMEOUT: Player with colour yellow exceeded 2s at move 5. Turn skipped.
+[2026-05-08 10:06:56] MOVE 6: RL (purple) 84->61 [0.01ms]
+[2026-05-08 10:06:56] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:06:56] SCORE RL (purple): Final=306.0, Time=94.0, Moves(6)=0.0, Pins(0)=0.0, Dist=212.0, Win Bonus=0.0
+[2026-05-08 10:06:58] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:06:58] SCORE RL (purple): Final=306.0, Time=94.0, Moves(6)=0.0, Pins(0)=0.0, Dist=212.0, Win Bonus=0.0
+[2026-05-08 10:06:58] TURN TIMEOUT: Player with colour yellow exceeded 2s at move 6. Turn skipped.
+[2026-05-08 10:06:59] MOVE 7: RL (purple) 83->60 [0.01ms]
+[2026-05-08 10:06:59] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:06:59] SCORE RL (purple): Final=313.1, Time=93.1, Moves(7)=0.0, Pins(0)=0.0, Dist=220.0, Win Bonus=0.0
+[2026-05-08 10:07:01] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:07:01] SCORE RL (purple): Final=313.1, Time=93.1, Moves(7)=0.0, Pins(0)=0.0, Dist=220.0, Win Bonus=0.0
+[2026-05-08 10:07:01] TURN TIMEOUT: Player with colour yellow exceeded 2s at move 7. Turn skipped.
+[2026-05-08 10:07:02] MOVE 8: RL (purple) 72->50 [0.01ms]
+[2026-05-08 10:07:02] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:07:02] SCORE RL (purple): Final=320.3, Time=92.3, Moves(8)=0.0, Pins(0)=0.0, Dist=228.0, Win Bonus=0.0
+[2026-05-08 10:07:04] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:07:04] SCORE RL (purple): Final=320.3, Time=92.3, Moves(8)=0.0, Pins(0)=0.0, Dist=228.0, Win Bonus=0.0
+[2026-05-08 10:07:04] TURN TIMEOUT: Player with colour yellow exceeded 2s at move 8. Turn skipped.
+[2026-05-08 10:07:05] MOVE 9: RL (purple) 85->64 [0.01ms]
+[2026-05-08 10:07:05] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:07:05] SCORE RL (purple): Final=323.5, Time=91.5, Moves(9)=0.0, Pins(0)=0.0, Dist=232.0, Win Bonus=0.0
+[2026-05-08 10:07:07] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:07:07] SCORE RL (purple): Final=323.5, Time=91.5, Moves(9)=0.0, Pins(0)=0.0, Dist=232.0, Win Bonus=0.0
+[2026-05-08 10:07:07] TURN TIMEOUT: Player with colour yellow exceeded 2s at move 9. Turn skipped.
+[2026-05-08 10:07:08] MOVE 10: RL (purple) 71->49 [0.01ms]
+[2026-05-08 10:07:08] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:07:08] SCORE RL (purple): Final=330.6, Time=90.6, Moves(10)=0.0, Pins(0)=0.0, Dist=240.0, Win Bonus=0.0
+[2026-05-08 10:07:10] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:07:10] SCORE RL (purple): Final=330.6, Time=90.6, Moves(10)=0.0, Pins(0)=0.0, Dist=240.0, Win Bonus=0.0
+[2026-05-08 10:07:10] TURN TIMEOUT: Player with colour yellow exceeded 2s at move 10. Turn skipped.
+[2026-05-08 10:07:10] MOVE 11: RL (purple) 74->54 [0.01ms]
+[2026-05-08 10:07:11] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:07:11] SCORE RL (purple): Final=333.7, Time=89.7, Moves(11)=0.0, Pins(0)=0.0, Dist=244.0, Win Bonus=0.0
+[2026-05-08 10:07:13] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:07:13] SCORE RL (purple): Final=333.7, Time=89.7, Moves(11)=0.0, Pins(0)=0.0, Dist=244.0, Win Bonus=0.0
+[2026-05-08 10:07:13] TURN TIMEOUT: Player with colour yellow exceeded 2s at move 11. Turn skipped.
+[2026-05-08 10:07:13] MOVE 12: RL (purple) 61->38 [0.01ms]
+[2026-05-08 10:07:13] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:07:13] SCORE RL (purple): Final=340.9, Time=88.9, Moves(12)=0.0, Pins(0)=0.0, Dist=252.0, Win Bonus=0.0
+[2026-05-08 10:07:16] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:07:16] SCORE RL (purple): Final=340.9, Time=88.9, Moves(12)=0.0, Pins(0)=0.0, Dist=252.0, Win Bonus=0.0
+[2026-05-08 10:07:16] TURN TIMEOUT: Player with colour yellow exceeded 2s at move 12. Turn skipped.
+[2026-05-08 10:07:16] MOVE 13: RL (purple) 60->37 [0.01ms]
+[2026-05-08 10:07:16] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:07:16] SCORE RL (purple): Final=348.0, Time=88.0, Moves(13)=0.0, Pins(0)=0.0, Dist=260.0, Win Bonus=0.0
+[2026-05-08 10:07:18] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:07:18] SCORE RL (purple): Final=348.0, Time=88.0, Moves(13)=0.0, Pins(0)=0.0, Dist=260.0, Win Bonus=0.0
+[2026-05-08 10:07:18] TURN TIMEOUT: Player with colour yellow exceeded 2s at move 13. Turn skipped.
+[2026-05-08 10:07:19] MOVE 14: RL (purple) 64->43 [0.01ms]
+[2026-05-08 10:07:19] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:07:19] SCORE RL (purple): Final=351.1, Time=87.1, Moves(14)=0.0, Pins(0)=0.0, Dist=264.0, Win Bonus=0.0
+[2026-05-08 10:07:21] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:07:21] SCORE RL (purple): Final=351.1, Time=87.1, Moves(14)=0.0, Pins(0)=0.0, Dist=264.0, Win Bonus=0.0
+[2026-05-08 10:07:21] TURN TIMEOUT: Player with colour yellow exceeded 2s at move 14. Turn skipped.
+[2026-05-08 10:07:22] MOVE 15: RL (purple) 107->105 [0.00ms]
+[2026-05-08 10:07:22] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:07:22] SCORE RL (purple): Final=354.3, Time=86.3, Moves(15)=0.0, Pins(0)=0.0, Dist=268.0, Win Bonus=0.0
+[2026-05-08 10:07:24] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:07:24] SCORE RL (purple): Final=354.3, Time=86.3, Moves(15)=0.0, Pins(0)=0.0, Dist=268.0, Win Bonus=0.0
+[2026-05-08 10:07:24] TURN TIMEOUT: Player with colour yellow exceeded 2s at move 15. Turn skipped.
+[2026-05-08 10:07:25] MOVE 16: RL (purple) 54->44 [0.00ms]
+[2026-05-08 10:07:25] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:07:25] SCORE RL (purple): Final=353.3, Time=85.3, Moves(16)=0.0, Pins(0)=0.0, Dist=268.0, Win Bonus=0.0
+[2026-05-08 10:07:27] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:07:27] SCORE RL (purple): Final=353.3, Time=85.3, Moves(16)=0.0, Pins(0)=0.0, Dist=268.0, Win Bonus=0.0
+[2026-05-08 10:07:27] TURN TIMEOUT: Player with colour yellow exceeded 2s at move 16. Turn skipped.
+[2026-05-08 10:07:28] MOVE 17: RL (purple) 106->104 [0.01ms]
+[2026-05-08 10:07:28] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:07:28] SCORE RL (purple): Final=356.5, Time=84.5, Moves(17)=0.0, Pins(0)=0.0, Dist=272.0, Win Bonus=0.0
+[2026-05-08 10:07:30] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:07:30] SCORE RL (purple): Final=356.5, Time=84.5, Moves(17)=0.0, Pins(0)=0.0, Dist=272.0, Win Bonus=0.0
+[2026-05-08 10:07:30] TURN TIMEOUT: Player with colour yellow exceeded 2s at move 17. Turn skipped.
+[2026-05-08 10:07:31] MOVE 18: RL (purple) 49->26 [0.00ms]
+[2026-05-08 10:07:31] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:07:31] SCORE RL (purple): Final=359.6, Time=83.6, Moves(18)=0.0, Pins(0)=0.0, Dist=276.0, Win Bonus=0.0
+[2026-05-08 10:07:33] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:07:33] SCORE RL (purple): Final=359.6, Time=83.6, Moves(18)=0.0, Pins(0)=0.0, Dist=276.0, Win Bonus=0.0
+[2026-05-08 10:07:33] TURN TIMEOUT: Player with colour yellow exceeded 2s at move 18. Turn skipped.
+[2026-05-08 10:07:34] MOVE 19: RL (purple) 105->103 [0.01ms]
+[2026-05-08 10:07:34] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:07:34] SCORE RL (purple): Final=362.8, Time=82.8, Moves(19)=0.0, Pins(0)=0.0, Dist=280.0, Win Bonus=0.0
+[2026-05-08 10:07:36] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:07:36] SCORE RL (purple): Final=362.8, Time=82.8, Moves(19)=0.0, Pins(0)=0.0, Dist=280.0, Win Bonus=0.0
+[2026-05-08 10:07:36] TURN TIMEOUT: Player with colour yellow exceeded 2s at move 19. Turn skipped.
+[2026-05-08 10:07:37] MOVE 20: RL (purple) 44->32 [0.01ms]
+[2026-05-08 10:07:37] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:07:37] SCORE RL (purple): Final=363.9, Time=81.9, Moves(20)=0.0, Pins(0)=0.0, Dist=282.0, Win Bonus=0.0
+[2026-05-08 10:07:39] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:07:39] SCORE RL (purple): Final=363.9, Time=81.9, Moves(20)=0.0, Pins(0)=0.0, Dist=282.0, Win Bonus=0.0
+[2026-05-08 10:07:39] TURN TIMEOUT: Player with colour yellow exceeded 2s at move 20. Turn skipped.
+[2026-05-08 10:07:40] MOVE 21: RL (purple) 32->20 [0.01ms]
+[2026-05-08 10:07:40] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:07:40] SCORE RL (purple): Final=363.1, Time=81.1, Moves(21)=0.0, Pins(0)=0.0, Dist=282.0, Win Bonus=0.0
+[2026-05-08 10:07:42] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:07:42] SCORE RL (purple): Final=363.1, Time=81.1, Moves(21)=0.0, Pins(0)=0.0, Dist=282.0, Win Bonus=0.0
+[2026-05-08 10:07:42] TURN TIMEOUT: Player with colour yellow exceeded 2s at move 21. Turn skipped.
+[2026-05-08 10:07:43] MOVE 22: RL (purple) 20->32 [0.01ms]
+[2026-05-08 10:07:43] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:07:43] SCORE RL (purple): Final=362.3, Time=80.3, Moves(22)=0.0, Pins(0)=0.0, Dist=282.0, Win Bonus=0.0
+[2026-05-08 10:07:45] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:07:45] SCORE RL (purple): Final=362.3, Time=80.3, Moves(22)=0.0, Pins(0)=0.0, Dist=282.0, Win Bonus=0.0
+[2026-05-08 10:07:45] TURN TIMEOUT: Player with colour yellow exceeded 2s at move 22. Turn skipped.
+[2026-05-08 10:07:46] MOVE 23: RL (purple) 32->20 [0.01ms]
+[2026-05-08 10:07:46] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:07:46] SCORE RL (purple): Final=361.4, Time=79.4, Moves(23)=0.0, Pins(0)=0.0, Dist=282.0, Win Bonus=0.0
+[2026-05-08 10:07:48] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:07:48] SCORE RL (purple): Final=361.4, Time=79.4, Moves(23)=0.0, Pins(0)=0.0, Dist=282.0, Win Bonus=0.0
+[2026-05-08 10:07:48] TURN TIMEOUT: Player with colour yellow exceeded 2s at move 23. Turn skipped.
+[2026-05-08 10:07:48] MOVE 24: RL (purple) 20->19 [0.00ms]
+[2026-05-08 10:07:48] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:07:48] SCORE RL (purple): Final=362.6, Time=78.6, Moves(24)=0.0, Pins(0)=0.0, Dist=284.0, Win Bonus=0.0
+[2026-05-08 10:07:50] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:07:50] SCORE RL (purple): Final=362.6, Time=78.6, Moves(24)=0.0, Pins(0)=0.0, Dist=284.0, Win Bonus=0.0
+[2026-05-08 10:07:50] TURN TIMEOUT: Player with colour yellow exceeded 2s at move 24. Turn skipped.
+[2026-05-08 10:07:51] MOVE 25: RL (purple) 43->32 [0.00ms]
+[2026-05-08 10:07:51] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:07:51] SCORE RL (purple): Final=361.6, Time=77.6, Moves(25)=0.0, Pins(0)=0.0, Dist=284.0, Win Bonus=0.0
+[2026-05-08 10:07:54] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:07:54] SCORE RL (purple): Final=361.6, Time=77.6, Moves(25)=0.0, Pins(0)=0.0, Dist=284.0, Win Bonus=0.0
+[2026-05-08 10:07:54] TURN TIMEOUT: Player with colour yellow exceeded 2s at move 25. Turn skipped.
+[2026-05-08 10:07:55] MOVE 26: RL (purple) 26->47 [0.01ms]
+[2026-05-08 10:07:55] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:07:55] SCORE RL (purple): Final=360.6, Time=76.6, Moves(26)=0.0, Pins(0)=0.0, Dist=284.0, Win Bonus=0.0
+[2026-05-08 10:07:57] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:07:57] SCORE RL (purple): Final=360.6, Time=76.6, Moves(26)=0.0, Pins(0)=0.0, Dist=284.0, Win Bonus=0.0
+[2026-05-08 10:07:57] TURN TIMEOUT: Player with colour yellow exceeded 2s at move 26. Turn skipped.
+[2026-05-08 10:07:58] MOVE 27: RL (purple) 32->20 [0.01ms]
+[2026-05-08 10:07:58] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:07:58] SCORE RL (purple): Final=359.7, Time=75.7, Moves(27)=0.0, Pins(0)=0.0, Dist=284.0, Win Bonus=0.0
+[2026-05-08 10:08:00] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:08:00] SCORE RL (purple): Final=359.7, Time=75.7, Moves(27)=0.0, Pins(0)=0.0, Dist=284.0, Win Bonus=0.0
+[2026-05-08 10:08:00] TURN TIMEOUT: Player with colour yellow exceeded 2s at move 27. Turn skipped.
+[2026-05-08 10:08:00] MOVE 28: RL (purple) 20->32 [0.00ms]
+[2026-05-08 10:08:00] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:08:00] SCORE RL (purple): Final=358.8, Time=74.8, Moves(28)=0.0, Pins(0)=0.0, Dist=284.0, Win Bonus=0.0
+[2026-05-08 10:08:02] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:08:02] SCORE RL (purple): Final=358.8, Time=74.8, Moves(28)=0.0, Pins(0)=0.0, Dist=284.0, Win Bonus=0.0
+[2026-05-08 10:08:02] TURN TIMEOUT: Player with colour yellow exceeded 2s at move 28. Turn skipped.
+[2026-05-08 10:08:03] MOVE 29: RL (purple) 32->33 [0.01ms]
+[2026-05-08 10:08:03] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:08:03] SCORE RL (purple): Final=356.1, Time=74.1, Moves(29)=0.0, Pins(0)=0.0, Dist=282.0, Win Bonus=0.0
+[2026-05-08 10:08:05] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:08:05] SCORE RL (purple): Final=356.1, Time=74.1, Moves(29)=0.0, Pins(0)=0.0, Dist=282.0, Win Bonus=0.0
+[2026-05-08 10:08:05] TURN TIMEOUT: Player with colour yellow exceeded 2s at move 29. Turn skipped.
+[2026-05-08 10:08:06] MOVE 30: RL (purple) 33->32 [0.01ms]
+[2026-05-08 10:08:06] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:08:06] SCORE RL (purple): Final=357.2, Time=73.2, Moves(30)=0.0, Pins(0)=0.0, Dist=284.0, Win Bonus=0.0
+[2026-05-08 10:08:08] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:08:08] SCORE RL (purple): Final=357.2, Time=73.2, Moves(30)=0.0, Pins(0)=0.0, Dist=284.0, Win Bonus=0.0
+[2026-05-08 10:08:08] TURN TIMEOUT: Player with colour yellow exceeded 2s at move 30. Turn skipped.
+[2026-05-08 10:08:09] MOVE 31: RL (purple) 104->102 [0.01ms]
+[2026-05-08 10:08:09] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:08:09] SCORE RL (purple): Final=360.3, Time=72.3, Moves(31)=0.0, Pins(0)=0.0, Dist=288.0, Win Bonus=0.0
+[2026-05-08 10:08:11] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:08:11] SCORE RL (purple): Final=360.3, Time=72.3, Moves(31)=0.0, Pins(0)=0.0, Dist=288.0, Win Bonus=0.0
+[2026-05-08 10:08:11] TURN TIMEOUT: Player with colour yellow exceeded 2s at move 31. Turn skipped.
+[2026-05-08 10:08:12] MOVE 32: RL (purple) 32->43 [0.01ms]
+[2026-05-08 10:08:12] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:08:12] SCORE RL (purple): Final=359.5, Time=71.5, Moves(32)=0.0, Pins(0)=0.0, Dist=288.0, Win Bonus=0.0
+[2026-05-08 10:08:14] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:08:14] SCORE RL (purple): Final=359.5, Time=71.5, Moves(32)=0.0, Pins(0)=0.0, Dist=288.0, Win Bonus=0.0
+[2026-05-08 10:08:14] TURN TIMEOUT: Player with colour yellow exceeded 2s at move 32. Turn skipped.
+[2026-05-08 10:08:15] MOVE 33: RL (purple) 109->96 [0.01ms]
+[2026-05-08 10:08:15] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:08:15] SCORE RL (purple): Final=360.6, Time=70.6, Moves(33)=0.0, Pins(0)=0.0, Dist=290.0, Win Bonus=0.0
+[2026-05-08 10:08:17] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:08:17] SCORE RL (purple): Final=360.6, Time=70.6, Moves(33)=0.0, Pins(0)=0.0, Dist=290.0, Win Bonus=0.0
+[2026-05-08 10:08:17] TURN TIMEOUT: Player with colour yellow exceeded 2s at move 33. Turn skipped.
+[2026-05-08 10:08:18] MOVE 34: RL (purple) 97->95 [0.01ms]
+[2026-05-08 10:08:18] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:08:18] SCORE RL (purple): Final=363.8, Time=69.7, Moves(34)=0.0, Pins(0)=0.0, Dist=294.0, Win Bonus=0.0
+[2026-05-08 10:08:20] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:08:20] SCORE RL (purple): Final=363.8, Time=69.7, Moves(34)=0.0, Pins(0)=0.0, Dist=294.0, Win Bonus=0.0
+[2026-05-08 10:08:20] TURN TIMEOUT: Player with colour yellow exceeded 2s at move 34. Turn skipped.
+[2026-05-08 10:08:21] MOVE 35: RL (purple) 96->94 [0.01ms]
+[2026-05-08 10:08:21] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:08:21] SCORE RL (purple): Final=366.9, Time=68.9, Moves(35)=0.0, Pins(0)=0.0, Dist=298.0, Win Bonus=0.0
+[2026-05-08 10:08:23] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:08:23] SCORE RL (purple): Final=366.9, Time=68.9, Moves(35)=0.0, Pins(0)=0.0, Dist=298.0, Win Bonus=0.0
+[2026-05-08 10:08:23] TURN TIMEOUT: Player with colour yellow exceeded 2s at move 35. Turn skipped.
+[2026-05-08 10:08:24] MOVE 36: RL (purple) 103->91 [0.01ms]
+[2026-05-08 10:08:24] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:08:24] SCORE RL (purple): Final=366.1, Time=68.0, Moves(36)=0.1, Pins(0)=0.0, Dist=298.0, Win Bonus=0.0
+[2026-05-08 10:08:26] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:08:26] SCORE RL (purple): Final=366.1, Time=68.0, Moves(36)=0.1, Pins(0)=0.0, Dist=298.0, Win Bonus=0.0
+[2026-05-08 10:08:26] TURN TIMEOUT: Player with colour yellow exceeded 2s at move 36. Turn skipped.
+[2026-05-08 10:08:27] MOVE 37: RL (purple) 95->83 [0.00ms]
+[2026-05-08 10:08:27] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:08:27] SCORE RL (purple): Final=367.3, Time=67.2, Moves(37)=0.1, Pins(0)=0.0, Dist=300.0, Win Bonus=0.0
+[2026-05-08 10:08:29] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:08:29] SCORE RL (purple): Final=367.3, Time=67.2, Moves(37)=0.1, Pins(0)=0.0, Dist=300.0, Win Bonus=0.0
+[2026-05-08 10:08:29] TURN TIMEOUT: Player with colour yellow exceeded 2s at move 37. Turn skipped.
+[2026-05-08 10:08:30] MOVE 38: RL (purple) 94->73 [0.01ms]
+[2026-05-08 10:08:30] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:08:30] SCORE RL (purple): Final=366.5, Time=66.3, Moves(38)=0.2, Pins(0)=0.0, Dist=300.0, Win Bonus=0.0
+[2026-05-08 10:08:32] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:08:32] SCORE RL (purple): Final=366.5, Time=66.3, Moves(38)=0.2, Pins(0)=0.0, Dist=300.0, Win Bonus=0.0
+[2026-05-08 10:08:32] TURN TIMEOUT: Player with colour yellow exceeded 2s at move 38. Turn skipped.
+[2026-05-08 10:08:32] MOVE 39: RL (purple) 83->64 [0.00ms]
+[2026-05-08 10:08:32] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:08:32] SCORE RL (purple): Final=365.8, Time=65.5, Moves(39)=0.3, Pins(0)=0.0, Dist=300.0, Win Bonus=0.0
+[2026-05-08 10:08:35] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:08:35] SCORE RL (purple): Final=365.8, Time=65.5, Moves(39)=0.3, Pins(0)=0.0, Dist=300.0, Win Bonus=0.0
+[2026-05-08 10:08:35] TURN TIMEOUT: Player with colour yellow exceeded 2s at move 39. Turn skipped.
+[2026-05-08 10:08:35] MOVE 40: RL (purple) 73->63 [0.00ms]
+[2026-05-08 10:08:35] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:08:35] SCORE RL (purple): Final=367.1, Time=64.6, Moves(40)=0.5, Pins(0)=0.0, Dist=302.0, Win Bonus=0.0
+[2026-05-08 10:08:37] SCORE Gruppe 2 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:08:37] SCORE RL (purple): Final=367.1, Time=64.6, Moves(40)=0.5, Pins(0)=0.0, Dist=302.0, Win Bonus=0.0
+[2026-05-08 10:08:37] GAME TIME LIMIT REACHED.

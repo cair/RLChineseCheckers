@@ -1,7 +1,5 @@
 game_number,game_id,player1,player2,player3,player4,player5,player6,status,final_scores,time_scores,distance_scores,pin_scores,winner
-R3G1,NA,Deepseekers,Tiefes Verstarkendes Lernen,Gruppe 69,Erlend Og Linor,NA,NA,NOT_CREATED,NA,NA,NA,NA,None
-R3G2,NA,Dandori,Gruppe 2,NA,NA,NA,NA,NOT_CREATED,NA,NA,NA,NA,None
-R3G3,NA,jat,SP,NA,NA,NA,NA,NOT_CREATED,NA,NA,NA,NA,None
-R3G4,NA,PCS,RL,Gruppe 67,Group 16,group 99,CybSec,NOT_CREATED,NA,NA,NA,NA,None
-R3G5,NA,LosTurcos,The bandits,Group 7,NA,NA,NA,NOT_CREATED,NA,NA,NA,NA,None
-R3G6,NA,S&S,Gruppe 10,NA,NA,NA,NA,NOT_CREATED,NA,NA,NA,NA,None
+R3G1,1834ff00-b0fe-4a18-8ebd-2e20c31e48fb,Gruppe 67,S&S,Gruppe 2,Group 99,Gruppe 1,Group7,FINISHED,Group 99:0.0;Group7:0.0;Gruppe 67:0.0;S&S:389.2;Gruppe 2:563.4;Gruppe 1:580.1,Group 99:0.0;Group7:0.0;Gruppe 67:0.0;S&S:93.2;Gruppe 2:95.4;Gruppe 1:96.1,Group 99:0.0;Group7:0.0;Gruppe 67:0.0;S&S:296.0;Gruppe 2:268.0;Gruppe 1:284.0,Group 99:0.0;Group7:0.0;Gruppe 67:0.0;S&S:0.0;Gruppe 2:200.0;Gruppe 1:200.0,None
+R3G2,ca7c75cc-12ea-4976-8b51-949d75568c52,AlphaZeroClue,Erlend Og Linor,NA,NA,NA,NA,FINISHED,Erlend Og Linor:2494.0;AlphaZeroClue:868.5,Erlend Og Linor:93.0;AlphaZeroClue:23.9,Erlend Og Linor:400.0;AlphaZeroClue:344.0,Erlend Og Linor:1000.0;AlphaZeroClue:500.0,Erlend Og Linor
+R3G3,ed7fc6b9-e0c5-4985-8d0d-84d57f9bc06d,Tiefes Verstarkendes Lernen,RL,jat,CybSec,NA,NA,FINISHED,RL:516.1;jat:391.8;CybSec:2483.6;Tiefes Verstarkendes Lernen:1371.9,RL:59.1;jat:90.8;CybSec:82.7;Tiefes Verstarkendes Lernen:72.9,RL:356.0;jat:200.0;CybSec:400.0;Tiefes Verstarkendes Lernen:398.0,RL:100.0;jat:100.0;CybSec:1000.0;Tiefes Verstarkendes Lernen:900.0,CybSec
+R3G4,0f5f45f3-ffa3-4cc6-b493-f8207ad7e329,Robert,The bandits,NA,NA,NA,NA,FINISHED,The bandits:1065.2;Robert:2456.9,The bandits:94.5;Robert:56.1,The bandits:370.0;Robert:400.0,The bandits:600.0;Robert:1000.0,Robert

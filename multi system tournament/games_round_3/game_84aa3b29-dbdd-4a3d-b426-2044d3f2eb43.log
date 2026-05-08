@@ -1,0 +1,542 @@
+[2026-05-08 09:57:18] GAME CREATED
+[2026-05-08 09:57:19] PLAYER JOINED: jat as lawn green
+[2026-05-08 09:57:27] PLAYER JOINED: Gruppe 67 as gray0
+[2026-05-08 09:58:06] PLAYER JOINED: Tiefes Verstarkendes Lernen as yellow
+[2026-05-08 09:58:06] PLAYER START: jat (lawn green)
+[2026-05-08 09:58:06] PLAYER START: Gruppe 67 (gray0)
+[2026-05-08 09:58:06] PLAYER START: Tiefes Verstarkendes Lernen (yellow)
+[2026-05-08 09:58:06] GAME START — turn order ['lawn green', 'yellow', 'gray0']
+[2026-05-08 09:58:06] PLAYER START: jat (lawn green)
+[2026-05-08 09:58:06] PLAYER START: Gruppe 67 (gray0)
+[2026-05-08 09:58:06] PLAYER START: Tiefes Verstarkendes Lernen (yellow)
+[2026-05-08 09:58:06] MOVE 1: jat (lawn green) 45->43 [0.00ms]
+[2026-05-08 09:58:06] SCORE jat (lawn green): Final=283.9, Time=99.9, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 09:58:06] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:58:06] SCORE Tiefes Verstarkendes Lernen (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:58:07] MOVE 2: Tiefes Verstarkendes Lernen (yellow) 24->26 [0.01ms]
+[2026-05-08 09:58:07] SCORE jat (lawn green): Final=283.9, Time=99.9, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 09:58:07] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:58:07] SCORE Tiefes Verstarkendes Lernen (yellow): Final=283.7, Time=99.7, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 09:58:09] SCORE jat (lawn green): Final=283.9, Time=99.9, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 09:58:09] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:58:09] SCORE Tiefes Verstarkendes Lernen (yellow): Final=283.7, Time=99.7, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 09:58:09] TURN TIMEOUT: Player with colour gray0 exceeded 2s at move 2. Turn skipped.
+[2026-05-08 09:58:09] MOVE 3: jat (lawn green) 22->64 [0.00ms]
+[2026-05-08 09:58:09] SCORE jat (lawn green): Final=291.7, Time=99.7, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 09:58:09] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:58:09] SCORE Tiefes Verstarkendes Lernen (yellow): Final=283.7, Time=99.7, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 09:58:09] MOVE 4: Tiefes Verstarkendes Lernen (yellow) 35->14 [0.00ms]
+[2026-05-08 09:58:09] SCORE jat (lawn green): Final=291.7, Time=99.7, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 09:58:09] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:58:09] SCORE Tiefes Verstarkendes Lernen (yellow): Final=287.1, Time=99.1, Moves(2)=0.0, Pins(0)=0.0, Dist=188.0, Win Bonus=0.0
+[2026-05-08 09:58:12] SCORE jat (lawn green): Final=291.7, Time=99.7, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 09:58:12] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:58:12] SCORE Tiefes Verstarkendes Lernen (yellow): Final=287.1, Time=99.1, Moves(2)=0.0, Pins(0)=0.0, Dist=188.0, Win Bonus=0.0
+[2026-05-08 09:58:12] TURN TIMEOUT: Player with colour gray0 exceeded 2s at move 4. Turn skipped.
+[2026-05-08 09:58:12] MOVE 5: jat (lawn green) 32->53 [0.00ms]
+[2026-05-08 09:58:12] SCORE jat (lawn green): Final=295.6, Time=99.6, Moves(3)=0.0, Pins(0)=0.0, Dist=196.0, Win Bonus=0.0
+[2026-05-08 09:58:12] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:58:12] SCORE Tiefes Verstarkendes Lernen (yellow): Final=287.1, Time=99.1, Moves(2)=0.0, Pins(0)=0.0, Dist=188.0, Win Bonus=0.0
+[2026-05-08 09:58:12] MOVE 6: Tiefes Verstarkendes Lernen (yellow) 10->56 [0.00ms]
+[2026-05-08 09:58:12] SCORE jat (lawn green): Final=295.6, Time=99.6, Moves(3)=0.0, Pins(0)=0.0, Dist=196.0, Win Bonus=0.0
+[2026-05-08 09:58:12] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:58:12] SCORE Tiefes Verstarkendes Lernen (yellow): Final=294.4, Time=98.4, Moves(3)=0.0, Pins(0)=0.0, Dist=196.0, Win Bonus=0.0
+[2026-05-08 09:58:14] SCORE jat (lawn green): Final=295.6, Time=99.6, Moves(3)=0.0, Pins(0)=0.0, Dist=196.0, Win Bonus=0.0
+[2026-05-08 09:58:14] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:58:14] SCORE Tiefes Verstarkendes Lernen (yellow): Final=294.4, Time=98.4, Moves(3)=0.0, Pins(0)=0.0, Dist=196.0, Win Bonus=0.0
+[2026-05-08 09:58:14] TURN TIMEOUT: Player with colour gray0 exceeded 2s at move 6. Turn skipped.
+[2026-05-08 09:58:14] MOVE 7: jat (lawn green) 33->52 [0.00ms]
+[2026-05-08 09:58:14] SCORE jat (lawn green): Final=303.6, Time=99.6, Moves(4)=0.0, Pins(0)=0.0, Dist=204.0, Win Bonus=0.0
+[2026-05-08 09:58:14] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:58:14] SCORE Tiefes Verstarkendes Lernen (yellow): Final=294.4, Time=98.4, Moves(3)=0.0, Pins(0)=0.0, Dist=196.0, Win Bonus=0.0
+[2026-05-08 09:58:15] MOVE 8: Tiefes Verstarkendes Lernen (yellow) 12->37 [0.00ms]
+[2026-05-08 09:58:15] SCORE jat (lawn green): Final=303.6, Time=99.6, Moves(4)=0.0, Pins(0)=0.0, Dist=204.0, Win Bonus=0.0
+[2026-05-08 09:58:15] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:58:15] SCORE Tiefes Verstarkendes Lernen (yellow): Final=297.6, Time=97.6, Moves(4)=0.0, Pins(0)=0.0, Dist=200.0, Win Bonus=0.0
+[2026-05-08 09:58:17] SCORE jat (lawn green): Final=303.6, Time=99.6, Moves(4)=0.0, Pins(0)=0.0, Dist=204.0, Win Bonus=0.0
+[2026-05-08 09:58:17] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:58:17] SCORE Tiefes Verstarkendes Lernen (yellow): Final=297.6, Time=97.6, Moves(4)=0.0, Pins(0)=0.0, Dist=200.0, Win Bonus=0.0
+[2026-05-08 09:58:17] TURN TIMEOUT: Player with colour gray0 exceeded 2s at move 8. Turn skipped.
+[2026-05-08 09:58:17] MOVE 9: jat (lawn green) 44->61 [0.00ms]
+[2026-05-08 09:58:17] SCORE jat (lawn green): Final=311.5, Time=99.5, Moves(5)=0.0, Pins(0)=0.0, Dist=212.0, Win Bonus=0.0
+[2026-05-08 09:58:17] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:58:17] SCORE Tiefes Verstarkendes Lernen (yellow): Final=297.6, Time=97.6, Moves(4)=0.0, Pins(0)=0.0, Dist=200.0, Win Bonus=0.0
+[2026-05-08 09:58:18] MOVE 10: Tiefes Verstarkendes Lernen (yellow) 25->27 [0.00ms]
+[2026-05-08 09:58:18] SCORE jat (lawn green): Final=311.5, Time=99.5, Moves(5)=0.0, Pins(0)=0.0, Dist=212.0, Win Bonus=0.0
+[2026-05-08 09:58:18] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:58:18] SCORE Tiefes Verstarkendes Lernen (yellow): Final=301.0, Time=97.0, Moves(5)=0.0, Pins(0)=0.0, Dist=204.0, Win Bonus=0.0
+[2026-05-08 09:58:20] SCORE jat (lawn green): Final=311.5, Time=99.5, Moves(5)=0.0, Pins(0)=0.0, Dist=212.0, Win Bonus=0.0
+[2026-05-08 09:58:20] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:58:20] SCORE Tiefes Verstarkendes Lernen (yellow): Final=301.0, Time=97.0, Moves(5)=0.0, Pins(0)=0.0, Dist=204.0, Win Bonus=0.0
+[2026-05-08 09:58:20] TURN TIMEOUT: Player with colour gray0 exceeded 2s at move 10. Turn skipped.
+[2026-05-08 09:58:20] MOVE 11: jat (lawn green) 20->18 [0.00ms]
+[2026-05-08 09:58:20] SCORE jat (lawn green): Final=315.4, Time=99.4, Moves(6)=0.0, Pins(0)=0.0, Dist=216.0, Win Bonus=0.0
+[2026-05-08 09:58:20] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:58:20] SCORE Tiefes Verstarkendes Lernen (yellow): Final=301.0, Time=97.0, Moves(5)=0.0, Pins(0)=0.0, Dist=204.0, Win Bonus=0.0
+[2026-05-08 09:58:21] MOVE 12: Tiefes Verstarkendes Lernen (yellow) 36->15 [0.00ms]
+[2026-05-08 09:58:21] SCORE jat (lawn green): Final=315.4, Time=99.4, Moves(6)=0.0, Pins(0)=0.0, Dist=216.0, Win Bonus=0.0
+[2026-05-08 09:58:21] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:58:21] SCORE Tiefes Verstarkendes Lernen (yellow): Final=304.3, Time=96.3, Moves(6)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-08 09:58:22] PLAYER START: jat (lawn green)
+[2026-05-08 09:58:22] PLAYER START: Gruppe 67 (gray0)
+[2026-05-08 09:58:22] PLAYER START: Tiefes Verstarkendes Lernen (yellow)
+[2026-05-08 09:58:23] SCORE jat (lawn green): Final=315.4, Time=99.4, Moves(6)=0.0, Pins(0)=0.0, Dist=216.0, Win Bonus=0.0
+[2026-05-08 09:58:23] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:58:23] SCORE Tiefes Verstarkendes Lernen (yellow): Final=304.3, Time=96.3, Moves(6)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-08 09:58:23] TURN TIMEOUT: Player with colour gray0 exceeded 2s at move 12. Turn skipped.
+[2026-05-08 09:58:23] MOVE 13: jat (lawn green) 43->60 [0.00ms]
+[2026-05-08 09:58:23] SCORE jat (lawn green): Final=323.2, Time=99.2, Moves(7)=0.0, Pins(0)=0.0, Dist=224.0, Win Bonus=0.0
+[2026-05-08 09:58:23] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:58:23] SCORE Tiefes Verstarkendes Lernen (yellow): Final=304.3, Time=96.3, Moves(6)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-08 09:58:24] MOVE 14: Tiefes Verstarkendes Lernen (yellow) 13->38 [0.00ms]
+[2026-05-08 09:58:24] SCORE jat (lawn green): Final=323.2, Time=99.2, Moves(7)=0.0, Pins(0)=0.0, Dist=224.0, Win Bonus=0.0
+[2026-05-08 09:58:24] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:58:24] SCORE Tiefes Verstarkendes Lernen (yellow): Final=307.7, Time=95.7, Moves(7)=0.0, Pins(0)=0.0, Dist=212.0, Win Bonus=0.0
+[2026-05-08 09:58:26] SCORE jat (lawn green): Final=323.2, Time=99.2, Moves(7)=0.0, Pins(0)=0.0, Dist=224.0, Win Bonus=0.0
+[2026-05-08 09:58:26] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:58:26] SCORE Tiefes Verstarkendes Lernen (yellow): Final=307.7, Time=95.7, Moves(7)=0.0, Pins(0)=0.0, Dist=212.0, Win Bonus=0.0
+[2026-05-08 09:58:26] TURN TIMEOUT: Player with colour gray0 exceeded 2s at move 14. Turn skipped.
+[2026-05-08 09:58:26] MOVE 15: jat (lawn green) 53->69 [0.00ms]
+[2026-05-08 09:58:26] SCORE jat (lawn green): Final=331.1, Time=99.1, Moves(8)=0.0, Pins(0)=0.0, Dist=232.0, Win Bonus=0.0
+[2026-05-08 09:58:26] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:58:26] SCORE Tiefes Verstarkendes Lernen (yellow): Final=307.7, Time=95.7, Moves(7)=0.0, Pins(0)=0.0, Dist=212.0, Win Bonus=0.0
+[2026-05-08 09:58:27] MOVE 16: Tiefes Verstarkendes Lernen (yellow) 46->66 [0.00ms]
+[2026-05-08 09:58:27] SCORE jat (lawn green): Final=331.1, Time=99.1, Moves(8)=0.0, Pins(0)=0.0, Dist=232.0, Win Bonus=0.0
+[2026-05-08 09:58:27] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:58:27] SCORE Tiefes Verstarkendes Lernen (yellow): Final=311.0, Time=95.0, Moves(8)=0.0, Pins(0)=0.0, Dist=216.0, Win Bonus=0.0
+[2026-05-08 09:58:29] SCORE jat (lawn green): Final=331.1, Time=99.1, Moves(8)=0.0, Pins(0)=0.0, Dist=232.0, Win Bonus=0.0
+[2026-05-08 09:58:29] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:58:29] SCORE Tiefes Verstarkendes Lernen (yellow): Final=311.0, Time=95.0, Moves(8)=0.0, Pins(0)=0.0, Dist=216.0, Win Bonus=0.0
+[2026-05-08 09:58:29] TURN TIMEOUT: Player with colour gray0 exceeded 2s at move 16. Turn skipped.
+[2026-05-08 09:58:29] MOVE 17: jat (lawn green) 52->68 [0.00ms]
+[2026-05-08 09:58:29] SCORE jat (lawn green): Final=339.1, Time=99.1, Moves(9)=0.0, Pins(0)=0.0, Dist=240.0, Win Bonus=0.0
+[2026-05-08 09:58:29] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:58:29] SCORE Tiefes Verstarkendes Lernen (yellow): Final=311.0, Time=95.0, Moves(8)=0.0, Pins(0)=0.0, Dist=216.0, Win Bonus=0.0
+[2026-05-08 09:58:29] MOVE 18: Tiefes Verstarkendes Lernen (yellow) 26->49 [0.00ms]
+[2026-05-08 09:58:29] SCORE jat (lawn green): Final=339.1, Time=99.1, Moves(9)=0.0, Pins(0)=0.0, Dist=240.0, Win Bonus=0.0
+[2026-05-08 09:58:29] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:58:29] SCORE Tiefes Verstarkendes Lernen (yellow): Final=314.7, Time=94.7, Moves(9)=0.0, Pins(0)=0.0, Dist=220.0, Win Bonus=0.0
+[2026-05-08 09:58:31] SCORE jat (lawn green): Final=339.1, Time=99.1, Moves(9)=0.0, Pins(0)=0.0, Dist=240.0, Win Bonus=0.0
+[2026-05-08 09:58:31] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:58:31] SCORE Tiefes Verstarkendes Lernen (yellow): Final=314.7, Time=94.7, Moves(9)=0.0, Pins(0)=0.0, Dist=220.0, Win Bonus=0.0
+[2026-05-08 09:58:31] TURN TIMEOUT: Player with colour gray0 exceeded 2s at move 18. Turn skipped.
+[2026-05-08 09:58:31] MOVE 19: jat (lawn green) 19->17 [0.00ms]
+[2026-05-08 09:58:31] SCORE jat (lawn green): Final=342.9, Time=98.9, Moves(10)=0.0, Pins(0)=0.0, Dist=244.0, Win Bonus=0.0
+[2026-05-08 09:58:31] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:58:31] SCORE Tiefes Verstarkendes Lernen (yellow): Final=314.7, Time=94.7, Moves(9)=0.0, Pins(0)=0.0, Dist=220.0, Win Bonus=0.0
+[2026-05-08 09:58:32] MOVE 20: Tiefes Verstarkendes Lernen (yellow) 14->79 [0.00ms]
+[2026-05-08 09:58:32] SCORE jat (lawn green): Final=342.9, Time=98.9, Moves(10)=0.0, Pins(0)=0.0, Dist=244.0, Win Bonus=0.0
+[2026-05-08 09:58:32] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:58:32] SCORE Tiefes Verstarkendes Lernen (yellow): Final=322.1, Time=94.1, Moves(10)=0.0, Pins(0)=0.0, Dist=228.0, Win Bonus=0.0
+[2026-05-08 09:58:34] SCORE jat (lawn green): Final=342.9, Time=98.9, Moves(10)=0.0, Pins(0)=0.0, Dist=244.0, Win Bonus=0.0
+[2026-05-08 09:58:34] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:58:34] SCORE Tiefes Verstarkendes Lernen (yellow): Final=322.1, Time=94.1, Moves(10)=0.0, Pins(0)=0.0, Dist=228.0, Win Bonus=0.0
+[2026-05-08 09:58:34] TURN TIMEOUT: Player with colour gray0 exceeded 2s at move 20. Turn skipped.
+[2026-05-08 09:58:34] MOVE 21: jat (lawn green) 18->58 [0.00ms]
+[2026-05-08 09:58:34] SCORE jat (lawn green): Final=354.9, Time=98.9, Moves(11)=0.0, Pins(0)=0.0, Dist=256.0, Win Bonus=0.0
+[2026-05-08 09:58:34] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:58:34] SCORE Tiefes Verstarkendes Lernen (yellow): Final=322.1, Time=94.1, Moves(10)=0.0, Pins(0)=0.0, Dist=228.0, Win Bonus=0.0
+[2026-05-08 09:58:35] MOVE 22: Tiefes Verstarkendes Lernen (yellow) 37->18 [0.00ms]
+[2026-05-08 09:58:35] SCORE jat (lawn green): Final=354.9, Time=98.9, Moves(11)=0.0, Pins(0)=0.0, Dist=256.0, Win Bonus=0.0
+[2026-05-08 09:58:35] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:58:35] SCORE Tiefes Verstarkendes Lernen (yellow): Final=329.4, Time=93.4, Moves(11)=0.0, Pins(0)=0.0, Dist=236.0, Win Bonus=0.0
+[2026-05-08 09:58:37] SCORE jat (lawn green): Final=354.9, Time=98.9, Moves(11)=0.0, Pins(0)=0.0, Dist=256.0, Win Bonus=0.0
+[2026-05-08 09:58:37] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:58:37] SCORE Tiefes Verstarkendes Lernen (yellow): Final=329.4, Time=93.4, Moves(11)=0.0, Pins(0)=0.0, Dist=236.0, Win Bonus=0.0
+[2026-05-08 09:58:37] TURN TIMEOUT: Player with colour gray0 exceeded 2s at move 22. Turn skipped.
+[2026-05-08 09:58:37] MOVE 23: jat (lawn green) 55->73 [0.00ms]
+[2026-05-08 09:58:37] SCORE jat (lawn green): Final=358.8, Time=98.8, Moves(12)=0.0, Pins(0)=0.0, Dist=260.0, Win Bonus=0.0
+[2026-05-08 09:58:37] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:58:37] SCORE Tiefes Verstarkendes Lernen (yellow): Final=329.4, Time=93.4, Moves(11)=0.0, Pins(0)=0.0, Dist=236.0, Win Bonus=0.0
+[2026-05-08 09:58:37] MOVE 24: Tiefes Verstarkendes Lernen (yellow) 27->52 [0.00ms]
+[2026-05-08 09:58:37] SCORE jat (lawn green): Final=358.8, Time=98.8, Moves(12)=0.0, Pins(0)=0.0, Dist=260.0, Win Bonus=0.0
+[2026-05-08 09:58:37] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:58:37] SCORE Tiefes Verstarkendes Lernen (yellow): Final=337.1, Time=93.1, Moves(12)=0.0, Pins(0)=0.0, Dist=244.0, Win Bonus=0.0
+[2026-05-08 09:58:39] SCORE jat (lawn green): Final=358.8, Time=98.8, Moves(12)=0.0, Pins(0)=0.0, Dist=260.0, Win Bonus=0.0
+[2026-05-08 09:58:39] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:58:39] SCORE Tiefes Verstarkendes Lernen (yellow): Final=337.1, Time=93.1, Moves(12)=0.0, Pins(0)=0.0, Dist=244.0, Win Bonus=0.0
+[2026-05-08 09:58:39] TURN TIMEOUT: Player with colour gray0 exceeded 2s at move 24. Turn skipped.
+[2026-05-08 09:58:39] MOVE 25: jat (lawn green) 34->45 [0.00ms]
+[2026-05-08 09:58:39] SCORE jat (lawn green): Final=360.7, Time=98.7, Moves(13)=0.0, Pins(0)=0.0, Dist=262.0, Win Bonus=0.0
+[2026-05-08 09:58:39] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:58:39] SCORE Tiefes Verstarkendes Lernen (yellow): Final=337.1, Time=93.1, Moves(12)=0.0, Pins(0)=0.0, Dist=244.0, Win Bonus=0.0
+[2026-05-08 09:58:40] MOVE 26: Tiefes Verstarkendes Lernen (yellow) 38->80 [0.00ms]
+[2026-05-08 09:58:40] SCORE jat (lawn green): Final=360.7, Time=98.7, Moves(13)=0.0, Pins(0)=0.0, Dist=262.0, Win Bonus=0.0
+[2026-05-08 09:58:40] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:58:40] SCORE Tiefes Verstarkendes Lernen (yellow): Final=344.5, Time=92.5, Moves(13)=0.0, Pins(0)=0.0, Dist=252.0, Win Bonus=0.0
+[2026-05-08 09:58:42] SCORE jat (lawn green): Final=360.7, Time=98.7, Moves(13)=0.0, Pins(0)=0.0, Dist=262.0, Win Bonus=0.0
+[2026-05-08 09:58:42] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:58:42] SCORE Tiefes Verstarkendes Lernen (yellow): Final=344.5, Time=92.5, Moves(13)=0.0, Pins(0)=0.0, Dist=252.0, Win Bonus=0.0
+[2026-05-08 09:58:42] TURN TIMEOUT: Player with colour gray0 exceeded 2s at move 26. Turn skipped.
+[2026-05-08 09:58:42] MOVE 27: jat (lawn green) 21->33 [0.01ms]
+[2026-05-08 09:58:42] SCORE jat (lawn green): Final=362.6, Time=98.6, Moves(14)=0.0, Pins(0)=0.0, Dist=264.0, Win Bonus=0.0
+[2026-05-08 09:58:42] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:58:42] SCORE Tiefes Verstarkendes Lernen (yellow): Final=344.5, Time=92.5, Moves(13)=0.0, Pins(0)=0.0, Dist=252.0, Win Bonus=0.0
+[2026-05-08 09:58:43] MOVE 28: Tiefes Verstarkendes Lernen (yellow) 79->81 [0.00ms]
+[2026-05-08 09:58:43] SCORE jat (lawn green): Final=362.6, Time=98.6, Moves(14)=0.0, Pins(0)=0.0, Dist=264.0, Win Bonus=0.0
+[2026-05-08 09:58:43] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:58:43] SCORE Tiefes Verstarkendes Lernen (yellow): Final=347.8, Time=91.8, Moves(14)=0.0, Pins(0)=0.0, Dist=256.0, Win Bonus=0.0
+[2026-05-08 09:58:45] SCORE jat (lawn green): Final=362.6, Time=98.6, Moves(14)=0.0, Pins(0)=0.0, Dist=264.0, Win Bonus=0.0
+[2026-05-08 09:58:45] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:58:45] SCORE Tiefes Verstarkendes Lernen (yellow): Final=347.8, Time=91.8, Moves(14)=0.0, Pins(0)=0.0, Dist=256.0, Win Bonus=0.0
+[2026-05-08 09:58:45] TURN TIMEOUT: Player with colour gray0 exceeded 2s at move 28. Turn skipped.
+[2026-05-08 09:58:45] MOVE 29: jat (lawn green) 61->78 [0.00ms]
+[2026-05-08 09:58:45] SCORE jat (lawn green): Final=370.5, Time=98.5, Moves(15)=0.0, Pins(0)=0.0, Dist=272.0, Win Bonus=0.0
+[2026-05-08 09:58:45] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:58:45] SCORE Tiefes Verstarkendes Lernen (yellow): Final=347.8, Time=91.8, Moves(14)=0.0, Pins(0)=0.0, Dist=256.0, Win Bonus=0.0
+[2026-05-08 09:58:46] MOVE 30: Tiefes Verstarkendes Lernen (yellow) 56->79 [0.00ms]
+[2026-05-08 09:58:46] SCORE jat (lawn green): Final=370.5, Time=98.5, Moves(15)=0.0, Pins(0)=0.0, Dist=272.0, Win Bonus=0.0
+[2026-05-08 09:58:46] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:58:46] SCORE Tiefes Verstarkendes Lernen (yellow): Final=355.1, Time=91.1, Moves(15)=0.0, Pins(0)=0.0, Dist=264.0, Win Bonus=0.0
+[2026-05-08 09:58:48] SCORE jat (lawn green): Final=370.5, Time=98.5, Moves(15)=0.0, Pins(0)=0.0, Dist=272.0, Win Bonus=0.0
+[2026-05-08 09:58:48] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:58:48] SCORE Tiefes Verstarkendes Lernen (yellow): Final=355.1, Time=91.1, Moves(15)=0.0, Pins(0)=0.0, Dist=264.0, Win Bonus=0.0
+[2026-05-08 09:58:48] TURN TIMEOUT: Player with colour gray0 exceeded 2s at move 30. Turn skipped.
+[2026-05-08 09:58:48] MOVE 31: jat (lawn green) 33->44 [0.00ms]
+[2026-05-08 09:58:48] SCORE jat (lawn green): Final=372.5, Time=98.5, Moves(16)=0.0, Pins(0)=0.0, Dist=274.0, Win Bonus=0.0
+[2026-05-08 09:58:48] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:58:48] SCORE Tiefes Verstarkendes Lernen (yellow): Final=355.1, Time=91.1, Moves(15)=0.0, Pins(0)=0.0, Dist=264.0, Win Bonus=0.0
+[2026-05-08 09:58:48] MOVE 32: Tiefes Verstarkendes Lernen (yellow) 49->90 [0.00ms]
+[2026-05-08 09:58:48] SCORE jat (lawn green): Final=372.5, Time=98.5, Moves(16)=0.0, Pins(0)=0.0, Dist=274.0, Win Bonus=0.0
+[2026-05-08 09:58:48] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:58:48] SCORE Tiefes Verstarkendes Lernen (yellow): Final=358.8, Time=90.8, Moves(16)=0.0, Pins(0)=0.0, Dist=268.0, Win Bonus=0.0
+[2026-05-08 09:58:50] SCORE jat (lawn green): Final=372.5, Time=98.5, Moves(16)=0.0, Pins(0)=0.0, Dist=274.0, Win Bonus=0.0
+[2026-05-08 09:58:50] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:58:50] SCORE Tiefes Verstarkendes Lernen (yellow): Final=358.8, Time=90.8, Moves(16)=0.0, Pins(0)=0.0, Dist=268.0, Win Bonus=0.0
+[2026-05-08 09:58:50] TURN TIMEOUT: Player with colour gray0 exceeded 2s at move 32. Turn skipped.
+[2026-05-08 09:58:50] MOVE 33: jat (lawn green) 45->43 [0.00ms]
+[2026-05-08 09:58:50] SCORE jat (lawn green): Final=376.4, Time=98.4, Moves(17)=0.0, Pins(0)=0.0, Dist=278.0, Win Bonus=0.0
+[2026-05-08 09:58:50] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:58:50] SCORE Tiefes Verstarkendes Lernen (yellow): Final=358.8, Time=90.8, Moves(16)=0.0, Pins(0)=0.0, Dist=268.0, Win Bonus=0.0
+[2026-05-08 09:58:51] MOVE 34: Tiefes Verstarkendes Lernen (yellow) 80->82 [0.00ms]
+[2026-05-08 09:58:51] SCORE jat (lawn green): Final=376.4, Time=98.4, Moves(17)=0.0, Pins(0)=0.0, Dist=278.0, Win Bonus=0.0
+[2026-05-08 09:58:51] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:58:51] SCORE Tiefes Verstarkendes Lernen (yellow): Final=362.5, Time=90.5, Moves(17)=0.0, Pins(0)=0.0, Dist=272.0, Win Bonus=0.0
+[2026-05-08 09:58:53] SCORE jat (lawn green): Final=376.4, Time=98.4, Moves(17)=0.0, Pins(0)=0.0, Dist=278.0, Win Bonus=0.0
+[2026-05-08 09:58:53] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:58:53] SCORE Tiefes Verstarkendes Lernen (yellow): Final=362.5, Time=90.5, Moves(17)=0.0, Pins(0)=0.0, Dist=272.0, Win Bonus=0.0
+[2026-05-08 09:58:53] TURN TIMEOUT: Player with colour gray0 exceeded 2s at move 34. Turn skipped.
+[2026-05-08 09:58:53] MOVE 35: jat (lawn green) 44->57 [0.00ms]
+[2026-05-08 09:58:53] SCORE jat (lawn green): Final=392.4, Time=98.4, Moves(18)=0.0, Pins(0)=0.0, Dist=294.0, Win Bonus=0.0
+[2026-05-08 09:58:53] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:58:53] SCORE Tiefes Verstarkendes Lernen (yellow): Final=362.5, Time=90.5, Moves(17)=0.0, Pins(0)=0.0, Dist=272.0, Win Bonus=0.0
+[2026-05-08 09:58:53] MOVE 36: Tiefes Verstarkendes Lernen (yellow) 81->83 [0.00ms]
+[2026-05-08 09:58:53] SCORE jat (lawn green): Final=392.4, Time=98.4, Moves(18)=0.0, Pins(0)=0.0, Dist=294.0, Win Bonus=0.0
+[2026-05-08 09:58:53] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:58:53] SCORE Tiefes Verstarkendes Lernen (yellow): Final=365.8, Time=89.8, Moves(18)=0.0, Pins(0)=0.0, Dist=276.0, Win Bonus=0.0
+[2026-05-08 09:58:56] SCORE jat (lawn green): Final=392.4, Time=98.4, Moves(18)=0.0, Pins(0)=0.0, Dist=294.0, Win Bonus=0.0
+[2026-05-08 09:58:56] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:58:56] SCORE Tiefes Verstarkendes Lernen (yellow): Final=365.8, Time=89.8, Moves(18)=0.0, Pins(0)=0.0, Dist=276.0, Win Bonus=0.0
+[2026-05-08 09:58:56] TURN TIMEOUT: Player with colour gray0 exceeded 2s at move 36. Turn skipped.
+[2026-05-08 09:58:56] MOVE 37: jat (lawn green) 73->71 [0.00ms]
+[2026-05-08 09:58:56] SCORE jat (lawn green): Final=396.3, Time=98.3, Moves(19)=0.0, Pins(0)=0.0, Dist=298.0, Win Bonus=0.0
+[2026-05-08 09:58:56] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:58:56] SCORE Tiefes Verstarkendes Lernen (yellow): Final=365.8, Time=89.8, Moves(18)=0.0, Pins(0)=0.0, Dist=276.0, Win Bonus=0.0
+[2026-05-08 09:58:56] MOVE 38: Tiefes Verstarkendes Lernen (yellow) 82->84 [0.00ms]
+[2026-05-08 09:58:56] SCORE jat (lawn green): Final=396.3, Time=98.3, Moves(19)=0.0, Pins(0)=0.0, Dist=298.0, Win Bonus=0.0
+[2026-05-08 09:58:56] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:58:56] SCORE Tiefes Verstarkendes Lernen (yellow): Final=469.2, Time=89.2, Moves(19)=0.0, Pins(1)=100.0, Dist=280.0, Win Bonus=0.0
+[2026-05-08 09:58:58] SCORE jat (lawn green): Final=396.3, Time=98.3, Moves(19)=0.0, Pins(0)=0.0, Dist=298.0, Win Bonus=0.0
+[2026-05-08 09:58:58] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:58:58] SCORE Tiefes Verstarkendes Lernen (yellow): Final=469.2, Time=89.2, Moves(19)=0.0, Pins(1)=100.0, Dist=280.0, Win Bonus=0.0
+[2026-05-08 09:58:58] TURN TIMEOUT: Player with colour gray0 exceeded 2s at move 38. Turn skipped.
+[2026-05-08 09:58:58] MOVE 39: jat (lawn green) 64->63 [0.00ms]
+[2026-05-08 09:58:58] SCORE jat (lawn green): Final=398.3, Time=98.3, Moves(20)=0.0, Pins(0)=0.0, Dist=300.0, Win Bonus=0.0
+[2026-05-08 09:58:58] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:58:58] SCORE Tiefes Verstarkendes Lernen (yellow): Final=469.2, Time=89.2, Moves(19)=0.0, Pins(1)=100.0, Dist=280.0, Win Bonus=0.0
+[2026-05-08 09:58:59] MOVE 40: Tiefes Verstarkendes Lernen (yellow) 83->85 [0.00ms]
+[2026-05-08 09:58:59] SCORE jat (lawn green): Final=398.3, Time=98.3, Moves(20)=0.0, Pins(0)=0.0, Dist=300.0, Win Bonus=0.0
+[2026-05-08 09:58:59] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:58:59] SCORE Tiefes Verstarkendes Lernen (yellow): Final=570.3, Time=88.3, Moves(20)=0.0, Pins(2)=200.0, Dist=282.0, Win Bonus=0.0
+[2026-05-08 09:59:01] SCORE jat (lawn green): Final=398.3, Time=98.3, Moves(20)=0.0, Pins(0)=0.0, Dist=300.0, Win Bonus=0.0
+[2026-05-08 09:59:01] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:59:01] SCORE Tiefes Verstarkendes Lernen (yellow): Final=570.3, Time=88.3, Moves(20)=0.0, Pins(2)=200.0, Dist=282.0, Win Bonus=0.0
+[2026-05-08 09:59:01] TURN TIMEOUT: Player with colour gray0 exceeded 2s at move 40. Turn skipped.
+[2026-05-08 09:59:01] MOVE 41: jat (lawn green) 17->29 [0.00ms]
+[2026-05-08 09:59:01] SCORE jat (lawn green): Final=400.2, Time=98.2, Moves(21)=0.0, Pins(0)=0.0, Dist=302.0, Win Bonus=0.0
+[2026-05-08 09:59:01] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:59:01] SCORE Tiefes Verstarkendes Lernen (yellow): Final=570.3, Time=88.3, Moves(20)=0.0, Pins(2)=200.0, Dist=282.0, Win Bonus=0.0
+[2026-05-08 09:59:02] MOVE 42: Tiefes Verstarkendes Lernen (yellow) 11->12 [0.00ms]
+[2026-05-08 09:59:02] SCORE jat (lawn green): Final=400.2, Time=98.2, Moves(21)=0.0, Pins(0)=0.0, Dist=302.0, Win Bonus=0.0
+[2026-05-08 09:59:02] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:59:02] SCORE Tiefes Verstarkendes Lernen (yellow): Final=571.6, Time=87.6, Moves(21)=0.0, Pins(2)=200.0, Dist=284.0, Win Bonus=0.0
+[2026-05-08 09:59:04] SCORE jat (lawn green): Final=400.2, Time=98.2, Moves(21)=0.0, Pins(0)=0.0, Dist=302.0, Win Bonus=0.0
+[2026-05-08 09:59:04] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:59:04] SCORE Tiefes Verstarkendes Lernen (yellow): Final=571.6, Time=87.6, Moves(21)=0.0, Pins(2)=200.0, Dist=284.0, Win Bonus=0.0
+[2026-05-08 09:59:04] TURN TIMEOUT: Player with colour gray0 exceeded 2s at move 42. Turn skipped.
+[2026-05-08 09:59:04] MOVE 43: jat (lawn green) 63->72 [0.01ms]
+[2026-05-08 09:59:04] SCORE jat (lawn green): Final=402.1, Time=98.1, Moves(22)=0.0, Pins(0)=0.0, Dist=304.0, Win Bonus=0.0
+[2026-05-08 09:59:04] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:59:04] SCORE Tiefes Verstarkendes Lernen (yellow): Final=571.6, Time=87.6, Moves(21)=0.0, Pins(2)=200.0, Dist=284.0, Win Bonus=0.0
+[2026-05-08 09:59:05] MOVE 44: Tiefes Verstarkendes Lernen (yellow) 12->13 [0.00ms]
+[2026-05-08 09:59:05] SCORE jat (lawn green): Final=402.1, Time=98.1, Moves(22)=0.0, Pins(0)=0.0, Dist=304.0, Win Bonus=0.0
+[2026-05-08 09:59:05] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:59:05] SCORE Tiefes Verstarkendes Lernen (yellow): Final=572.8, Time=86.8, Moves(22)=0.0, Pins(2)=200.0, Dist=286.0, Win Bonus=0.0
+[2026-05-08 09:59:07] SCORE jat (lawn green): Final=402.1, Time=98.1, Moves(22)=0.0, Pins(0)=0.0, Dist=304.0, Win Bonus=0.0
+[2026-05-08 09:59:07] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:59:07] SCORE Tiefes Verstarkendes Lernen (yellow): Final=572.8, Time=86.8, Moves(22)=0.0, Pins(2)=200.0, Dist=286.0, Win Bonus=0.0
+[2026-05-08 09:59:07] TURN TIMEOUT: Player with colour gray0 exceeded 2s at move 44. Turn skipped.
+[2026-05-08 09:59:07] MOVE 45: jat (lawn green) 72->70 [0.00ms]
+[2026-05-08 09:59:07] SCORE jat (lawn green): Final=405.9, Time=97.9, Moves(23)=0.0, Pins(0)=0.0, Dist=308.0, Win Bonus=0.0
+[2026-05-08 09:59:07] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:59:07] SCORE Tiefes Verstarkendes Lernen (yellow): Final=572.8, Time=86.8, Moves(22)=0.0, Pins(2)=200.0, Dist=286.0, Win Bonus=0.0
+[2026-05-08 09:59:08] MOVE 46: Tiefes Verstarkendes Lernen (yellow) 13->14 [0.00ms]
+[2026-05-08 09:59:08] SCORE jat (lawn green): Final=405.9, Time=97.9, Moves(23)=0.0, Pins(0)=0.0, Dist=308.0, Win Bonus=0.0
+[2026-05-08 09:59:08] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:59:08] SCORE Tiefes Verstarkendes Lernen (yellow): Final=574.3, Time=86.3, Moves(23)=0.0, Pins(2)=200.0, Dist=288.0, Win Bonus=0.0
+[2026-05-08 09:59:10] SCORE jat (lawn green): Final=405.9, Time=97.9, Moves(23)=0.0, Pins(0)=0.0, Dist=308.0, Win Bonus=0.0
+[2026-05-08 09:59:10] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:59:10] SCORE Tiefes Verstarkendes Lernen (yellow): Final=574.3, Time=86.3, Moves(23)=0.0, Pins(2)=200.0, Dist=288.0, Win Bonus=0.0
+[2026-05-08 09:59:10] TURN TIMEOUT: Player with colour gray0 exceeded 2s at move 46. Turn skipped.
+[2026-05-08 09:59:10] MOVE 47: jat (lawn green) 43->42 [0.00ms]
+[2026-05-08 09:59:10] SCORE jat (lawn green): Final=407.8, Time=97.8, Moves(24)=0.0, Pins(0)=0.0, Dist=310.0, Win Bonus=0.0
+[2026-05-08 09:59:10] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:59:10] SCORE Tiefes Verstarkendes Lernen (yellow): Final=574.3, Time=86.3, Moves(23)=0.0, Pins(2)=200.0, Dist=288.0, Win Bonus=0.0
+[2026-05-08 09:59:11] MOVE 48: Tiefes Verstarkendes Lernen (yellow) 14->62 [0.00ms]
+[2026-05-08 09:59:11] SCORE jat (lawn green): Final=407.8, Time=97.8, Moves(24)=0.0, Pins(0)=0.0, Dist=310.0, Win Bonus=0.0
+[2026-05-08 09:59:11] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:59:11] SCORE Tiefes Verstarkendes Lernen (yellow): Final=585.6, Time=85.6, Moves(24)=0.0, Pins(2)=200.0, Dist=300.0, Win Bonus=0.0
+[2026-05-08 09:59:13] SCORE jat (lawn green): Final=407.8, Time=97.8, Moves(24)=0.0, Pins(0)=0.0, Dist=310.0, Win Bonus=0.0
+[2026-05-08 09:59:13] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:59:13] SCORE Tiefes Verstarkendes Lernen (yellow): Final=585.6, Time=85.6, Moves(24)=0.0, Pins(2)=200.0, Dist=300.0, Win Bonus=0.0
+[2026-05-08 09:59:13] TURN TIMEOUT: Player with colour gray0 exceeded 2s at move 48. Turn skipped.
+[2026-05-08 09:59:13] MOVE 49: jat (lawn green) 42->59 [0.00ms]
+[2026-05-08 09:59:13] SCORE jat (lawn green): Final=415.8, Time=97.8, Moves(25)=0.0, Pins(0)=0.0, Dist=318.0, Win Bonus=0.0
+[2026-05-08 09:59:13] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:59:13] SCORE Tiefes Verstarkendes Lernen (yellow): Final=585.6, Time=85.6, Moves(24)=0.0, Pins(2)=200.0, Dist=300.0, Win Bonus=0.0
+[2026-05-08 09:59:14] MOVE 50: Tiefes Verstarkendes Lernen (yellow) 52->72 [0.00ms]
+[2026-05-08 09:59:14] SCORE jat (lawn green): Final=415.8, Time=97.8, Moves(25)=0.0, Pins(0)=0.0, Dist=318.0, Win Bonus=0.0
+[2026-05-08 09:59:14] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:59:14] SCORE Tiefes Verstarkendes Lernen (yellow): Final=588.9, Time=84.9, Moves(25)=0.0, Pins(2)=200.0, Dist=304.0, Win Bonus=0.0
+[2026-05-08 09:59:16] SCORE jat (lawn green): Final=415.8, Time=97.8, Moves(25)=0.0, Pins(0)=0.0, Dist=318.0, Win Bonus=0.0
+[2026-05-08 09:59:16] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:59:16] SCORE Tiefes Verstarkendes Lernen (yellow): Final=588.9, Time=84.9, Moves(25)=0.0, Pins(2)=200.0, Dist=304.0, Win Bonus=0.0
+[2026-05-08 09:59:16] TURN TIMEOUT: Player with colour gray0 exceeded 2s at move 50. Turn skipped.
+[2026-05-08 09:59:16] MOVE 51: jat (lawn green) 29->40 [0.00ms]
+[2026-05-08 09:59:16] SCORE jat (lawn green): Final=417.7, Time=97.7, Moves(26)=0.0, Pins(0)=0.0, Dist=320.0, Win Bonus=0.0
+[2026-05-08 09:59:16] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:59:16] SCORE Tiefes Verstarkendes Lernen (yellow): Final=588.9, Time=84.9, Moves(25)=0.0, Pins(2)=200.0, Dist=304.0, Win Bonus=0.0
+[2026-05-08 09:59:16] MOVE 52: Tiefes Verstarkendes Lernen (yellow) 62->83 [0.00ms]
+[2026-05-08 09:59:16] SCORE jat (lawn green): Final=417.7, Time=97.7, Moves(26)=0.0, Pins(0)=0.0, Dist=320.0, Win Bonus=0.0
+[2026-05-08 09:59:16] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:59:16] SCORE Tiefes Verstarkendes Lernen (yellow): Final=592.6, Time=84.6, Moves(26)=0.0, Pins(2)=200.0, Dist=308.0, Win Bonus=0.0
+[2026-05-08 09:59:18] SCORE jat (lawn green): Final=417.7, Time=97.7, Moves(26)=0.0, Pins(0)=0.0, Dist=320.0, Win Bonus=0.0
+[2026-05-08 09:59:18] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:59:18] SCORE Tiefes Verstarkendes Lernen (yellow): Final=592.6, Time=84.6, Moves(26)=0.0, Pins(2)=200.0, Dist=308.0, Win Bonus=0.0
+[2026-05-08 09:59:18] TURN TIMEOUT: Player with colour gray0 exceeded 2s at move 52. Turn skipped.
+[2026-05-08 09:59:18] MOVE 53: jat (lawn green) 40->50 [0.00ms]
+[2026-05-08 09:59:18] SCORE jat (lawn green): Final=419.6, Time=97.6, Moves(27)=0.0, Pins(0)=0.0, Dist=322.0, Win Bonus=0.0
+[2026-05-08 09:59:18] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:59:18] SCORE Tiefes Verstarkendes Lernen (yellow): Final=592.6, Time=84.6, Moves(26)=0.0, Pins(2)=200.0, Dist=308.0, Win Bonus=0.0
+[2026-05-08 09:59:19] MOVE 54: Tiefes Verstarkendes Lernen (yellow) 72->97 [0.00ms]
+[2026-05-08 09:59:19] SCORE jat (lawn green): Final=419.6, Time=97.6, Moves(27)=0.0, Pins(0)=0.0, Dist=322.0, Win Bonus=0.0
+[2026-05-08 09:59:19] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:59:19] SCORE Tiefes Verstarkendes Lernen (yellow): Final=695.9, Time=83.9, Moves(27)=0.0, Pins(3)=300.0, Dist=312.0, Win Bonus=0.0
+[2026-05-08 09:59:21] SCORE jat (lawn green): Final=419.6, Time=97.6, Moves(27)=0.0, Pins(0)=0.0, Dist=322.0, Win Bonus=0.0
+[2026-05-08 09:59:21] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:59:21] SCORE Tiefes Verstarkendes Lernen (yellow): Final=695.9, Time=83.9, Moves(27)=0.0, Pins(3)=300.0, Dist=312.0, Win Bonus=0.0
+[2026-05-08 09:59:21] TURN TIMEOUT: Player with colour gray0 exceeded 2s at move 54. Turn skipped.
+[2026-05-08 09:59:21] MOVE 55: jat (lawn green) 71->81 [0.00ms]
+[2026-05-08 09:59:21] SCORE jat (lawn green): Final=421.5, Time=97.5, Moves(28)=0.0, Pins(0)=0.0, Dist=324.0, Win Bonus=0.0
+[2026-05-08 09:59:21] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:59:21] SCORE Tiefes Verstarkendes Lernen (yellow): Final=695.9, Time=83.9, Moves(27)=0.0, Pins(3)=300.0, Dist=312.0, Win Bonus=0.0
+[2026-05-08 09:59:22] MOVE 56: Tiefes Verstarkendes Lernen (yellow) 23->35 [0.00ms]
+[2026-05-08 09:59:22] SCORE jat (lawn green): Final=421.5, Time=97.5, Moves(28)=0.0, Pins(0)=0.0, Dist=324.0, Win Bonus=0.0
+[2026-05-08 09:59:22] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:59:22] SCORE Tiefes Verstarkendes Lernen (yellow): Final=697.2, Time=83.2, Moves(28)=0.0, Pins(3)=300.0, Dist=314.0, Win Bonus=0.0
+[2026-05-08 09:59:24] SCORE jat (lawn green): Final=421.5, Time=97.5, Moves(28)=0.0, Pins(0)=0.0, Dist=324.0, Win Bonus=0.0
+[2026-05-08 09:59:24] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:59:24] SCORE Tiefes Verstarkendes Lernen (yellow): Final=697.2, Time=83.2, Moves(28)=0.0, Pins(3)=300.0, Dist=314.0, Win Bonus=0.0
+[2026-05-08 09:59:24] TURN TIMEOUT: Player with colour gray0 exceeded 2s at move 56. Turn skipped.
+[2026-05-08 09:59:24] MOVE 57: jat (lawn green) 69->67 [0.00ms]
+[2026-05-08 09:59:24] SCORE jat (lawn green): Final=425.5, Time=97.5, Moves(29)=0.0, Pins(0)=0.0, Dist=328.0, Win Bonus=0.0
+[2026-05-08 09:59:24] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:59:24] SCORE Tiefes Verstarkendes Lernen (yellow): Final=697.2, Time=83.2, Moves(28)=0.0, Pins(3)=300.0, Dist=314.0, Win Bonus=0.0
+[2026-05-08 09:59:25] MOVE 58: Tiefes Verstarkendes Lernen (yellow) 90->71 [0.00ms]
+[2026-05-08 09:59:25] SCORE jat (lawn green): Final=425.5, Time=97.5, Moves(29)=0.0, Pins(0)=0.0, Dist=328.0, Win Bonus=0.0
+[2026-05-08 09:59:25] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:59:25] SCORE Tiefes Verstarkendes Lernen (yellow): Final=700.5, Time=82.5, Moves(29)=0.0, Pins(3)=300.0, Dist=318.0, Win Bonus=0.0
+[2026-05-08 09:59:27] SCORE jat (lawn green): Final=425.5, Time=97.5, Moves(29)=0.0, Pins(0)=0.0, Dist=328.0, Win Bonus=0.0
+[2026-05-08 09:59:27] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:59:27] SCORE Tiefes Verstarkendes Lernen (yellow): Final=700.5, Time=82.5, Moves(29)=0.0, Pins(3)=300.0, Dist=318.0, Win Bonus=0.0
+[2026-05-08 09:59:27] TURN TIMEOUT: Player with colour gray0 exceeded 2s at move 58. Turn skipped.
+[2026-05-08 09:59:27] MOVE 59: jat (lawn green) 68->89 [0.00ms]
+[2026-05-08 09:59:27] SCORE jat (lawn green): Final=429.3, Time=97.3, Moves(30)=0.0, Pins(0)=0.0, Dist=332.0, Win Bonus=0.0
+[2026-05-08 09:59:27] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:59:27] SCORE Tiefes Verstarkendes Lernen (yellow): Final=700.5, Time=82.5, Moves(29)=0.0, Pins(3)=300.0, Dist=318.0, Win Bonus=0.0
+[2026-05-08 09:59:28] MOVE 60: Tiefes Verstarkendes Lernen (yellow) 66->91 [0.00ms]
+[2026-05-08 09:59:28] SCORE jat (lawn green): Final=429.3, Time=97.3, Moves(30)=0.0, Pins(0)=0.0, Dist=332.0, Win Bonus=0.0
+[2026-05-08 09:59:28] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:59:28] SCORE Tiefes Verstarkendes Lernen (yellow): Final=707.9, Time=81.9, Moves(30)=0.0, Pins(3)=300.0, Dist=326.0, Win Bonus=0.0
+[2026-05-08 09:59:30] SCORE jat (lawn green): Final=429.3, Time=97.3, Moves(30)=0.0, Pins(0)=0.0, Dist=332.0, Win Bonus=0.0
+[2026-05-08 09:59:30] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:59:30] SCORE Tiefes Verstarkendes Lernen (yellow): Final=707.9, Time=81.9, Moves(30)=0.0, Pins(3)=300.0, Dist=326.0, Win Bonus=0.0
+[2026-05-08 09:59:30] TURN TIMEOUT: Player with colour gray0 exceeded 2s at move 60. Turn skipped.
+[2026-05-08 09:59:30] MOVE 61: jat (lawn green) 50->66 [0.01ms]
+[2026-05-08 09:59:30] SCORE jat (lawn green): Final=437.3, Time=97.3, Moves(31)=0.0, Pins(0)=0.0, Dist=340.0, Win Bonus=0.0
+[2026-05-08 09:59:30] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:59:30] SCORE Tiefes Verstarkendes Lernen (yellow): Final=707.9, Time=81.9, Moves(30)=0.0, Pins(3)=300.0, Dist=326.0, Win Bonus=0.0
+[2026-05-08 09:59:30] MOVE 62: Tiefes Verstarkendes Lernen (yellow) 79->104 [0.01ms]
+[2026-05-08 09:59:30] SCORE jat (lawn green): Final=437.3, Time=97.3, Moves(31)=0.0, Pins(0)=0.0, Dist=340.0, Win Bonus=0.0
+[2026-05-08 09:59:30] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:59:30] SCORE Tiefes Verstarkendes Lernen (yellow): Final=711.2, Time=81.2, Moves(31)=0.0, Pins(3)=300.0, Dist=330.0, Win Bonus=0.0
+[2026-05-08 09:59:33] SCORE jat (lawn green): Final=437.3, Time=97.3, Moves(31)=0.0, Pins(0)=0.0, Dist=340.0, Win Bonus=0.0
+[2026-05-08 09:59:33] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:59:33] SCORE Tiefes Verstarkendes Lernen (yellow): Final=711.2, Time=81.2, Moves(31)=0.0, Pins(3)=300.0, Dist=330.0, Win Bonus=0.0
+[2026-05-08 09:59:33] TURN TIMEOUT: Player with colour gray0 exceeded 2s at move 62. Turn skipped.
+[2026-05-08 09:59:33] MOVE 63: jat (lawn green) 70->68 [0.02ms]
+[2026-05-08 09:59:33] SCORE jat (lawn green): Final=441.2, Time=97.2, Moves(32)=0.0, Pins(0)=0.0, Dist=344.0, Win Bonus=0.0
+[2026-05-08 09:59:33] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:59:33] SCORE Tiefes Verstarkendes Lernen (yellow): Final=711.2, Time=81.2, Moves(31)=0.0, Pins(3)=300.0, Dist=330.0, Win Bonus=0.0
+[2026-05-08 09:59:33] MOVE 64: Tiefes Verstarkendes Lernen (yellow) 35->46 [0.01ms]
+[2026-05-08 09:59:33] SCORE jat (lawn green): Final=441.2, Time=97.2, Moves(32)=0.0, Pins(0)=0.0, Dist=344.0, Win Bonus=0.0
+[2026-05-08 09:59:33] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:59:33] SCORE Tiefes Verstarkendes Lernen (yellow): Final=712.4, Time=80.4, Moves(32)=0.0, Pins(3)=300.0, Dist=332.0, Win Bonus=0.0
+[2026-05-08 09:59:35] SCORE jat (lawn green): Final=441.2, Time=97.2, Moves(32)=0.0, Pins(0)=0.0, Dist=344.0, Win Bonus=0.0
+[2026-05-08 09:59:35] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:59:35] SCORE Tiefes Verstarkendes Lernen (yellow): Final=712.4, Time=80.4, Moves(32)=0.0, Pins(3)=300.0, Dist=332.0, Win Bonus=0.0
+[2026-05-08 09:59:35] TURN TIMEOUT: Player with colour gray0 exceeded 2s at move 64. Turn skipped.
+[2026-05-08 09:59:35] MOVE 65: jat (lawn green) 58->77 [0.01ms]
+[2026-05-08 09:59:35] SCORE jat (lawn green): Final=445.2, Time=97.2, Moves(33)=0.0, Pins(0)=0.0, Dist=348.0, Win Bonus=0.0
+[2026-05-08 09:59:35] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:59:35] SCORE Tiefes Verstarkendes Lernen (yellow): Final=712.4, Time=80.4, Moves(32)=0.0, Pins(3)=300.0, Dist=332.0, Win Bonus=0.0
+[2026-05-08 09:59:36] MOVE 66: Tiefes Verstarkendes Lernen (yellow) 46->47 [0.01ms]
+[2026-05-08 09:59:36] SCORE jat (lawn green): Final=445.2, Time=97.2, Moves(33)=0.0, Pins(0)=0.0, Dist=348.0, Win Bonus=0.0
+[2026-05-08 09:59:36] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:59:36] SCORE Tiefes Verstarkendes Lernen (yellow): Final=714.1, Time=80.1, Moves(33)=0.0, Pins(3)=300.0, Dist=334.0, Win Bonus=0.0
+[2026-05-08 09:59:38] SCORE jat (lawn green): Final=445.2, Time=97.2, Moves(33)=0.0, Pins(0)=0.0, Dist=348.0, Win Bonus=0.0
+[2026-05-08 09:59:38] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:59:38] SCORE Tiefes Verstarkendes Lernen (yellow): Final=714.1, Time=80.1, Moves(33)=0.0, Pins(3)=300.0, Dist=334.0, Win Bonus=0.0
+[2026-05-08 09:59:38] TURN TIMEOUT: Player with colour gray0 exceeded 2s at move 66. Turn skipped.
+[2026-05-08 09:59:38] MOVE 67: jat (lawn green) 60->56 [0.01ms]
+[2026-05-08 09:59:38] SCORE jat (lawn green): Final=453.1, Time=97.1, Moves(34)=0.0, Pins(0)=0.0, Dist=356.0, Win Bonus=0.0
+[2026-05-08 09:59:38] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:59:38] SCORE Tiefes Verstarkendes Lernen (yellow): Final=714.1, Time=80.1, Moves(33)=0.0, Pins(3)=300.0, Dist=334.0, Win Bonus=0.0
+[2026-05-08 09:59:39] MOVE 68: Tiefes Verstarkendes Lernen (yellow) 85->110 [0.00ms]
+[2026-05-08 09:59:39] SCORE jat (lawn green): Final=453.1, Time=97.1, Moves(34)=0.0, Pins(0)=0.0, Dist=356.0, Win Bonus=0.0
+[2026-05-08 09:59:39] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:59:39] SCORE Tiefes Verstarkendes Lernen (yellow): Final=713.4, Time=79.3, Moves(34)=0.0, Pins(3)=300.0, Dist=334.0, Win Bonus=0.0
+[2026-05-08 09:59:41] SCORE jat (lawn green): Final=453.1, Time=97.1, Moves(34)=0.0, Pins(0)=0.0, Dist=356.0, Win Bonus=0.0
+[2026-05-08 09:59:41] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:59:41] SCORE Tiefes Verstarkendes Lernen (yellow): Final=713.4, Time=79.3, Moves(34)=0.0, Pins(3)=300.0, Dist=334.0, Win Bonus=0.0
+[2026-05-08 09:59:41] TURN TIMEOUT: Player with colour gray0 exceeded 2s at move 68. Turn skipped.
+[2026-05-08 09:59:41] MOVE 69: jat (lawn green) 59->58 [0.01ms]
+[2026-05-08 09:59:41] SCORE jat (lawn green): Final=455.0, Time=97.0, Moves(35)=0.0, Pins(0)=0.0, Dist=358.0, Win Bonus=0.0
+[2026-05-08 09:59:41] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:59:41] SCORE Tiefes Verstarkendes Lernen (yellow): Final=713.4, Time=79.3, Moves(34)=0.0, Pins(3)=300.0, Dist=334.0, Win Bonus=0.0
+[2026-05-08 09:59:42] MOVE 70: Tiefes Verstarkendes Lernen (yellow) 83->85 [0.01ms]
+[2026-05-08 09:59:42] SCORE jat (lawn green): Final=455.0, Time=97.0, Moves(35)=0.0, Pins(0)=0.0, Dist=358.0, Win Bonus=0.0
+[2026-05-08 09:59:42] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:59:42] SCORE Tiefes Verstarkendes Lernen (yellow): Final=814.6, Time=78.6, Moves(35)=0.0, Pins(4)=400.0, Dist=336.0, Win Bonus=0.0
+[2026-05-08 09:59:44] SCORE jat (lawn green): Final=455.0, Time=97.0, Moves(35)=0.0, Pins(0)=0.0, Dist=358.0, Win Bonus=0.0
+[2026-05-08 09:59:44] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:59:44] SCORE Tiefes Verstarkendes Lernen (yellow): Final=814.6, Time=78.6, Moves(35)=0.0, Pins(4)=400.0, Dist=336.0, Win Bonus=0.0
+[2026-05-08 09:59:44] TURN TIMEOUT: Player with colour gray0 exceeded 2s at move 70. Turn skipped.
+[2026-05-08 09:59:44] MOVE 71: jat (lawn green) 81->92 [0.01ms]
+[2026-05-08 09:59:44] SCORE jat (lawn green): Final=457.0, Time=97.0, Moves(36)=0.1, Pins(0)=0.0, Dist=360.0, Win Bonus=0.0
+[2026-05-08 09:59:44] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:59:44] SCORE Tiefes Verstarkendes Lernen (yellow): Final=814.6, Time=78.6, Moves(35)=0.0, Pins(4)=400.0, Dist=336.0, Win Bonus=0.0
+[2026-05-08 09:59:45] MOVE 72: Tiefes Verstarkendes Lernen (yellow) 91->93 [0.01ms]
+[2026-05-08 09:59:45] SCORE jat (lawn green): Final=457.0, Time=97.0, Moves(36)=0.1, Pins(0)=0.0, Dist=360.0, Win Bonus=0.0
+[2026-05-08 09:59:45] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:59:45] SCORE Tiefes Verstarkendes Lernen (yellow): Final=817.9, Time=77.9, Moves(36)=0.1, Pins(4)=400.0, Dist=340.0, Win Bonus=0.0
+[2026-05-08 09:59:47] SCORE jat (lawn green): Final=457.0, Time=97.0, Moves(36)=0.1, Pins(0)=0.0, Dist=360.0, Win Bonus=0.0
+[2026-05-08 09:59:47] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:59:47] SCORE Tiefes Verstarkendes Lernen (yellow): Final=817.9, Time=77.9, Moves(36)=0.1, Pins(4)=400.0, Dist=340.0, Win Bonus=0.0
+[2026-05-08 09:59:47] TURN TIMEOUT: Player with colour gray0 exceeded 2s at move 72. Turn skipped.
+[2026-05-08 09:59:47] MOVE 73: jat (lawn green) 92->91 [0.01ms]
+[2026-05-08 09:59:47] SCORE jat (lawn green): Final=459.0, Time=96.9, Moves(37)=0.1, Pins(0)=0.0, Dist=362.0, Win Bonus=0.0
+[2026-05-08 09:59:47] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:59:47] SCORE Tiefes Verstarkendes Lernen (yellow): Final=817.9, Time=77.9, Moves(36)=0.1, Pins(4)=400.0, Dist=340.0, Win Bonus=0.0
+[2026-05-08 09:59:47] MOVE 74: Tiefes Verstarkendes Lernen (yellow) 47->48 [0.01ms]
+[2026-05-08 09:59:47] SCORE jat (lawn green): Final=459.0, Time=96.9, Moves(37)=0.1, Pins(0)=0.0, Dist=362.0, Win Bonus=0.0
+[2026-05-08 09:59:47] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:59:47] SCORE Tiefes Verstarkendes Lernen (yellow): Final=819.7, Time=77.6, Moves(37)=0.1, Pins(4)=400.0, Dist=342.0, Win Bonus=0.0
+[2026-05-08 09:59:49] SCORE jat (lawn green): Final=459.0, Time=96.9, Moves(37)=0.1, Pins(0)=0.0, Dist=362.0, Win Bonus=0.0
+[2026-05-08 09:59:49] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:59:49] SCORE Tiefes Verstarkendes Lernen (yellow): Final=819.7, Time=77.6, Moves(37)=0.1, Pins(4)=400.0, Dist=342.0, Win Bonus=0.0
+[2026-05-08 09:59:49] TURN TIMEOUT: Player with colour gray0 exceeded 2s at move 74. Turn skipped.
+[2026-05-08 09:59:49] MOVE 75: jat (lawn green) 91->90 [0.01ms]
+[2026-05-08 09:59:49] SCORE jat (lawn green): Final=461.0, Time=96.8, Moves(38)=0.2, Pins(0)=0.0, Dist=364.0, Win Bonus=0.0
+[2026-05-08 09:59:49] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:59:49] SCORE Tiefes Verstarkendes Lernen (yellow): Final=819.7, Time=77.6, Moves(37)=0.1, Pins(4)=400.0, Dist=342.0, Win Bonus=0.0
+[2026-05-08 09:59:50] MOVE 76: Tiefes Verstarkendes Lernen (yellow) 93->94 [0.01ms]
+[2026-05-08 09:59:50] SCORE jat (lawn green): Final=461.0, Time=96.8, Moves(38)=0.2, Pins(0)=0.0, Dist=364.0, Win Bonus=0.0
+[2026-05-08 09:59:50] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:59:50] SCORE Tiefes Verstarkendes Lernen (yellow): Final=821.1, Time=76.9, Moves(38)=0.2, Pins(4)=400.0, Dist=344.0, Win Bonus=0.0
+[2026-05-08 09:59:52] SCORE jat (lawn green): Final=461.0, Time=96.8, Moves(38)=0.2, Pins(0)=0.0, Dist=364.0, Win Bonus=0.0
+[2026-05-08 09:59:52] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:59:52] SCORE Tiefes Verstarkendes Lernen (yellow): Final=821.1, Time=76.9, Moves(38)=0.2, Pins(4)=400.0, Dist=344.0, Win Bonus=0.0
+[2026-05-08 09:59:52] TURN TIMEOUT: Player with colour gray0 exceeded 2s at move 76. Turn skipped.
+[2026-05-08 09:59:52] MOVE 77: jat (lawn green) 58->102 [0.01ms]
+[2026-05-08 09:59:52] SCORE jat (lawn green): Final=465.1, Time=96.7, Moves(39)=0.3, Pins(0)=0.0, Dist=368.0, Win Bonus=0.0
+[2026-05-08 09:59:52] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:59:52] SCORE Tiefes Verstarkendes Lernen (yellow): Final=821.1, Time=76.9, Moves(38)=0.2, Pins(4)=400.0, Dist=344.0, Win Bonus=0.0
+[2026-05-08 09:59:52] MOVE 78: Tiefes Verstarkendes Lernen (yellow) 94->95 [0.01ms]
+[2026-05-08 09:59:52] SCORE jat (lawn green): Final=465.1, Time=96.7, Moves(39)=0.3, Pins(0)=0.0, Dist=368.0, Win Bonus=0.0
+[2026-05-08 09:59:52] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:59:52] SCORE Tiefes Verstarkendes Lernen (yellow): Final=922.9, Time=76.6, Moves(39)=0.3, Pins(5)=500.0, Dist=346.0, Win Bonus=0.0
+[2026-05-08 09:59:55] SCORE jat (lawn green): Final=465.1, Time=96.7, Moves(39)=0.3, Pins(0)=0.0, Dist=368.0, Win Bonus=0.0
+[2026-05-08 09:59:55] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:59:55] SCORE Tiefes Verstarkendes Lernen (yellow): Final=922.9, Time=76.6, Moves(39)=0.3, Pins(5)=500.0, Dist=346.0, Win Bonus=0.0
+[2026-05-08 09:59:55] TURN TIMEOUT: Player with colour gray0 exceeded 2s at move 78. Turn skipped.
+[2026-05-08 09:59:55] MOVE 79: jat (lawn green) 68->79 [0.01ms]
+[2026-05-08 09:59:55] SCORE jat (lawn green): Final=465.1, Time=96.6, Moves(40)=0.5, Pins(0)=0.0, Dist=368.0, Win Bonus=0.0
+[2026-05-08 09:59:55] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:59:55] SCORE Tiefes Verstarkendes Lernen (yellow): Final=922.9, Time=76.6, Moves(39)=0.3, Pins(5)=500.0, Dist=346.0, Win Bonus=0.0
+[2026-05-08 09:59:55] MOVE 80: Tiefes Verstarkendes Lernen (yellow) 48->49 [0.01ms]
+[2026-05-08 09:59:55] SCORE jat (lawn green): Final=465.1, Time=96.6, Moves(40)=0.5, Pins(0)=0.0, Dist=368.0, Win Bonus=0.0
+[2026-05-08 09:59:55] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:59:55] SCORE Tiefes Verstarkendes Lernen (yellow): Final=924.4, Time=76.0, Moves(40)=0.5, Pins(5)=500.0, Dist=348.0, Win Bonus=0.0
+[2026-05-08 09:59:57] SCORE jat (lawn green): Final=465.1, Time=96.6, Moves(40)=0.5, Pins(0)=0.0, Dist=368.0, Win Bonus=0.0
+[2026-05-08 09:59:57] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:59:57] SCORE Tiefes Verstarkendes Lernen (yellow): Final=924.4, Time=76.0, Moves(40)=0.5, Pins(5)=500.0, Dist=348.0, Win Bonus=0.0
+[2026-05-08 09:59:57] TURN TIMEOUT: Player with colour gray0 exceeded 2s at move 80. Turn skipped.
+[2026-05-08 09:59:57] MOVE 81: jat (lawn green) 79->68 [0.00ms]
+[2026-05-08 09:59:57] SCORE jat (lawn green): Final=465.2, Time=96.6, Moves(41)=0.6, Pins(0)=0.0, Dist=368.0, Win Bonus=0.0
+[2026-05-08 09:59:57] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:59:57] SCORE Tiefes Verstarkendes Lernen (yellow): Final=924.4, Time=76.0, Moves(40)=0.5, Pins(5)=500.0, Dist=348.0, Win Bonus=0.0
+[2026-05-08 09:59:58] MOVE 82: Tiefes Verstarkendes Lernen (yellow) 71->72 [0.00ms]
+[2026-05-08 09:59:58] SCORE jat (lawn green): Final=465.2, Time=96.6, Moves(41)=0.6, Pins(0)=0.0, Dist=368.0, Win Bonus=0.0
+[2026-05-08 09:59:58] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:59:58] SCORE Tiefes Verstarkendes Lernen (yellow): Final=925.9, Time=75.3, Moves(41)=0.6, Pins(5)=500.0, Dist=350.0, Win Bonus=0.0
+[2026-05-08 10:00:00] SCORE jat (lawn green): Final=465.2, Time=96.6, Moves(41)=0.6, Pins(0)=0.0, Dist=368.0, Win Bonus=0.0
+[2026-05-08 10:00:00] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:00:00] SCORE Tiefes Verstarkendes Lernen (yellow): Final=925.9, Time=75.3, Moves(41)=0.6, Pins(5)=500.0, Dist=350.0, Win Bonus=0.0
+[2026-05-08 10:00:00] TURN TIMEOUT: Player with colour gray0 exceeded 2s at move 82. Turn skipped.
+[2026-05-08 10:00:00] MOVE 83: jat (lawn green) 68->79 [0.00ms]
+[2026-05-08 10:00:00] SCORE jat (lawn green): Final=465.3, Time=96.5, Moves(42)=0.8, Pins(0)=0.0, Dist=368.0, Win Bonus=0.0
+[2026-05-08 10:00:00] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:00:00] SCORE Tiefes Verstarkendes Lernen (yellow): Final=925.9, Time=75.3, Moves(41)=0.6, Pins(5)=500.0, Dist=350.0, Win Bonus=0.0
+[2026-05-08 10:00:01] MOVE 84: Tiefes Verstarkendes Lernen (yellow) 49->50 [0.00ms]
+[2026-05-08 10:00:01] SCORE jat (lawn green): Final=465.3, Time=96.5, Moves(42)=0.8, Pins(0)=0.0, Dist=368.0, Win Bonus=0.0
+[2026-05-08 10:00:01] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:00:01] SCORE Tiefes Verstarkendes Lernen (yellow): Final=927.7, Time=75.0, Moves(42)=0.8, Pins(5)=500.0, Dist=352.0, Win Bonus=0.0
+[2026-05-08 10:00:03] SCORE jat (lawn green): Final=465.3, Time=96.5, Moves(42)=0.8, Pins(0)=0.0, Dist=368.0, Win Bonus=0.0
+[2026-05-08 10:00:03] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:00:03] SCORE Tiefes Verstarkendes Lernen (yellow): Final=927.7, Time=75.0, Moves(42)=0.8, Pins(5)=500.0, Dist=352.0, Win Bonus=0.0
+[2026-05-08 10:00:03] TURN TIMEOUT: Player with colour gray0 exceeded 2s at move 84. Turn skipped.
+[2026-05-08 10:00:03] MOVE 85: jat (lawn green) 79->68 [0.00ms]
+[2026-05-08 10:00:03] SCORE jat (lawn green): Final=465.3, Time=96.4, Moves(43)=0.9, Pins(0)=0.0, Dist=368.0, Win Bonus=0.0
+[2026-05-08 10:00:03] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:00:03] SCORE Tiefes Verstarkendes Lernen (yellow): Final=927.7, Time=75.0, Moves(42)=0.8, Pins(5)=500.0, Dist=352.0, Win Bonus=0.0
+[2026-05-08 10:00:03] MOVE 86: Tiefes Verstarkendes Lernen (yellow) 50->51 [0.01ms]
+[2026-05-08 10:00:03] SCORE jat (lawn green): Final=465.3, Time=96.4, Moves(43)=0.9, Pins(0)=0.0, Dist=368.0, Win Bonus=0.0
+[2026-05-08 10:00:03] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:00:03] SCORE Tiefes Verstarkendes Lernen (yellow): Final=929.2, Time=74.3, Moves(43)=0.9, Pins(5)=500.0, Dist=354.0, Win Bonus=0.0
+[2026-05-08 10:00:06] SCORE jat (lawn green): Final=465.3, Time=96.4, Moves(43)=0.9, Pins(0)=0.0, Dist=368.0, Win Bonus=0.0
+[2026-05-08 10:00:06] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:00:06] SCORE Tiefes Verstarkendes Lernen (yellow): Final=929.2, Time=74.3, Moves(43)=0.9, Pins(5)=500.0, Dist=354.0, Win Bonus=0.0
+[2026-05-08 10:00:06] TURN TIMEOUT: Player with colour gray0 exceeded 2s at move 86. Turn skipped.
+[2026-05-08 10:00:06] MOVE 87: jat (lawn green) 67->47 [0.00ms]
+[2026-05-08 10:00:06] SCORE jat (lawn green): Final=465.3, Time=96.4, Moves(44)=1.0, Pins(0)=0.0, Dist=368.0, Win Bonus=0.0
+[2026-05-08 10:00:06] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:00:06] SCORE Tiefes Verstarkendes Lernen (yellow): Final=929.2, Time=74.3, Moves(43)=0.9, Pins(5)=500.0, Dist=354.0, Win Bonus=0.0
+[2026-05-08 10:00:06] SCORE jat (lawn green): Final=465.3, Time=96.4, Moves(44)=1.0, Pins(0)=0.0, Dist=368.0, Win Bonus=0.0
+[2026-05-08 10:00:06] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:00:06] SCORE Tiefes Verstarkendes Lernen (yellow): Final=929.2, Time=74.3, Moves(43)=0.9, Pins(5)=500.0, Dist=354.0, Win Bonus=0.0
+[2026-05-08 10:00:06] GAME TIME LIMIT REACHED.
+[2026-05-08 10:00:06] SCORE jat (lawn green): Final=465.3, Time=96.4, Moves(44)=1.0, Pins(0)=0.0, Dist=368.0, Win Bonus=0.0
+[2026-05-08 10:00:06] SCORE Gruppe 67 (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:00:06] SCORE Tiefes Verstarkendes Lernen (yellow): Final=929.2, Time=74.3, Moves(43)=0.9, Pins(5)=500.0, Dist=354.0, Win Bonus=0.0
+[2026-05-08 10:00:06] GAME TIME LIMIT REACHED.

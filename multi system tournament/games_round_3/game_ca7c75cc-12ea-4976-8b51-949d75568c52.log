@@ -1,0 +1,281 @@
+[2026-05-08 10:13:22] GAME CREATED
+[2026-05-08 10:13:45] PLAYER JOINED: Erlend Og Linor as lawn green
+[2026-05-08 10:13:50] PLAYER JOINED: AlphaZeroClue as gray0
+[2026-05-08 10:13:50] PLAYER START: Erlend Og Linor (lawn green)
+[2026-05-08 10:13:50] PLAYER START: AlphaZeroClue (gray0)
+[2026-05-08 10:13:50] GAME START — turn order ['lawn green', 'gray0']
+[2026-05-08 10:13:50] PLAYER START: Erlend Og Linor (lawn green)
+[2026-05-08 10:13:50] PLAYER START: AlphaZeroClue (gray0)
+[2026-05-08 10:13:51] MOVE 1: Erlend Og Linor (lawn green) 33->54 [0.01ms]
+[2026-05-08 10:13:51] SCORE Erlend Og Linor (lawn green): Final=283.1, Time=99.1, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 10:13:51] SCORE AlphaZeroClue (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:13:52] MOVE 2: AlphaZeroClue (gray0) 75->56 [0.01ms]
+[2026-05-08 10:13:52] SCORE Erlend Og Linor (lawn green): Final=283.1, Time=99.1, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 10:13:52] SCORE AlphaZeroClue (gray0): Final=282.1, Time=98.1, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 10:13:53] MOVE 3: Erlend Og Linor (lawn green) 55->53 [0.01ms]
+[2026-05-08 10:13:53] SCORE Erlend Og Linor (lawn green): Final=287.0, Time=99.0, Moves(2)=0.0, Pins(0)=0.0, Dist=188.0, Win Bonus=0.0
+[2026-05-08 10:13:53] SCORE AlphaZeroClue (gray0): Final=282.1, Time=98.1, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 10:13:55] MOVE 4: AlphaZeroClue (gray0) 98->77 [0.01ms]
+[2026-05-08 10:13:55] SCORE Erlend Og Linor (lawn green): Final=287.0, Time=99.0, Moves(2)=0.0, Pins(0)=0.0, Dist=188.0, Win Bonus=0.0
+[2026-05-08 10:13:55] SCORE AlphaZeroClue (gray0): Final=288.1, Time=96.1, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:13:55] MOVE 5: Erlend Og Linor (lawn green) 45->62 [0.01ms]
+[2026-05-08 10:13:55] SCORE Erlend Og Linor (lawn green): Final=294.8, Time=98.8, Moves(3)=0.0, Pins(0)=0.0, Dist=196.0, Win Bonus=0.0
+[2026-05-08 10:13:55] SCORE AlphaZeroClue (gray0): Final=288.1, Time=96.1, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:13:56] MOVE 6: AlphaZeroClue (gray0) 86->75 [0.01ms]
+[2026-05-08 10:13:56] SCORE Erlend Og Linor (lawn green): Final=294.8, Time=98.8, Moves(3)=0.0, Pins(0)=0.0, Dist=196.0, Win Bonus=0.0
+[2026-05-08 10:13:56] SCORE AlphaZeroClue (gray0): Final=288.4, Time=94.4, Moves(3)=0.0, Pins(0)=0.0, Dist=194.0, Win Bonus=0.0
+[2026-05-08 10:13:57] MOVE 7: Erlend Og Linor (lawn green) 22->43 [0.01ms]
+[2026-05-08 10:13:57] SCORE Erlend Og Linor (lawn green): Final=302.8, Time=98.8, Moves(4)=0.0, Pins(0)=0.0, Dist=204.0, Win Bonus=0.0
+[2026-05-08 10:13:57] SCORE AlphaZeroClue (gray0): Final=288.4, Time=94.4, Moves(3)=0.0, Pins(0)=0.0, Dist=194.0, Win Bonus=0.0
+[2026-05-08 10:13:58] MOVE 8: AlphaZeroClue (gray0) 65->47 [0.01ms]
+[2026-05-08 10:13:58] SCORE Erlend Og Linor (lawn green): Final=302.8, Time=98.8, Moves(4)=0.0, Pins(0)=0.0, Dist=204.0, Win Bonus=0.0
+[2026-05-08 10:13:58] SCORE AlphaZeroClue (gray0): Final=290.5, Time=92.5, Moves(4)=0.0, Pins(0)=0.0, Dist=198.0, Win Bonus=0.0
+[2026-05-08 10:13:59] MOVE 9: Erlend Og Linor (lawn green) 44->61 [0.00ms]
+[2026-05-08 10:13:59] SCORE Erlend Og Linor (lawn green): Final=310.6, Time=98.6, Moves(5)=0.0, Pins(0)=0.0, Dist=212.0, Win Bonus=0.0
+[2026-05-08 10:13:59] SCORE AlphaZeroClue (gray0): Final=290.5, Time=92.5, Moves(4)=0.0, Pins(0)=0.0, Dist=198.0, Win Bonus=0.0
+[2026-05-08 10:14:01] MOVE 10: AlphaZeroClue (gray0) 87->48 [0.01ms]
+[2026-05-08 10:14:01] SCORE Erlend Og Linor (lawn green): Final=310.6, Time=98.6, Moves(5)=0.0, Pins(0)=0.0, Dist=212.0, Win Bonus=0.0
+[2026-05-08 10:14:01] SCORE AlphaZeroClue (gray0): Final=296.5, Time=90.5, Moves(5)=0.0, Pins(0)=0.0, Dist=206.0, Win Bonus=0.0
+[2026-05-08 10:14:01] MOVE 11: Erlend Og Linor (lawn green) 34->33 [0.00ms]
+[2026-05-08 10:14:01] SCORE Erlend Og Linor (lawn green): Final=312.4, Time=98.4, Moves(6)=0.0, Pins(0)=0.0, Dist=214.0, Win Bonus=0.0
+[2026-05-08 10:14:01] SCORE AlphaZeroClue (gray0): Final=296.5, Time=90.5, Moves(5)=0.0, Pins(0)=0.0, Dist=206.0, Win Bonus=0.0
+[2026-05-08 10:14:03] MOVE 12: AlphaZeroClue (gray0) 99->87 [0.00ms]
+[2026-05-08 10:14:03] SCORE Erlend Og Linor (lawn green): Final=312.4, Time=98.4, Moves(6)=0.0, Pins(0)=0.0, Dist=214.0, Win Bonus=0.0
+[2026-05-08 10:14:03] SCORE AlphaZeroClue (gray0): Final=296.6, Time=88.6, Moves(6)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-08 10:14:03] MOVE 13: Erlend Og Linor (lawn green) 19->31 [0.00ms]
+[2026-05-08 10:14:03] SCORE Erlend Og Linor (lawn green): Final=314.3, Time=98.3, Moves(7)=0.0, Pins(0)=0.0, Dist=216.0, Win Bonus=0.0
+[2026-05-08 10:14:03] SCORE AlphaZeroClue (gray0): Final=296.6, Time=88.6, Moves(6)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-08 10:14:05] MOVE 14: AlphaZeroClue (gray0) 100->102 [0.00ms]
+[2026-05-08 10:14:05] SCORE Erlend Og Linor (lawn green): Final=314.3, Time=98.3, Moves(7)=0.0, Pins(0)=0.0, Dist=216.0, Win Bonus=0.0
+[2026-05-08 10:14:05] SCORE AlphaZeroClue (gray0): Final=298.6, Time=86.6, Moves(7)=0.0, Pins(0)=0.0, Dist=212.0, Win Bonus=0.0
+[2026-05-08 10:14:05] MOVE 15: Erlend Og Linor (lawn green) 21->63 [0.01ms]
+[2026-05-08 10:14:05] SCORE Erlend Og Linor (lawn green): Final=322.2, Time=98.2, Moves(8)=0.0, Pins(0)=0.0, Dist=224.0, Win Bonus=0.0
+[2026-05-08 10:14:05] SCORE AlphaZeroClue (gray0): Final=298.6, Time=86.6, Moves(7)=0.0, Pins(0)=0.0, Dist=212.0, Win Bonus=0.0
+[2026-05-08 10:14:07] MOVE 16: AlphaZeroClue (gray0) 87->46 [0.01ms]
+[2026-05-08 10:14:07] SCORE Erlend Og Linor (lawn green): Final=322.2, Time=98.2, Moves(8)=0.0, Pins(0)=0.0, Dist=224.0, Win Bonus=0.0
+[2026-05-08 10:14:07] SCORE AlphaZeroClue (gray0): Final=300.7, Time=84.7, Moves(8)=0.0, Pins(0)=0.0, Dist=216.0, Win Bonus=0.0
+[2026-05-08 10:14:07] MOVE 17: Erlend Og Linor (lawn green) 54->70 [0.01ms]
+[2026-05-08 10:14:07] SCORE Erlend Og Linor (lawn green): Final=330.1, Time=98.1, Moves(9)=0.0, Pins(0)=0.0, Dist=232.0, Win Bonus=0.0
+[2026-05-08 10:14:07] SCORE AlphaZeroClue (gray0): Final=300.7, Time=84.7, Moves(8)=0.0, Pins(0)=0.0, Dist=216.0, Win Bonus=0.0
+[2026-05-08 10:14:09] MOVE 18: AlphaZeroClue (gray0) 75->65 [0.01ms]
+[2026-05-08 10:14:09] SCORE Erlend Og Linor (lawn green): Final=330.1, Time=98.1, Moves(9)=0.0, Pins(0)=0.0, Dist=232.0, Win Bonus=0.0
+[2026-05-08 10:14:09] SCORE AlphaZeroClue (gray0): Final=300.9, Time=82.9, Moves(9)=0.0, Pins(0)=0.0, Dist=218.0, Win Bonus=0.0
+[2026-05-08 10:14:09] MOVE 19: Erlend Og Linor (lawn green) 31->42 [0.01ms]
+[2026-05-08 10:14:09] SCORE Erlend Og Linor (lawn green): Final=331.9, Time=97.9, Moves(10)=0.0, Pins(0)=0.0, Dist=234.0, Win Bonus=0.0
+[2026-05-08 10:14:09] SCORE AlphaZeroClue (gray0): Final=300.9, Time=82.9, Moves(9)=0.0, Pins(0)=0.0, Dist=218.0, Win Bonus=0.0
+[2026-05-08 10:14:11] MOVE 20: AlphaZeroClue (gray0) 76->78 [0.01ms]
+[2026-05-08 10:14:11] SCORE Erlend Og Linor (lawn green): Final=331.9, Time=97.9, Moves(10)=0.0, Pins(0)=0.0, Dist=234.0, Win Bonus=0.0
+[2026-05-08 10:14:11] SCORE AlphaZeroClue (gray0): Final=303.1, Time=81.1, Moves(10)=0.0, Pins(0)=0.0, Dist=222.0, Win Bonus=0.0
+[2026-05-08 10:14:11] MOVE 21: Erlend Og Linor (lawn green) 33->52 [0.01ms]
+[2026-05-08 10:14:11] SCORE Erlend Og Linor (lawn green): Final=339.7, Time=97.7, Moves(11)=0.0, Pins(0)=0.0, Dist=242.0, Win Bonus=0.0
+[2026-05-08 10:14:11] SCORE AlphaZeroClue (gray0): Final=303.1, Time=81.1, Moves(10)=0.0, Pins(0)=0.0, Dist=222.0, Win Bonus=0.0
+[2026-05-08 10:14:13] MOVE 22: AlphaZeroClue (gray0) 88->67 [0.01ms]
+[2026-05-08 10:14:13] SCORE Erlend Og Linor (lawn green): Final=339.7, Time=97.7, Moves(11)=0.0, Pins(0)=0.0, Dist=242.0, Win Bonus=0.0
+[2026-05-08 10:14:13] SCORE AlphaZeroClue (gray0): Final=305.1, Time=79.1, Moves(11)=0.0, Pins(0)=0.0, Dist=226.0, Win Bonus=0.0
+[2026-05-08 10:14:13] MOVE 23: Erlend Og Linor (lawn green) 53->51 [0.01ms]
+[2026-05-08 10:14:13] SCORE Erlend Og Linor (lawn green): Final=343.5, Time=97.5, Moves(12)=0.0, Pins(0)=0.0, Dist=246.0, Win Bonus=0.0
+[2026-05-08 10:14:13] SCORE AlphaZeroClue (gray0): Final=305.1, Time=79.1, Moves(11)=0.0, Pins(0)=0.0, Dist=226.0, Win Bonus=0.0
+[2026-05-08 10:14:15] MOVE 24: AlphaZeroClue (gray0) 101->103 [0.00ms]
+[2026-05-08 10:14:15] SCORE Erlend Og Linor (lawn green): Final=343.5, Time=97.5, Moves(12)=0.0, Pins(0)=0.0, Dist=246.0, Win Bonus=0.0
+[2026-05-08 10:14:15] SCORE AlphaZeroClue (gray0): Final=307.2, Time=77.2, Moves(12)=0.0, Pins(0)=0.0, Dist=230.0, Win Bonus=0.0
+[2026-05-08 10:14:15] MOVE 25: Erlend Og Linor (lawn green) 32->69 [0.01ms]
+[2026-05-08 10:14:15] SCORE Erlend Og Linor (lawn green): Final=355.3, Time=97.3, Moves(13)=0.0, Pins(0)=0.0, Dist=258.0, Win Bonus=0.0
+[2026-05-08 10:14:15] SCORE AlphaZeroClue (gray0): Final=307.2, Time=77.2, Moves(12)=0.0, Pins(0)=0.0, Dist=230.0, Win Bonus=0.0
+[2026-05-08 10:14:17] MOVE 26: AlphaZeroClue (gray0) 77->41 [0.01ms]
+[2026-05-08 10:14:17] SCORE Erlend Og Linor (lawn green): Final=355.3, Time=97.3, Moves(13)=0.0, Pins(0)=0.0, Dist=258.0, Win Bonus=0.0
+[2026-05-08 10:14:17] SCORE AlphaZeroClue (gray0): Final=317.3, Time=75.3, Moves(13)=0.0, Pins(0)=0.0, Dist=242.0, Win Bonus=0.0
+[2026-05-08 10:14:17] MOVE 27: Erlend Og Linor (lawn green) 20->32 [0.01ms]
+[2026-05-08 10:14:17] SCORE Erlend Og Linor (lawn green): Final=357.2, Time=97.2, Moves(14)=0.0, Pins(0)=0.0, Dist=260.0, Win Bonus=0.0
+[2026-05-08 10:14:17] SCORE AlphaZeroClue (gray0): Final=317.3, Time=75.3, Moves(13)=0.0, Pins(0)=0.0, Dist=242.0, Win Bonus=0.0
+[2026-05-08 10:14:19] MOVE 28: AlphaZeroClue (gray0) 56->60 [0.01ms]
+[2026-05-08 10:14:19] SCORE Erlend Og Linor (lawn green): Final=357.2, Time=97.2, Moves(14)=0.0, Pins(0)=0.0, Dist=260.0, Win Bonus=0.0
+[2026-05-08 10:14:19] SCORE AlphaZeroClue (gray0): Final=323.4, Time=73.4, Moves(14)=0.0, Pins(0)=0.0, Dist=250.0, Win Bonus=0.0
+[2026-05-08 10:14:19] MOVE 29: Erlend Og Linor (lawn green) 32->71 [0.01ms]
+[2026-05-08 10:14:19] SCORE Erlend Og Linor (lawn green): Final=365.0, Time=97.0, Moves(15)=0.0, Pins(0)=0.0, Dist=268.0, Win Bonus=0.0
+[2026-05-08 10:14:19] SCORE AlphaZeroClue (gray0): Final=323.4, Time=73.4, Moves(14)=0.0, Pins(0)=0.0, Dist=250.0, Win Bonus=0.0
+[2026-05-08 10:14:21] MOVE 30: AlphaZeroClue (gray0) 65->56 [0.01ms]
+[2026-05-08 10:14:21] SCORE Erlend Og Linor (lawn green): Final=365.0, Time=97.0, Moves(15)=0.0, Pins(0)=0.0, Dist=268.0, Win Bonus=0.0
+[2026-05-08 10:14:21] SCORE AlphaZeroClue (gray0): Final=323.5, Time=71.5, Moves(15)=0.0, Pins(0)=0.0, Dist=252.0, Win Bonus=0.0
+[2026-05-08 10:14:21] MOVE 31: Erlend Og Linor (lawn green) 61->59 [0.01ms]
+[2026-05-08 10:14:21] SCORE Erlend Og Linor (lawn green): Final=368.9, Time=96.9, Moves(16)=0.0, Pins(0)=0.0, Dist=272.0, Win Bonus=0.0
+[2026-05-08 10:14:21] SCORE AlphaZeroClue (gray0): Final=323.5, Time=71.5, Moves(15)=0.0, Pins(0)=0.0, Dist=252.0, Win Bonus=0.0
+[2026-05-08 10:14:23] MOVE 32: AlphaZeroClue (gray0) 46->50 [0.01ms]
+[2026-05-08 10:14:23] SCORE Erlend Og Linor (lawn green): Final=368.9, Time=96.9, Moves(16)=0.0, Pins(0)=0.0, Dist=272.0, Win Bonus=0.0
+[2026-05-08 10:14:23] SCORE AlphaZeroClue (gray0): Final=329.6, Time=69.6, Moves(16)=0.0, Pins(0)=0.0, Dist=260.0, Win Bonus=0.0
+[2026-05-08 10:14:23] MOVE 33: Erlend Og Linor (lawn green) 42->80 [0.01ms]
+[2026-05-08 10:14:23] SCORE Erlend Og Linor (lawn green): Final=376.7, Time=96.7, Moves(17)=0.0, Pins(0)=0.0, Dist=280.0, Win Bonus=0.0
+[2026-05-08 10:14:23] SCORE AlphaZeroClue (gray0): Final=329.6, Time=69.6, Moves(16)=0.0, Pins(0)=0.0, Dist=260.0, Win Bonus=0.0
+[2026-05-08 10:14:25] MOVE 34: AlphaZeroClue (gray0) 60->37 [0.01ms]
+[2026-05-08 10:14:25] SCORE Erlend Og Linor (lawn green): Final=376.7, Time=96.7, Moves(17)=0.0, Pins(0)=0.0, Dist=280.0, Win Bonus=0.0
+[2026-05-08 10:14:25] SCORE AlphaZeroClue (gray0): Final=323.7, Time=67.7, Moves(17)=0.0, Pins(0)=0.0, Dist=256.0, Win Bonus=0.0
+[2026-05-08 10:14:26] MOVE 35: Erlend Og Linor (lawn green) 43->42 [0.01ms]
+[2026-05-08 10:14:26] SCORE Erlend Og Linor (lawn green): Final=378.5, Time=96.5, Moves(18)=0.0, Pins(0)=0.0, Dist=282.0, Win Bonus=0.0
+[2026-05-08 10:14:26] SCORE AlphaZeroClue (gray0): Final=323.7, Time=67.7, Moves(17)=0.0, Pins(0)=0.0, Dist=256.0, Win Bonus=0.0
+[2026-05-08 10:14:28] SCORE Erlend Og Linor (lawn green): Final=378.5, Time=96.5, Moves(18)=0.0, Pins(0)=0.0, Dist=282.0, Win Bonus=0.0
+[2026-05-08 10:14:28] SCORE AlphaZeroClue (gray0): Final=323.7, Time=67.7, Moves(17)=0.0, Pins(0)=0.0, Dist=256.0, Win Bonus=0.0
+[2026-05-08 10:14:28] TURN TIMEOUT: Player with colour gray0 exceeded 2s at move 35. Turn skipped.
+[2026-05-08 10:14:28] MOVE 36: Erlend Og Linor (lawn green) 42->61 [0.01ms]
+[2026-05-08 10:14:28] SCORE Erlend Og Linor (lawn green): Final=382.4, Time=96.4, Moves(19)=0.0, Pins(0)=0.0, Dist=286.0, Win Bonus=0.0
+[2026-05-08 10:14:28] SCORE AlphaZeroClue (gray0): Final=323.7, Time=67.7, Moves(17)=0.0, Pins(0)=0.0, Dist=256.0, Win Bonus=0.0
+[2026-05-08 10:14:30] MOVE 37: AlphaZeroClue (gray0) 47->26 [0.01ms]
+[2026-05-08 10:14:30] SCORE Erlend Og Linor (lawn green): Final=382.4, Time=96.4, Moves(19)=0.0, Pins(0)=0.0, Dist=286.0, Win Bonus=0.0
+[2026-05-08 10:14:30] SCORE AlphaZeroClue (gray0): Final=325.8, Time=65.8, Moves(18)=0.0, Pins(0)=0.0, Dist=260.0, Win Bonus=0.0
+[2026-05-08 10:14:30] MOVE 38: Erlend Og Linor (lawn green) 62->77 [0.01ms]
+[2026-05-08 10:14:30] SCORE Erlend Og Linor (lawn green): Final=394.2, Time=96.2, Moves(20)=0.0, Pins(0)=0.0, Dist=298.0, Win Bonus=0.0
+[2026-05-08 10:14:30] SCORE AlphaZeroClue (gray0): Final=325.8, Time=65.8, Moves(18)=0.0, Pins(0)=0.0, Dist=260.0, Win Bonus=0.0
+[2026-05-08 10:14:32] SCORE Erlend Og Linor (lawn green): Final=394.2, Time=96.2, Moves(20)=0.0, Pins(0)=0.0, Dist=298.0, Win Bonus=0.0
+[2026-05-08 10:14:32] SCORE AlphaZeroClue (gray0): Final=325.8, Time=65.8, Moves(18)=0.0, Pins(0)=0.0, Dist=260.0, Win Bonus=0.0
+[2026-05-08 10:14:32] TURN TIMEOUT: Player with colour gray0 exceeded 2s at move 38. Turn skipped.
+[2026-05-08 10:14:32] MOVE 39: Erlend Og Linor (lawn green) 70->89 [0.01ms]
+[2026-05-08 10:14:32] SCORE Erlend Og Linor (lawn green): Final=402.1, Time=96.1, Moves(21)=0.0, Pins(0)=0.0, Dist=306.0, Win Bonus=0.0
+[2026-05-08 10:14:32] SCORE AlphaZeroClue (gray0): Final=325.8, Time=65.8, Moves(18)=0.0, Pins(0)=0.0, Dist=260.0, Win Bonus=0.0
+[2026-05-08 10:14:34] MOVE 40: AlphaZeroClue (gray0) 37->62 [0.01ms]
+[2026-05-08 10:14:34] SCORE Erlend Og Linor (lawn green): Final=402.1, Time=96.1, Moves(21)=0.0, Pins(0)=0.0, Dist=306.0, Win Bonus=0.0
+[2026-05-08 10:14:34] SCORE AlphaZeroClue (gray0): Final=332.0, Time=64.0, Moves(19)=0.0, Pins(0)=0.0, Dist=268.0, Win Bonus=0.0
+[2026-05-08 10:14:34] MOVE 41: Erlend Og Linor (lawn green) 71->70 [0.01ms]
+[2026-05-08 10:14:34] SCORE Erlend Og Linor (lawn green): Final=403.9, Time=95.9, Moves(22)=0.0, Pins(0)=0.0, Dist=308.0, Win Bonus=0.0
+[2026-05-08 10:14:34] SCORE AlphaZeroClue (gray0): Final=332.0, Time=64.0, Moves(19)=0.0, Pins(0)=0.0, Dist=268.0, Win Bonus=0.0
+[2026-05-08 10:14:36] MOVE 42: AlphaZeroClue (gray0) 78->13 [0.01ms]
+[2026-05-08 10:14:36] SCORE Erlend Og Linor (lawn green): Final=403.9, Time=95.9, Moves(22)=0.0, Pins(0)=0.0, Dist=308.0, Win Bonus=0.0
+[2026-05-08 10:14:36] SCORE AlphaZeroClue (gray0): Final=334.1, Time=62.1, Moves(20)=0.0, Pins(0)=0.0, Dist=272.0, Win Bonus=0.0
+[2026-05-08 10:14:36] MOVE 43: Erlend Og Linor (lawn green) 70->66 [0.01ms]
+[2026-05-08 10:14:36] SCORE Erlend Og Linor (lawn green): Final=411.7, Time=95.7, Moves(23)=0.0, Pins(0)=0.0, Dist=316.0, Win Bonus=0.0
+[2026-05-08 10:14:36] SCORE AlphaZeroClue (gray0): Final=334.1, Time=62.1, Moves(20)=0.0, Pins(0)=0.0, Dist=272.0, Win Bonus=0.0
+[2026-05-08 10:14:38] MOVE 44: AlphaZeroClue (gray0) 67->49 [0.01ms]
+[2026-05-08 10:14:38] SCORE Erlend Og Linor (lawn green): Final=411.7, Time=95.7, Moves(23)=0.0, Pins(0)=0.0, Dist=316.0, Win Bonus=0.0
+[2026-05-08 10:14:38] SCORE AlphaZeroClue (gray0): Final=336.1, Time=60.1, Moves(21)=0.0, Pins(0)=0.0, Dist=276.0, Win Bonus=0.0
+[2026-05-08 10:14:38] MOVE 45: Erlend Og Linor (lawn green) 52->68 [0.01ms]
+[2026-05-08 10:14:38] SCORE Erlend Og Linor (lawn green): Final=419.6, Time=95.6, Moves(24)=0.0, Pins(0)=0.0, Dist=324.0, Win Bonus=0.0
+[2026-05-08 10:14:38] SCORE AlphaZeroClue (gray0): Final=336.1, Time=60.1, Moves(21)=0.0, Pins(0)=0.0, Dist=276.0, Win Bonus=0.0
+[2026-05-08 10:14:40] SCORE Erlend Og Linor (lawn green): Final=419.6, Time=95.6, Moves(24)=0.0, Pins(0)=0.0, Dist=324.0, Win Bonus=0.0
+[2026-05-08 10:14:40] SCORE AlphaZeroClue (gray0): Final=336.1, Time=60.1, Moves(21)=0.0, Pins(0)=0.0, Dist=276.0, Win Bonus=0.0
+[2026-05-08 10:14:40] TURN TIMEOUT: Player with colour gray0 exceeded 2s at move 45. Turn skipped.
+[2026-05-08 10:14:40] MOVE 46: Erlend Og Linor (lawn green) 59->101 [0.01ms]
+[2026-05-08 10:14:40] SCORE Erlend Og Linor (lawn green): Final=527.5, Time=95.5, Moves(25)=0.0, Pins(1)=100.0, Dist=332.0, Win Bonus=0.0
+[2026-05-08 10:14:40] SCORE AlphaZeroClue (gray0): Final=336.1, Time=60.1, Moves(21)=0.0, Pins(0)=0.0, Dist=276.0, Win Bonus=0.0
+[2026-05-08 10:14:43] SCORE Erlend Og Linor (lawn green): Final=527.5, Time=95.5, Moves(25)=0.0, Pins(1)=100.0, Dist=332.0, Win Bonus=0.0
+[2026-05-08 10:14:43] SCORE AlphaZeroClue (gray0): Final=336.1, Time=60.1, Moves(21)=0.0, Pins(0)=0.0, Dist=276.0, Win Bonus=0.0
+[2026-05-08 10:14:43] TURN TIMEOUT: Player with colour gray0 exceeded 2s at move 46. Turn skipped.
+[2026-05-08 10:14:43] MOVE 47: Erlend Og Linor (lawn green) 63->53 [0.01ms]
+[2026-05-08 10:14:43] SCORE Erlend Og Linor (lawn green): Final=527.4, Time=95.4, Moves(26)=0.0, Pins(1)=100.0, Dist=332.0, Win Bonus=0.0
+[2026-05-08 10:14:43] SCORE AlphaZeroClue (gray0): Final=336.1, Time=60.1, Moves(21)=0.0, Pins(0)=0.0, Dist=276.0, Win Bonus=0.0
+[2026-05-08 10:14:43] MOVE 48: AlphaZeroClue (gray0) 13->42 [0.01ms]
+[2026-05-08 10:14:43] SCORE Erlend Og Linor (lawn green): Final=527.4, Time=95.4, Moves(26)=0.0, Pins(1)=100.0, Dist=332.0, Win Bonus=0.0
+[2026-05-08 10:14:43] SCORE AlphaZeroClue (gray0): Final=343.5, Time=59.5, Moves(22)=0.0, Pins(0)=0.0, Dist=284.0, Win Bonus=0.0
+[2026-05-08 10:14:43] MOVE 49: Erlend Og Linor (lawn green) 53->71 [0.01ms]
+[2026-05-08 10:14:43] SCORE Erlend Og Linor (lawn green): Final=531.3, Time=95.3, Moves(27)=0.0, Pins(1)=100.0, Dist=336.0, Win Bonus=0.0
+[2026-05-08 10:14:43] SCORE AlphaZeroClue (gray0): Final=343.5, Time=59.5, Moves(22)=0.0, Pins(0)=0.0, Dist=284.0, Win Bonus=0.0
+[2026-05-08 10:14:45] MOVE 50: AlphaZeroClue (gray0) 50->31 [0.01ms]
+[2026-05-08 10:14:45] SCORE Erlend Og Linor (lawn green): Final=531.3, Time=95.3, Moves(27)=0.0, Pins(1)=100.0, Dist=336.0, Win Bonus=0.0
+[2026-05-08 10:14:45] SCORE AlphaZeroClue (gray0): Final=349.8, Time=57.8, Moves(23)=0.0, Pins(0)=0.0, Dist=292.0, Win Bonus=0.0
+[2026-05-08 10:14:45] MOVE 51: Erlend Og Linor (lawn green) 71->70 [0.00ms]
+[2026-05-08 10:14:45] SCORE Erlend Og Linor (lawn green): Final=533.2, Time=95.2, Moves(28)=0.0, Pins(1)=100.0, Dist=338.0, Win Bonus=0.0
+[2026-05-08 10:14:45] SCORE AlphaZeroClue (gray0): Final=349.8, Time=57.8, Moves(23)=0.0, Pins(0)=0.0, Dist=292.0, Win Bonus=0.0
+[2026-05-08 10:14:47] MOVE 52: AlphaZeroClue (gray0) 42->19 [0.01ms]
+[2026-05-08 10:14:47] SCORE Erlend Og Linor (lawn green): Final=533.2, Time=95.2, Moves(28)=0.0, Pins(1)=100.0, Dist=338.0, Win Bonus=0.0
+[2026-05-08 10:14:47] SCORE AlphaZeroClue (gray0): Final=451.9, Time=55.9, Moves(24)=0.0, Pins(1)=100.0, Dist=296.0, Win Bonus=0.0
+[2026-05-08 10:14:47] MOVE 53: Erlend Og Linor (lawn green) 51->60 [0.01ms]
+[2026-05-08 10:14:47] SCORE Erlend Og Linor (lawn green): Final=535.2, Time=95.2, Moves(29)=0.0, Pins(1)=100.0, Dist=340.0, Win Bonus=0.0
+[2026-05-08 10:14:47] SCORE AlphaZeroClue (gray0): Final=451.9, Time=55.9, Moves(24)=0.0, Pins(1)=100.0, Dist=296.0, Win Bonus=0.0
+[2026-05-08 10:14:49] MOVE 54: AlphaZeroClue (gray0) 48->50 [0.01ms]
+[2026-05-08 10:14:49] SCORE Erlend Og Linor (lawn green): Final=535.2, Time=95.2, Moves(29)=0.0, Pins(1)=100.0, Dist=340.0, Win Bonus=0.0
+[2026-05-08 10:14:49] SCORE AlphaZeroClue (gray0): Final=454.1, Time=54.1, Moves(25)=0.0, Pins(1)=100.0, Dist=300.0, Win Bonus=0.0
+[2026-05-08 10:14:49] MOVE 55: Erlend Og Linor (lawn green) 61->76 [0.01ms]
+[2026-05-08 10:14:49] SCORE Erlend Og Linor (lawn green): Final=647.0, Time=95.0, Moves(30)=0.0, Pins(2)=200.0, Dist=352.0, Win Bonus=0.0
+[2026-05-08 10:14:49] SCORE AlphaZeroClue (gray0): Final=454.1, Time=54.1, Moves(25)=0.0, Pins(1)=100.0, Dist=300.0, Win Bonus=0.0
+[2026-05-08 10:14:51] MOVE 56: AlphaZeroClue (gray0) 49->32 [0.00ms]
+[2026-05-08 10:14:51] SCORE Erlend Og Linor (lawn green): Final=647.0, Time=95.0, Moves(30)=0.0, Pins(2)=200.0, Dist=352.0, Win Bonus=0.0
+[2026-05-08 10:14:51] SCORE AlphaZeroClue (gray0): Final=564.2, Time=52.2, Moves(26)=0.0, Pins(2)=200.0, Dist=312.0, Win Bonus=0.0
+[2026-05-08 10:14:51] MOVE 57: Erlend Og Linor (lawn green) 60->79 [0.01ms]
+[2026-05-08 10:14:51] SCORE Erlend Og Linor (lawn green): Final=650.9, Time=94.9, Moves(31)=0.0, Pins(2)=200.0, Dist=356.0, Win Bonus=0.0
+[2026-05-08 10:14:51] SCORE AlphaZeroClue (gray0): Final=564.2, Time=52.2, Moves(26)=0.0, Pins(2)=200.0, Dist=312.0, Win Bonus=0.0
+[2026-05-08 10:14:53] MOVE 58: AlphaZeroClue (gray0) 31->33 [0.01ms]
+[2026-05-08 10:14:53] SCORE Erlend Og Linor (lawn green): Final=650.9, Time=94.9, Moves(31)=0.0, Pins(2)=200.0, Dist=356.0, Win Bonus=0.0
+[2026-05-08 10:14:53] SCORE AlphaZeroClue (gray0): Final=664.2, Time=50.2, Moves(27)=0.0, Pins(3)=300.0, Dist=314.0, Win Bonus=0.0
+[2026-05-08 10:14:53] MOVE 59: Erlend Og Linor (lawn green) 80->78 [0.01ms]
+[2026-05-08 10:14:53] SCORE Erlend Og Linor (lawn green): Final=654.8, Time=94.8, Moves(32)=0.0, Pins(2)=200.0, Dist=360.0, Win Bonus=0.0
+[2026-05-08 10:14:53] SCORE AlphaZeroClue (gray0): Final=664.2, Time=50.2, Moves(27)=0.0, Pins(3)=300.0, Dist=314.0, Win Bonus=0.0
+[2026-05-08 10:14:55] MOVE 60: AlphaZeroClue (gray0) 26->14 [0.00ms]
+[2026-05-08 10:14:55] SCORE Erlend Og Linor (lawn green): Final=654.8, Time=94.8, Moves(32)=0.0, Pins(2)=200.0, Dist=360.0, Win Bonus=0.0
+[2026-05-08 10:14:55] SCORE AlphaZeroClue (gray0): Final=664.4, Time=48.4, Moves(28)=0.0, Pins(3)=300.0, Dist=316.0, Win Bonus=0.0
+[2026-05-08 10:14:55] MOVE 61: Erlend Og Linor (lawn green) 66->65 [0.01ms]
+[2026-05-08 10:14:55] SCORE Erlend Og Linor (lawn green): Final=756.7, Time=94.7, Moves(33)=0.0, Pins(3)=300.0, Dist=362.0, Win Bonus=0.0
+[2026-05-08 10:14:55] SCORE AlphaZeroClue (gray0): Final=664.4, Time=48.4, Moves(28)=0.0, Pins(3)=300.0, Dist=316.0, Win Bonus=0.0
+[2026-05-08 10:14:57] MOVE 62: AlphaZeroClue (gray0) 14->15 [0.04ms]
+[2026-05-08 10:14:57] SCORE Erlend Og Linor (lawn green): Final=756.7, Time=94.7, Moves(33)=0.0, Pins(3)=300.0, Dist=362.0, Win Bonus=0.0
+[2026-05-08 10:14:57] SCORE AlphaZeroClue (gray0): Final=664.6, Time=46.6, Moves(29)=0.0, Pins(3)=300.0, Dist=318.0, Win Bonus=0.0
+[2026-05-08 10:14:57] MOVE 63: Erlend Og Linor (lawn green) 69->67 [0.00ms]
+[2026-05-08 10:14:57] SCORE Erlend Og Linor (lawn green): Final=760.6, Time=94.6, Moves(34)=0.0, Pins(3)=300.0, Dist=366.0, Win Bonus=0.0
+[2026-05-08 10:14:57] SCORE AlphaZeroClue (gray0): Final=664.6, Time=46.6, Moves(29)=0.0, Pins(3)=300.0, Dist=318.0, Win Bonus=0.0
+[2026-05-08 10:14:59] MOVE 64: AlphaZeroClue (gray0) 15->16 [0.01ms]
+[2026-05-08 10:14:59] SCORE Erlend Og Linor (lawn green): Final=760.6, Time=94.6, Moves(34)=0.0, Pins(3)=300.0, Dist=366.0, Win Bonus=0.0
+[2026-05-08 10:14:59] SCORE AlphaZeroClue (gray0): Final=664.8, Time=44.8, Moves(30)=0.0, Pins(3)=300.0, Dist=320.0, Win Bonus=0.0
+[2026-05-08 10:14:59] MOVE 65: Erlend Og Linor (lawn green) 70->69 [0.00ms]
+[2026-05-08 10:14:59] SCORE Erlend Og Linor (lawn green): Final=762.6, Time=94.5, Moves(35)=0.0, Pins(3)=300.0, Dist=368.0, Win Bonus=0.0
+[2026-05-08 10:14:59] SCORE AlphaZeroClue (gray0): Final=664.8, Time=44.8, Moves(30)=0.0, Pins(3)=300.0, Dist=320.0, Win Bonus=0.0
+[2026-05-08 10:15:01] MOVE 66: AlphaZeroClue (gray0) 16->17 [0.01ms]
+[2026-05-08 10:15:01] SCORE Erlend Og Linor (lawn green): Final=762.6, Time=94.5, Moves(35)=0.0, Pins(3)=300.0, Dist=368.0, Win Bonus=0.0
+[2026-05-08 10:15:01] SCORE AlphaZeroClue (gray0): Final=664.9, Time=42.9, Moves(31)=0.0, Pins(3)=300.0, Dist=322.0, Win Bonus=0.0
+[2026-05-08 10:15:01] MOVE 67: Erlend Og Linor (lawn green) 68->87 [0.00ms]
+[2026-05-08 10:15:01] SCORE Erlend Og Linor (lawn green): Final=868.5, Time=94.4, Moves(36)=0.1, Pins(4)=400.0, Dist=374.0, Win Bonus=0.0
+[2026-05-08 10:15:01] SCORE AlphaZeroClue (gray0): Final=664.9, Time=42.9, Moves(31)=0.0, Pins(3)=300.0, Dist=322.0, Win Bonus=0.0
+[2026-05-08 10:15:03] MOVE 68: AlphaZeroClue (gray0) 17->18 [0.01ms]
+[2026-05-08 10:15:03] SCORE Erlend Og Linor (lawn green): Final=868.5, Time=94.4, Moves(36)=0.1, Pins(4)=400.0, Dist=374.0, Win Bonus=0.0
+[2026-05-08 10:15:03] SCORE AlphaZeroClue (gray0): Final=664.9, Time=40.9, Moves(32)=0.0, Pins(3)=300.0, Dist=324.0, Win Bonus=0.0
+[2026-05-08 10:15:03] MOVE 69: Erlend Og Linor (lawn green) 76->99 [0.01ms]
+[2026-05-08 10:15:03] SCORE Erlend Og Linor (lawn green): Final=868.4, Time=94.2, Moves(37)=0.1, Pins(4)=400.0, Dist=374.0, Win Bonus=0.0
+[2026-05-08 10:15:03] SCORE AlphaZeroClue (gray0): Final=664.9, Time=40.9, Moves(32)=0.0, Pins(3)=300.0, Dist=324.0, Win Bonus=0.0
+[2026-05-08 10:15:05] MOVE 70: AlphaZeroClue (gray0) 18->20 [0.01ms]
+[2026-05-08 10:15:05] SCORE Erlend Og Linor (lawn green): Final=868.4, Time=94.2, Moves(37)=0.1, Pins(4)=400.0, Dist=374.0, Win Bonus=0.0
+[2026-05-08 10:15:05] SCORE AlphaZeroClue (gray0): Final=764.9, Time=38.9, Moves(33)=0.0, Pins(4)=400.0, Dist=326.0, Win Bonus=0.0
+[2026-05-08 10:15:05] MOVE 71: Erlend Og Linor (lawn green) 78->76 [0.01ms]
+[2026-05-08 10:15:05] SCORE Erlend Og Linor (lawn green): Final=972.3, Time=94.1, Moves(38)=0.2, Pins(5)=500.0, Dist=378.0, Win Bonus=0.0
+[2026-05-08 10:15:05] SCORE AlphaZeroClue (gray0): Final=764.9, Time=38.9, Moves(33)=0.0, Pins(4)=400.0, Dist=326.0, Win Bonus=0.0
+[2026-05-08 10:15:07] MOVE 72: AlphaZeroClue (gray0) 62->53 [0.01ms]
+[2026-05-08 10:15:07] SCORE Erlend Og Linor (lawn green): Final=972.3, Time=94.1, Moves(38)=0.2, Pins(5)=500.0, Dist=378.0, Win Bonus=0.0
+[2026-05-08 10:15:07] SCORE AlphaZeroClue (gray0): Final=765.0, Time=37.0, Moves(34)=0.0, Pins(4)=400.0, Dist=328.0, Win Bonus=0.0
+[2026-05-08 10:15:07] MOVE 73: Erlend Og Linor (lawn green) 69->86 [0.01ms]
+[2026-05-08 10:15:07] SCORE Erlend Og Linor (lawn green): Final=1080.2, Time=93.9, Moves(39)=0.3, Pins(6)=600.0, Dist=386.0, Win Bonus=0.0
+[2026-05-08 10:15:07] SCORE AlphaZeroClue (gray0): Final=765.0, Time=37.0, Moves(34)=0.0, Pins(4)=400.0, Dist=328.0, Win Bonus=0.0
+[2026-05-08 10:15:09] MOVE 74: AlphaZeroClue (gray0) 53->43 [0.01ms]
+[2026-05-08 10:15:09] SCORE Erlend Og Linor (lawn green): Final=1080.2, Time=93.9, Moves(39)=0.3, Pins(6)=600.0, Dist=386.0, Win Bonus=0.0
+[2026-05-08 10:15:09] SCORE AlphaZeroClue (gray0): Final=765.0, Time=35.0, Moves(35)=0.0, Pins(4)=400.0, Dist=330.0, Win Bonus=0.0
+[2026-05-08 10:15:10] MOVE 75: Erlend Og Linor (lawn green) 67->88 [0.02ms]
+[2026-05-08 10:15:10] SCORE Erlend Og Linor (lawn green): Final=1184.2, Time=93.7, Moves(40)=0.5, Pins(7)=700.0, Dist=390.0, Win Bonus=0.0
+[2026-05-08 10:15:10] SCORE AlphaZeroClue (gray0): Final=765.0, Time=35.0, Moves(35)=0.0, Pins(4)=400.0, Dist=330.0, Win Bonus=0.0
+[2026-05-08 10:15:11] MOVE 76: AlphaZeroClue (gray0) 102->104 [0.01ms]
+[2026-05-08 10:15:11] SCORE Erlend Og Linor (lawn green): Final=1184.2, Time=93.7, Moves(40)=0.5, Pins(7)=700.0, Dist=390.0, Win Bonus=0.0
+[2026-05-08 10:15:11] SCORE AlphaZeroClue (gray0): Final=767.2, Time=33.1, Moves(36)=0.1, Pins(4)=400.0, Dist=334.0, Win Bonus=0.0
+[2026-05-08 10:15:12] MOVE 77: Erlend Og Linor (lawn green) 79->78 [0.01ms]
+[2026-05-08 10:15:12] SCORE Erlend Og Linor (lawn green): Final=1186.2, Time=93.6, Moves(41)=0.6, Pins(7)=700.0, Dist=392.0, Win Bonus=0.0
+[2026-05-08 10:15:12] SCORE AlphaZeroClue (gray0): Final=767.2, Time=33.1, Moves(36)=0.1, Pins(4)=400.0, Dist=334.0, Win Bonus=0.0
+[2026-05-08 10:15:13] MOVE 78: AlphaZeroClue (gray0) 20->21 [0.01ms]
+[2026-05-08 10:15:13] SCORE Erlend Og Linor (lawn green): Final=1186.2, Time=93.6, Moves(41)=0.6, Pins(7)=700.0, Dist=392.0, Win Bonus=0.0
+[2026-05-08 10:15:13] SCORE AlphaZeroClue (gray0): Final=765.4, Time=31.3, Moves(37)=0.1, Pins(4)=400.0, Dist=334.0, Win Bonus=0.0
+[2026-05-08 10:15:13] MOVE 79: Erlend Og Linor (lawn green) 77->75 [0.00ms]
+[2026-05-08 10:15:13] SCORE Erlend Og Linor (lawn green): Final=1288.2, Time=93.5, Moves(42)=0.8, Pins(8)=800.0, Dist=394.0, Win Bonus=0.0
+[2026-05-08 10:15:13] SCORE AlphaZeroClue (gray0): Final=765.4, Time=31.3, Moves(37)=0.1, Pins(4)=400.0, Dist=334.0, Win Bonus=0.0
+[2026-05-08 10:15:15] MOVE 80: AlphaZeroClue (gray0) 21->22 [0.01ms]
+[2026-05-08 10:15:15] SCORE Erlend Og Linor (lawn green): Final=1288.2, Time=93.5, Moves(42)=0.8, Pins(8)=800.0, Dist=394.0, Win Bonus=0.0
+[2026-05-08 10:15:15] SCORE AlphaZeroClue (gray0): Final=763.7, Time=29.5, Moves(38)=0.2, Pins(4)=400.0, Dist=334.0, Win Bonus=0.0
+[2026-05-08 10:15:15] MOVE 81: Erlend Og Linor (lawn green) 78->77 [0.01ms]
+[2026-05-08 10:15:15] SCORE Erlend Og Linor (lawn green): Final=1290.3, Time=93.4, Moves(43)=0.9, Pins(8)=800.0, Dist=396.0, Win Bonus=0.0
+[2026-05-08 10:15:15] SCORE AlphaZeroClue (gray0): Final=763.7, Time=29.5, Moves(38)=0.2, Pins(4)=400.0, Dist=334.0, Win Bonus=0.0
+[2026-05-08 10:15:17] MOVE 82: AlphaZeroClue (gray0) 43->20 [0.01ms]
+[2026-05-08 10:15:17] SCORE Erlend Og Linor (lawn green): Final=1290.3, Time=93.4, Moves(43)=0.9, Pins(8)=800.0, Dist=396.0, Win Bonus=0.0
+[2026-05-08 10:15:17] SCORE AlphaZeroClue (gray0): Final=863.9, Time=27.6, Moves(39)=0.3, Pins(5)=500.0, Dist=336.0, Win Bonus=0.0
+[2026-05-08 10:15:17] MOVE 83: Erlend Og Linor (lawn green) 77->98 [0.01ms]
+[2026-05-08 10:15:17] SCORE Erlend Og Linor (lawn green): Final=1392.2, Time=93.3, Moves(44)=1.0, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:15:17] SCORE AlphaZeroClue (gray0): Final=863.9, Time=27.6, Moves(39)=0.3, Pins(5)=500.0, Dist=336.0, Win Bonus=0.0
+[2026-05-08 10:15:19] MOVE 84: AlphaZeroClue (gray0) 103->105 [0.01ms]
+[2026-05-08 10:15:19] SCORE Erlend Og Linor (lawn green): Final=1392.2, Time=93.3, Moves(44)=1.0, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:15:19] SCORE AlphaZeroClue (gray0): Final=866.2, Time=25.7, Moves(40)=0.5, Pins(5)=500.0, Dist=340.0, Win Bonus=0.0
+[2026-05-08 10:15:19] MOVE 85: Erlend Og Linor (lawn green) 88->100 [0.01ms]
+[2026-05-08 10:15:19] SCORE Erlend Og Linor (lawn green): Final=1392.2, Time=93.2, Moves(45)=1.0, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:15:19] SCORE AlphaZeroClue (gray0): Final=866.2, Time=25.7, Moves(40)=0.5, Pins(5)=500.0, Dist=340.0, Win Bonus=0.0
+[2026-05-08 10:15:21] MOVE 86: AlphaZeroClue (gray0) 104->106 [0.01ms]
+[2026-05-08 10:15:21] SCORE Erlend Og Linor (lawn green): Final=1392.2, Time=93.2, Moves(45)=1.0, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:15:21] SCORE AlphaZeroClue (gray0): Final=868.5, Time=23.9, Moves(41)=0.6, Pins(5)=500.0, Dist=344.0, Win Bonus=0.0
+[2026-05-08 10:15:21] MOVE 87: Erlend Og Linor (lawn green) 89->88 [0.01ms]
+[2026-05-08 10:15:21] SCORE Erlend Og Linor (lawn green): Final=2494.0, Time=93.0, Moves(46)=1.0, Pins(10)=1000.0, Dist=400.0, Win Bonus=1000.0
+[2026-05-08 10:15:21] SCORE AlphaZeroClue (gray0): Final=868.5, Time=23.9, Moves(41)=0.6, Pins(5)=500.0, Dist=344.0, Win Bonus=0.0

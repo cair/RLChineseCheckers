@@ -30,7 +30,7 @@ def generate_games(players, num_rounds=3):
     
     return rounds
 
-player_list = ["CybSec","Dandori", "Deepseekers", "Erlend Og Linor", "Group 7", "Group 16", "group 99", "Gruppe 2", "Gruppe 10", "Gruppe 67", "Gruppe 69", "Hexagram", "jat", "LosTurcos", "PCS", "RL", "S&S", "SP", "The bandits", "Tiefes Verstarkendes Lernen"]
+player_list = ["CybSec", "Group7", "Gruppe 2","AlphaZeroClue","Apollo", "Gruppe 1","Robert", "Tiefes Verstarkendes Lernen", "Gruppe 67", "The bandits", "jat", "S&S", "Group 99", "Erlend Og Linor", "RL"]
 
 r = generate_games(player_list)
 

@@ -1,0 +1,1682 @@
+[2026-05-08 10:09:38] GAME CREATED
+[2026-05-08 10:09:38] PLAYER JOINED: Robert as lawn green
+[2026-05-08 10:09:39] PLAYER JOINED: jat as gray0
+[2026-05-08 10:09:45] PLAYER JOINED: Group 99 as yellow
+[2026-05-08 10:09:46] PLAYER JOINED: The bandits as purple
+[2026-05-08 10:09:52] PLAYER JOINED: CybSec as red
+[2026-05-08 10:09:52] PLAYER START: Robert (lawn green)
+[2026-05-08 10:09:52] PLAYER START: jat (gray0)
+[2026-05-08 10:09:52] PLAYER START: Group 99 (yellow)
+[2026-05-08 10:09:52] PLAYER START: The bandits (purple)
+[2026-05-08 10:09:52] PLAYER START: CybSec (red)
+[2026-05-08 10:09:52] GAME START — turn order ['lawn green', 'yellow', 'gray0', 'purple', 'red']
+[2026-05-08 10:09:52] PLAYER START: Robert (lawn green)
+[2026-05-08 10:09:52] PLAYER START: jat (gray0)
+[2026-05-08 10:09:52] PLAYER START: Group 99 (yellow)
+[2026-05-08 10:09:52] PLAYER START: The bandits (purple)
+[2026-05-08 10:09:52] PLAYER START: CybSec (red)
+[2026-05-08 10:09:52] PLAYER START: Robert (lawn green)
+[2026-05-08 10:09:52] PLAYER START: jat (gray0)
+[2026-05-08 10:09:52] PLAYER START: Group 99 (yellow)
+[2026-05-08 10:09:52] PLAYER START: The bandits (purple)
+[2026-05-08 10:09:52] PLAYER START: CybSec (red)
+[2026-05-08 10:09:53] PLAYER START: Robert (lawn green)
+[2026-05-08 10:09:53] PLAYER START: jat (gray0)
+[2026-05-08 10:09:53] PLAYER START: Group 99 (yellow)
+[2026-05-08 10:09:53] PLAYER START: The bandits (purple)
+[2026-05-08 10:09:53] PLAYER START: CybSec (red)
+[2026-05-08 10:09:53] MOVE 1: Robert (lawn green) 20->18 [0.01ms]
+[2026-05-08 10:09:53] SCORE Robert (lawn green): Final=283.1, Time=99.1, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 10:09:53] SCORE jat (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:09:53] SCORE Group 99 (yellow): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:09:53] SCORE The bandits (purple): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:09:53] SCORE CybSec (red): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:09:53] PLAYER START: Robert (lawn green)
+[2026-05-08 10:09:53] PLAYER START: jat (gray0)
+[2026-05-08 10:09:53] PLAYER START: Group 99 (yellow)
+[2026-05-08 10:09:53] PLAYER START: The bandits (purple)
+[2026-05-08 10:09:53] PLAYER START: CybSec (red)
+[2026-05-08 10:09:55] MOVE 2: Group 99 (yellow) 12->14 [0.01ms]
+[2026-05-08 10:09:55] SCORE Robert (lawn green): Final=283.1, Time=99.1, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 10:09:55] SCORE jat (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:09:55] SCORE Group 99 (yellow): Final=282.1, Time=98.1, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 10:09:55] SCORE The bandits (purple): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:09:55] SCORE CybSec (red): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:09:55] MOVE 3: jat (gray0) 75->77 [0.00ms]
+[2026-05-08 10:09:55] SCORE Robert (lawn green): Final=283.1, Time=99.1, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 10:09:55] SCORE jat (gray0): Final=283.9, Time=99.9, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 10:09:55] SCORE Group 99 (yellow): Final=282.1, Time=98.1, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 10:09:55] SCORE The bandits (purple): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:09:55] SCORE CybSec (red): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:09:55] MOVE 4: The bandits (purple) 108->83 [0.00ms]
+[2026-05-08 10:09:55] SCORE Robert (lawn green): Final=283.1, Time=99.1, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 10:09:55] SCORE jat (gray0): Final=283.9, Time=99.9, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 10:09:55] SCORE Group 99 (yellow): Final=282.1, Time=98.1, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 10:09:55] SCORE The bandits (purple): Final=283.9, Time=99.9, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 10:09:55] SCORE CybSec (red): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:09:55] MOVE 5: CybSec (red) 117->106 [0.01ms]
+[2026-05-08 10:09:55] SCORE Robert (lawn green): Final=283.1, Time=99.1, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 10:09:55] SCORE jat (gray0): Final=283.9, Time=99.9, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 10:09:55] SCORE Group 99 (yellow): Final=282.1, Time=98.1, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 10:09:55] SCORE The bandits (purple): Final=283.9, Time=99.9, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 10:09:55] SCORE CybSec (red): Final=283.6, Time=99.6, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 10:09:56] MOVE 6: Robert (lawn green) 18->17 [0.01ms]
+[2026-05-08 10:09:56] SCORE Robert (lawn green): Final=284.6, Time=98.6, Moves(2)=0.0, Pins(0)=0.0, Dist=186.0, Win Bonus=0.0
+[2026-05-08 10:09:56] SCORE jat (gray0): Final=283.9, Time=99.9, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 10:09:56] SCORE Group 99 (yellow): Final=282.1, Time=98.1, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 10:09:56] SCORE The bandits (purple): Final=283.9, Time=99.9, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 10:09:56] SCORE CybSec (red): Final=283.6, Time=99.6, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 10:09:57] MOVE 7: Group 99 (yellow) 10->37 [0.01ms]
+[2026-05-08 10:09:57] SCORE Robert (lawn green): Final=284.6, Time=98.6, Moves(2)=0.0, Pins(0)=0.0, Dist=186.0, Win Bonus=0.0
+[2026-05-08 10:09:57] SCORE jat (gray0): Final=283.9, Time=99.9, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 10:09:57] SCORE Group 99 (yellow): Final=288.5, Time=96.5, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:09:57] SCORE The bandits (purple): Final=283.9, Time=99.9, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 10:09:57] SCORE CybSec (red): Final=283.6, Time=99.6, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 10:09:57] MOVE 8: jat (gray0) 77->67 [0.01ms]
+[2026-05-08 10:09:57] SCORE Robert (lawn green): Final=284.6, Time=98.6, Moves(2)=0.0, Pins(0)=0.0, Dist=186.0, Win Bonus=0.0
+[2026-05-08 10:09:57] SCORE jat (gray0): Final=285.8, Time=99.8, Moves(2)=0.0, Pins(0)=0.0, Dist=186.0, Win Bonus=0.0
+[2026-05-08 10:09:57] SCORE Group 99 (yellow): Final=288.5, Time=96.5, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:09:57] SCORE The bandits (purple): Final=283.9, Time=99.9, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 10:09:57] SCORE CybSec (red): Final=283.6, Time=99.6, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 10:09:58] MOVE 9: The bandits (purple) 96->94 [0.01ms]
+[2026-05-08 10:09:58] SCORE Robert (lawn green): Final=284.6, Time=98.6, Moves(2)=0.0, Pins(0)=0.0, Dist=186.0, Win Bonus=0.0
+[2026-05-08 10:09:58] SCORE jat (gray0): Final=285.8, Time=99.8, Moves(2)=0.0, Pins(0)=0.0, Dist=186.0, Win Bonus=0.0
+[2026-05-08 10:09:58] SCORE Group 99 (yellow): Final=288.5, Time=96.5, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:09:58] SCORE The bandits (purple): Final=287.8, Time=99.8, Moves(2)=0.0, Pins(0)=0.0, Dist=188.0, Win Bonus=0.0
+[2026-05-08 10:09:58] SCORE CybSec (red): Final=283.6, Time=99.6, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 10:09:58] MOVE 10: CybSec (red) 120->104 [0.01ms]
+[2026-05-08 10:09:58] SCORE Robert (lawn green): Final=284.6, Time=98.6, Moves(2)=0.0, Pins(0)=0.0, Dist=186.0, Win Bonus=0.0
+[2026-05-08 10:09:58] SCORE jat (gray0): Final=285.8, Time=99.8, Moves(2)=0.0, Pins(0)=0.0, Dist=186.0, Win Bonus=0.0
+[2026-05-08 10:09:58] SCORE Group 99 (yellow): Final=288.5, Time=96.5, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:09:58] SCORE The bandits (purple): Final=287.8, Time=99.8, Moves(2)=0.0, Pins(0)=0.0, Dist=188.0, Win Bonus=0.0
+[2026-05-08 10:09:58] SCORE CybSec (red): Final=291.2, Time=99.2, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:09:59] MOVE 11: Robert (lawn green) 22->16 [0.01ms]
+[2026-05-08 10:09:59] SCORE Robert (lawn green): Final=296.0, Time=98.0, Moves(3)=0.0, Pins(0)=0.0, Dist=198.0, Win Bonus=0.0
+[2026-05-08 10:09:59] SCORE jat (gray0): Final=285.8, Time=99.8, Moves(2)=0.0, Pins(0)=0.0, Dist=186.0, Win Bonus=0.0
+[2026-05-08 10:09:59] SCORE Group 99 (yellow): Final=288.5, Time=96.5, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:09:59] SCORE The bandits (purple): Final=287.8, Time=99.8, Moves(2)=0.0, Pins(0)=0.0, Dist=188.0, Win Bonus=0.0
+[2026-05-08 10:09:59] SCORE CybSec (red): Final=291.2, Time=99.2, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:10:00] MOVE 12: Group 99 (yellow) 35->58 [0.01ms]
+[2026-05-08 10:10:00] SCORE Robert (lawn green): Final=296.0, Time=98.0, Moves(3)=0.0, Pins(0)=0.0, Dist=198.0, Win Bonus=0.0
+[2026-05-08 10:10:00] SCORE jat (gray0): Final=285.8, Time=99.8, Moves(2)=0.0, Pins(0)=0.0, Dist=186.0, Win Bonus=0.0
+[2026-05-08 10:10:00] SCORE Group 99 (yellow): Final=294.9, Time=94.9, Moves(3)=0.0, Pins(0)=0.0, Dist=200.0, Win Bonus=0.0
+[2026-05-08 10:10:00] SCORE The bandits (purple): Final=287.8, Time=99.8, Moves(2)=0.0, Pins(0)=0.0, Dist=188.0, Win Bonus=0.0
+[2026-05-08 10:10:00] SCORE CybSec (red): Final=291.2, Time=99.2, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:10:00] MOVE 13: jat (gray0) 67->49 [0.01ms]
+[2026-05-08 10:10:00] SCORE Robert (lawn green): Final=296.0, Time=98.0, Moves(3)=0.0, Pins(0)=0.0, Dist=198.0, Win Bonus=0.0
+[2026-05-08 10:10:00] SCORE jat (gray0): Final=289.7, Time=99.7, Moves(3)=0.0, Pins(0)=0.0, Dist=190.0, Win Bonus=0.0
+[2026-05-08 10:10:00] SCORE Group 99 (yellow): Final=294.9, Time=94.9, Moves(3)=0.0, Pins(0)=0.0, Dist=200.0, Win Bonus=0.0
+[2026-05-08 10:10:00] SCORE The bandits (purple): Final=287.8, Time=99.8, Moves(2)=0.0, Pins(0)=0.0, Dist=188.0, Win Bonus=0.0
+[2026-05-08 10:10:00] SCORE CybSec (red): Final=291.2, Time=99.2, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:10:00] MOVE 14: The bandits (purple) 85->64 [0.00ms]
+[2026-05-08 10:10:00] SCORE Robert (lawn green): Final=296.0, Time=98.0, Moves(3)=0.0, Pins(0)=0.0, Dist=198.0, Win Bonus=0.0
+[2026-05-08 10:10:00] SCORE jat (gray0): Final=289.7, Time=99.7, Moves(3)=0.0, Pins(0)=0.0, Dist=190.0, Win Bonus=0.0
+[2026-05-08 10:10:00] SCORE Group 99 (yellow): Final=294.9, Time=94.9, Moves(3)=0.0, Pins(0)=0.0, Dist=200.0, Win Bonus=0.0
+[2026-05-08 10:10:00] SCORE The bandits (purple): Final=291.7, Time=99.7, Moves(3)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:10:00] SCORE CybSec (red): Final=291.2, Time=99.2, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:10:01] MOVE 15: CybSec (red) 115->102 [0.01ms]
+[2026-05-08 10:10:01] SCORE Robert (lawn green): Final=296.0, Time=98.0, Moves(3)=0.0, Pins(0)=0.0, Dist=198.0, Win Bonus=0.0
+[2026-05-08 10:10:01] SCORE jat (gray0): Final=289.7, Time=99.7, Moves(3)=0.0, Pins(0)=0.0, Dist=190.0, Win Bonus=0.0
+[2026-05-08 10:10:01] SCORE Group 99 (yellow): Final=294.9, Time=94.9, Moves(3)=0.0, Pins(0)=0.0, Dist=200.0, Win Bonus=0.0
+[2026-05-08 10:10:01] SCORE The bandits (purple): Final=291.7, Time=99.7, Moves(3)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:10:01] SCORE CybSec (red): Final=294.7, Time=98.7, Moves(3)=0.0, Pins(0)=0.0, Dist=196.0, Win Bonus=0.0
+[2026-05-08 10:10:02] MOVE 16: Robert (lawn green) 16->28 [0.00ms]
+[2026-05-08 10:10:02] SCORE Robert (lawn green): Final=297.4, Time=97.4, Moves(4)=0.0, Pins(0)=0.0, Dist=200.0, Win Bonus=0.0
+[2026-05-08 10:10:02] SCORE jat (gray0): Final=289.7, Time=99.7, Moves(3)=0.0, Pins(0)=0.0, Dist=190.0, Win Bonus=0.0
+[2026-05-08 10:10:02] SCORE Group 99 (yellow): Final=294.9, Time=94.9, Moves(3)=0.0, Pins(0)=0.0, Dist=200.0, Win Bonus=0.0
+[2026-05-08 10:10:02] SCORE The bandits (purple): Final=291.7, Time=99.7, Moves(3)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:10:02] SCORE CybSec (red): Final=294.7, Time=98.7, Moves(3)=0.0, Pins(0)=0.0, Dist=196.0, Win Bonus=0.0
+[2026-05-08 10:10:03] MOVE 17: Group 99 (yellow) 58->43 [0.01ms]
+[2026-05-08 10:10:03] SCORE Robert (lawn green): Final=297.4, Time=97.4, Moves(4)=0.0, Pins(0)=0.0, Dist=200.0, Win Bonus=0.0
+[2026-05-08 10:10:03] SCORE jat (gray0): Final=289.7, Time=99.7, Moves(3)=0.0, Pins(0)=0.0, Dist=190.0, Win Bonus=0.0
+[2026-05-08 10:10:03] SCORE Group 99 (yellow): Final=301.4, Time=93.4, Moves(4)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-08 10:10:03] SCORE The bandits (purple): Final=291.7, Time=99.7, Moves(3)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:10:03] SCORE CybSec (red): Final=294.7, Time=98.7, Moves(3)=0.0, Pins(0)=0.0, Dist=196.0, Win Bonus=0.0
+[2026-05-08 10:10:03] MOVE 18: jat (gray0) 49->39 [0.00ms]
+[2026-05-08 10:10:03] SCORE Robert (lawn green): Final=297.4, Time=97.4, Moves(4)=0.0, Pins(0)=0.0, Dist=200.0, Win Bonus=0.0
+[2026-05-08 10:10:03] SCORE jat (gray0): Final=291.5, Time=99.5, Moves(4)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:10:03] SCORE Group 99 (yellow): Final=301.4, Time=93.4, Moves(4)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-08 10:10:03] SCORE The bandits (purple): Final=291.7, Time=99.7, Moves(3)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:10:03] SCORE CybSec (red): Final=294.7, Time=98.7, Moves(3)=0.0, Pins(0)=0.0, Dist=196.0, Win Bonus=0.0
+[2026-05-08 10:10:03] MOVE 19: The bandits (purple) 107->82 [0.00ms]
+[2026-05-08 10:10:03] SCORE Robert (lawn green): Final=297.4, Time=97.4, Moves(4)=0.0, Pins(0)=0.0, Dist=200.0, Win Bonus=0.0
+[2026-05-08 10:10:03] SCORE jat (gray0): Final=291.5, Time=99.5, Moves(4)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:10:03] SCORE Group 99 (yellow): Final=301.4, Time=93.4, Moves(4)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-08 10:10:03] SCORE The bandits (purple): Final=295.6, Time=99.6, Moves(4)=0.0, Pins(0)=0.0, Dist=196.0, Win Bonus=0.0
+[2026-05-08 10:10:03] SCORE CybSec (red): Final=294.7, Time=98.7, Moves(3)=0.0, Pins(0)=0.0, Dist=196.0, Win Bonus=0.0
+[2026-05-08 10:10:04] MOVE 20: CybSec (red) 113->91 [0.01ms]
+[2026-05-08 10:10:04] SCORE Robert (lawn green): Final=297.4, Time=97.4, Moves(4)=0.0, Pins(0)=0.0, Dist=200.0, Win Bonus=0.0
+[2026-05-08 10:10:04] SCORE jat (gray0): Final=291.5, Time=99.5, Moves(4)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:10:04] SCORE Group 99 (yellow): Final=301.4, Time=93.4, Moves(4)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-08 10:10:04] SCORE The bandits (purple): Final=295.6, Time=99.6, Moves(4)=0.0, Pins(0)=0.0, Dist=196.0, Win Bonus=0.0
+[2026-05-08 10:10:04] SCORE CybSec (red): Final=298.3, Time=98.3, Moves(4)=0.0, Pins(0)=0.0, Dist=200.0, Win Bonus=0.0
+[2026-05-08 10:10:04] MOVE 21: Robert (lawn green) 45->18 [0.01ms]
+[2026-05-08 10:10:04] SCORE Robert (lawn green): Final=300.7, Time=96.7, Moves(5)=0.0, Pins(0)=0.0, Dist=204.0, Win Bonus=0.0
+[2026-05-08 10:10:04] SCORE jat (gray0): Final=291.5, Time=99.5, Moves(4)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:10:04] SCORE Group 99 (yellow): Final=301.4, Time=93.4, Moves(4)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-08 10:10:04] SCORE The bandits (purple): Final=295.6, Time=99.6, Moves(4)=0.0, Pins(0)=0.0, Dist=196.0, Win Bonus=0.0
+[2026-05-08 10:10:04] SCORE CybSec (red): Final=298.3, Time=98.3, Moves(4)=0.0, Pins(0)=0.0, Dist=200.0, Win Bonus=0.0
+[2026-05-08 10:10:06] MOVE 22: Group 99 (yellow) 36->40 [0.01ms]
+[2026-05-08 10:10:06] SCORE Robert (lawn green): Final=300.7, Time=96.7, Moves(5)=0.0, Pins(0)=0.0, Dist=204.0, Win Bonus=0.0
+[2026-05-08 10:10:06] SCORE jat (gray0): Final=291.5, Time=99.5, Moves(4)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 10:10:06] SCORE Group 99 (yellow): Final=307.8, Time=91.8, Moves(5)=0.0, Pins(0)=0.0, Dist=216.0, Win Bonus=0.0
+[2026-05-08 10:10:06] SCORE The bandits (purple): Final=295.6, Time=99.6, Moves(4)=0.0, Pins(0)=0.0, Dist=196.0, Win Bonus=0.0
+[2026-05-08 10:10:06] SCORE CybSec (red): Final=298.3, Time=98.3, Moves(4)=0.0, Pins(0)=0.0, Dist=200.0, Win Bonus=0.0
+[2026-05-08 10:10:07] MOVE 23: jat (gray0) 39->41 [0.01ms]
+[2026-05-08 10:10:07] SCORE Robert (lawn green): Final=300.7, Time=96.7, Moves(5)=0.0, Pins(0)=0.0, Dist=204.0, Win Bonus=0.0
+[2026-05-08 10:10:07] SCORE jat (gray0): Final=294.9, Time=98.9, Moves(5)=0.0, Pins(0)=0.0, Dist=196.0, Win Bonus=0.0
+[2026-05-08 10:10:07] SCORE Group 99 (yellow): Final=307.8, Time=91.8, Moves(5)=0.0, Pins(0)=0.0, Dist=216.0, Win Bonus=0.0
+[2026-05-08 10:10:07] SCORE The bandits (purple): Final=295.6, Time=99.6, Moves(4)=0.0, Pins(0)=0.0, Dist=196.0, Win Bonus=0.0
+[2026-05-08 10:10:07] SCORE CybSec (red): Final=298.3, Time=98.3, Moves(4)=0.0, Pins(0)=0.0, Dist=200.0, Win Bonus=0.0
+[2026-05-08 10:10:07] MOVE 24: The bandits (purple) 84->80 [0.01ms]
+[2026-05-08 10:10:07] SCORE Robert (lawn green): Final=300.7, Time=96.7, Moves(5)=0.0, Pins(0)=0.0, Dist=204.0, Win Bonus=0.0
+[2026-05-08 10:10:07] SCORE jat (gray0): Final=294.9, Time=98.9, Moves(5)=0.0, Pins(0)=0.0, Dist=196.0, Win Bonus=0.0
+[2026-05-08 10:10:07] SCORE Group 99 (yellow): Final=307.8, Time=91.8, Moves(5)=0.0, Pins(0)=0.0, Dist=216.0, Win Bonus=0.0
+[2026-05-08 10:10:07] SCORE The bandits (purple): Final=303.2, Time=99.2, Moves(5)=0.0, Pins(0)=0.0, Dist=204.0, Win Bonus=0.0
+[2026-05-08 10:10:07] SCORE CybSec (red): Final=298.3, Time=98.3, Moves(4)=0.0, Pins(0)=0.0, Dist=200.0, Win Bonus=0.0
+[2026-05-08 10:10:08] MOVE 25: CybSec (red) 112->69 [0.01ms]
+[2026-05-08 10:10:08] SCORE Robert (lawn green): Final=300.7, Time=96.7, Moves(5)=0.0, Pins(0)=0.0, Dist=204.0, Win Bonus=0.0
+[2026-05-08 10:10:08] SCORE jat (gray0): Final=294.9, Time=98.9, Moves(5)=0.0, Pins(0)=0.0, Dist=196.0, Win Bonus=0.0
+[2026-05-08 10:10:08] SCORE Group 99 (yellow): Final=307.8, Time=91.8, Moves(5)=0.0, Pins(0)=0.0, Dist=216.0, Win Bonus=0.0
+[2026-05-08 10:10:08] SCORE The bandits (purple): Final=303.2, Time=99.2, Moves(5)=0.0, Pins(0)=0.0, Dist=204.0, Win Bonus=0.0
+[2026-05-08 10:10:08] SCORE CybSec (red): Final=305.7, Time=97.7, Moves(5)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-08 10:10:08] MOVE 26: Robert (lawn green) 33->50 [0.01ms]
+[2026-05-08 10:10:08] SCORE Robert (lawn green): Final=312.1, Time=96.1, Moves(6)=0.0, Pins(0)=0.0, Dist=216.0, Win Bonus=0.0
+[2026-05-08 10:10:08] SCORE jat (gray0): Final=294.9, Time=98.9, Moves(5)=0.0, Pins(0)=0.0, Dist=196.0, Win Bonus=0.0
+[2026-05-08 10:10:08] SCORE Group 99 (yellow): Final=307.8, Time=91.8, Moves(5)=0.0, Pins(0)=0.0, Dist=216.0, Win Bonus=0.0
+[2026-05-08 10:10:08] SCORE The bandits (purple): Final=303.2, Time=99.2, Moves(5)=0.0, Pins(0)=0.0, Dist=204.0, Win Bonus=0.0
+[2026-05-08 10:10:08] SCORE CybSec (red): Final=305.7, Time=97.7, Moves(5)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-08 10:10:10] MOVE 27: Group 99 (yellow) 13->38 [0.01ms]
+[2026-05-08 10:10:10] SCORE Robert (lawn green): Final=312.1, Time=96.1, Moves(6)=0.0, Pins(0)=0.0, Dist=216.0, Win Bonus=0.0
+[2026-05-08 10:10:10] SCORE jat (gray0): Final=294.9, Time=98.9, Moves(5)=0.0, Pins(0)=0.0, Dist=196.0, Win Bonus=0.0
+[2026-05-08 10:10:10] SCORE Group 99 (yellow): Final=310.1, Time=90.1, Moves(6)=0.0, Pins(0)=0.0, Dist=220.0, Win Bonus=0.0
+[2026-05-08 10:10:10] SCORE The bandits (purple): Final=303.2, Time=99.2, Moves(5)=0.0, Pins(0)=0.0, Dist=204.0, Win Bonus=0.0
+[2026-05-08 10:10:10] SCORE CybSec (red): Final=305.7, Time=97.7, Moves(5)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-08 10:10:10] MOVE 28: jat (gray0) 41->42 [0.01ms]
+[2026-05-08 10:10:10] SCORE Robert (lawn green): Final=312.1, Time=96.1, Moves(6)=0.0, Pins(0)=0.0, Dist=216.0, Win Bonus=0.0
+[2026-05-08 10:10:10] SCORE jat (gray0): Final=296.6, Time=98.6, Moves(6)=0.0, Pins(0)=0.0, Dist=198.0, Win Bonus=0.0
+[2026-05-08 10:10:10] SCORE Group 99 (yellow): Final=310.1, Time=90.1, Moves(6)=0.0, Pins(0)=0.0, Dist=220.0, Win Bonus=0.0
+[2026-05-08 10:10:10] SCORE The bandits (purple): Final=303.2, Time=99.2, Moves(5)=0.0, Pins(0)=0.0, Dist=204.0, Win Bonus=0.0
+[2026-05-08 10:10:10] SCORE CybSec (red): Final=305.7, Time=97.7, Moves(5)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-08 10:10:11] MOVE 29: The bandits (purple) 95->72 [0.00ms]
+[2026-05-08 10:10:11] SCORE Robert (lawn green): Final=312.1, Time=96.1, Moves(6)=0.0, Pins(0)=0.0, Dist=216.0, Win Bonus=0.0
+[2026-05-08 10:10:11] SCORE jat (gray0): Final=296.6, Time=98.6, Moves(6)=0.0, Pins(0)=0.0, Dist=198.0, Win Bonus=0.0
+[2026-05-08 10:10:11] SCORE Group 99 (yellow): Final=310.1, Time=90.1, Moves(6)=0.0, Pins(0)=0.0, Dist=220.0, Win Bonus=0.0
+[2026-05-08 10:10:11] SCORE The bandits (purple): Final=307.0, Time=99.0, Moves(6)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-08 10:10:11] SCORE CybSec (red): Final=305.7, Time=97.7, Moves(5)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-08 10:10:11] MOVE 30: CybSec (red) 104->16 [0.01ms]
+[2026-05-08 10:10:11] SCORE Robert (lawn green): Final=312.1, Time=96.1, Moves(6)=0.0, Pins(0)=0.0, Dist=216.0, Win Bonus=0.0
+[2026-05-08 10:10:11] SCORE jat (gray0): Final=296.6, Time=98.6, Moves(6)=0.0, Pins(0)=0.0, Dist=198.0, Win Bonus=0.0
+[2026-05-08 10:10:11] SCORE Group 99 (yellow): Final=310.1, Time=90.1, Moves(6)=0.0, Pins(0)=0.0, Dist=220.0, Win Bonus=0.0
+[2026-05-08 10:10:11] SCORE The bandits (purple): Final=307.0, Time=99.0, Moves(6)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-08 10:10:11] SCORE CybSec (red): Final=321.2, Time=97.2, Moves(6)=0.0, Pins(0)=0.0, Dist=224.0, Win Bonus=0.0
+[2026-05-08 10:10:11] MOVE 31: Robert (lawn green) 17->36 [0.01ms]
+[2026-05-08 10:10:11] SCORE Robert (lawn green): Final=321.6, Time=95.6, Moves(7)=0.0, Pins(0)=0.0, Dist=226.0, Win Bonus=0.0
+[2026-05-08 10:10:11] SCORE jat (gray0): Final=296.6, Time=98.6, Moves(6)=0.0, Pins(0)=0.0, Dist=198.0, Win Bonus=0.0
+[2026-05-08 10:10:11] SCORE Group 99 (yellow): Final=310.1, Time=90.1, Moves(6)=0.0, Pins(0)=0.0, Dist=220.0, Win Bonus=0.0
+[2026-05-08 10:10:11] SCORE The bandits (purple): Final=307.0, Time=99.0, Moves(6)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-08 10:10:11] SCORE CybSec (red): Final=321.2, Time=97.2, Moves(6)=0.0, Pins(0)=0.0, Dist=224.0, Win Bonus=0.0
+[2026-05-08 10:10:13] MOVE 32: Group 99 (yellow) 37->81 [0.01ms]
+[2026-05-08 10:10:13] SCORE Robert (lawn green): Final=321.6, Time=95.6, Moves(7)=0.0, Pins(0)=0.0, Dist=226.0, Win Bonus=0.0
+[2026-05-08 10:10:13] SCORE jat (gray0): Final=296.6, Time=98.6, Moves(6)=0.0, Pins(0)=0.0, Dist=198.0, Win Bonus=0.0
+[2026-05-08 10:10:13] SCORE Group 99 (yellow): Final=320.6, Time=88.6, Moves(7)=0.0, Pins(0)=0.0, Dist=232.0, Win Bonus=0.0
+[2026-05-08 10:10:13] SCORE The bandits (purple): Final=307.0, Time=99.0, Moves(6)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-08 10:10:13] SCORE CybSec (red): Final=321.2, Time=97.2, Moves(6)=0.0, Pins(0)=0.0, Dist=224.0, Win Bonus=0.0
+[2026-05-08 10:10:13] MOVE 33: jat (gray0) 42->31 [0.01ms]
+[2026-05-08 10:10:13] SCORE Robert (lawn green): Final=321.6, Time=95.6, Moves(7)=0.0, Pins(0)=0.0, Dist=226.0, Win Bonus=0.0
+[2026-05-08 10:10:13] SCORE jat (gray0): Final=298.3, Time=98.3, Moves(7)=0.0, Pins(0)=0.0, Dist=200.0, Win Bonus=0.0
+[2026-05-08 10:10:13] SCORE Group 99 (yellow): Final=320.6, Time=88.6, Moves(7)=0.0, Pins(0)=0.0, Dist=232.0, Win Bonus=0.0
+[2026-05-08 10:10:13] SCORE The bandits (purple): Final=307.0, Time=99.0, Moves(6)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-08 10:10:13] SCORE CybSec (red): Final=321.2, Time=97.2, Moves(6)=0.0, Pins(0)=0.0, Dist=224.0, Win Bonus=0.0
+[2026-05-08 10:10:13] MOVE 34: The bandits (purple) 74->54 [0.01ms]
+[2026-05-08 10:10:13] SCORE Robert (lawn green): Final=321.6, Time=95.6, Moves(7)=0.0, Pins(0)=0.0, Dist=226.0, Win Bonus=0.0
+[2026-05-08 10:10:13] SCORE jat (gray0): Final=298.3, Time=98.3, Moves(7)=0.0, Pins(0)=0.0, Dist=200.0, Win Bonus=0.0
+[2026-05-08 10:10:13] SCORE Group 99 (yellow): Final=320.6, Time=88.6, Moves(7)=0.0, Pins(0)=0.0, Dist=232.0, Win Bonus=0.0
+[2026-05-08 10:10:13] SCORE The bandits (purple): Final=310.9, Time=98.9, Moves(7)=0.0, Pins(0)=0.0, Dist=212.0, Win Bonus=0.0
+[2026-05-08 10:10:13] SCORE CybSec (red): Final=321.2, Time=97.2, Moves(6)=0.0, Pins(0)=0.0, Dist=224.0, Win Bonus=0.0
+[2026-05-08 10:10:14] MOVE 35: CybSec (red) 91->70 [0.01ms]
+[2026-05-08 10:10:14] SCORE Robert (lawn green): Final=321.6, Time=95.6, Moves(7)=0.0, Pins(0)=0.0, Dist=226.0, Win Bonus=0.0
+[2026-05-08 10:10:14] SCORE jat (gray0): Final=298.3, Time=98.3, Moves(7)=0.0, Pins(0)=0.0, Dist=200.0, Win Bonus=0.0
+[2026-05-08 10:10:14] SCORE Group 99 (yellow): Final=320.6, Time=88.6, Moves(7)=0.0, Pins(0)=0.0, Dist=232.0, Win Bonus=0.0
+[2026-05-08 10:10:14] SCORE The bandits (purple): Final=310.9, Time=98.9, Moves(7)=0.0, Pins(0)=0.0, Dist=212.0, Win Bonus=0.0
+[2026-05-08 10:10:14] SCORE CybSec (red): Final=324.7, Time=96.7, Moves(7)=0.0, Pins(0)=0.0, Dist=228.0, Win Bonus=0.0
+[2026-05-08 10:10:14] MOVE 36: Robert (lawn green) 55->92 [0.01ms]
+[2026-05-08 10:10:14] SCORE Robert (lawn green): Final=333.0, Time=95.0, Moves(8)=0.0, Pins(0)=0.0, Dist=238.0, Win Bonus=0.0
+[2026-05-08 10:10:14] SCORE jat (gray0): Final=298.3, Time=98.3, Moves(7)=0.0, Pins(0)=0.0, Dist=200.0, Win Bonus=0.0
+[2026-05-08 10:10:14] SCORE Group 99 (yellow): Final=320.6, Time=88.6, Moves(7)=0.0, Pins(0)=0.0, Dist=232.0, Win Bonus=0.0
+[2026-05-08 10:10:14] SCORE The bandits (purple): Final=310.9, Time=98.9, Moves(7)=0.0, Pins(0)=0.0, Dist=212.0, Win Bonus=0.0
+[2026-05-08 10:10:14] SCORE CybSec (red): Final=324.7, Time=96.7, Moves(7)=0.0, Pins(0)=0.0, Dist=228.0, Win Bonus=0.0
+[2026-05-08 10:10:16] MOVE 37: Group 99 (yellow) 24->51 [0.00ms]
+[2026-05-08 10:10:16] SCORE Robert (lawn green): Final=333.0, Time=95.0, Moves(8)=0.0, Pins(0)=0.0, Dist=238.0, Win Bonus=0.0
+[2026-05-08 10:10:16] SCORE jat (gray0): Final=298.3, Time=98.3, Moves(7)=0.0, Pins(0)=0.0, Dist=200.0, Win Bonus=0.0
+[2026-05-08 10:10:16] SCORE Group 99 (yellow): Final=331.1, Time=87.1, Moves(8)=0.0, Pins(0)=0.0, Dist=244.0, Win Bonus=0.0
+[2026-05-08 10:10:16] SCORE The bandits (purple): Final=310.9, Time=98.9, Moves(7)=0.0, Pins(0)=0.0, Dist=212.0, Win Bonus=0.0
+[2026-05-08 10:10:16] SCORE CybSec (red): Final=324.7, Time=96.7, Moves(7)=0.0, Pins(0)=0.0, Dist=228.0, Win Bonus=0.0
+[2026-05-08 10:10:16] MOVE 38: jat (gray0) 31->33 [0.00ms]
+[2026-05-08 10:10:16] SCORE Robert (lawn green): Final=333.0, Time=95.0, Moves(8)=0.0, Pins(0)=0.0, Dist=238.0, Win Bonus=0.0
+[2026-05-08 10:10:16] SCORE jat (gray0): Final=400.1, Time=98.1, Moves(8)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:10:16] SCORE Group 99 (yellow): Final=331.1, Time=87.1, Moves(8)=0.0, Pins(0)=0.0, Dist=244.0, Win Bonus=0.0
+[2026-05-08 10:10:16] SCORE The bandits (purple): Final=310.9, Time=98.9, Moves(7)=0.0, Pins(0)=0.0, Dist=212.0, Win Bonus=0.0
+[2026-05-08 10:10:16] SCORE CybSec (red): Final=324.7, Time=96.7, Moves(7)=0.0, Pins(0)=0.0, Dist=228.0, Win Bonus=0.0
+[2026-05-08 10:10:16] MOVE 39: The bandits (purple) 110->85 [0.00ms]
+[2026-05-08 10:10:16] SCORE Robert (lawn green): Final=333.0, Time=95.0, Moves(8)=0.0, Pins(0)=0.0, Dist=238.0, Win Bonus=0.0
+[2026-05-08 10:10:16] SCORE jat (gray0): Final=400.1, Time=98.1, Moves(8)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:10:16] SCORE Group 99 (yellow): Final=331.1, Time=87.1, Moves(8)=0.0, Pins(0)=0.0, Dist=244.0, Win Bonus=0.0
+[2026-05-08 10:10:16] SCORE The bandits (purple): Final=314.8, Time=98.8, Moves(8)=0.0, Pins(0)=0.0, Dist=216.0, Win Bonus=0.0
+[2026-05-08 10:10:16] SCORE CybSec (red): Final=324.7, Time=96.7, Moves(7)=0.0, Pins(0)=0.0, Dist=228.0, Win Bonus=0.0
+[2026-05-08 10:10:17] MOVE 40: CybSec (red) 111->89 [0.01ms]
+[2026-05-08 10:10:17] SCORE Robert (lawn green): Final=333.0, Time=95.0, Moves(8)=0.0, Pins(0)=0.0, Dist=238.0, Win Bonus=0.0
+[2026-05-08 10:10:17] SCORE jat (gray0): Final=400.1, Time=98.1, Moves(8)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:10:17] SCORE Group 99 (yellow): Final=331.1, Time=87.1, Moves(8)=0.0, Pins(0)=0.0, Dist=244.0, Win Bonus=0.0
+[2026-05-08 10:10:17] SCORE The bandits (purple): Final=314.8, Time=98.8, Moves(8)=0.0, Pins(0)=0.0, Dist=216.0, Win Bonus=0.0
+[2026-05-08 10:10:17] SCORE CybSec (red): Final=328.3, Time=96.3, Moves(8)=0.0, Pins(0)=0.0, Dist=232.0, Win Bonus=0.0
+[2026-05-08 10:10:17] MOVE 41: Robert (lawn green) 19->13 [0.01ms]
+[2026-05-08 10:10:17] SCORE Robert (lawn green): Final=342.2, Time=94.2, Moves(9)=0.0, Pins(0)=0.0, Dist=248.0, Win Bonus=0.0
+[2026-05-08 10:10:17] SCORE jat (gray0): Final=400.1, Time=98.1, Moves(8)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:10:17] SCORE Group 99 (yellow): Final=331.1, Time=87.1, Moves(8)=0.0, Pins(0)=0.0, Dist=244.0, Win Bonus=0.0
+[2026-05-08 10:10:17] SCORE The bandits (purple): Final=314.8, Time=98.8, Moves(8)=0.0, Pins(0)=0.0, Dist=216.0, Win Bonus=0.0
+[2026-05-08 10:10:17] SCORE CybSec (red): Final=328.3, Time=96.3, Moves(8)=0.0, Pins(0)=0.0, Dist=232.0, Win Bonus=0.0
+[2026-05-08 10:10:19] MOVE 42: Group 99 (yellow) 14->79 [0.01ms]
+[2026-05-08 10:10:19] SCORE Robert (lawn green): Final=342.2, Time=94.2, Moves(9)=0.0, Pins(0)=0.0, Dist=248.0, Win Bonus=0.0
+[2026-05-08 10:10:19] SCORE jat (gray0): Final=400.1, Time=98.1, Moves(8)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:10:19] SCORE Group 99 (yellow): Final=337.5, Time=85.5, Moves(9)=0.0, Pins(0)=0.0, Dist=252.0, Win Bonus=0.0
+[2026-05-08 10:10:19] SCORE The bandits (purple): Final=314.8, Time=98.8, Moves(8)=0.0, Pins(0)=0.0, Dist=216.0, Win Bonus=0.0
+[2026-05-08 10:10:19] SCORE CybSec (red): Final=328.3, Time=96.3, Moves(8)=0.0, Pins(0)=0.0, Dist=232.0, Win Bonus=0.0
+[2026-05-08 10:10:19] MOVE 43: jat (gray0) 33->20 [0.01ms]
+[2026-05-08 10:10:19] SCORE Robert (lawn green): Final=342.2, Time=94.2, Moves(9)=0.0, Pins(0)=0.0, Dist=248.0, Win Bonus=0.0
+[2026-05-08 10:10:19] SCORE jat (gray0): Final=399.8, Time=97.8, Moves(9)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:10:19] SCORE Group 99 (yellow): Final=337.5, Time=85.5, Moves(9)=0.0, Pins(0)=0.0, Dist=252.0, Win Bonus=0.0
+[2026-05-08 10:10:19] SCORE The bandits (purple): Final=314.8, Time=98.8, Moves(8)=0.0, Pins(0)=0.0, Dist=216.0, Win Bonus=0.0
+[2026-05-08 10:10:19] SCORE CybSec (red): Final=328.3, Time=96.3, Moves(8)=0.0, Pins(0)=0.0, Dist=232.0, Win Bonus=0.0
+[2026-05-08 10:10:19] MOVE 44: The bandits (purple) 97->74 [0.01ms]
+[2026-05-08 10:10:19] SCORE Robert (lawn green): Final=342.2, Time=94.2, Moves(9)=0.0, Pins(0)=0.0, Dist=248.0, Win Bonus=0.0
+[2026-05-08 10:10:19] SCORE jat (gray0): Final=399.8, Time=97.8, Moves(9)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:10:19] SCORE Group 99 (yellow): Final=337.5, Time=85.5, Moves(9)=0.0, Pins(0)=0.0, Dist=252.0, Win Bonus=0.0
+[2026-05-08 10:10:19] SCORE The bandits (purple): Final=318.7, Time=98.7, Moves(9)=0.0, Pins(0)=0.0, Dist=220.0, Win Bonus=0.0
+[2026-05-08 10:10:19] SCORE CybSec (red): Final=328.3, Time=96.3, Moves(8)=0.0, Pins(0)=0.0, Dist=232.0, Win Bonus=0.0
+[2026-05-08 10:10:20] MOVE 45: CybSec (red) 102->14 [0.01ms]
+[2026-05-08 10:10:20] SCORE Robert (lawn green): Final=342.2, Time=94.2, Moves(9)=0.0, Pins(0)=0.0, Dist=248.0, Win Bonus=0.0
+[2026-05-08 10:10:20] SCORE jat (gray0): Final=399.8, Time=97.8, Moves(9)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:10:20] SCORE Group 99 (yellow): Final=337.5, Time=85.5, Moves(9)=0.0, Pins(0)=0.0, Dist=252.0, Win Bonus=0.0
+[2026-05-08 10:10:20] SCORE The bandits (purple): Final=318.7, Time=98.7, Moves(9)=0.0, Pins(0)=0.0, Dist=220.0, Win Bonus=0.0
+[2026-05-08 10:10:20] SCORE CybSec (red): Final=343.7, Time=95.7, Moves(9)=0.0, Pins(0)=0.0, Dist=248.0, Win Bonus=0.0
+[2026-05-08 10:10:20] MOVE 46: Robert (lawn green) 21->15 [0.01ms]
+[2026-05-08 10:10:20] SCORE Robert (lawn green): Final=353.8, Time=93.8, Moves(10)=0.0, Pins(0)=0.0, Dist=260.0, Win Bonus=0.0
+[2026-05-08 10:10:20] SCORE jat (gray0): Final=399.8, Time=97.8, Moves(9)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:10:20] SCORE Group 99 (yellow): Final=337.5, Time=85.5, Moves(9)=0.0, Pins(0)=0.0, Dist=252.0, Win Bonus=0.0
+[2026-05-08 10:10:20] SCORE The bandits (purple): Final=318.7, Time=98.7, Moves(9)=0.0, Pins(0)=0.0, Dist=220.0, Win Bonus=0.0
+[2026-05-08 10:10:20] SCORE CybSec (red): Final=343.7, Time=95.7, Moves(9)=0.0, Pins(0)=0.0, Dist=248.0, Win Bonus=0.0
+[2026-05-08 10:10:22] MOVE 47: Group 99 (yellow) 40->61 [0.01ms]
+[2026-05-08 10:10:22] SCORE Robert (lawn green): Final=353.8, Time=93.8, Moves(10)=0.0, Pins(0)=0.0, Dist=260.0, Win Bonus=0.0
+[2026-05-08 10:10:22] SCORE jat (gray0): Final=399.8, Time=97.8, Moves(9)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:10:22] SCORE Group 99 (yellow): Final=339.9, Time=83.9, Moves(10)=0.0, Pins(0)=0.0, Dist=256.0, Win Bonus=0.0
+[2026-05-08 10:10:22] SCORE The bandits (purple): Final=318.7, Time=98.7, Moves(9)=0.0, Pins(0)=0.0, Dist=220.0, Win Bonus=0.0
+[2026-05-08 10:10:22] SCORE CybSec (red): Final=343.7, Time=95.7, Moves(9)=0.0, Pins(0)=0.0, Dist=248.0, Win Bonus=0.0
+[2026-05-08 10:10:22] MOVE 48: jat (gray0) 20->21 [0.01ms]
+[2026-05-08 10:10:22] SCORE Robert (lawn green): Final=353.8, Time=93.8, Moves(10)=0.0, Pins(0)=0.0, Dist=260.0, Win Bonus=0.0
+[2026-05-08 10:10:22] SCORE jat (gray0): Final=399.7, Time=97.7, Moves(10)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:10:22] SCORE Group 99 (yellow): Final=339.9, Time=83.9, Moves(10)=0.0, Pins(0)=0.0, Dist=256.0, Win Bonus=0.0
+[2026-05-08 10:10:22] SCORE The bandits (purple): Final=318.7, Time=98.7, Moves(9)=0.0, Pins(0)=0.0, Dist=220.0, Win Bonus=0.0
+[2026-05-08 10:10:22] SCORE CybSec (red): Final=343.7, Time=95.7, Moves(9)=0.0, Pins(0)=0.0, Dist=248.0, Win Bonus=0.0
+[2026-05-08 10:10:22] MOVE 49: The bandits (purple) 74->73 [0.01ms]
+[2026-05-08 10:10:22] SCORE Robert (lawn green): Final=353.8, Time=93.8, Moves(10)=0.0, Pins(0)=0.0, Dist=260.0, Win Bonus=0.0
+[2026-05-08 10:10:22] SCORE jat (gray0): Final=399.7, Time=97.7, Moves(10)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:10:22] SCORE Group 99 (yellow): Final=339.9, Time=83.9, Moves(10)=0.0, Pins(0)=0.0, Dist=256.0, Win Bonus=0.0
+[2026-05-08 10:10:22] SCORE The bandits (purple): Final=320.7, Time=98.7, Moves(10)=0.0, Pins(0)=0.0, Dist=222.0, Win Bonus=0.0
+[2026-05-08 10:10:22] SCORE CybSec (red): Final=343.7, Time=95.7, Moves(9)=0.0, Pins(0)=0.0, Dist=248.0, Win Bonus=0.0
+[2026-05-08 10:10:23] MOVE 50: CybSec (red) 70->52 [0.01ms]
+[2026-05-08 10:10:23] SCORE Robert (lawn green): Final=353.8, Time=93.8, Moves(10)=0.0, Pins(0)=0.0, Dist=260.0, Win Bonus=0.0
+[2026-05-08 10:10:23] SCORE jat (gray0): Final=399.7, Time=97.7, Moves(10)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:10:23] SCORE Group 99 (yellow): Final=339.9, Time=83.9, Moves(10)=0.0, Pins(0)=0.0, Dist=256.0, Win Bonus=0.0
+[2026-05-08 10:10:23] SCORE The bandits (purple): Final=320.7, Time=98.7, Moves(10)=0.0, Pins(0)=0.0, Dist=222.0, Win Bonus=0.0
+[2026-05-08 10:10:23] SCORE CybSec (red): Final=347.2, Time=95.2, Moves(10)=0.0, Pins(0)=0.0, Dist=252.0, Win Bonus=0.0
+[2026-05-08 10:10:23] MOVE 51: Robert (lawn green) 15->27 [0.01ms]
+[2026-05-08 10:10:23] SCORE Robert (lawn green): Final=355.4, Time=93.4, Moves(11)=0.0, Pins(0)=0.0, Dist=262.0, Win Bonus=0.0
+[2026-05-08 10:10:23] SCORE jat (gray0): Final=399.7, Time=97.7, Moves(10)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:10:23] SCORE Group 99 (yellow): Final=339.9, Time=83.9, Moves(10)=0.0, Pins(0)=0.0, Dist=256.0, Win Bonus=0.0
+[2026-05-08 10:10:23] SCORE The bandits (purple): Final=320.7, Time=98.7, Moves(10)=0.0, Pins(0)=0.0, Dist=222.0, Win Bonus=0.0
+[2026-05-08 10:10:23] SCORE CybSec (red): Final=347.2, Time=95.2, Moves(10)=0.0, Pins(0)=0.0, Dist=252.0, Win Bonus=0.0
+[2026-05-08 10:10:25] MOVE 52: Group 99 (yellow) 51->55 [0.01ms]
+[2026-05-08 10:10:25] SCORE Robert (lawn green): Final=355.4, Time=93.4, Moves(11)=0.0, Pins(0)=0.0, Dist=262.0, Win Bonus=0.0
+[2026-05-08 10:10:25] SCORE jat (gray0): Final=399.7, Time=97.7, Moves(10)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:10:25] SCORE Group 99 (yellow): Final=344.3, Time=82.3, Moves(11)=0.0, Pins(0)=0.0, Dist=262.0, Win Bonus=0.0
+[2026-05-08 10:10:25] SCORE The bandits (purple): Final=320.7, Time=98.7, Moves(10)=0.0, Pins(0)=0.0, Dist=222.0, Win Bonus=0.0
+[2026-05-08 10:10:25] SCORE CybSec (red): Final=347.2, Time=95.2, Moves(10)=0.0, Pins(0)=0.0, Dist=252.0, Win Bonus=0.0
+[2026-05-08 10:10:25] MOVE 53: jat (gray0) 21->22 [0.01ms]
+[2026-05-08 10:10:25] SCORE Robert (lawn green): Final=355.4, Time=93.4, Moves(11)=0.0, Pins(0)=0.0, Dist=262.0, Win Bonus=0.0
+[2026-05-08 10:10:25] SCORE jat (gray0): Final=399.6, Time=97.6, Moves(11)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:10:25] SCORE Group 99 (yellow): Final=344.3, Time=82.3, Moves(11)=0.0, Pins(0)=0.0, Dist=262.0, Win Bonus=0.0
+[2026-05-08 10:10:25] SCORE The bandits (purple): Final=320.7, Time=98.7, Moves(10)=0.0, Pins(0)=0.0, Dist=222.0, Win Bonus=0.0
+[2026-05-08 10:10:25] SCORE CybSec (red): Final=347.2, Time=95.2, Moves(10)=0.0, Pins(0)=0.0, Dist=252.0, Win Bonus=0.0
+[2026-05-08 10:10:25] MOVE 54: The bandits (purple) 109->96 [0.01ms]
+[2026-05-08 10:10:25] SCORE Robert (lawn green): Final=355.4, Time=93.4, Moves(11)=0.0, Pins(0)=0.0, Dist=262.0, Win Bonus=0.0
+[2026-05-08 10:10:25] SCORE jat (gray0): Final=399.6, Time=97.6, Moves(11)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:10:25] SCORE Group 99 (yellow): Final=344.3, Time=82.3, Moves(11)=0.0, Pins(0)=0.0, Dist=262.0, Win Bonus=0.0
+[2026-05-08 10:10:25] SCORE The bandits (purple): Final=322.5, Time=98.5, Moves(11)=0.0, Pins(0)=0.0, Dist=224.0, Win Bonus=0.0
+[2026-05-08 10:10:25] SCORE CybSec (red): Final=347.2, Time=95.2, Moves(10)=0.0, Pins(0)=0.0, Dist=252.0, Win Bonus=0.0
+[2026-05-08 10:10:25] MOVE 55: CybSec (red) 119->112 [0.01ms]
+[2026-05-08 10:10:25] SCORE Robert (lawn green): Final=355.4, Time=93.4, Moves(11)=0.0, Pins(0)=0.0, Dist=262.0, Win Bonus=0.0
+[2026-05-08 10:10:25] SCORE jat (gray0): Final=399.6, Time=97.6, Moves(11)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:10:25] SCORE Group 99 (yellow): Final=344.3, Time=82.3, Moves(11)=0.0, Pins(0)=0.0, Dist=262.0, Win Bonus=0.0
+[2026-05-08 10:10:25] SCORE The bandits (purple): Final=322.5, Time=98.5, Moves(11)=0.0, Pins(0)=0.0, Dist=224.0, Win Bonus=0.0
+[2026-05-08 10:10:25] SCORE CybSec (red): Final=350.8, Time=94.8, Moves(11)=0.0, Pins(0)=0.0, Dist=256.0, Win Bonus=0.0
+[2026-05-08 10:10:26] MOVE 56: Robert (lawn green) 44->59 [0.01ms]
+[2026-05-08 10:10:26] SCORE Robert (lawn green): Final=366.7, Time=92.7, Moves(12)=0.0, Pins(0)=0.0, Dist=274.0, Win Bonus=0.0
+[2026-05-08 10:10:26] SCORE jat (gray0): Final=399.6, Time=97.6, Moves(11)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:10:26] SCORE Group 99 (yellow): Final=344.3, Time=82.3, Moves(11)=0.0, Pins(0)=0.0, Dist=262.0, Win Bonus=0.0
+[2026-05-08 10:10:26] SCORE The bandits (purple): Final=322.5, Time=98.5, Moves(11)=0.0, Pins(0)=0.0, Dist=224.0, Win Bonus=0.0
+[2026-05-08 10:10:26] SCORE CybSec (red): Final=350.8, Time=94.8, Moves(11)=0.0, Pins(0)=0.0, Dist=256.0, Win Bonus=0.0
+[2026-05-08 10:10:28] MOVE 57: Group 99 (yellow) 38->109 [0.01ms]
+[2026-05-08 10:10:28] SCORE Robert (lawn green): Final=366.7, Time=92.7, Moves(12)=0.0, Pins(0)=0.0, Dist=274.0, Win Bonus=0.0
+[2026-05-08 10:10:28] SCORE jat (gray0): Final=399.6, Time=97.6, Moves(11)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:10:28] SCORE Group 99 (yellow): Final=458.7, Time=80.7, Moves(12)=0.0, Pins(1)=100.0, Dist=278.0, Win Bonus=0.0
+[2026-05-08 10:10:28] SCORE The bandits (purple): Final=322.5, Time=98.5, Moves(11)=0.0, Pins(0)=0.0, Dist=224.0, Win Bonus=0.0
+[2026-05-08 10:10:28] SCORE CybSec (red): Final=350.8, Time=94.8, Moves(11)=0.0, Pins(0)=0.0, Dist=256.0, Win Bonus=0.0
+[2026-05-08 10:10:28] MOVE 58: jat (gray0) 22->21 [0.01ms]
+[2026-05-08 10:10:28] SCORE Robert (lawn green): Final=366.7, Time=92.7, Moves(12)=0.0, Pins(0)=0.0, Dist=274.0, Win Bonus=0.0
+[2026-05-08 10:10:28] SCORE jat (gray0): Final=399.5, Time=97.5, Moves(12)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:10:28] SCORE Group 99 (yellow): Final=458.7, Time=80.7, Moves(12)=0.0, Pins(1)=100.0, Dist=278.0, Win Bonus=0.0
+[2026-05-08 10:10:28] SCORE The bandits (purple): Final=322.5, Time=98.5, Moves(11)=0.0, Pins(0)=0.0, Dist=224.0, Win Bonus=0.0
+[2026-05-08 10:10:28] SCORE CybSec (red): Final=350.8, Time=94.8, Moves(11)=0.0, Pins(0)=0.0, Dist=256.0, Win Bonus=0.0
+[2026-05-08 10:10:28] MOVE 59: The bandits (purple) 54->68 [0.01ms]
+[2026-05-08 10:10:28] SCORE Robert (lawn green): Final=366.7, Time=92.7, Moves(12)=0.0, Pins(0)=0.0, Dist=274.0, Win Bonus=0.0
+[2026-05-08 10:10:28] SCORE jat (gray0): Final=399.5, Time=97.5, Moves(12)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:10:28] SCORE Group 99 (yellow): Final=458.7, Time=80.7, Moves(12)=0.0, Pins(1)=100.0, Dist=278.0, Win Bonus=0.0
+[2026-05-08 10:10:28] SCORE The bandits (purple): Final=330.4, Time=98.4, Moves(12)=0.0, Pins(0)=0.0, Dist=232.0, Win Bonus=0.0
+[2026-05-08 10:10:28] SCORE CybSec (red): Final=350.8, Time=94.8, Moves(11)=0.0, Pins(0)=0.0, Dist=256.0, Win Bonus=0.0
+[2026-05-08 10:10:28] MOVE 60: CybSec (red) 52->9 [0.01ms]
+[2026-05-08 10:10:28] SCORE Robert (lawn green): Final=366.7, Time=92.7, Moves(12)=0.0, Pins(0)=0.0, Dist=274.0, Win Bonus=0.0
+[2026-05-08 10:10:28] SCORE jat (gray0): Final=399.5, Time=97.5, Moves(12)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:10:28] SCORE Group 99 (yellow): Final=458.7, Time=80.7, Moves(12)=0.0, Pins(1)=100.0, Dist=278.0, Win Bonus=0.0
+[2026-05-08 10:10:28] SCORE The bandits (purple): Final=330.4, Time=98.4, Moves(12)=0.0, Pins(0)=0.0, Dist=232.0, Win Bonus=0.0
+[2026-05-08 10:10:28] SCORE CybSec (red): Final=458.4, Time=94.4, Moves(12)=0.0, Pins(1)=100.0, Dist=264.0, Win Bonus=0.0
+[2026-05-08 10:10:29] MOVE 61: Robert (lawn green) 34->33 [0.01ms]
+[2026-05-08 10:10:29] SCORE Robert (lawn green): Final=368.2, Time=92.2, Moves(13)=0.0, Pins(0)=0.0, Dist=276.0, Win Bonus=0.0
+[2026-05-08 10:10:29] SCORE jat (gray0): Final=399.5, Time=97.5, Moves(12)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:10:29] SCORE Group 99 (yellow): Final=458.7, Time=80.7, Moves(12)=0.0, Pins(1)=100.0, Dist=278.0, Win Bonus=0.0
+[2026-05-08 10:10:29] SCORE The bandits (purple): Final=330.4, Time=98.4, Moves(12)=0.0, Pins(0)=0.0, Dist=232.0, Win Bonus=0.0
+[2026-05-08 10:10:29] SCORE CybSec (red): Final=458.4, Time=94.4, Moves(12)=0.0, Pins(1)=100.0, Dist=264.0, Win Bonus=0.0
+[2026-05-08 10:10:30] MOVE 62: Group 99 (yellow) 79->62 [0.01ms]
+[2026-05-08 10:10:30] SCORE Robert (lawn green): Final=368.2, Time=92.2, Moves(13)=0.0, Pins(0)=0.0, Dist=276.0, Win Bonus=0.0
+[2026-05-08 10:10:30] SCORE jat (gray0): Final=399.5, Time=97.5, Moves(12)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:10:30] SCORE Group 99 (yellow): Final=461.2, Time=79.2, Moves(13)=0.0, Pins(1)=100.0, Dist=282.0, Win Bonus=0.0
+[2026-05-08 10:10:30] SCORE The bandits (purple): Final=330.4, Time=98.4, Moves(12)=0.0, Pins(0)=0.0, Dist=232.0, Win Bonus=0.0
+[2026-05-08 10:10:30] SCORE CybSec (red): Final=458.4, Time=94.4, Moves(12)=0.0, Pins(1)=100.0, Dist=264.0, Win Bonus=0.0
+[2026-05-08 10:10:30] MOVE 63: jat (gray0) 21->22 [0.01ms]
+[2026-05-08 10:10:30] SCORE Robert (lawn green): Final=368.2, Time=92.2, Moves(13)=0.0, Pins(0)=0.0, Dist=276.0, Win Bonus=0.0
+[2026-05-08 10:10:30] SCORE jat (gray0): Final=399.4, Time=97.4, Moves(13)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:10:30] SCORE Group 99 (yellow): Final=461.2, Time=79.2, Moves(13)=0.0, Pins(1)=100.0, Dist=282.0, Win Bonus=0.0
+[2026-05-08 10:10:30] SCORE The bandits (purple): Final=330.4, Time=98.4, Moves(12)=0.0, Pins(0)=0.0, Dist=232.0, Win Bonus=0.0
+[2026-05-08 10:10:30] SCORE CybSec (red): Final=458.4, Time=94.4, Moves(12)=0.0, Pins(1)=100.0, Dist=264.0, Win Bonus=0.0
+[2026-05-08 10:10:30] MOVE 64: The bandits (purple) 94->49 [0.01ms]
+[2026-05-08 10:10:30] SCORE Robert (lawn green): Final=368.2, Time=92.2, Moves(13)=0.0, Pins(0)=0.0, Dist=276.0, Win Bonus=0.0
+[2026-05-08 10:10:30] SCORE jat (gray0): Final=399.4, Time=97.4, Moves(13)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:10:30] SCORE Group 99 (yellow): Final=461.2, Time=79.2, Moves(13)=0.0, Pins(1)=100.0, Dist=282.0, Win Bonus=0.0
+[2026-05-08 10:10:30] SCORE The bandits (purple): Final=342.3, Time=98.3, Moves(13)=0.0, Pins(0)=0.0, Dist=244.0, Win Bonus=0.0
+[2026-05-08 10:10:30] SCORE CybSec (red): Final=458.4, Time=94.4, Moves(12)=0.0, Pins(1)=100.0, Dist=264.0, Win Bonus=0.0
+[2026-05-08 10:10:31] MOVE 65: CybSec (red) 114->51 [0.01ms]
+[2026-05-08 10:10:31] SCORE Robert (lawn green): Final=368.2, Time=92.2, Moves(13)=0.0, Pins(0)=0.0, Dist=276.0, Win Bonus=0.0
+[2026-05-08 10:10:31] SCORE jat (gray0): Final=399.4, Time=97.4, Moves(13)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:10:31] SCORE Group 99 (yellow): Final=461.2, Time=79.2, Moves(13)=0.0, Pins(1)=100.0, Dist=282.0, Win Bonus=0.0
+[2026-05-08 10:10:31] SCORE The bandits (purple): Final=342.3, Time=98.3, Moves(13)=0.0, Pins(0)=0.0, Dist=244.0, Win Bonus=0.0
+[2026-05-08 10:10:31] SCORE CybSec (red): Final=470.1, Time=94.1, Moves(13)=0.0, Pins(1)=100.0, Dist=276.0, Win Bonus=0.0
+[2026-05-08 10:10:31] MOVE 66: Robert (lawn green) 32->114 [0.01ms]
+[2026-05-08 10:10:31] SCORE Robert (lawn green): Final=377.6, Time=91.6, Moves(14)=0.0, Pins(0)=0.0, Dist=286.0, Win Bonus=0.0
+[2026-05-08 10:10:31] SCORE jat (gray0): Final=399.4, Time=97.4, Moves(13)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:10:31] SCORE Group 99 (yellow): Final=461.2, Time=79.2, Moves(13)=0.0, Pins(1)=100.0, Dist=282.0, Win Bonus=0.0
+[2026-05-08 10:10:31] SCORE The bandits (purple): Final=342.3, Time=98.3, Moves(13)=0.0, Pins(0)=0.0, Dist=244.0, Win Bonus=0.0
+[2026-05-08 10:10:31] SCORE CybSec (red): Final=470.1, Time=94.1, Moves(13)=0.0, Pins(1)=100.0, Dist=276.0, Win Bonus=0.0
+[2026-05-08 10:10:33] MOVE 67: Group 99 (yellow) 61->84 [0.01ms]
+[2026-05-08 10:10:33] SCORE Robert (lawn green): Final=377.6, Time=91.6, Moves(14)=0.0, Pins(0)=0.0, Dist=286.0, Win Bonus=0.0
+[2026-05-08 10:10:33] SCORE jat (gray0): Final=399.4, Time=97.4, Moves(13)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:10:33] SCORE Group 99 (yellow): Final=567.9, Time=77.9, Moves(14)=0.0, Pins(2)=200.0, Dist=290.0, Win Bonus=0.0
+[2026-05-08 10:10:33] SCORE The bandits (purple): Final=342.3, Time=98.3, Moves(13)=0.0, Pins(0)=0.0, Dist=244.0, Win Bonus=0.0
+[2026-05-08 10:10:33] SCORE CybSec (red): Final=470.1, Time=94.1, Moves(13)=0.0, Pins(1)=100.0, Dist=276.0, Win Bonus=0.0
+[2026-05-08 10:10:33] MOVE 68: jat (gray0) 22->21 [0.01ms]
+[2026-05-08 10:10:33] SCORE Robert (lawn green): Final=377.6, Time=91.6, Moves(14)=0.0, Pins(0)=0.0, Dist=286.0, Win Bonus=0.0
+[2026-05-08 10:10:33] SCORE jat (gray0): Final=399.2, Time=97.2, Moves(14)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:10:33] SCORE Group 99 (yellow): Final=567.9, Time=77.9, Moves(14)=0.0, Pins(2)=200.0, Dist=290.0, Win Bonus=0.0
+[2026-05-08 10:10:33] SCORE The bandits (purple): Final=342.3, Time=98.3, Moves(13)=0.0, Pins(0)=0.0, Dist=244.0, Win Bonus=0.0
+[2026-05-08 10:10:33] SCORE CybSec (red): Final=470.1, Time=94.1, Moves(13)=0.0, Pins(1)=100.0, Dist=276.0, Win Bonus=0.0
+[2026-05-08 10:10:33] MOVE 69: The bandits (purple) 49->48 [0.00ms]
+[2026-05-08 10:10:33] SCORE Robert (lawn green): Final=377.6, Time=91.6, Moves(14)=0.0, Pins(0)=0.0, Dist=286.0, Win Bonus=0.0
+[2026-05-08 10:10:33] SCORE jat (gray0): Final=399.2, Time=97.2, Moves(14)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:10:33] SCORE Group 99 (yellow): Final=567.9, Time=77.9, Moves(14)=0.0, Pins(2)=200.0, Dist=290.0, Win Bonus=0.0
+[2026-05-08 10:10:33] SCORE The bandits (purple): Final=344.3, Time=98.3, Moves(14)=0.0, Pins(0)=0.0, Dist=246.0, Win Bonus=0.0
+[2026-05-08 10:10:33] SCORE CybSec (red): Final=470.1, Time=94.1, Moves(13)=0.0, Pins(1)=100.0, Dist=276.0, Win Bonus=0.0
+[2026-05-08 10:10:34] MOVE 70: CybSec (red) 69->6 [0.01ms]
+[2026-05-08 10:10:34] SCORE Robert (lawn green): Final=377.6, Time=91.6, Moves(14)=0.0, Pins(0)=0.0, Dist=286.0, Win Bonus=0.0
+[2026-05-08 10:10:34] SCORE jat (gray0): Final=399.2, Time=97.2, Moves(14)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:10:34] SCORE Group 99 (yellow): Final=567.9, Time=77.9, Moves(14)=0.0, Pins(2)=200.0, Dist=290.0, Win Bonus=0.0
+[2026-05-08 10:10:34] SCORE The bandits (purple): Final=344.3, Time=98.3, Moves(14)=0.0, Pins(0)=0.0, Dist=246.0, Win Bonus=0.0
+[2026-05-08 10:10:34] SCORE CybSec (red): Final=581.5, Time=93.5, Moves(14)=0.0, Pins(2)=200.0, Dist=288.0, Win Bonus=0.0
+[2026-05-08 10:10:34] MOVE 71: Robert (lawn green) 28->47 [0.01ms]
+[2026-05-08 10:10:34] SCORE Robert (lawn green): Final=385.0, Time=91.0, Moves(15)=0.0, Pins(0)=0.0, Dist=294.0, Win Bonus=0.0
+[2026-05-08 10:10:34] SCORE jat (gray0): Final=399.2, Time=97.2, Moves(14)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:10:34] SCORE Group 99 (yellow): Final=567.9, Time=77.9, Moves(14)=0.0, Pins(2)=200.0, Dist=290.0, Win Bonus=0.0
+[2026-05-08 10:10:34] SCORE The bandits (purple): Final=344.3, Time=98.3, Moves(14)=0.0, Pins(0)=0.0, Dist=246.0, Win Bonus=0.0
+[2026-05-08 10:10:34] SCORE CybSec (red): Final=581.5, Time=93.5, Moves(14)=0.0, Pins(2)=200.0, Dist=288.0, Win Bonus=0.0
+[2026-05-08 10:10:36] MOVE 72: Group 99 (yellow) 43->54 [0.01ms]
+[2026-05-08 10:10:36] SCORE Robert (lawn green): Final=385.0, Time=91.0, Moves(15)=0.0, Pins(0)=0.0, Dist=294.0, Win Bonus=0.0
+[2026-05-08 10:10:36] SCORE jat (gray0): Final=399.2, Time=97.2, Moves(14)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:10:36] SCORE Group 99 (yellow): Final=568.4, Time=76.4, Moves(15)=0.0, Pins(2)=200.0, Dist=292.0, Win Bonus=0.0
+[2026-05-08 10:10:36] SCORE The bandits (purple): Final=344.3, Time=98.3, Moves(14)=0.0, Pins(0)=0.0, Dist=246.0, Win Bonus=0.0
+[2026-05-08 10:10:36] SCORE CybSec (red): Final=581.5, Time=93.5, Moves(14)=0.0, Pins(2)=200.0, Dist=288.0, Win Bonus=0.0
+[2026-05-08 10:10:36] MOVE 73: jat (gray0) 21->22 [0.01ms]
+[2026-05-08 10:10:36] SCORE Robert (lawn green): Final=385.0, Time=91.0, Moves(15)=0.0, Pins(0)=0.0, Dist=294.0, Win Bonus=0.0
+[2026-05-08 10:10:36] SCORE jat (gray0): Final=399.1, Time=97.1, Moves(15)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:10:36] SCORE Group 99 (yellow): Final=568.4, Time=76.4, Moves(15)=0.0, Pins(2)=200.0, Dist=292.0, Win Bonus=0.0
+[2026-05-08 10:10:36] SCORE The bandits (purple): Final=344.3, Time=98.3, Moves(14)=0.0, Pins(0)=0.0, Dist=246.0, Win Bonus=0.0
+[2026-05-08 10:10:36] SCORE CybSec (red): Final=581.5, Time=93.5, Moves(14)=0.0, Pins(2)=200.0, Dist=288.0, Win Bonus=0.0
+[2026-05-08 10:10:36] MOVE 74: The bandits (purple) 64->63 [0.00ms]
+[2026-05-08 10:10:36] SCORE Robert (lawn green): Final=385.0, Time=91.0, Moves(15)=0.0, Pins(0)=0.0, Dist=294.0, Win Bonus=0.0
+[2026-05-08 10:10:36] SCORE jat (gray0): Final=399.1, Time=97.1, Moves(15)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:10:36] SCORE Group 99 (yellow): Final=568.4, Time=76.4, Moves(15)=0.0, Pins(2)=200.0, Dist=292.0, Win Bonus=0.0
+[2026-05-08 10:10:36] SCORE The bandits (purple): Final=346.2, Time=98.2, Moves(15)=0.0, Pins(0)=0.0, Dist=248.0, Win Bonus=0.0
+[2026-05-08 10:10:36] SCORE CybSec (red): Final=581.5, Time=93.5, Moves(14)=0.0, Pins(2)=200.0, Dist=288.0, Win Bonus=0.0
+[2026-05-08 10:10:36] MOVE 75: CybSec (red) 118->113 [0.01ms]
+[2026-05-08 10:10:36] SCORE Robert (lawn green): Final=385.0, Time=91.0, Moves(15)=0.0, Pins(0)=0.0, Dist=294.0, Win Bonus=0.0
+[2026-05-08 10:10:36] SCORE jat (gray0): Final=399.1, Time=97.1, Moves(15)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:10:36] SCORE Group 99 (yellow): Final=568.4, Time=76.4, Moves(15)=0.0, Pins(2)=200.0, Dist=292.0, Win Bonus=0.0
+[2026-05-08 10:10:36] SCORE The bandits (purple): Final=346.2, Time=98.2, Moves(15)=0.0, Pins(0)=0.0, Dist=248.0, Win Bonus=0.0
+[2026-05-08 10:10:36] SCORE CybSec (red): Final=584.9, Time=92.9, Moves(15)=0.0, Pins(2)=200.0, Dist=292.0, Win Bonus=0.0
+[2026-05-08 10:10:37] MOVE 76: Robert (lawn green) 18->17 [0.01ms]
+[2026-05-08 10:10:37] SCORE Robert (lawn green): Final=386.2, Time=90.2, Moves(16)=0.0, Pins(0)=0.0, Dist=296.0, Win Bonus=0.0
+[2026-05-08 10:10:37] SCORE jat (gray0): Final=399.1, Time=97.1, Moves(15)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:10:37] SCORE Group 99 (yellow): Final=568.4, Time=76.4, Moves(15)=0.0, Pins(2)=200.0, Dist=292.0, Win Bonus=0.0
+[2026-05-08 10:10:37] SCORE The bandits (purple): Final=346.2, Time=98.2, Moves(15)=0.0, Pins(0)=0.0, Dist=248.0, Win Bonus=0.0
+[2026-05-08 10:10:37] SCORE CybSec (red): Final=584.9, Time=92.9, Moves(15)=0.0, Pins(2)=200.0, Dist=292.0, Win Bonus=0.0
+[2026-05-08 10:10:39] MOVE 77: Group 99 (yellow) 55->64 [0.01ms]
+[2026-05-08 10:10:39] SCORE Robert (lawn green): Final=386.2, Time=90.2, Moves(16)=0.0, Pins(0)=0.0, Dist=296.0, Win Bonus=0.0
+[2026-05-08 10:10:39] SCORE jat (gray0): Final=399.1, Time=97.1, Moves(15)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:10:39] SCORE Group 99 (yellow): Final=568.9, Time=74.9, Moves(16)=0.0, Pins(2)=200.0, Dist=294.0, Win Bonus=0.0
+[2026-05-08 10:10:39] SCORE The bandits (purple): Final=346.2, Time=98.2, Moves(15)=0.0, Pins(0)=0.0, Dist=248.0, Win Bonus=0.0
+[2026-05-08 10:10:39] SCORE CybSec (red): Final=584.9, Time=92.9, Moves(15)=0.0, Pins(2)=200.0, Dist=292.0, Win Bonus=0.0
+[2026-05-08 10:10:39] MOVE 78: jat (gray0) 22->21 [0.01ms]
+[2026-05-08 10:10:39] SCORE Robert (lawn green): Final=386.2, Time=90.2, Moves(16)=0.0, Pins(0)=0.0, Dist=296.0, Win Bonus=0.0
+[2026-05-08 10:10:39] SCORE jat (gray0): Final=398.9, Time=96.9, Moves(16)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:10:39] SCORE Group 99 (yellow): Final=568.9, Time=74.9, Moves(16)=0.0, Pins(2)=200.0, Dist=294.0, Win Bonus=0.0
+[2026-05-08 10:10:39] SCORE The bandits (purple): Final=346.2, Time=98.2, Moves(15)=0.0, Pins(0)=0.0, Dist=248.0, Win Bonus=0.0
+[2026-05-08 10:10:39] SCORE CybSec (red): Final=584.9, Time=92.9, Moves(15)=0.0, Pins(2)=200.0, Dist=292.0, Win Bonus=0.0
+[2026-05-08 10:10:39] MOVE 79: The bandits (purple) 63->61 [0.01ms]
+[2026-05-08 10:10:39] SCORE Robert (lawn green): Final=386.2, Time=90.2, Moves(16)=0.0, Pins(0)=0.0, Dist=296.0, Win Bonus=0.0
+[2026-05-08 10:10:39] SCORE jat (gray0): Final=398.9, Time=96.9, Moves(16)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:10:39] SCORE Group 99 (yellow): Final=568.9, Time=74.9, Moves(16)=0.0, Pins(2)=200.0, Dist=294.0, Win Bonus=0.0
+[2026-05-08 10:10:39] SCORE The bandits (purple): Final=350.1, Time=98.1, Moves(16)=0.0, Pins(0)=0.0, Dist=252.0, Win Bonus=0.0
+[2026-05-08 10:10:39] SCORE CybSec (red): Final=584.9, Time=92.9, Moves(15)=0.0, Pins(2)=200.0, Dist=292.0, Win Bonus=0.0
+[2026-05-08 10:10:40] MOVE 80: CybSec (red) 16->8 [0.01ms]
+[2026-05-08 10:10:40] SCORE Robert (lawn green): Final=386.2, Time=90.2, Moves(16)=0.0, Pins(0)=0.0, Dist=296.0, Win Bonus=0.0
+[2026-05-08 10:10:40] SCORE jat (gray0): Final=398.9, Time=96.9, Moves(16)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:10:40] SCORE Group 99 (yellow): Final=568.9, Time=74.9, Moves(16)=0.0, Pins(2)=200.0, Dist=294.0, Win Bonus=0.0
+[2026-05-08 10:10:40] SCORE The bandits (purple): Final=350.1, Time=98.1, Moves(16)=0.0, Pins(0)=0.0, Dist=252.0, Win Bonus=0.0
+[2026-05-08 10:10:40] SCORE CybSec (red): Final=686.3, Time=92.3, Moves(16)=0.0, Pins(3)=300.0, Dist=294.0, Win Bonus=0.0
+[2026-05-08 10:10:40] MOVE 81: Robert (lawn green) 13->57 [0.01ms]
+[2026-05-08 10:10:40] SCORE Robert (lawn green): Final=391.5, Time=89.5, Moves(17)=0.0, Pins(0)=0.0, Dist=302.0, Win Bonus=0.0
+[2026-05-08 10:10:40] SCORE jat (gray0): Final=398.9, Time=96.9, Moves(16)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:10:40] SCORE Group 99 (yellow): Final=568.9, Time=74.9, Moves(16)=0.0, Pins(2)=200.0, Dist=294.0, Win Bonus=0.0
+[2026-05-08 10:10:40] SCORE The bandits (purple): Final=350.1, Time=98.1, Moves(16)=0.0, Pins(0)=0.0, Dist=252.0, Win Bonus=0.0
+[2026-05-08 10:10:40] SCORE CybSec (red): Final=686.3, Time=92.3, Moves(16)=0.0, Pins(3)=300.0, Dist=294.0, Win Bonus=0.0
+[2026-05-08 10:10:42] MOVE 82: Group 99 (yellow) 54->97 [0.01ms]
+[2026-05-08 10:10:42] SCORE Robert (lawn green): Final=391.5, Time=89.5, Moves(17)=0.0, Pins(0)=0.0, Dist=302.0, Win Bonus=0.0
+[2026-05-08 10:10:42] SCORE jat (gray0): Final=398.9, Time=96.9, Moves(16)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:10:42] SCORE Group 99 (yellow): Final=671.3, Time=73.3, Moves(17)=0.0, Pins(3)=300.0, Dist=298.0, Win Bonus=0.0
+[2026-05-08 10:10:42] SCORE The bandits (purple): Final=350.1, Time=98.1, Moves(16)=0.0, Pins(0)=0.0, Dist=252.0, Win Bonus=0.0
+[2026-05-08 10:10:42] SCORE CybSec (red): Final=686.3, Time=92.3, Moves(16)=0.0, Pins(3)=300.0, Dist=294.0, Win Bonus=0.0
+[2026-05-08 10:10:42] MOVE 83: jat (gray0) 21->22 [0.01ms]
+[2026-05-08 10:10:42] SCORE Robert (lawn green): Final=391.5, Time=89.5, Moves(17)=0.0, Pins(0)=0.0, Dist=302.0, Win Bonus=0.0
+[2026-05-08 10:10:42] SCORE jat (gray0): Final=398.8, Time=96.8, Moves(17)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:10:42] SCORE Group 99 (yellow): Final=671.3, Time=73.3, Moves(17)=0.0, Pins(3)=300.0, Dist=298.0, Win Bonus=0.0
+[2026-05-08 10:10:42] SCORE The bandits (purple): Final=350.1, Time=98.1, Moves(16)=0.0, Pins(0)=0.0, Dist=252.0, Win Bonus=0.0
+[2026-05-08 10:10:42] SCORE CybSec (red): Final=686.3, Time=92.3, Moves(16)=0.0, Pins(3)=300.0, Dist=294.0, Win Bonus=0.0
+[2026-05-08 10:10:42] MOVE 84: The bandits (purple) 73->71 [0.01ms]
+[2026-05-08 10:10:42] SCORE Robert (lawn green): Final=391.5, Time=89.5, Moves(17)=0.0, Pins(0)=0.0, Dist=302.0, Win Bonus=0.0
+[2026-05-08 10:10:42] SCORE jat (gray0): Final=398.8, Time=96.8, Moves(17)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:10:42] SCORE Group 99 (yellow): Final=671.3, Time=73.3, Moves(17)=0.0, Pins(3)=300.0, Dist=298.0, Win Bonus=0.0
+[2026-05-08 10:10:42] SCORE The bandits (purple): Final=353.9, Time=97.9, Moves(17)=0.0, Pins(0)=0.0, Dist=256.0, Win Bonus=0.0
+[2026-05-08 10:10:42] SCORE CybSec (red): Final=686.3, Time=92.3, Moves(16)=0.0, Pins(3)=300.0, Dist=294.0, Win Bonus=0.0
+[2026-05-08 10:10:43] MOVE 85: CybSec (red) 116->103 [0.01ms]
+[2026-05-08 10:10:43] SCORE Robert (lawn green): Final=391.5, Time=89.5, Moves(17)=0.0, Pins(0)=0.0, Dist=302.0, Win Bonus=0.0
+[2026-05-08 10:10:43] SCORE jat (gray0): Final=398.8, Time=96.8, Moves(17)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:10:43] SCORE Group 99 (yellow): Final=671.3, Time=73.3, Moves(17)=0.0, Pins(3)=300.0, Dist=298.0, Win Bonus=0.0
+[2026-05-08 10:10:43] SCORE The bandits (purple): Final=353.9, Time=97.9, Moves(17)=0.0, Pins(0)=0.0, Dist=256.0, Win Bonus=0.0
+[2026-05-08 10:10:43] SCORE CybSec (red): Final=689.8, Time=91.8, Moves(17)=0.0, Pins(3)=300.0, Dist=298.0, Win Bonus=0.0
+[2026-05-08 10:10:44] MOVE 86: Robert (lawn green) 50->111 [0.01ms]
+[2026-05-08 10:10:44] SCORE Robert (lawn green): Final=396.7, Time=88.7, Moves(18)=0.0, Pins(0)=0.0, Dist=308.0, Win Bonus=0.0
+[2026-05-08 10:10:44] SCORE jat (gray0): Final=398.8, Time=96.8, Moves(17)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:10:44] SCORE Group 99 (yellow): Final=671.3, Time=73.3, Moves(17)=0.0, Pins(3)=300.0, Dist=298.0, Win Bonus=0.0
+[2026-05-08 10:10:44] SCORE The bandits (purple): Final=353.9, Time=97.9, Moves(17)=0.0, Pins(0)=0.0, Dist=256.0, Win Bonus=0.0
+[2026-05-08 10:10:44] SCORE CybSec (red): Final=689.8, Time=91.8, Moves(17)=0.0, Pins(3)=300.0, Dist=298.0, Win Bonus=0.0
+[2026-05-08 10:10:45] MOVE 87: Group 99 (yellow) 64->74 [0.01ms]
+[2026-05-08 10:10:45] SCORE Robert (lawn green): Final=396.7, Time=88.7, Moves(18)=0.0, Pins(0)=0.0, Dist=308.0, Win Bonus=0.0
+[2026-05-08 10:10:45] SCORE jat (gray0): Final=398.8, Time=96.8, Moves(17)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:10:45] SCORE Group 99 (yellow): Final=771.8, Time=71.8, Moves(18)=0.0, Pins(4)=400.0, Dist=300.0, Win Bonus=0.0
+[2026-05-08 10:10:45] SCORE The bandits (purple): Final=353.9, Time=97.9, Moves(17)=0.0, Pins(0)=0.0, Dist=256.0, Win Bonus=0.0
+[2026-05-08 10:10:45] SCORE CybSec (red): Final=689.8, Time=91.8, Moves(17)=0.0, Pins(3)=300.0, Dist=298.0, Win Bonus=0.0
+[2026-05-08 10:10:45] MOVE 88: jat (gray0) 22->21 [0.00ms]
+[2026-05-08 10:10:45] SCORE Robert (lawn green): Final=396.7, Time=88.7, Moves(18)=0.0, Pins(0)=0.0, Dist=308.0, Win Bonus=0.0
+[2026-05-08 10:10:45] SCORE jat (gray0): Final=398.5, Time=96.5, Moves(18)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:10:45] SCORE Group 99 (yellow): Final=771.8, Time=71.8, Moves(18)=0.0, Pins(4)=400.0, Dist=300.0, Win Bonus=0.0
+[2026-05-08 10:10:45] SCORE The bandits (purple): Final=353.9, Time=97.9, Moves(17)=0.0, Pins(0)=0.0, Dist=256.0, Win Bonus=0.0
+[2026-05-08 10:10:45] SCORE CybSec (red): Final=689.8, Time=91.8, Moves(17)=0.0, Pins(3)=300.0, Dist=298.0, Win Bonus=0.0
+[2026-05-08 10:10:46] MOVE 89: The bandits (purple) 96->94 [0.01ms]
+[2026-05-08 10:10:46] SCORE Robert (lawn green): Final=396.7, Time=88.7, Moves(18)=0.0, Pins(0)=0.0, Dist=308.0, Win Bonus=0.0
+[2026-05-08 10:10:46] SCORE jat (gray0): Final=398.5, Time=96.5, Moves(18)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:10:46] SCORE Group 99 (yellow): Final=771.8, Time=71.8, Moves(18)=0.0, Pins(4)=400.0, Dist=300.0, Win Bonus=0.0
+[2026-05-08 10:10:46] SCORE The bandits (purple): Final=357.8, Time=97.8, Moves(18)=0.0, Pins(0)=0.0, Dist=260.0, Win Bonus=0.0
+[2026-05-08 10:10:46] SCORE CybSec (red): Final=689.8, Time=91.8, Moves(17)=0.0, Pins(3)=300.0, Dist=298.0, Win Bonus=0.0
+[2026-05-08 10:10:46] MOVE 90: CybSec (red) 106->41 [0.00ms]
+[2026-05-08 10:10:46] SCORE Robert (lawn green): Final=396.7, Time=88.7, Moves(18)=0.0, Pins(0)=0.0, Dist=308.0, Win Bonus=0.0
+[2026-05-08 10:10:46] SCORE jat (gray0): Final=398.5, Time=96.5, Moves(18)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:10:46] SCORE Group 99 (yellow): Final=771.8, Time=71.8, Moves(18)=0.0, Pins(4)=400.0, Dist=300.0, Win Bonus=0.0
+[2026-05-08 10:10:46] SCORE The bandits (purple): Final=357.8, Time=97.8, Moves(18)=0.0, Pins(0)=0.0, Dist=260.0, Win Bonus=0.0
+[2026-05-08 10:10:46] SCORE CybSec (red): Final=701.4, Time=91.4, Moves(18)=0.0, Pins(3)=300.0, Dist=310.0, Win Bonus=0.0
+[2026-05-08 10:10:47] MOVE 91: Robert (lawn green) 17->29 [0.01ms]
+[2026-05-08 10:10:47] SCORE Robert (lawn green): Final=398.0, Time=88.0, Moves(19)=0.0, Pins(0)=0.0, Dist=310.0, Win Bonus=0.0
+[2026-05-08 10:10:47] SCORE jat (gray0): Final=398.5, Time=96.5, Moves(18)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:10:47] SCORE Group 99 (yellow): Final=771.8, Time=71.8, Moves(18)=0.0, Pins(4)=400.0, Dist=300.0, Win Bonus=0.0
+[2026-05-08 10:10:47] SCORE The bandits (purple): Final=357.8, Time=97.8, Moves(18)=0.0, Pins(0)=0.0, Dist=260.0, Win Bonus=0.0
+[2026-05-08 10:10:47] SCORE CybSec (red): Final=701.4, Time=91.4, Moves(18)=0.0, Pins(3)=300.0, Dist=310.0, Win Bonus=0.0
+[2026-05-08 10:10:48] MOVE 92: Group 99 (yellow) 81->106 [0.01ms]
+[2026-05-08 10:10:48] SCORE Robert (lawn green): Final=398.0, Time=88.0, Moves(19)=0.0, Pins(0)=0.0, Dist=310.0, Win Bonus=0.0
+[2026-05-08 10:10:48] SCORE jat (gray0): Final=398.5, Time=96.5, Moves(18)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:10:48] SCORE Group 99 (yellow): Final=774.4, Time=70.4, Moves(19)=0.0, Pins(4)=400.0, Dist=304.0, Win Bonus=0.0
+[2026-05-08 10:10:48] SCORE The bandits (purple): Final=357.8, Time=97.8, Moves(18)=0.0, Pins(0)=0.0, Dist=260.0, Win Bonus=0.0
+[2026-05-08 10:10:48] SCORE CybSec (red): Final=701.4, Time=91.4, Moves(18)=0.0, Pins(3)=300.0, Dist=310.0, Win Bonus=0.0
+[2026-05-08 10:10:48] MOVE 93: jat (gray0) 21->44 [0.02ms]
+[2026-05-08 10:10:48] SCORE Robert (lawn green): Final=398.0, Time=88.0, Moves(19)=0.0, Pins(0)=0.0, Dist=310.0, Win Bonus=0.0
+[2026-05-08 10:10:48] SCORE jat (gray0): Final=398.3, Time=96.3, Moves(19)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:10:48] SCORE Group 99 (yellow): Final=774.4, Time=70.4, Moves(19)=0.0, Pins(4)=400.0, Dist=304.0, Win Bonus=0.0
+[2026-05-08 10:10:48] SCORE The bandits (purple): Final=357.8, Time=97.8, Moves(18)=0.0, Pins(0)=0.0, Dist=260.0, Win Bonus=0.0
+[2026-05-08 10:10:48] SCORE CybSec (red): Final=701.4, Time=91.4, Moves(18)=0.0, Pins(3)=300.0, Dist=310.0, Win Bonus=0.0
+[2026-05-08 10:10:48] MOVE 94: The bandits (purple) 85->64 [0.01ms]
+[2026-05-08 10:10:48] SCORE Robert (lawn green): Final=398.0, Time=88.0, Moves(19)=0.0, Pins(0)=0.0, Dist=310.0, Win Bonus=0.0
+[2026-05-08 10:10:48] SCORE jat (gray0): Final=398.3, Time=96.3, Moves(19)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:10:48] SCORE Group 99 (yellow): Final=774.4, Time=70.4, Moves(19)=0.0, Pins(4)=400.0, Dist=304.0, Win Bonus=0.0
+[2026-05-08 10:10:48] SCORE The bandits (purple): Final=361.7, Time=97.7, Moves(19)=0.0, Pins(0)=0.0, Dist=264.0, Win Bonus=0.0
+[2026-05-08 10:10:48] SCORE CybSec (red): Final=701.4, Time=91.4, Moves(18)=0.0, Pins(3)=300.0, Dist=310.0, Win Bonus=0.0
+[2026-05-08 10:10:49] MOVE 95: CybSec (red) 41->16 [0.01ms]
+[2026-05-08 10:10:49] SCORE Robert (lawn green): Final=398.0, Time=88.0, Moves(19)=0.0, Pins(0)=0.0, Dist=310.0, Win Bonus=0.0
+[2026-05-08 10:10:49] SCORE jat (gray0): Final=398.3, Time=96.3, Moves(19)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:10:49] SCORE Group 99 (yellow): Final=774.4, Time=70.4, Moves(19)=0.0, Pins(4)=400.0, Dist=304.0, Win Bonus=0.0
+[2026-05-08 10:10:49] SCORE The bandits (purple): Final=361.7, Time=97.7, Moves(19)=0.0, Pins(0)=0.0, Dist=264.0, Win Bonus=0.0
+[2026-05-08 10:10:49] SCORE CybSec (red): Final=705.0, Time=91.0, Moves(19)=0.0, Pins(3)=300.0, Dist=314.0, Win Bonus=0.0
+[2026-05-08 10:10:49] MOVE 96: Robert (lawn green) 29->41 [0.01ms]
+[2026-05-08 10:10:49] SCORE Robert (lawn green): Final=397.4, Time=87.4, Moves(20)=0.0, Pins(0)=0.0, Dist=310.0, Win Bonus=0.0
+[2026-05-08 10:10:49] SCORE jat (gray0): Final=398.3, Time=96.3, Moves(19)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:10:49] SCORE Group 99 (yellow): Final=774.4, Time=70.4, Moves(19)=0.0, Pins(4)=400.0, Dist=304.0, Win Bonus=0.0
+[2026-05-08 10:10:49] SCORE The bandits (purple): Final=361.7, Time=97.7, Moves(19)=0.0, Pins(0)=0.0, Dist=264.0, Win Bonus=0.0
+[2026-05-08 10:10:49] SCORE CybSec (red): Final=705.0, Time=91.0, Moves(19)=0.0, Pins(3)=300.0, Dist=314.0, Win Bonus=0.0
+[2026-05-08 10:10:51] MOVE 97: Group 99 (yellow) 106->107 [0.01ms]
+[2026-05-08 10:10:51] SCORE Robert (lawn green): Final=397.4, Time=87.4, Moves(20)=0.0, Pins(0)=0.0, Dist=310.0, Win Bonus=0.0
+[2026-05-08 10:10:51] SCORE jat (gray0): Final=398.3, Time=96.3, Moves(19)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:10:51] SCORE Group 99 (yellow): Final=875.1, Time=69.1, Moves(20)=0.0, Pins(5)=500.0, Dist=306.0, Win Bonus=0.0
+[2026-05-08 10:10:51] SCORE The bandits (purple): Final=361.7, Time=97.7, Moves(19)=0.0, Pins(0)=0.0, Dist=264.0, Win Bonus=0.0
+[2026-05-08 10:10:51] SCORE CybSec (red): Final=705.0, Time=91.0, Moves(19)=0.0, Pins(3)=300.0, Dist=314.0, Win Bonus=0.0
+[2026-05-08 10:10:51] MOVE 98: jat (gray0) 44->32 [0.00ms]
+[2026-05-08 10:10:51] SCORE Robert (lawn green): Final=397.4, Time=87.4, Moves(20)=0.0, Pins(0)=0.0, Dist=310.0, Win Bonus=0.0
+[2026-05-08 10:10:51] SCORE jat (gray0): Final=398.1, Time=96.1, Moves(20)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:10:51] SCORE Group 99 (yellow): Final=875.1, Time=69.1, Moves(20)=0.0, Pins(5)=500.0, Dist=306.0, Win Bonus=0.0
+[2026-05-08 10:10:51] SCORE The bandits (purple): Final=361.7, Time=97.7, Moves(19)=0.0, Pins(0)=0.0, Dist=264.0, Win Bonus=0.0
+[2026-05-08 10:10:51] SCORE CybSec (red): Final=705.0, Time=91.0, Moves(19)=0.0, Pins(3)=300.0, Dist=314.0, Win Bonus=0.0
+[2026-05-08 10:10:51] MOVE 99: The bandits (purple) 64->58 [0.01ms]
+[2026-05-08 10:10:51] SCORE Robert (lawn green): Final=397.4, Time=87.4, Moves(20)=0.0, Pins(0)=0.0, Dist=310.0, Win Bonus=0.0
+[2026-05-08 10:10:51] SCORE jat (gray0): Final=398.1, Time=96.1, Moves(20)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:10:51] SCORE Group 99 (yellow): Final=875.1, Time=69.1, Moves(20)=0.0, Pins(5)=500.0, Dist=306.0, Win Bonus=0.0
+[2026-05-08 10:10:51] SCORE The bandits (purple): Final=373.6, Time=97.6, Moves(20)=0.0, Pins(0)=0.0, Dist=276.0, Win Bonus=0.0
+[2026-05-08 10:10:51] SCORE CybSec (red): Final=705.0, Time=91.0, Moves(19)=0.0, Pins(3)=300.0, Dist=314.0, Win Bonus=0.0
+[2026-05-08 10:10:51] MOVE 100: CybSec (red) 51->30 [0.00ms]
+[2026-05-08 10:10:51] SCORE Robert (lawn green): Final=397.4, Time=87.4, Moves(20)=0.0, Pins(0)=0.0, Dist=310.0, Win Bonus=0.0
+[2026-05-08 10:10:51] SCORE jat (gray0): Final=398.1, Time=96.1, Moves(20)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:10:51] SCORE Group 99 (yellow): Final=875.1, Time=69.1, Moves(20)=0.0, Pins(5)=500.0, Dist=306.0, Win Bonus=0.0
+[2026-05-08 10:10:51] SCORE The bandits (purple): Final=373.6, Time=97.6, Moves(20)=0.0, Pins(0)=0.0, Dist=276.0, Win Bonus=0.0
+[2026-05-08 10:10:51] SCORE CybSec (red): Final=708.9, Time=90.9, Moves(20)=0.0, Pins(3)=300.0, Dist=318.0, Win Bonus=0.0
+[2026-05-08 10:10:52] MOVE 101: Robert (lawn green) 33->91 [0.01ms]
+[2026-05-08 10:10:52] SCORE Robert (lawn green): Final=412.4, Time=86.4, Moves(21)=0.0, Pins(0)=0.0, Dist=326.0, Win Bonus=0.0
+[2026-05-08 10:10:52] SCORE jat (gray0): Final=398.1, Time=96.1, Moves(20)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:10:52] SCORE Group 99 (yellow): Final=875.1, Time=69.1, Moves(20)=0.0, Pins(5)=500.0, Dist=306.0, Win Bonus=0.0
+[2026-05-08 10:10:52] SCORE The bandits (purple): Final=373.6, Time=97.6, Moves(20)=0.0, Pins(0)=0.0, Dist=276.0, Win Bonus=0.0
+[2026-05-08 10:10:52] SCORE CybSec (red): Final=708.9, Time=90.9, Moves(20)=0.0, Pins(3)=300.0, Dist=318.0, Win Bonus=0.0
+[2026-05-08 10:10:53] MOVE 102: Group 99 (yellow) 62->110 [0.00ms]
+[2026-05-08 10:10:53] SCORE Robert (lawn green): Final=412.4, Time=86.4, Moves(21)=0.0, Pins(0)=0.0, Dist=326.0, Win Bonus=0.0
+[2026-05-08 10:10:53] SCORE jat (gray0): Final=398.1, Time=96.1, Moves(20)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:10:53] SCORE Group 99 (yellow): Final=979.8, Time=67.8, Moves(21)=0.0, Pins(6)=600.0, Dist=312.0, Win Bonus=0.0
+[2026-05-08 10:10:53] SCORE The bandits (purple): Final=373.6, Time=97.6, Moves(20)=0.0, Pins(0)=0.0, Dist=276.0, Win Bonus=0.0
+[2026-05-08 10:10:53] SCORE CybSec (red): Final=708.9, Time=90.9, Moves(20)=0.0, Pins(3)=300.0, Dist=318.0, Win Bonus=0.0
+[2026-05-08 10:10:53] MOVE 103: jat (gray0) 32->33 [0.00ms]
+[2026-05-08 10:10:53] SCORE Robert (lawn green): Final=412.4, Time=86.4, Moves(21)=0.0, Pins(0)=0.0, Dist=326.0, Win Bonus=0.0
+[2026-05-08 10:10:53] SCORE jat (gray0): Final=398.1, Time=96.1, Moves(21)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:10:53] SCORE Group 99 (yellow): Final=979.8, Time=67.8, Moves(21)=0.0, Pins(6)=600.0, Dist=312.0, Win Bonus=0.0
+[2026-05-08 10:10:53] SCORE The bandits (purple): Final=373.6, Time=97.6, Moves(20)=0.0, Pins(0)=0.0, Dist=276.0, Win Bonus=0.0
+[2026-05-08 10:10:53] SCORE CybSec (red): Final=708.9, Time=90.9, Moves(20)=0.0, Pins(3)=300.0, Dist=318.0, Win Bonus=0.0
+[2026-05-08 10:10:54] MOVE 104: The bandits (purple) 83->37 [0.00ms]
+[2026-05-08 10:10:54] SCORE Robert (lawn green): Final=412.4, Time=86.4, Moves(21)=0.0, Pins(0)=0.0, Dist=326.0, Win Bonus=0.0
+[2026-05-08 10:10:54] SCORE jat (gray0): Final=398.1, Time=96.1, Moves(21)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:10:54] SCORE Group 99 (yellow): Final=979.8, Time=67.8, Moves(21)=0.0, Pins(6)=600.0, Dist=312.0, Win Bonus=0.0
+[2026-05-08 10:10:54] SCORE The bandits (purple): Final=389.5, Time=97.5, Moves(21)=0.0, Pins(0)=0.0, Dist=292.0, Win Bonus=0.0
+[2026-05-08 10:10:54] SCORE CybSec (red): Final=708.9, Time=90.9, Moves(20)=0.0, Pins(3)=300.0, Dist=318.0, Win Bonus=0.0
+[2026-05-08 10:10:54] MOVE 105: CybSec (red) 112->90 [0.00ms]
+[2026-05-08 10:10:54] SCORE Robert (lawn green): Final=412.4, Time=86.4, Moves(21)=0.0, Pins(0)=0.0, Dist=326.0, Win Bonus=0.0
+[2026-05-08 10:10:54] SCORE jat (gray0): Final=398.1, Time=96.1, Moves(21)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:10:54] SCORE Group 99 (yellow): Final=979.8, Time=67.8, Moves(21)=0.0, Pins(6)=600.0, Dist=312.0, Win Bonus=0.0
+[2026-05-08 10:10:54] SCORE The bandits (purple): Final=389.5, Time=97.5, Moves(21)=0.0, Pins(0)=0.0, Dist=292.0, Win Bonus=0.0
+[2026-05-08 10:10:54] SCORE CybSec (red): Final=712.8, Time=90.8, Moves(21)=0.0, Pins(3)=300.0, Dist=322.0, Win Bonus=0.0
+[2026-05-08 10:10:54] MOVE 106: Robert (lawn green) 114->106 [0.01ms]
+[2026-05-08 10:10:54] SCORE Robert (lawn green): Final=411.8, Time=85.8, Moves(22)=0.0, Pins(0)=0.0, Dist=326.0, Win Bonus=0.0
+[2026-05-08 10:10:54] SCORE jat (gray0): Final=398.1, Time=96.1, Moves(21)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:10:54] SCORE Group 99 (yellow): Final=979.8, Time=67.8, Moves(21)=0.0, Pins(6)=600.0, Dist=312.0, Win Bonus=0.0
+[2026-05-08 10:10:54] SCORE The bandits (purple): Final=389.5, Time=97.5, Moves(21)=0.0, Pins(0)=0.0, Dist=292.0, Win Bonus=0.0
+[2026-05-08 10:10:54] SCORE CybSec (red): Final=712.8, Time=90.8, Moves(21)=0.0, Pins(3)=300.0, Dist=322.0, Win Bonus=0.0
+[2026-05-08 10:10:55] MOVE 107: Group 99 (yellow) 25->26 [0.01ms]
+[2026-05-08 10:10:55] SCORE Robert (lawn green): Final=411.8, Time=85.8, Moves(22)=0.0, Pins(0)=0.0, Dist=326.0, Win Bonus=0.0
+[2026-05-08 10:10:55] SCORE jat (gray0): Final=398.1, Time=96.1, Moves(21)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:10:55] SCORE Group 99 (yellow): Final=980.6, Time=66.6, Moves(22)=0.0, Pins(6)=600.0, Dist=314.0, Win Bonus=0.0
+[2026-05-08 10:10:55] SCORE The bandits (purple): Final=389.5, Time=97.5, Moves(21)=0.0, Pins(0)=0.0, Dist=292.0, Win Bonus=0.0
+[2026-05-08 10:10:55] SCORE CybSec (red): Final=712.8, Time=90.8, Moves(21)=0.0, Pins(3)=300.0, Dist=322.0, Win Bonus=0.0
+[2026-05-08 10:10:56] MOVE 108: jat (gray0) 33->21 [0.01ms]
+[2026-05-08 10:10:56] SCORE Robert (lawn green): Final=411.8, Time=85.8, Moves(22)=0.0, Pins(0)=0.0, Dist=326.0, Win Bonus=0.0
+[2026-05-08 10:10:56] SCORE jat (gray0): Final=397.8, Time=95.8, Moves(22)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:10:56] SCORE Group 99 (yellow): Final=980.6, Time=66.6, Moves(22)=0.0, Pins(6)=600.0, Dist=314.0, Win Bonus=0.0
+[2026-05-08 10:10:56] SCORE The bandits (purple): Final=389.5, Time=97.5, Moves(21)=0.0, Pins(0)=0.0, Dist=292.0, Win Bonus=0.0
+[2026-05-08 10:10:56] SCORE CybSec (red): Final=712.8, Time=90.8, Moves(21)=0.0, Pins(3)=300.0, Dist=322.0, Win Bonus=0.0
+[2026-05-08 10:10:56] MOVE 109: The bandits (purple) 37->25 [0.01ms]
+[2026-05-08 10:10:56] SCORE Robert (lawn green): Final=411.8, Time=85.8, Moves(22)=0.0, Pins(0)=0.0, Dist=326.0, Win Bonus=0.0
+[2026-05-08 10:10:56] SCORE jat (gray0): Final=397.8, Time=95.8, Moves(22)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:10:56] SCORE Group 99 (yellow): Final=980.6, Time=66.6, Moves(22)=0.0, Pins(6)=600.0, Dist=314.0, Win Bonus=0.0
+[2026-05-08 10:10:56] SCORE The bandits (purple): Final=491.4, Time=97.4, Moves(22)=0.0, Pins(1)=100.0, Dist=294.0, Win Bonus=0.0
+[2026-05-08 10:10:56] SCORE CybSec (red): Final=712.8, Time=90.8, Moves(21)=0.0, Pins(3)=300.0, Dist=322.0, Win Bonus=0.0
+[2026-05-08 10:10:56] MOVE 110: CybSec (red) 90->78 [0.01ms]
+[2026-05-08 10:10:56] SCORE Robert (lawn green): Final=411.8, Time=85.8, Moves(22)=0.0, Pins(0)=0.0, Dist=326.0, Win Bonus=0.0
+[2026-05-08 10:10:56] SCORE jat (gray0): Final=397.8, Time=95.8, Moves(22)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:10:56] SCORE Group 99 (yellow): Final=980.6, Time=66.6, Moves(22)=0.0, Pins(6)=600.0, Dist=314.0, Win Bonus=0.0
+[2026-05-08 10:10:56] SCORE The bandits (purple): Final=491.4, Time=97.4, Moves(22)=0.0, Pins(1)=100.0, Dist=294.0, Win Bonus=0.0
+[2026-05-08 10:10:56] SCORE CybSec (red): Final=714.5, Time=90.5, Moves(22)=0.0, Pins(3)=300.0, Dist=324.0, Win Bonus=0.0
+[2026-05-08 10:10:57] MOVE 111: Robert (lawn green) 106->75 [0.00ms]
+[2026-05-08 10:10:57] SCORE Robert (lawn green): Final=520.8, Time=84.8, Moves(23)=0.0, Pins(1)=100.0, Dist=336.0, Win Bonus=0.0
+[2026-05-08 10:10:57] SCORE jat (gray0): Final=397.8, Time=95.8, Moves(22)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:10:57] SCORE Group 99 (yellow): Final=980.6, Time=66.6, Moves(22)=0.0, Pins(6)=600.0, Dist=314.0, Win Bonus=0.0
+[2026-05-08 10:10:57] SCORE The bandits (purple): Final=491.4, Time=97.4, Moves(22)=0.0, Pins(1)=100.0, Dist=294.0, Win Bonus=0.0
+[2026-05-08 10:10:57] SCORE CybSec (red): Final=714.5, Time=90.5, Moves(22)=0.0, Pins(3)=300.0, Dist=324.0, Win Bonus=0.0
+[2026-05-08 10:10:58] MOVE 112: Group 99 (yellow) 26->38 [0.01ms]
+[2026-05-08 10:10:58] SCORE Robert (lawn green): Final=520.8, Time=84.8, Moves(23)=0.0, Pins(1)=100.0, Dist=336.0, Win Bonus=0.0
+[2026-05-08 10:10:58] SCORE jat (gray0): Final=397.8, Time=95.8, Moves(22)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:10:58] SCORE Group 99 (yellow): Final=981.3, Time=65.3, Moves(23)=0.0, Pins(6)=600.0, Dist=316.0, Win Bonus=0.0
+[2026-05-08 10:10:58] SCORE The bandits (purple): Final=491.4, Time=97.4, Moves(22)=0.0, Pins(1)=100.0, Dist=294.0, Win Bonus=0.0
+[2026-05-08 10:10:59] SCORE CybSec (red): Final=714.5, Time=90.5, Moves(22)=0.0, Pins(3)=300.0, Dist=324.0, Win Bonus=0.0
+[2026-05-08 10:10:59] MOVE 113: jat (gray0) 21->34 [0.01ms]
+[2026-05-08 10:10:59] SCORE Robert (lawn green): Final=520.8, Time=84.8, Moves(23)=0.0, Pins(1)=100.0, Dist=336.0, Win Bonus=0.0
+[2026-05-08 10:10:59] SCORE jat (gray0): Final=397.6, Time=95.6, Moves(23)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:10:59] SCORE Group 99 (yellow): Final=981.3, Time=65.3, Moves(23)=0.0, Pins(6)=600.0, Dist=316.0, Win Bonus=0.0
+[2026-05-08 10:10:59] SCORE The bandits (purple): Final=491.4, Time=97.4, Moves(22)=0.0, Pins(1)=100.0, Dist=294.0, Win Bonus=0.0
+[2026-05-08 10:10:59] SCORE CybSec (red): Final=714.5, Time=90.5, Moves(22)=0.0, Pins(3)=300.0, Dist=324.0, Win Bonus=0.0
+[2026-05-08 10:10:59] MOVE 114: The bandits (purple) 58->35 [0.00ms]
+[2026-05-08 10:10:59] SCORE Robert (lawn green): Final=520.8, Time=84.8, Moves(23)=0.0, Pins(1)=100.0, Dist=336.0, Win Bonus=0.0
+[2026-05-08 10:10:59] SCORE jat (gray0): Final=397.6, Time=95.6, Moves(23)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:10:59] SCORE Group 99 (yellow): Final=981.3, Time=65.3, Moves(23)=0.0, Pins(6)=600.0, Dist=316.0, Win Bonus=0.0
+[2026-05-08 10:10:59] SCORE The bandits (purple): Final=597.3, Time=97.3, Moves(23)=0.0, Pins(2)=200.0, Dist=300.0, Win Bonus=0.0
+[2026-05-08 10:10:59] SCORE CybSec (red): Final=714.5, Time=90.5, Moves(22)=0.0, Pins(3)=300.0, Dist=324.0, Win Bonus=0.0
+[2026-05-08 10:10:59] MOVE 115: CybSec (red) 30->18 [0.01ms]
+[2026-05-08 10:10:59] SCORE Robert (lawn green): Final=520.8, Time=84.8, Moves(23)=0.0, Pins(1)=100.0, Dist=336.0, Win Bonus=0.0
+[2026-05-08 10:10:59] SCORE jat (gray0): Final=397.6, Time=95.6, Moves(23)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:10:59] SCORE Group 99 (yellow): Final=981.3, Time=65.3, Moves(23)=0.0, Pins(6)=600.0, Dist=316.0, Win Bonus=0.0
+[2026-05-08 10:10:59] SCORE The bandits (purple): Final=597.3, Time=97.3, Moves(23)=0.0, Pins(2)=200.0, Dist=300.0, Win Bonus=0.0
+[2026-05-08 10:10:59] SCORE CybSec (red): Final=716.2, Time=90.2, Moves(23)=0.0, Pins(3)=300.0, Dist=326.0, Win Bonus=0.0
+[2026-05-08 10:11:00] MOVE 116: Robert (lawn green) 27->39 [0.01ms]
+[2026-05-08 10:11:00] SCORE Robert (lawn green): Final=520.1, Time=84.1, Moves(24)=0.0, Pins(1)=100.0, Dist=336.0, Win Bonus=0.0
+[2026-05-08 10:11:00] SCORE jat (gray0): Final=397.6, Time=95.6, Moves(23)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:00] SCORE Group 99 (yellow): Final=981.3, Time=65.3, Moves(23)=0.0, Pins(6)=600.0, Dist=316.0, Win Bonus=0.0
+[2026-05-08 10:11:00] SCORE The bandits (purple): Final=597.3, Time=97.3, Moves(23)=0.0, Pins(2)=200.0, Dist=300.0, Win Bonus=0.0
+[2026-05-08 10:11:00] SCORE CybSec (red): Final=716.2, Time=90.2, Moves(23)=0.0, Pins(3)=300.0, Dist=326.0, Win Bonus=0.0
+[2026-05-08 10:11:01] MOVE 117: Group 99 (yellow) 38->42 [0.01ms]
+[2026-05-08 10:11:01] SCORE Robert (lawn green): Final=520.1, Time=84.1, Moves(24)=0.0, Pins(1)=100.0, Dist=336.0, Win Bonus=0.0
+[2026-05-08 10:11:01] SCORE jat (gray0): Final=397.6, Time=95.6, Moves(23)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:01] SCORE Group 99 (yellow): Final=987.8, Time=63.8, Moves(24)=0.0, Pins(6)=600.0, Dist=324.0, Win Bonus=0.0
+[2026-05-08 10:11:01] SCORE The bandits (purple): Final=597.3, Time=97.3, Moves(23)=0.0, Pins(2)=200.0, Dist=300.0, Win Bonus=0.0
+[2026-05-08 10:11:01] SCORE CybSec (red): Final=716.2, Time=90.2, Moves(23)=0.0, Pins(3)=300.0, Dist=326.0, Win Bonus=0.0
+[2026-05-08 10:11:02] MOVE 118: jat (gray0) 34->21 [0.01ms]
+[2026-05-08 10:11:02] SCORE Robert (lawn green): Final=520.1, Time=84.1, Moves(24)=0.0, Pins(1)=100.0, Dist=336.0, Win Bonus=0.0
+[2026-05-08 10:11:02] SCORE jat (gray0): Final=397.3, Time=95.3, Moves(24)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:02] SCORE Group 99 (yellow): Final=987.8, Time=63.8, Moves(24)=0.0, Pins(6)=600.0, Dist=324.0, Win Bonus=0.0
+[2026-05-08 10:11:02] SCORE The bandits (purple): Final=597.3, Time=97.3, Moves(23)=0.0, Pins(2)=200.0, Dist=300.0, Win Bonus=0.0
+[2026-05-08 10:11:02] SCORE CybSec (red): Final=716.2, Time=90.2, Moves(23)=0.0, Pins(3)=300.0, Dist=326.0, Win Bonus=0.0
+[2026-05-08 10:11:02] MOVE 119: The bandits (purple) 72->70 [0.00ms]
+[2026-05-08 10:11:02] SCORE Robert (lawn green): Final=520.1, Time=84.1, Moves(24)=0.0, Pins(1)=100.0, Dist=336.0, Win Bonus=0.0
+[2026-05-08 10:11:02] SCORE jat (gray0): Final=397.3, Time=95.3, Moves(24)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:02] SCORE Group 99 (yellow): Final=987.8, Time=63.8, Moves(24)=0.0, Pins(6)=600.0, Dist=324.0, Win Bonus=0.0
+[2026-05-08 10:11:02] SCORE The bandits (purple): Final=601.2, Time=97.2, Moves(24)=0.0, Pins(2)=200.0, Dist=304.0, Win Bonus=0.0
+[2026-05-08 10:11:02] SCORE CybSec (red): Final=716.2, Time=90.2, Moves(23)=0.0, Pins(3)=300.0, Dist=326.0, Win Bonus=0.0
+[2026-05-08 10:11:02] MOVE 120: CybSec (red) 113->104 [0.01ms]
+[2026-05-08 10:11:02] SCORE Robert (lawn green): Final=520.1, Time=84.1, Moves(24)=0.0, Pins(1)=100.0, Dist=336.0, Win Bonus=0.0
+[2026-05-08 10:11:02] SCORE jat (gray0): Final=397.3, Time=95.3, Moves(24)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:02] SCORE Group 99 (yellow): Final=987.8, Time=63.8, Moves(24)=0.0, Pins(6)=600.0, Dist=324.0, Win Bonus=0.0
+[2026-05-08 10:11:02] SCORE The bandits (purple): Final=601.2, Time=97.2, Moves(24)=0.0, Pins(2)=200.0, Dist=304.0, Win Bonus=0.0
+[2026-05-08 10:11:02] SCORE CybSec (red): Final=717.9, Time=89.9, Moves(24)=0.0, Pins(3)=300.0, Dist=328.0, Win Bonus=0.0
+[2026-05-08 10:11:02] MOVE 121: Robert (lawn green) 59->49 [0.01ms]
+[2026-05-08 10:11:02] SCORE Robert (lawn green): Final=519.5, Time=83.5, Moves(25)=0.0, Pins(1)=100.0, Dist=336.0, Win Bonus=0.0
+[2026-05-08 10:11:02] SCORE jat (gray0): Final=397.3, Time=95.3, Moves(24)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:02] SCORE Group 99 (yellow): Final=987.8, Time=63.8, Moves(24)=0.0, Pins(6)=600.0, Dist=324.0, Win Bonus=0.0
+[2026-05-08 10:11:02] SCORE The bandits (purple): Final=601.2, Time=97.2, Moves(24)=0.0, Pins(2)=200.0, Dist=304.0, Win Bonus=0.0
+[2026-05-08 10:11:02] SCORE CybSec (red): Final=717.9, Time=89.9, Moves(24)=0.0, Pins(3)=300.0, Dist=328.0, Win Bonus=0.0
+[2026-05-08 10:11:04] MOVE 122: Group 99 (yellow) 46->56 [0.01ms]
+[2026-05-08 10:11:04] SCORE Robert (lawn green): Final=519.5, Time=83.5, Moves(25)=0.0, Pins(1)=100.0, Dist=336.0, Win Bonus=0.0
+[2026-05-08 10:11:04] SCORE jat (gray0): Final=397.3, Time=95.3, Moves(24)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:04] SCORE Group 99 (yellow): Final=988.6, Time=62.6, Moves(25)=0.0, Pins(6)=600.0, Dist=326.0, Win Bonus=0.0
+[2026-05-08 10:11:04] SCORE The bandits (purple): Final=601.2, Time=97.2, Moves(24)=0.0, Pins(2)=200.0, Dist=304.0, Win Bonus=0.0
+[2026-05-08 10:11:04] SCORE CybSec (red): Final=717.9, Time=89.9, Moves(24)=0.0, Pins(3)=300.0, Dist=328.0, Win Bonus=0.0
+[2026-05-08 10:11:04] MOVE 123: jat (gray0) 21->34 [0.01ms]
+[2026-05-08 10:11:04] SCORE Robert (lawn green): Final=519.5, Time=83.5, Moves(25)=0.0, Pins(1)=100.0, Dist=336.0, Win Bonus=0.0
+[2026-05-08 10:11:04] SCORE jat (gray0): Final=397.2, Time=95.2, Moves(25)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:04] SCORE Group 99 (yellow): Final=988.6, Time=62.6, Moves(25)=0.0, Pins(6)=600.0, Dist=326.0, Win Bonus=0.0
+[2026-05-08 10:11:04] SCORE The bandits (purple): Final=601.2, Time=97.2, Moves(24)=0.0, Pins(2)=200.0, Dist=304.0, Win Bonus=0.0
+[2026-05-08 10:11:04] SCORE CybSec (red): Final=717.9, Time=89.9, Moves(24)=0.0, Pins(3)=300.0, Dist=328.0, Win Bonus=0.0
+[2026-05-08 10:11:04] MOVE 124: The bandits (purple) 94->93 [0.00ms]
+[2026-05-08 10:11:04] SCORE Robert (lawn green): Final=519.5, Time=83.5, Moves(25)=0.0, Pins(1)=100.0, Dist=336.0, Win Bonus=0.0
+[2026-05-08 10:11:04] SCORE jat (gray0): Final=397.2, Time=95.2, Moves(25)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:04] SCORE Group 99 (yellow): Final=988.6, Time=62.6, Moves(25)=0.0, Pins(6)=600.0, Dist=326.0, Win Bonus=0.0
+[2026-05-08 10:11:04] SCORE The bandits (purple): Final=603.1, Time=97.1, Moves(25)=0.0, Pins(2)=200.0, Dist=306.0, Win Bonus=0.0
+[2026-05-08 10:11:04] SCORE CybSec (red): Final=717.9, Time=89.9, Moves(24)=0.0, Pins(3)=300.0, Dist=328.0, Win Bonus=0.0
+[2026-05-08 10:11:04] MOVE 125: CybSec (red) 78->59 [0.01ms]
+[2026-05-08 10:11:04] SCORE Robert (lawn green): Final=519.5, Time=83.5, Moves(25)=0.0, Pins(1)=100.0, Dist=336.0, Win Bonus=0.0
+[2026-05-08 10:11:04] SCORE jat (gray0): Final=397.2, Time=95.2, Moves(25)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:04] SCORE Group 99 (yellow): Final=988.6, Time=62.6, Moves(25)=0.0, Pins(6)=600.0, Dist=326.0, Win Bonus=0.0
+[2026-05-08 10:11:04] SCORE The bandits (purple): Final=603.1, Time=97.1, Moves(25)=0.0, Pins(2)=200.0, Dist=306.0, Win Bonus=0.0
+[2026-05-08 10:11:04] SCORE CybSec (red): Final=721.7, Time=89.7, Moves(25)=0.0, Pins(3)=300.0, Dist=332.0, Win Bonus=0.0
+[2026-05-08 10:11:05] MOVE 126: Robert (lawn green) 92->67 [0.01ms]
+[2026-05-08 10:11:05] SCORE Robert (lawn green): Final=522.7, Time=82.7, Moves(26)=0.0, Pins(1)=100.0, Dist=340.0, Win Bonus=0.0
+[2026-05-08 10:11:05] SCORE jat (gray0): Final=397.2, Time=95.2, Moves(25)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:05] SCORE Group 99 (yellow): Final=988.6, Time=62.6, Moves(25)=0.0, Pins(6)=600.0, Dist=326.0, Win Bonus=0.0
+[2026-05-08 10:11:05] SCORE The bandits (purple): Final=603.1, Time=97.1, Moves(25)=0.0, Pins(2)=200.0, Dist=306.0, Win Bonus=0.0
+[2026-05-08 10:11:05] SCORE CybSec (red): Final=721.7, Time=89.7, Moves(25)=0.0, Pins(3)=300.0, Dist=332.0, Win Bonus=0.0
+[2026-05-08 10:11:06] MOVE 127: Group 99 (yellow) 56->85 [0.01ms]
+[2026-05-08 10:11:06] SCORE Robert (lawn green): Final=522.7, Time=82.7, Moves(26)=0.0, Pins(1)=100.0, Dist=340.0, Win Bonus=0.0
+[2026-05-08 10:11:06] SCORE jat (gray0): Final=397.2, Time=95.2, Moves(25)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:06] SCORE Group 99 (yellow): Final=1105.6, Time=61.6, Moves(26)=0.0, Pins(7)=700.0, Dist=344.0, Win Bonus=0.0
+[2026-05-08 10:11:06] SCORE The bandits (purple): Final=603.1, Time=97.1, Moves(25)=0.0, Pins(2)=200.0, Dist=306.0, Win Bonus=0.0
+[2026-05-08 10:11:06] SCORE CybSec (red): Final=721.7, Time=89.7, Moves(25)=0.0, Pins(3)=300.0, Dist=332.0, Win Bonus=0.0
+[2026-05-08 10:11:06] MOVE 128: jat (gray0) 34->21 [0.00ms]
+[2026-05-08 10:11:06] SCORE Robert (lawn green): Final=522.7, Time=82.7, Moves(26)=0.0, Pins(1)=100.0, Dist=340.0, Win Bonus=0.0
+[2026-05-08 10:11:06] SCORE jat (gray0): Final=397.0, Time=95.0, Moves(26)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:06] SCORE Group 99 (yellow): Final=1105.6, Time=61.6, Moves(26)=0.0, Pins(7)=700.0, Dist=344.0, Win Bonus=0.0
+[2026-05-08 10:11:06] SCORE The bandits (purple): Final=603.1, Time=97.1, Moves(25)=0.0, Pins(2)=200.0, Dist=306.0, Win Bonus=0.0
+[2026-05-08 10:11:06] SCORE CybSec (red): Final=721.7, Time=89.7, Moves(25)=0.0, Pins(3)=300.0, Dist=332.0, Win Bonus=0.0
+[2026-05-08 10:11:06] MOVE 129: The bandits (purple) 93->81 [0.00ms]
+[2026-05-08 10:11:06] SCORE Robert (lawn green): Final=522.7, Time=82.7, Moves(26)=0.0, Pins(1)=100.0, Dist=340.0, Win Bonus=0.0
+[2026-05-08 10:11:06] SCORE jat (gray0): Final=397.0, Time=95.0, Moves(26)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:06] SCORE Group 99 (yellow): Final=1105.6, Time=61.6, Moves(26)=0.0, Pins(7)=700.0, Dist=344.0, Win Bonus=0.0
+[2026-05-08 10:11:06] SCORE The bandits (purple): Final=605.0, Time=97.0, Moves(26)=0.0, Pins(2)=200.0, Dist=308.0, Win Bonus=0.0
+[2026-05-08 10:11:06] SCORE CybSec (red): Final=721.7, Time=89.7, Moves(25)=0.0, Pins(3)=300.0, Dist=332.0, Win Bonus=0.0
+[2026-05-08 10:11:07] MOVE 130: CybSec (red) 104->37 [0.01ms]
+[2026-05-08 10:11:07] SCORE Robert (lawn green): Final=522.7, Time=82.7, Moves(26)=0.0, Pins(1)=100.0, Dist=340.0, Win Bonus=0.0
+[2026-05-08 10:11:07] SCORE jat (gray0): Final=397.0, Time=95.0, Moves(26)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:07] SCORE Group 99 (yellow): Final=1105.6, Time=61.6, Moves(26)=0.0, Pins(7)=700.0, Dist=344.0, Win Bonus=0.0
+[2026-05-08 10:11:07] SCORE The bandits (purple): Final=605.0, Time=97.0, Moves(26)=0.0, Pins(2)=200.0, Dist=308.0, Win Bonus=0.0
+[2026-05-08 10:11:07] SCORE CybSec (red): Final=733.5, Time=89.5, Moves(26)=0.0, Pins(3)=300.0, Dist=344.0, Win Bonus=0.0
+[2026-05-08 10:11:07] MOVE 131: Robert (lawn green) 39->56 [0.01ms]
+[2026-05-08 10:11:07] SCORE Robert (lawn green): Final=530.1, Time=82.1, Moves(27)=0.0, Pins(1)=100.0, Dist=348.0, Win Bonus=0.0
+[2026-05-08 10:11:07] SCORE jat (gray0): Final=397.0, Time=95.0, Moves(26)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:07] SCORE Group 99 (yellow): Final=1105.6, Time=61.6, Moves(26)=0.0, Pins(7)=700.0, Dist=344.0, Win Bonus=0.0
+[2026-05-08 10:11:07] SCORE The bandits (purple): Final=605.0, Time=97.0, Moves(26)=0.0, Pins(2)=200.0, Dist=308.0, Win Bonus=0.0
+[2026-05-08 10:11:07] SCORE CybSec (red): Final=733.5, Time=89.5, Moves(26)=0.0, Pins(3)=300.0, Dist=344.0, Win Bonus=0.0
+[2026-05-08 10:11:08] MOVE 132: Group 99 (yellow) 23->66 [0.01ms]
+[2026-05-08 10:11:08] SCORE Robert (lawn green): Final=530.1, Time=82.1, Moves(27)=0.0, Pins(1)=100.0, Dist=348.0, Win Bonus=0.0
+[2026-05-08 10:11:08] SCORE jat (gray0): Final=397.0, Time=95.0, Moves(26)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:08] SCORE Group 99 (yellow): Final=1112.3, Time=60.3, Moves(27)=0.0, Pins(7)=700.0, Dist=352.0, Win Bonus=0.0
+[2026-05-08 10:11:08] SCORE The bandits (purple): Final=605.0, Time=97.0, Moves(26)=0.0, Pins(2)=200.0, Dist=308.0, Win Bonus=0.0
+[2026-05-08 10:11:08] SCORE CybSec (red): Final=733.5, Time=89.5, Moves(26)=0.0, Pins(3)=300.0, Dist=344.0, Win Bonus=0.0
+[2026-05-08 10:11:09] MOVE 133: jat (gray0) 21->34 [0.01ms]
+[2026-05-08 10:11:09] SCORE Robert (lawn green): Final=530.1, Time=82.1, Moves(27)=0.0, Pins(1)=100.0, Dist=348.0, Win Bonus=0.0
+[2026-05-08 10:11:09] SCORE jat (gray0): Final=396.9, Time=94.9, Moves(27)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:09] SCORE Group 99 (yellow): Final=1112.3, Time=60.3, Moves(27)=0.0, Pins(7)=700.0, Dist=352.0, Win Bonus=0.0
+[2026-05-08 10:11:09] SCORE The bandits (purple): Final=605.0, Time=97.0, Moves(26)=0.0, Pins(2)=200.0, Dist=308.0, Win Bonus=0.0
+[2026-05-08 10:11:09] SCORE CybSec (red): Final=733.5, Time=89.5, Moves(26)=0.0, Pins(3)=300.0, Dist=344.0, Win Bonus=0.0
+[2026-05-08 10:11:09] MOVE 134: The bandits (purple) 35->23 [0.01ms]
+[2026-05-08 10:11:09] SCORE Robert (lawn green): Final=530.1, Time=82.1, Moves(27)=0.0, Pins(1)=100.0, Dist=348.0, Win Bonus=0.0
+[2026-05-08 10:11:09] SCORE jat (gray0): Final=396.9, Time=94.9, Moves(27)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:09] SCORE Group 99 (yellow): Final=1112.3, Time=60.3, Moves(27)=0.0, Pins(7)=700.0, Dist=352.0, Win Bonus=0.0
+[2026-05-08 10:11:09] SCORE The bandits (purple): Final=604.8, Time=96.8, Moves(27)=0.0, Pins(2)=200.0, Dist=308.0, Win Bonus=0.0
+[2026-05-08 10:11:09] SCORE CybSec (red): Final=733.5, Time=89.5, Moves(26)=0.0, Pins(3)=300.0, Dist=344.0, Win Bonus=0.0
+[2026-05-08 10:11:09] MOVE 135: CybSec (red) 59->38 [0.01ms]
+[2026-05-08 10:11:09] SCORE Robert (lawn green): Final=530.1, Time=82.1, Moves(27)=0.0, Pins(1)=100.0, Dist=348.0, Win Bonus=0.0
+[2026-05-08 10:11:09] SCORE jat (gray0): Final=396.9, Time=94.9, Moves(27)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:09] SCORE Group 99 (yellow): Final=1112.3, Time=60.3, Moves(27)=0.0, Pins(7)=700.0, Dist=352.0, Win Bonus=0.0
+[2026-05-08 10:11:09] SCORE The bandits (purple): Final=604.8, Time=96.8, Moves(27)=0.0, Pins(2)=200.0, Dist=308.0, Win Bonus=0.0
+[2026-05-08 10:11:09] SCORE CybSec (red): Final=737.2, Time=89.2, Moves(27)=0.0, Pins(3)=300.0, Dist=348.0, Win Bonus=0.0
+[2026-05-08 10:11:10] MOVE 136: Robert (lawn green) 49->58 [0.01ms]
+[2026-05-08 10:11:10] SCORE Robert (lawn green): Final=531.5, Time=81.5, Moves(28)=0.0, Pins(1)=100.0, Dist=350.0, Win Bonus=0.0
+[2026-05-08 10:11:10] SCORE jat (gray0): Final=396.9, Time=94.9, Moves(27)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:10] SCORE Group 99 (yellow): Final=1112.3, Time=60.3, Moves(27)=0.0, Pins(7)=700.0, Dist=352.0, Win Bonus=0.0
+[2026-05-08 10:11:10] SCORE The bandits (purple): Final=604.8, Time=96.8, Moves(27)=0.0, Pins(2)=200.0, Dist=308.0, Win Bonus=0.0
+[2026-05-08 10:11:10] SCORE CybSec (red): Final=737.2, Time=89.2, Moves(27)=0.0, Pins(3)=300.0, Dist=348.0, Win Bonus=0.0
+[2026-05-08 10:11:11] MOVE 137: Group 99 (yellow) 66->77 [0.01ms]
+[2026-05-08 10:11:11] SCORE Robert (lawn green): Final=531.5, Time=81.5, Moves(28)=0.0, Pins(1)=100.0, Dist=350.0, Win Bonus=0.0
+[2026-05-08 10:11:11] SCORE jat (gray0): Final=396.9, Time=94.9, Moves(27)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:11] SCORE Group 99 (yellow): Final=1113.3, Time=59.3, Moves(28)=0.0, Pins(7)=700.0, Dist=354.0, Win Bonus=0.0
+[2026-05-08 10:11:11] SCORE The bandits (purple): Final=604.8, Time=96.8, Moves(27)=0.0, Pins(2)=200.0, Dist=308.0, Win Bonus=0.0
+[2026-05-08 10:11:11] SCORE CybSec (red): Final=737.2, Time=89.2, Moves(27)=0.0, Pins(3)=300.0, Dist=348.0, Win Bonus=0.0
+[2026-05-08 10:11:11] MOVE 138: jat (gray0) 34->21 [0.01ms]
+[2026-05-08 10:11:11] SCORE Robert (lawn green): Final=531.5, Time=81.5, Moves(28)=0.0, Pins(1)=100.0, Dist=350.0, Win Bonus=0.0
+[2026-05-08 10:11:11] SCORE jat (gray0): Final=396.6, Time=94.6, Moves(28)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:11] SCORE Group 99 (yellow): Final=1113.3, Time=59.3, Moves(28)=0.0, Pins(7)=700.0, Dist=354.0, Win Bonus=0.0
+[2026-05-08 10:11:11] SCORE The bandits (purple): Final=604.8, Time=96.8, Moves(27)=0.0, Pins(2)=200.0, Dist=308.0, Win Bonus=0.0
+[2026-05-08 10:11:11] SCORE CybSec (red): Final=737.2, Time=89.2, Moves(27)=0.0, Pins(3)=300.0, Dist=348.0, Win Bonus=0.0
+[2026-05-08 10:11:11] MOVE 139: The bandits (purple) 81->60 [0.01ms]
+[2026-05-08 10:11:11] SCORE Robert (lawn green): Final=531.5, Time=81.5, Moves(28)=0.0, Pins(1)=100.0, Dist=350.0, Win Bonus=0.0
+[2026-05-08 10:11:11] SCORE jat (gray0): Final=396.6, Time=94.6, Moves(28)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:11] SCORE Group 99 (yellow): Final=1113.3, Time=59.3, Moves(28)=0.0, Pins(7)=700.0, Dist=354.0, Win Bonus=0.0
+[2026-05-08 10:11:11] SCORE The bandits (purple): Final=608.8, Time=96.8, Moves(28)=0.0, Pins(2)=200.0, Dist=312.0, Win Bonus=0.0
+[2026-05-08 10:11:11] SCORE CybSec (red): Final=737.2, Time=89.2, Moves(27)=0.0, Pins(3)=300.0, Dist=348.0, Win Bonus=0.0
+[2026-05-08 10:11:11] MOVE 140: CybSec (red) 38->26 [0.00ms]
+[2026-05-08 10:11:11] SCORE Robert (lawn green): Final=531.5, Time=81.5, Moves(28)=0.0, Pins(1)=100.0, Dist=350.0, Win Bonus=0.0
+[2026-05-08 10:11:11] SCORE jat (gray0): Final=396.6, Time=94.6, Moves(28)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:11] SCORE Group 99 (yellow): Final=1113.3, Time=59.3, Moves(28)=0.0, Pins(7)=700.0, Dist=354.0, Win Bonus=0.0
+[2026-05-08 10:11:11] SCORE The bandits (purple): Final=608.8, Time=96.8, Moves(28)=0.0, Pins(2)=200.0, Dist=312.0, Win Bonus=0.0
+[2026-05-08 10:11:11] SCORE CybSec (red): Final=738.9, Time=88.9, Moves(28)=0.0, Pins(3)=300.0, Dist=350.0, Win Bonus=0.0
+[2026-05-08 10:11:12] MOVE 141: Robert (lawn green) 41->51 [0.00ms]
+[2026-05-08 10:11:12] SCORE Robert (lawn green): Final=532.9, Time=80.9, Moves(29)=0.0, Pins(1)=100.0, Dist=352.0, Win Bonus=0.0
+[2026-05-08 10:11:12] SCORE jat (gray0): Final=396.6, Time=94.6, Moves(28)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:12] SCORE Group 99 (yellow): Final=1113.3, Time=59.3, Moves(28)=0.0, Pins(7)=700.0, Dist=354.0, Win Bonus=0.0
+[2026-05-08 10:11:12] SCORE The bandits (purple): Final=608.8, Time=96.8, Moves(28)=0.0, Pins(2)=200.0, Dist=312.0, Win Bonus=0.0
+[2026-05-08 10:11:12] SCORE CybSec (red): Final=738.9, Time=88.9, Moves(28)=0.0, Pins(3)=300.0, Dist=350.0, Win Bonus=0.0
+[2026-05-08 10:11:13] MOVE 142: Group 99 (yellow) 77->83 [0.00ms]
+[2026-05-08 10:11:13] SCORE Robert (lawn green): Final=532.9, Time=80.9, Moves(29)=0.0, Pins(1)=100.0, Dist=352.0, Win Bonus=0.0
+[2026-05-08 10:11:13] SCORE jat (gray0): Final=396.6, Time=94.6, Moves(28)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:13] SCORE Group 99 (yellow): Final=1124.1, Time=58.1, Moves(29)=0.0, Pins(7)=700.0, Dist=366.0, Win Bonus=0.0
+[2026-05-08 10:11:13] SCORE The bandits (purple): Final=608.8, Time=96.8, Moves(28)=0.0, Pins(2)=200.0, Dist=312.0, Win Bonus=0.0
+[2026-05-08 10:11:13] SCORE CybSec (red): Final=738.9, Time=88.9, Moves(28)=0.0, Pins(3)=300.0, Dist=350.0, Win Bonus=0.0
+[2026-05-08 10:11:13] MOVE 143: jat (gray0) 21->34 [0.00ms]
+[2026-05-08 10:11:13] SCORE Robert (lawn green): Final=532.9, Time=80.9, Moves(29)=0.0, Pins(1)=100.0, Dist=352.0, Win Bonus=0.0
+[2026-05-08 10:11:13] SCORE jat (gray0): Final=396.5, Time=94.5, Moves(29)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:13] SCORE Group 99 (yellow): Final=1124.1, Time=58.1, Moves(29)=0.0, Pins(7)=700.0, Dist=366.0, Win Bonus=0.0
+[2026-05-08 10:11:13] SCORE The bandits (purple): Final=608.8, Time=96.8, Moves(28)=0.0, Pins(2)=200.0, Dist=312.0, Win Bonus=0.0
+[2026-05-08 10:11:13] SCORE CybSec (red): Final=738.9, Time=88.9, Moves(28)=0.0, Pins(3)=300.0, Dist=350.0, Win Bonus=0.0
+[2026-05-08 10:11:13] MOVE 144: The bandits (purple) 71->69 [0.01ms]
+[2026-05-08 10:11:13] SCORE Robert (lawn green): Final=532.9, Time=80.9, Moves(29)=0.0, Pins(1)=100.0, Dist=352.0, Win Bonus=0.0
+[2026-05-08 10:11:13] SCORE jat (gray0): Final=396.5, Time=94.5, Moves(29)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:13] SCORE Group 99 (yellow): Final=1124.1, Time=58.1, Moves(29)=0.0, Pins(7)=700.0, Dist=366.0, Win Bonus=0.0
+[2026-05-08 10:11:13] SCORE The bandits (purple): Final=612.6, Time=96.6, Moves(29)=0.0, Pins(2)=200.0, Dist=316.0, Win Bonus=0.0
+[2026-05-08 10:11:13] SCORE CybSec (red): Final=738.9, Time=88.9, Moves(28)=0.0, Pins(3)=300.0, Dist=350.0, Win Bonus=0.0
+[2026-05-08 10:11:13] MOVE 145: CybSec (red) 16->5 [0.01ms]
+[2026-05-08 10:11:13] SCORE Robert (lawn green): Final=532.9, Time=80.9, Moves(29)=0.0, Pins(1)=100.0, Dist=352.0, Win Bonus=0.0
+[2026-05-08 10:11:13] SCORE jat (gray0): Final=396.5, Time=94.5, Moves(29)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:13] SCORE Group 99 (yellow): Final=1124.1, Time=58.1, Moves(29)=0.0, Pins(7)=700.0, Dist=366.0, Win Bonus=0.0
+[2026-05-08 10:11:13] SCORE The bandits (purple): Final=612.6, Time=96.6, Moves(29)=0.0, Pins(2)=200.0, Dist=316.0, Win Bonus=0.0
+[2026-05-08 10:11:13] SCORE CybSec (red): Final=840.8, Time=88.8, Moves(29)=0.0, Pins(4)=400.0, Dist=352.0, Win Bonus=0.0
+[2026-05-08 10:11:14] MOVE 146: Robert (lawn green) 58->77 [0.01ms]
+[2026-05-08 10:11:14] SCORE Robert (lawn green): Final=536.4, Time=80.4, Moves(30)=0.0, Pins(1)=100.0, Dist=356.0, Win Bonus=0.0
+[2026-05-08 10:11:14] SCORE jat (gray0): Final=396.5, Time=94.5, Moves(29)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:14] SCORE Group 99 (yellow): Final=1124.1, Time=58.1, Moves(29)=0.0, Pins(7)=700.0, Dist=366.0, Win Bonus=0.0
+[2026-05-08 10:11:14] SCORE The bandits (purple): Final=612.6, Time=96.6, Moves(29)=0.0, Pins(2)=200.0, Dist=316.0, Win Bonus=0.0
+[2026-05-08 10:11:14] SCORE CybSec (red): Final=840.8, Time=88.8, Moves(29)=0.0, Pins(4)=400.0, Dist=352.0, Win Bonus=0.0
+[2026-05-08 10:11:15] MOVE 147: Group 99 (yellow) 83->95 [0.01ms]
+[2026-05-08 10:11:15] SCORE Robert (lawn green): Final=536.4, Time=80.4, Moves(30)=0.0, Pins(1)=100.0, Dist=356.0, Win Bonus=0.0
+[2026-05-08 10:11:15] SCORE jat (gray0): Final=396.5, Time=94.5, Moves(29)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:15] SCORE Group 99 (yellow): Final=1225.2, Time=57.2, Moves(30)=0.0, Pins(8)=800.0, Dist=368.0, Win Bonus=0.0
+[2026-05-08 10:11:15] SCORE The bandits (purple): Final=612.6, Time=96.6, Moves(29)=0.0, Pins(2)=200.0, Dist=316.0, Win Bonus=0.0
+[2026-05-08 10:11:15] SCORE CybSec (red): Final=840.8, Time=88.8, Moves(29)=0.0, Pins(4)=400.0, Dist=352.0, Win Bonus=0.0
+[2026-05-08 10:11:15] MOVE 148: jat (gray0) 34->21 [0.01ms]
+[2026-05-08 10:11:15] SCORE Robert (lawn green): Final=536.4, Time=80.4, Moves(30)=0.0, Pins(1)=100.0, Dist=356.0, Win Bonus=0.0
+[2026-05-08 10:11:15] SCORE jat (gray0): Final=396.4, Time=94.4, Moves(30)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:15] SCORE Group 99 (yellow): Final=1225.2, Time=57.2, Moves(30)=0.0, Pins(8)=800.0, Dist=368.0, Win Bonus=0.0
+[2026-05-08 10:11:15] SCORE The bandits (purple): Final=612.6, Time=96.6, Moves(29)=0.0, Pins(2)=200.0, Dist=316.0, Win Bonus=0.0
+[2026-05-08 10:11:15] SCORE CybSec (red): Final=840.8, Time=88.8, Moves(29)=0.0, Pins(4)=400.0, Dist=352.0, Win Bonus=0.0
+[2026-05-08 10:11:15] MOVE 149: The bandits (purple) 80->59 [0.01ms]
+[2026-05-08 10:11:15] SCORE Robert (lawn green): Final=536.4, Time=80.4, Moves(30)=0.0, Pins(1)=100.0, Dist=356.0, Win Bonus=0.0
+[2026-05-08 10:11:15] SCORE jat (gray0): Final=396.4, Time=94.4, Moves(30)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:15] SCORE Group 99 (yellow): Final=1225.2, Time=57.2, Moves(30)=0.0, Pins(8)=800.0, Dist=368.0, Win Bonus=0.0
+[2026-05-08 10:11:15] SCORE The bandits (purple): Final=616.5, Time=96.5, Moves(30)=0.0, Pins(2)=200.0, Dist=320.0, Win Bonus=0.0
+[2026-05-08 10:11:15] SCORE CybSec (red): Final=840.8, Time=88.8, Moves(29)=0.0, Pins(4)=400.0, Dist=352.0, Win Bonus=0.0
+[2026-05-08 10:11:15] MOVE 150: CybSec (red) 103->80 [0.01ms]
+[2026-05-08 10:11:15] SCORE Robert (lawn green): Final=536.4, Time=80.4, Moves(30)=0.0, Pins(1)=100.0, Dist=356.0, Win Bonus=0.0
+[2026-05-08 10:11:15] SCORE jat (gray0): Final=396.4, Time=94.4, Moves(30)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:15] SCORE Group 99 (yellow): Final=1225.2, Time=57.2, Moves(30)=0.0, Pins(8)=800.0, Dist=368.0, Win Bonus=0.0
+[2026-05-08 10:11:15] SCORE The bandits (purple): Final=616.5, Time=96.5, Moves(30)=0.0, Pins(2)=200.0, Dist=320.0, Win Bonus=0.0
+[2026-05-08 10:11:15] SCORE CybSec (red): Final=844.6, Time=88.6, Moves(30)=0.0, Pins(4)=400.0, Dist=356.0, Win Bonus=0.0
+[2026-05-08 10:11:16] MOVE 151: Robert (lawn green) 57->66 [0.01ms]
+[2026-05-08 10:11:16] SCORE Robert (lawn green): Final=537.8, Time=79.8, Moves(31)=0.0, Pins(1)=100.0, Dist=358.0, Win Bonus=0.0
+[2026-05-08 10:11:16] SCORE jat (gray0): Final=396.4, Time=94.4, Moves(30)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:16] SCORE Group 99 (yellow): Final=1225.2, Time=57.2, Moves(30)=0.0, Pins(8)=800.0, Dist=368.0, Win Bonus=0.0
+[2026-05-08 10:11:16] SCORE The bandits (purple): Final=616.5, Time=96.5, Moves(30)=0.0, Pins(2)=200.0, Dist=320.0, Win Bonus=0.0
+[2026-05-08 10:11:16] SCORE CybSec (red): Final=844.6, Time=88.6, Moves(30)=0.0, Pins(4)=400.0, Dist=356.0, Win Bonus=0.0
+[2026-05-08 10:11:17] MOVE 152: Group 99 (yellow) 11->24 [0.01ms]
+[2026-05-08 10:11:17] SCORE Robert (lawn green): Final=537.8, Time=79.8, Moves(31)=0.0, Pins(1)=100.0, Dist=358.0, Win Bonus=0.0
+[2026-05-08 10:11:17] SCORE jat (gray0): Final=396.4, Time=94.4, Moves(30)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:17] SCORE Group 99 (yellow): Final=1226.4, Time=56.4, Moves(31)=0.0, Pins(8)=800.0, Dist=370.0, Win Bonus=0.0
+[2026-05-08 10:11:17] SCORE The bandits (purple): Final=616.5, Time=96.5, Moves(30)=0.0, Pins(2)=200.0, Dist=320.0, Win Bonus=0.0
+[2026-05-08 10:11:17] SCORE CybSec (red): Final=844.6, Time=88.6, Moves(30)=0.0, Pins(4)=400.0, Dist=356.0, Win Bonus=0.0
+[2026-05-08 10:11:17] MOVE 153: jat (gray0) 21->34 [0.01ms]
+[2026-05-08 10:11:17] SCORE Robert (lawn green): Final=537.8, Time=79.8, Moves(31)=0.0, Pins(1)=100.0, Dist=358.0, Win Bonus=0.0
+[2026-05-08 10:11:17] SCORE jat (gray0): Final=396.2, Time=94.2, Moves(31)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:17] SCORE Group 99 (yellow): Final=1226.4, Time=56.4, Moves(31)=0.0, Pins(8)=800.0, Dist=370.0, Win Bonus=0.0
+[2026-05-08 10:11:17] SCORE The bandits (purple): Final=616.5, Time=96.5, Moves(30)=0.0, Pins(2)=200.0, Dist=320.0, Win Bonus=0.0
+[2026-05-08 10:11:17] SCORE CybSec (red): Final=844.6, Time=88.6, Moves(30)=0.0, Pins(4)=400.0, Dist=356.0, Win Bonus=0.0
+[2026-05-08 10:11:17] MOVE 154: The bandits (purple) 59->13 [0.00ms]
+[2026-05-08 10:11:17] SCORE Robert (lawn green): Final=537.8, Time=79.8, Moves(31)=0.0, Pins(1)=100.0, Dist=358.0, Win Bonus=0.0
+[2026-05-08 10:11:17] SCORE jat (gray0): Final=396.2, Time=94.2, Moves(31)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:17] SCORE Group 99 (yellow): Final=1226.4, Time=56.4, Moves(31)=0.0, Pins(8)=800.0, Dist=370.0, Win Bonus=0.0
+[2026-05-08 10:11:17] SCORE The bandits (purple): Final=724.4, Time=96.4, Moves(31)=0.0, Pins(3)=300.0, Dist=328.0, Win Bonus=0.0
+[2026-05-08 10:11:17] SCORE CybSec (red): Final=844.6, Time=88.6, Moves(30)=0.0, Pins(4)=400.0, Dist=356.0, Win Bonus=0.0
+[2026-05-08 10:11:17] MOVE 155: CybSec (red) 14->3 [0.01ms]
+[2026-05-08 10:11:17] SCORE Robert (lawn green): Final=537.8, Time=79.8, Moves(31)=0.0, Pins(1)=100.0, Dist=358.0, Win Bonus=0.0
+[2026-05-08 10:11:17] SCORE jat (gray0): Final=396.2, Time=94.2, Moves(31)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:17] SCORE Group 99 (yellow): Final=1226.4, Time=56.4, Moves(31)=0.0, Pins(8)=800.0, Dist=370.0, Win Bonus=0.0
+[2026-05-08 10:11:17] SCORE The bandits (purple): Final=724.4, Time=96.4, Moves(31)=0.0, Pins(3)=300.0, Dist=328.0, Win Bonus=0.0
+[2026-05-08 10:11:17] SCORE CybSec (red): Final=946.4, Time=88.4, Moves(31)=0.0, Pins(5)=500.0, Dist=358.0, Win Bonus=0.0
+[2026-05-08 10:11:18] MOVE 156: Robert (lawn green) 36->46 [0.01ms]
+[2026-05-08 10:11:18] SCORE Robert (lawn green): Final=539.4, Time=79.4, Moves(32)=0.0, Pins(1)=100.0, Dist=360.0, Win Bonus=0.0
+[2026-05-08 10:11:18] SCORE jat (gray0): Final=396.2, Time=94.2, Moves(31)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:18] SCORE Group 99 (yellow): Final=1226.4, Time=56.4, Moves(31)=0.0, Pins(8)=800.0, Dist=370.0, Win Bonus=0.0
+[2026-05-08 10:11:18] SCORE The bandits (purple): Final=724.4, Time=96.4, Moves(31)=0.0, Pins(3)=300.0, Dist=328.0, Win Bonus=0.0
+[2026-05-08 10:11:18] SCORE CybSec (red): Final=946.4, Time=88.4, Moves(31)=0.0, Pins(5)=500.0, Dist=358.0, Win Bonus=0.0
+[2026-05-08 10:11:19] MOVE 157: Group 99 (yellow) 24->36 [0.01ms]
+[2026-05-08 10:11:19] SCORE Robert (lawn green): Final=539.4, Time=79.4, Moves(32)=0.0, Pins(1)=100.0, Dist=360.0, Win Bonus=0.0
+[2026-05-08 10:11:19] SCORE jat (gray0): Final=396.2, Time=94.2, Moves(31)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:19] SCORE Group 99 (yellow): Final=1227.3, Time=55.3, Moves(32)=0.0, Pins(8)=800.0, Dist=372.0, Win Bonus=0.0
+[2026-05-08 10:11:19] SCORE The bandits (purple): Final=724.4, Time=96.4, Moves(31)=0.0, Pins(3)=300.0, Dist=328.0, Win Bonus=0.0
+[2026-05-08 10:11:19] SCORE CybSec (red): Final=946.4, Time=88.4, Moves(31)=0.0, Pins(5)=500.0, Dist=358.0, Win Bonus=0.0
+[2026-05-08 10:11:19] MOVE 158: jat (gray0) 34->21 [0.01ms]
+[2026-05-08 10:11:19] SCORE Robert (lawn green): Final=539.4, Time=79.4, Moves(32)=0.0, Pins(1)=100.0, Dist=360.0, Win Bonus=0.0
+[2026-05-08 10:11:19] SCORE jat (gray0): Final=396.1, Time=94.1, Moves(32)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:19] SCORE Group 99 (yellow): Final=1227.3, Time=55.3, Moves(32)=0.0, Pins(8)=800.0, Dist=372.0, Win Bonus=0.0
+[2026-05-08 10:11:19] SCORE The bandits (purple): Final=724.4, Time=96.4, Moves(31)=0.0, Pins(3)=300.0, Dist=328.0, Win Bonus=0.0
+[2026-05-08 10:11:19] SCORE CybSec (red): Final=946.4, Time=88.4, Moves(31)=0.0, Pins(5)=500.0, Dist=358.0, Win Bonus=0.0
+[2026-05-08 10:11:19] MOVE 159: The bandits (purple) 61->38 [0.01ms]
+[2026-05-08 10:11:19] SCORE Robert (lawn green): Final=539.4, Time=79.4, Moves(32)=0.0, Pins(1)=100.0, Dist=360.0, Win Bonus=0.0
+[2026-05-08 10:11:19] SCORE jat (gray0): Final=396.1, Time=94.1, Moves(32)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:19] SCORE Group 99 (yellow): Final=1227.3, Time=55.3, Moves(32)=0.0, Pins(8)=800.0, Dist=372.0, Win Bonus=0.0
+[2026-05-08 10:11:19] SCORE The bandits (purple): Final=732.3, Time=96.3, Moves(32)=0.0, Pins(3)=300.0, Dist=336.0, Win Bonus=0.0
+[2026-05-08 10:11:19] SCORE CybSec (red): Final=946.4, Time=88.4, Moves(31)=0.0, Pins(5)=500.0, Dist=358.0, Win Bonus=0.0
+[2026-05-08 10:11:19] MOVE 160: CybSec (red) 80->40 [0.01ms]
+[2026-05-08 10:11:19] SCORE Robert (lawn green): Final=539.4, Time=79.4, Moves(32)=0.0, Pins(1)=100.0, Dist=360.0, Win Bonus=0.0
+[2026-05-08 10:11:19] SCORE jat (gray0): Final=396.1, Time=94.1, Moves(32)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:19] SCORE Group 99 (yellow): Final=1227.3, Time=55.3, Moves(32)=0.0, Pins(8)=800.0, Dist=372.0, Win Bonus=0.0
+[2026-05-08 10:11:19] SCORE The bandits (purple): Final=732.3, Time=96.3, Moves(32)=0.0, Pins(3)=300.0, Dist=336.0, Win Bonus=0.0
+[2026-05-08 10:11:19] SCORE CybSec (red): Final=954.1, Time=88.1, Moves(32)=0.0, Pins(5)=500.0, Dist=366.0, Win Bonus=0.0
+[2026-05-08 10:11:19] MOVE 161: Robert (lawn green) 51->61 [0.01ms]
+[2026-05-08 10:11:19] SCORE Robert (lawn green): Final=539.2, Time=79.2, Moves(33)=0.0, Pins(1)=100.0, Dist=360.0, Win Bonus=0.0
+[2026-05-08 10:11:19] SCORE jat (gray0): Final=396.1, Time=94.1, Moves(32)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:19] SCORE Group 99 (yellow): Final=1227.3, Time=55.3, Moves(32)=0.0, Pins(8)=800.0, Dist=372.0, Win Bonus=0.0
+[2026-05-08 10:11:19] SCORE The bandits (purple): Final=732.3, Time=96.3, Moves(32)=0.0, Pins(3)=300.0, Dist=336.0, Win Bonus=0.0
+[2026-05-08 10:11:19] SCORE CybSec (red): Final=954.1, Time=88.1, Moves(32)=0.0, Pins(5)=500.0, Dist=366.0, Win Bonus=0.0
+[2026-05-08 10:11:20] MOVE 162: Group 99 (yellow) 36->103 [0.01ms]
+[2026-05-08 10:11:20] SCORE Robert (lawn green): Final=539.2, Time=79.2, Moves(33)=0.0, Pins(1)=100.0, Dist=360.0, Win Bonus=0.0
+[2026-05-08 10:11:20] SCORE jat (gray0): Final=396.1, Time=94.1, Moves(32)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:20] SCORE Group 99 (yellow): Final=1238.5, Time=54.5, Moves(33)=0.0, Pins(8)=800.0, Dist=384.0, Win Bonus=0.0
+[2026-05-08 10:11:20] SCORE The bandits (purple): Final=732.3, Time=96.3, Moves(32)=0.0, Pins(3)=300.0, Dist=336.0, Win Bonus=0.0
+[2026-05-08 10:11:20] SCORE CybSec (red): Final=954.1, Time=88.1, Moves(32)=0.0, Pins(5)=500.0, Dist=366.0, Win Bonus=0.0
+[2026-05-08 10:11:20] MOVE 163: jat (gray0) 21->34 [0.01ms]
+[2026-05-08 10:11:20] SCORE Robert (lawn green): Final=539.2, Time=79.2, Moves(33)=0.0, Pins(1)=100.0, Dist=360.0, Win Bonus=0.0
+[2026-05-08 10:11:20] SCORE jat (gray0): Final=396.0, Time=94.0, Moves(33)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:20] SCORE Group 99 (yellow): Final=1238.5, Time=54.5, Moves(33)=0.0, Pins(8)=800.0, Dist=384.0, Win Bonus=0.0
+[2026-05-08 10:11:20] SCORE The bandits (purple): Final=732.3, Time=96.3, Moves(32)=0.0, Pins(3)=300.0, Dist=336.0, Win Bonus=0.0
+[2026-05-08 10:11:20] SCORE CybSec (red): Final=954.1, Time=88.1, Moves(32)=0.0, Pins(5)=500.0, Dist=366.0, Win Bonus=0.0
+[2026-05-08 10:11:20] MOVE 164: The bandits (purple) 38->36 [0.01ms]
+[2026-05-08 10:11:20] SCORE Robert (lawn green): Final=539.2, Time=79.2, Moves(33)=0.0, Pins(1)=100.0, Dist=360.0, Win Bonus=0.0
+[2026-05-08 10:11:20] SCORE jat (gray0): Final=396.0, Time=94.0, Moves(33)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:20] SCORE Group 99 (yellow): Final=1238.5, Time=54.5, Moves(33)=0.0, Pins(8)=800.0, Dist=384.0, Win Bonus=0.0
+[2026-05-08 10:11:20] SCORE The bandits (purple): Final=836.2, Time=96.2, Moves(33)=0.0, Pins(4)=400.0, Dist=340.0, Win Bonus=0.0
+[2026-05-08 10:11:20] SCORE CybSec (red): Final=954.1, Time=88.1, Moves(32)=0.0, Pins(5)=500.0, Dist=366.0, Win Bonus=0.0
+[2026-05-08 10:11:21] MOVE 165: CybSec (red) 37->14 [0.01ms]
+[2026-05-08 10:11:21] SCORE Robert (lawn green): Final=539.2, Time=79.2, Moves(33)=0.0, Pins(1)=100.0, Dist=360.0, Win Bonus=0.0
+[2026-05-08 10:11:21] SCORE jat (gray0): Final=396.0, Time=94.0, Moves(33)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:21] SCORE Group 99 (yellow): Final=1238.5, Time=54.5, Moves(33)=0.0, Pins(8)=800.0, Dist=384.0, Win Bonus=0.0
+[2026-05-08 10:11:21] SCORE The bandits (purple): Final=836.2, Time=96.2, Moves(33)=0.0, Pins(4)=400.0, Dist=340.0, Win Bonus=0.0
+[2026-05-08 10:11:21] SCORE CybSec (red): Final=957.9, Time=87.9, Moves(33)=0.0, Pins(5)=500.0, Dist=370.0, Win Bonus=0.0
+[2026-05-08 10:11:21] MOVE 166: Robert (lawn green) 61->57 [0.01ms]
+[2026-05-08 10:11:21] SCORE Robert (lawn green): Final=546.5, Time=78.5, Moves(34)=0.0, Pins(1)=100.0, Dist=368.0, Win Bonus=0.0
+[2026-05-08 10:11:21] SCORE jat (gray0): Final=396.0, Time=94.0, Moves(33)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:21] SCORE Group 99 (yellow): Final=1238.5, Time=54.5, Moves(33)=0.0, Pins(8)=800.0, Dist=384.0, Win Bonus=0.0
+[2026-05-08 10:11:21] SCORE The bandits (purple): Final=836.2, Time=96.2, Moves(33)=0.0, Pins(4)=400.0, Dist=340.0, Win Bonus=0.0
+[2026-05-08 10:11:21] SCORE CybSec (red): Final=957.9, Time=87.9, Moves(33)=0.0, Pins(5)=500.0, Dist=370.0, Win Bonus=0.0
+[2026-05-08 10:11:22] MOVE 167: Group 99 (yellow) 42->53 [0.01ms]
+[2026-05-08 10:11:22] SCORE Robert (lawn green): Final=546.5, Time=78.5, Moves(34)=0.0, Pins(1)=100.0, Dist=368.0, Win Bonus=0.0
+[2026-05-08 10:11:22] SCORE jat (gray0): Final=396.0, Time=94.0, Moves(33)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:22] SCORE Group 99 (yellow): Final=1239.6, Time=53.6, Moves(34)=0.0, Pins(8)=800.0, Dist=386.0, Win Bonus=0.0
+[2026-05-08 10:11:22] SCORE The bandits (purple): Final=836.2, Time=96.2, Moves(33)=0.0, Pins(4)=400.0, Dist=340.0, Win Bonus=0.0
+[2026-05-08 10:11:22] SCORE CybSec (red): Final=957.9, Time=87.9, Moves(33)=0.0, Pins(5)=500.0, Dist=370.0, Win Bonus=0.0
+[2026-05-08 10:11:22] MOVE 168: jat (gray0) 34->21 [0.01ms]
+[2026-05-08 10:11:22] SCORE Robert (lawn green): Final=546.5, Time=78.5, Moves(34)=0.0, Pins(1)=100.0, Dist=368.0, Win Bonus=0.0
+[2026-05-08 10:11:22] SCORE jat (gray0): Final=395.9, Time=93.9, Moves(34)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:22] SCORE Group 99 (yellow): Final=1239.6, Time=53.6, Moves(34)=0.0, Pins(8)=800.0, Dist=386.0, Win Bonus=0.0
+[2026-05-08 10:11:22] SCORE The bandits (purple): Final=836.2, Time=96.2, Moves(33)=0.0, Pins(4)=400.0, Dist=340.0, Win Bonus=0.0
+[2026-05-08 10:11:22] SCORE CybSec (red): Final=957.9, Time=87.9, Moves(33)=0.0, Pins(5)=500.0, Dist=370.0, Win Bonus=0.0
+[2026-05-08 10:11:22] MOVE 169: The bandits (purple) 13->12 [0.01ms]
+[2026-05-08 10:11:22] SCORE Robert (lawn green): Final=546.5, Time=78.5, Moves(34)=0.0, Pins(1)=100.0, Dist=368.0, Win Bonus=0.0
+[2026-05-08 10:11:22] SCORE jat (gray0): Final=395.9, Time=93.9, Moves(34)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:22] SCORE Group 99 (yellow): Final=1239.6, Time=53.6, Moves(34)=0.0, Pins(8)=800.0, Dist=386.0, Win Bonus=0.0
+[2026-05-08 10:11:22] SCORE The bandits (purple): Final=836.1, Time=96.1, Moves(34)=0.0, Pins(4)=400.0, Dist=340.0, Win Bonus=0.0
+[2026-05-08 10:11:22] SCORE CybSec (red): Final=957.9, Time=87.9, Moves(33)=0.0, Pins(5)=500.0, Dist=370.0, Win Bonus=0.0
+[2026-05-08 10:11:23] MOVE 170: CybSec (red) 89->78 [0.01ms]
+[2026-05-08 10:11:23] SCORE Robert (lawn green): Final=546.5, Time=78.5, Moves(34)=0.0, Pins(1)=100.0, Dist=368.0, Win Bonus=0.0
+[2026-05-08 10:11:23] SCORE jat (gray0): Final=395.9, Time=93.9, Moves(34)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:23] SCORE Group 99 (yellow): Final=1239.6, Time=53.6, Moves(34)=0.0, Pins(8)=800.0, Dist=386.0, Win Bonus=0.0
+[2026-05-08 10:11:23] SCORE The bandits (purple): Final=836.1, Time=96.1, Moves(34)=0.0, Pins(4)=400.0, Dist=340.0, Win Bonus=0.0
+[2026-05-08 10:11:23] SCORE CybSec (red): Final=959.7, Time=87.7, Moves(34)=0.0, Pins(5)=500.0, Dist=372.0, Win Bonus=0.0
+[2026-05-08 10:11:23] MOVE 171: Robert (lawn green) 111->102 [0.01ms]
+[2026-05-08 10:11:23] SCORE Robert (lawn green): Final=547.7, Time=77.7, Moves(35)=0.0, Pins(1)=100.0, Dist=370.0, Win Bonus=0.0
+[2026-05-08 10:11:23] SCORE jat (gray0): Final=395.9, Time=93.9, Moves(34)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:23] SCORE Group 99 (yellow): Final=1239.6, Time=53.6, Moves(34)=0.0, Pins(8)=800.0, Dist=386.0, Win Bonus=0.0
+[2026-05-08 10:11:23] SCORE The bandits (purple): Final=836.1, Time=96.1, Moves(34)=0.0, Pins(4)=400.0, Dist=340.0, Win Bonus=0.0
+[2026-05-08 10:11:23] SCORE CybSec (red): Final=959.7, Time=87.7, Moves(34)=0.0, Pins(5)=500.0, Dist=372.0, Win Bonus=0.0
+[2026-05-08 10:11:24] MOVE 172: Group 99 (yellow) 53->63 [0.00ms]
+[2026-05-08 10:11:24] SCORE Robert (lawn green): Final=547.7, Time=77.7, Moves(35)=0.0, Pins(1)=100.0, Dist=370.0, Win Bonus=0.0
+[2026-05-08 10:11:24] SCORE jat (gray0): Final=395.9, Time=93.9, Moves(34)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:24] SCORE Group 99 (yellow): Final=1240.7, Time=52.7, Moves(35)=0.0, Pins(8)=800.0, Dist=388.0, Win Bonus=0.0
+[2026-05-08 10:11:24] SCORE The bandits (purple): Final=836.1, Time=96.1, Moves(34)=0.0, Pins(4)=400.0, Dist=340.0, Win Bonus=0.0
+[2026-05-08 10:11:24] SCORE CybSec (red): Final=959.7, Time=87.7, Moves(34)=0.0, Pins(5)=500.0, Dist=372.0, Win Bonus=0.0
+[2026-05-08 10:11:25] MOVE 173: jat (gray0) 21->34 [0.00ms]
+[2026-05-08 10:11:25] SCORE Robert (lawn green): Final=547.7, Time=77.7, Moves(35)=0.0, Pins(1)=100.0, Dist=370.0, Win Bonus=0.0
+[2026-05-08 10:11:25] SCORE jat (gray0): Final=395.7, Time=93.6, Moves(35)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:25] SCORE Group 99 (yellow): Final=1240.7, Time=52.7, Moves(35)=0.0, Pins(8)=800.0, Dist=388.0, Win Bonus=0.0
+[2026-05-08 10:11:25] SCORE The bandits (purple): Final=836.1, Time=96.1, Moves(34)=0.0, Pins(4)=400.0, Dist=340.0, Win Bonus=0.0
+[2026-05-08 10:11:25] SCORE CybSec (red): Final=959.7, Time=87.7, Moves(34)=0.0, Pins(5)=500.0, Dist=372.0, Win Bonus=0.0
+[2026-05-08 10:11:25] MOVE 174: The bandits (purple) 12->10 [0.00ms]
+[2026-05-08 10:11:25] SCORE Robert (lawn green): Final=547.7, Time=77.7, Moves(35)=0.0, Pins(1)=100.0, Dist=370.0, Win Bonus=0.0
+[2026-05-08 10:11:25] SCORE jat (gray0): Final=395.7, Time=93.6, Moves(35)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:25] SCORE Group 99 (yellow): Final=1240.7, Time=52.7, Moves(35)=0.0, Pins(8)=800.0, Dist=388.0, Win Bonus=0.0
+[2026-05-08 10:11:25] SCORE The bandits (purple): Final=836.0, Time=96.0, Moves(35)=0.0, Pins(4)=400.0, Dist=340.0, Win Bonus=0.0
+[2026-05-08 10:11:25] SCORE CybSec (red): Final=959.7, Time=87.7, Moves(34)=0.0, Pins(5)=500.0, Dist=372.0, Win Bonus=0.0
+[2026-05-08 10:11:25] MOVE 175: CybSec (red) 78->61 [0.00ms]
+[2026-05-08 10:11:25] SCORE Robert (lawn green): Final=547.7, Time=77.7, Moves(35)=0.0, Pins(1)=100.0, Dist=370.0, Win Bonus=0.0
+[2026-05-08 10:11:25] SCORE jat (gray0): Final=395.7, Time=93.6, Moves(35)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:25] SCORE Group 99 (yellow): Final=1240.7, Time=52.7, Moves(35)=0.0, Pins(8)=800.0, Dist=388.0, Win Bonus=0.0
+[2026-05-08 10:11:25] SCORE The bandits (purple): Final=836.0, Time=96.0, Moves(35)=0.0, Pins(4)=400.0, Dist=340.0, Win Bonus=0.0
+[2026-05-08 10:11:25] SCORE CybSec (red): Final=963.5, Time=87.5, Moves(35)=0.0, Pins(5)=500.0, Dist=376.0, Win Bonus=0.0
+[2026-05-08 10:11:25] MOVE 176: Robert (lawn green) 91->89 [0.00ms]
+[2026-05-08 10:11:25] SCORE Robert (lawn green): Final=551.4, Time=77.3, Moves(36)=0.1, Pins(1)=100.0, Dist=374.0, Win Bonus=0.0
+[2026-05-08 10:11:25] SCORE jat (gray0): Final=395.7, Time=93.6, Moves(35)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:25] SCORE Group 99 (yellow): Final=1240.7, Time=52.7, Moves(35)=0.0, Pins(8)=800.0, Dist=388.0, Win Bonus=0.0
+[2026-05-08 10:11:25] SCORE The bandits (purple): Final=836.0, Time=96.0, Moves(35)=0.0, Pins(4)=400.0, Dist=340.0, Win Bonus=0.0
+[2026-05-08 10:11:25] SCORE CybSec (red): Final=963.5, Time=87.5, Moves(35)=0.0, Pins(5)=500.0, Dist=376.0, Win Bonus=0.0
+[2026-05-08 10:11:26] MOVE 177: Group 99 (yellow) 63->64 [0.01ms]
+[2026-05-08 10:11:26] SCORE Robert (lawn green): Final=551.4, Time=77.3, Moves(36)=0.1, Pins(1)=100.0, Dist=374.0, Win Bonus=0.0
+[2026-05-08 10:11:26] SCORE jat (gray0): Final=395.7, Time=93.6, Moves(35)=0.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:26] SCORE Group 99 (yellow): Final=1241.9, Time=51.8, Moves(36)=0.1, Pins(8)=800.0, Dist=390.0, Win Bonus=0.0
+[2026-05-08 10:11:26] SCORE The bandits (purple): Final=836.0, Time=96.0, Moves(35)=0.0, Pins(4)=400.0, Dist=340.0, Win Bonus=0.0
+[2026-05-08 10:11:26] SCORE CybSec (red): Final=963.5, Time=87.5, Moves(35)=0.0, Pins(5)=500.0, Dist=376.0, Win Bonus=0.0
+[2026-05-08 10:11:26] MOVE 178: jat (gray0) 34->21 [0.01ms]
+[2026-05-08 10:11:26] SCORE Robert (lawn green): Final=551.4, Time=77.3, Moves(36)=0.1, Pins(1)=100.0, Dist=374.0, Win Bonus=0.0
+[2026-05-08 10:11:26] SCORE jat (gray0): Final=395.5, Time=93.4, Moves(36)=0.1, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:26] SCORE Group 99 (yellow): Final=1241.9, Time=51.8, Moves(36)=0.1, Pins(8)=800.0, Dist=390.0, Win Bonus=0.0
+[2026-05-08 10:11:26] SCORE The bandits (purple): Final=836.0, Time=96.0, Moves(35)=0.0, Pins(4)=400.0, Dist=340.0, Win Bonus=0.0
+[2026-05-08 10:11:26] SCORE CybSec (red): Final=963.5, Time=87.5, Moves(35)=0.0, Pins(5)=500.0, Dist=376.0, Win Bonus=0.0
+[2026-05-08 10:11:26] MOVE 179: The bandits (purple) 82->81 [0.00ms]
+[2026-05-08 10:11:26] SCORE Robert (lawn green): Final=551.4, Time=77.3, Moves(36)=0.1, Pins(1)=100.0, Dist=374.0, Win Bonus=0.0
+[2026-05-08 10:11:26] SCORE jat (gray0): Final=395.5, Time=93.4, Moves(36)=0.1, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:26] SCORE Group 99 (yellow): Final=1241.9, Time=51.8, Moves(36)=0.1, Pins(8)=800.0, Dist=390.0, Win Bonus=0.0
+[2026-05-08 10:11:26] SCORE The bandits (purple): Final=838.0, Time=95.9, Moves(36)=0.1, Pins(4)=400.0, Dist=342.0, Win Bonus=0.0
+[2026-05-08 10:11:26] SCORE CybSec (red): Final=963.5, Time=87.5, Moves(35)=0.0, Pins(5)=500.0, Dist=376.0, Win Bonus=0.0
+[2026-05-08 10:11:27] MOVE 180: CybSec (red) 61->51 [0.01ms]
+[2026-05-08 10:11:27] SCORE Robert (lawn green): Final=551.4, Time=77.3, Moves(36)=0.1, Pins(1)=100.0, Dist=374.0, Win Bonus=0.0
+[2026-05-08 10:11:27] SCORE jat (gray0): Final=395.5, Time=93.4, Moves(36)=0.1, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:27] SCORE Group 99 (yellow): Final=1241.9, Time=51.8, Moves(36)=0.1, Pins(8)=800.0, Dist=390.0, Win Bonus=0.0
+[2026-05-08 10:11:27] SCORE The bandits (purple): Final=838.0, Time=95.9, Moves(36)=0.1, Pins(4)=400.0, Dist=342.0, Win Bonus=0.0
+[2026-05-08 10:11:27] SCORE CybSec (red): Final=965.4, Time=87.3, Moves(36)=0.1, Pins(5)=500.0, Dist=378.0, Win Bonus=0.0
+[2026-05-08 10:11:27] MOVE 181: Robert (lawn green) 57->59 [0.01ms]
+[2026-05-08 10:11:27] SCORE Robert (lawn green): Final=547.0, Time=76.9, Moves(37)=0.1, Pins(1)=100.0, Dist=370.0, Win Bonus=0.0
+[2026-05-08 10:11:27] SCORE jat (gray0): Final=395.5, Time=93.4, Moves(36)=0.1, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:27] SCORE Group 99 (yellow): Final=1241.9, Time=51.8, Moves(36)=0.1, Pins(8)=800.0, Dist=390.0, Win Bonus=0.0
+[2026-05-08 10:11:27] SCORE The bandits (purple): Final=838.0, Time=95.9, Moves(36)=0.1, Pins(4)=400.0, Dist=342.0, Win Bonus=0.0
+[2026-05-08 10:11:27] SCORE CybSec (red): Final=965.4, Time=87.3, Moves(36)=0.1, Pins(5)=500.0, Dist=378.0, Win Bonus=0.0
+[2026-05-08 10:11:28] MOVE 182: Group 99 (yellow) 103->104 [0.01ms]
+[2026-05-08 10:11:28] SCORE Robert (lawn green): Final=547.0, Time=76.9, Moves(37)=0.1, Pins(1)=100.0, Dist=370.0, Win Bonus=0.0
+[2026-05-08 10:11:28] SCORE jat (gray0): Final=395.5, Time=93.4, Moves(36)=0.1, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:28] SCORE Group 99 (yellow): Final=1243.1, Time=51.0, Moves(37)=0.1, Pins(8)=800.0, Dist=392.0, Win Bonus=0.0
+[2026-05-08 10:11:28] SCORE The bandits (purple): Final=838.0, Time=95.9, Moves(36)=0.1, Pins(4)=400.0, Dist=342.0, Win Bonus=0.0
+[2026-05-08 10:11:28] SCORE CybSec (red): Final=965.4, Time=87.3, Moves(36)=0.1, Pins(5)=500.0, Dist=378.0, Win Bonus=0.0
+[2026-05-08 10:11:28] MOVE 183: jat (gray0) 21->34 [0.01ms]
+[2026-05-08 10:11:28] SCORE Robert (lawn green): Final=547.0, Time=76.9, Moves(37)=0.1, Pins(1)=100.0, Dist=370.0, Win Bonus=0.0
+[2026-05-08 10:11:28] SCORE jat (gray0): Final=395.3, Time=93.2, Moves(37)=0.1, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:28] SCORE Group 99 (yellow): Final=1243.1, Time=51.0, Moves(37)=0.1, Pins(8)=800.0, Dist=392.0, Win Bonus=0.0
+[2026-05-08 10:11:28] SCORE The bandits (purple): Final=838.0, Time=95.9, Moves(36)=0.1, Pins(4)=400.0, Dist=342.0, Win Bonus=0.0
+[2026-05-08 10:11:28] SCORE CybSec (red): Final=965.4, Time=87.3, Moves(36)=0.1, Pins(5)=500.0, Dist=378.0, Win Bonus=0.0
+[2026-05-08 10:11:28] MOVE 184: The bandits (purple) 25->24 [0.01ms]
+[2026-05-08 10:11:28] SCORE Robert (lawn green): Final=547.0, Time=76.9, Moves(37)=0.1, Pins(1)=100.0, Dist=370.0, Win Bonus=0.0
+[2026-05-08 10:11:28] SCORE jat (gray0): Final=395.3, Time=93.2, Moves(37)=0.1, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:28] SCORE Group 99 (yellow): Final=1243.1, Time=51.0, Moves(37)=0.1, Pins(8)=800.0, Dist=392.0, Win Bonus=0.0
+[2026-05-08 10:11:28] SCORE The bandits (purple): Final=837.9, Time=95.8, Moves(37)=0.1, Pins(4)=400.0, Dist=342.0, Win Bonus=0.0
+[2026-05-08 10:11:28] SCORE CybSec (red): Final=965.4, Time=87.3, Moves(36)=0.1, Pins(5)=500.0, Dist=378.0, Win Bonus=0.0
+[2026-05-08 10:11:28] MOVE 185: CybSec (red) 51->28 [0.01ms]
+[2026-05-08 10:11:28] SCORE Robert (lawn green): Final=547.0, Time=76.9, Moves(37)=0.1, Pins(1)=100.0, Dist=370.0, Win Bonus=0.0
+[2026-05-08 10:11:28] SCORE jat (gray0): Final=395.3, Time=93.2, Moves(37)=0.1, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:28] SCORE Group 99 (yellow): Final=1243.1, Time=51.0, Moves(37)=0.1, Pins(8)=800.0, Dist=392.0, Win Bonus=0.0
+[2026-05-08 10:11:28] SCORE The bandits (purple): Final=837.9, Time=95.8, Moves(37)=0.1, Pins(4)=400.0, Dist=342.0, Win Bonus=0.0
+[2026-05-08 10:11:28] SCORE CybSec (red): Final=969.3, Time=87.2, Moves(37)=0.1, Pins(5)=500.0, Dist=382.0, Win Bonus=0.0
+[2026-05-08 10:11:29] MOVE 186: Robert (lawn green) 59->78 [0.01ms]
+[2026-05-08 10:11:29] SCORE Robert (lawn green): Final=550.6, Time=76.3, Moves(38)=0.2, Pins(1)=100.0, Dist=374.0, Win Bonus=0.0
+[2026-05-08 10:11:29] SCORE jat (gray0): Final=395.3, Time=93.2, Moves(37)=0.1, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:29] SCORE Group 99 (yellow): Final=1243.1, Time=51.0, Moves(37)=0.1, Pins(8)=800.0, Dist=392.0, Win Bonus=0.0
+[2026-05-08 10:11:29] SCORE The bandits (purple): Final=837.9, Time=95.8, Moves(37)=0.1, Pins(4)=400.0, Dist=342.0, Win Bonus=0.0
+[2026-05-08 10:11:29] SCORE CybSec (red): Final=969.3, Time=87.2, Moves(37)=0.1, Pins(5)=500.0, Dist=382.0, Win Bonus=0.0
+[2026-05-08 10:11:30] MOVE 187: Group 99 (yellow) 104->92 [0.00ms]
+[2026-05-08 10:11:30] SCORE Robert (lawn green): Final=550.6, Time=76.3, Moves(38)=0.2, Pins(1)=100.0, Dist=374.0, Win Bonus=0.0
+[2026-05-08 10:11:30] SCORE jat (gray0): Final=395.3, Time=93.2, Moves(37)=0.1, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:30] SCORE Group 99 (yellow): Final=1242.5, Time=50.3, Moves(38)=0.2, Pins(8)=800.0, Dist=392.0, Win Bonus=0.0
+[2026-05-08 10:11:30] SCORE The bandits (purple): Final=837.9, Time=95.8, Moves(37)=0.1, Pins(4)=400.0, Dist=342.0, Win Bonus=0.0
+[2026-05-08 10:11:30] SCORE CybSec (red): Final=969.3, Time=87.2, Moves(37)=0.1, Pins(5)=500.0, Dist=382.0, Win Bonus=0.0
+[2026-05-08 10:11:30] MOVE 188: jat (gray0) 34->21 [0.00ms]
+[2026-05-08 10:11:30] SCORE Robert (lawn green): Final=550.6, Time=76.3, Moves(38)=0.2, Pins(1)=100.0, Dist=374.0, Win Bonus=0.0
+[2026-05-08 10:11:30] SCORE jat (gray0): Final=395.2, Time=93.0, Moves(38)=0.2, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:30] SCORE Group 99 (yellow): Final=1242.5, Time=50.3, Moves(38)=0.2, Pins(8)=800.0, Dist=392.0, Win Bonus=0.0
+[2026-05-08 10:11:30] SCORE The bandits (purple): Final=837.9, Time=95.8, Moves(37)=0.1, Pins(4)=400.0, Dist=342.0, Win Bonus=0.0
+[2026-05-08 10:11:30] SCORE CybSec (red): Final=969.3, Time=87.2, Moves(37)=0.1, Pins(5)=500.0, Dist=382.0, Win Bonus=0.0
+[2026-05-08 10:11:30] MOVE 189: The bandits (purple) 70->25 [0.00ms]
+[2026-05-08 10:11:30] SCORE Robert (lawn green): Final=550.6, Time=76.3, Moves(38)=0.2, Pins(1)=100.0, Dist=374.0, Win Bonus=0.0
+[2026-05-08 10:11:30] SCORE jat (gray0): Final=395.2, Time=93.0, Moves(38)=0.2, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:30] SCORE Group 99 (yellow): Final=1242.5, Time=50.3, Moves(38)=0.2, Pins(8)=800.0, Dist=392.0, Win Bonus=0.0
+[2026-05-08 10:11:30] SCORE The bandits (purple): Final=949.9, Time=95.7, Moves(38)=0.2, Pins(5)=500.0, Dist=354.0, Win Bonus=0.0
+[2026-05-08 10:11:30] SCORE CybSec (red): Final=969.3, Time=87.2, Moves(37)=0.1, Pins(5)=500.0, Dist=382.0, Win Bonus=0.0
+[2026-05-08 10:11:30] MOVE 190: CybSec (red) 40->15 [0.01ms]
+[2026-05-08 10:11:30] SCORE Robert (lawn green): Final=550.6, Time=76.3, Moves(38)=0.2, Pins(1)=100.0, Dist=374.0, Win Bonus=0.0
+[2026-05-08 10:11:30] SCORE jat (gray0): Final=395.2, Time=93.0, Moves(38)=0.2, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:30] SCORE Group 99 (yellow): Final=1242.5, Time=50.3, Moves(38)=0.2, Pins(8)=800.0, Dist=392.0, Win Bonus=0.0
+[2026-05-08 10:11:30] SCORE The bandits (purple): Final=949.9, Time=95.7, Moves(38)=0.2, Pins(5)=500.0, Dist=354.0, Win Bonus=0.0
+[2026-05-08 10:11:30] SCORE CybSec (red): Final=973.0, Time=86.8, Moves(38)=0.2, Pins(5)=500.0, Dist=386.0, Win Bonus=0.0
+[2026-05-08 10:11:31] MOVE 191: Robert (lawn green) 56->12 [0.01ms]
+[2026-05-08 10:11:31] SCORE Robert (lawn green): Final=542.1, Time=75.8, Moves(39)=0.3, Pins(1)=100.0, Dist=366.0, Win Bonus=0.0
+[2026-05-08 10:11:31] SCORE jat (gray0): Final=395.2, Time=93.0, Moves(38)=0.2, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:31] SCORE Group 99 (yellow): Final=1242.5, Time=50.3, Moves(38)=0.2, Pins(8)=800.0, Dist=392.0, Win Bonus=0.0
+[2026-05-08 10:11:31] SCORE The bandits (purple): Final=949.9, Time=95.7, Moves(38)=0.2, Pins(5)=500.0, Dist=354.0, Win Bonus=0.0
+[2026-05-08 10:11:31] SCORE CybSec (red): Final=973.0, Time=86.8, Moves(38)=0.2, Pins(5)=500.0, Dist=386.0, Win Bonus=0.0
+[2026-05-08 10:11:32] MOVE 192: Group 99 (yellow) 92->71 [0.01ms]
+[2026-05-08 10:11:32] SCORE Robert (lawn green): Final=542.1, Time=75.8, Moves(39)=0.3, Pins(1)=100.0, Dist=366.0, Win Bonus=0.0
+[2026-05-08 10:11:32] SCORE jat (gray0): Final=395.2, Time=93.0, Moves(38)=0.2, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:32] SCORE Group 99 (yellow): Final=1241.9, Time=49.6, Moves(39)=0.3, Pins(8)=800.0, Dist=392.0, Win Bonus=0.0
+[2026-05-08 10:11:32] SCORE The bandits (purple): Final=949.9, Time=95.7, Moves(38)=0.2, Pins(5)=500.0, Dist=354.0, Win Bonus=0.0
+[2026-05-08 10:11:32] SCORE CybSec (red): Final=973.0, Time=86.8, Moves(38)=0.2, Pins(5)=500.0, Dist=386.0, Win Bonus=0.0
+[2026-05-08 10:11:32] MOVE 193: jat (gray0) 21->34 [0.01ms]
+[2026-05-08 10:11:32] SCORE Robert (lawn green): Final=542.1, Time=75.8, Moves(39)=0.3, Pins(1)=100.0, Dist=366.0, Win Bonus=0.0
+[2026-05-08 10:11:32] SCORE jat (gray0): Final=395.1, Time=92.8, Moves(39)=0.3, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:32] SCORE Group 99 (yellow): Final=1241.9, Time=49.6, Moves(39)=0.3, Pins(8)=800.0, Dist=392.0, Win Bonus=0.0
+[2026-05-08 10:11:32] SCORE The bandits (purple): Final=949.9, Time=95.7, Moves(38)=0.2, Pins(5)=500.0, Dist=354.0, Win Bonus=0.0
+[2026-05-08 10:11:32] SCORE CybSec (red): Final=973.0, Time=86.8, Moves(38)=0.2, Pins(5)=500.0, Dist=386.0, Win Bonus=0.0
+[2026-05-08 10:11:32] MOVE 194: The bandits (purple) 36->11 [0.01ms]
+[2026-05-08 10:11:32] SCORE Robert (lawn green): Final=542.1, Time=75.8, Moves(39)=0.3, Pins(1)=100.0, Dist=366.0, Win Bonus=0.0
+[2026-05-08 10:11:32] SCORE jat (gray0): Final=395.1, Time=92.8, Moves(39)=0.3, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:32] SCORE Group 99 (yellow): Final=1241.9, Time=49.6, Moves(39)=0.3, Pins(8)=800.0, Dist=392.0, Win Bonus=0.0
+[2026-05-08 10:11:32] SCORE The bandits (purple): Final=949.9, Time=95.6, Moves(39)=0.3, Pins(5)=500.0, Dist=354.0, Win Bonus=0.0
+[2026-05-08 10:11:32] SCORE CybSec (red): Final=973.0, Time=86.8, Moves(38)=0.2, Pins(5)=500.0, Dist=386.0, Win Bonus=0.0
+[2026-05-08 10:11:32] MOVE 195: CybSec (red) 28->16 [0.01ms]
+[2026-05-08 10:11:32] SCORE Robert (lawn green): Final=542.1, Time=75.8, Moves(39)=0.3, Pins(1)=100.0, Dist=366.0, Win Bonus=0.0
+[2026-05-08 10:11:32] SCORE jat (gray0): Final=395.1, Time=92.8, Moves(39)=0.3, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:32] SCORE Group 99 (yellow): Final=1241.9, Time=49.6, Moves(39)=0.3, Pins(8)=800.0, Dist=392.0, Win Bonus=0.0
+[2026-05-08 10:11:32] SCORE The bandits (purple): Final=949.9, Time=95.6, Moves(39)=0.3, Pins(5)=500.0, Dist=354.0, Win Bonus=0.0
+[2026-05-08 10:11:32] SCORE CybSec (red): Final=974.9, Time=86.6, Moves(39)=0.3, Pins(5)=500.0, Dist=388.0, Win Bonus=0.0
+[2026-05-08 10:11:33] MOVE 196: Robert (lawn green) 12->35 [0.01ms]
+[2026-05-08 10:11:33] SCORE Robert (lawn green): Final=545.6, Time=75.1, Moves(40)=0.5, Pins(1)=100.0, Dist=370.0, Win Bonus=0.0
+[2026-05-08 10:11:33] SCORE jat (gray0): Final=395.1, Time=92.8, Moves(39)=0.3, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:33] SCORE Group 99 (yellow): Final=1241.9, Time=49.6, Moves(39)=0.3, Pins(8)=800.0, Dist=392.0, Win Bonus=0.0
+[2026-05-08 10:11:33] SCORE The bandits (purple): Final=949.9, Time=95.6, Moves(39)=0.3, Pins(5)=500.0, Dist=354.0, Win Bonus=0.0
+[2026-05-08 10:11:33] SCORE CybSec (red): Final=974.9, Time=86.6, Moves(39)=0.3, Pins(5)=500.0, Dist=388.0, Win Bonus=0.0
+[2026-05-08 10:11:34] MOVE 197: Group 99 (yellow) 71->82 [0.01ms]
+[2026-05-08 10:11:34] SCORE Robert (lawn green): Final=545.6, Time=75.1, Moves(40)=0.5, Pins(1)=100.0, Dist=370.0, Win Bonus=0.0
+[2026-05-08 10:11:34] SCORE jat (gray0): Final=395.1, Time=92.8, Moves(39)=0.3, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:34] SCORE Group 99 (yellow): Final=1243.2, Time=48.8, Moves(40)=0.5, Pins(8)=800.0, Dist=394.0, Win Bonus=0.0
+[2026-05-08 10:11:34] SCORE The bandits (purple): Final=949.9, Time=95.6, Moves(39)=0.3, Pins(5)=500.0, Dist=354.0, Win Bonus=0.0
+[2026-05-08 10:11:34] SCORE CybSec (red): Final=974.9, Time=86.6, Moves(39)=0.3, Pins(5)=500.0, Dist=388.0, Win Bonus=0.0
+[2026-05-08 10:11:34] MOVE 198: jat (gray0) 34->21 [0.01ms]
+[2026-05-08 10:11:34] SCORE Robert (lawn green): Final=545.6, Time=75.1, Moves(40)=0.5, Pins(1)=100.0, Dist=370.0, Win Bonus=0.0
+[2026-05-08 10:11:34] SCORE jat (gray0): Final=395.0, Time=92.6, Moves(40)=0.5, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:34] SCORE Group 99 (yellow): Final=1243.2, Time=48.8, Moves(40)=0.5, Pins(8)=800.0, Dist=394.0, Win Bonus=0.0
+[2026-05-08 10:11:34] SCORE The bandits (purple): Final=949.9, Time=95.6, Moves(39)=0.3, Pins(5)=500.0, Dist=354.0, Win Bonus=0.0
+[2026-05-08 10:11:34] SCORE CybSec (red): Final=974.9, Time=86.6, Moves(39)=0.3, Pins(5)=500.0, Dist=388.0, Win Bonus=0.0
+[2026-05-08 10:11:34] MOVE 199: The bandits (purple) 81->70 [0.01ms]
+[2026-05-08 10:11:34] SCORE Robert (lawn green): Final=545.6, Time=75.1, Moves(40)=0.5, Pins(1)=100.0, Dist=370.0, Win Bonus=0.0
+[2026-05-08 10:11:34] SCORE jat (gray0): Final=395.0, Time=92.6, Moves(40)=0.5, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:34] SCORE Group 99 (yellow): Final=1243.2, Time=48.8, Moves(40)=0.5, Pins(8)=800.0, Dist=394.0, Win Bonus=0.0
+[2026-05-08 10:11:34] SCORE The bandits (purple): Final=952.0, Time=95.5, Moves(40)=0.5, Pins(5)=500.0, Dist=356.0, Win Bonus=0.0
+[2026-05-08 10:11:34] SCORE CybSec (red): Final=974.9, Time=86.6, Moves(39)=0.3, Pins(5)=500.0, Dist=388.0, Win Bonus=0.0
+[2026-05-08 10:11:34] MOVE 200: CybSec (red) 15->7 [0.01ms]
+[2026-05-08 10:11:34] SCORE Robert (lawn green): Final=545.6, Time=75.1, Moves(40)=0.5, Pins(1)=100.0, Dist=370.0, Win Bonus=0.0
+[2026-05-08 10:11:34] SCORE jat (gray0): Final=395.0, Time=92.6, Moves(40)=0.5, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:34] SCORE Group 99 (yellow): Final=1243.2, Time=48.8, Moves(40)=0.5, Pins(8)=800.0, Dist=394.0, Win Bonus=0.0
+[2026-05-08 10:11:34] SCORE The bandits (purple): Final=952.0, Time=95.5, Moves(40)=0.5, Pins(5)=500.0, Dist=356.0, Win Bonus=0.0
+[2026-05-08 10:11:34] SCORE CybSec (red): Final=1076.8, Time=86.3, Moves(40)=0.5, Pins(6)=600.0, Dist=390.0, Win Bonus=0.0
+[2026-05-08 10:11:35] MOVE 201: Robert (lawn green) 35->56 [0.01ms]
+[2026-05-08 10:11:35] SCORE Robert (lawn green): Final=549.2, Time=74.6, Moves(41)=0.6, Pins(1)=100.0, Dist=374.0, Win Bonus=0.0
+[2026-05-08 10:11:35] SCORE jat (gray0): Final=395.0, Time=92.6, Moves(40)=0.5, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:35] SCORE Group 99 (yellow): Final=1243.2, Time=48.8, Moves(40)=0.5, Pins(8)=800.0, Dist=394.0, Win Bonus=0.0
+[2026-05-08 10:11:35] SCORE The bandits (purple): Final=952.0, Time=95.5, Moves(40)=0.5, Pins(5)=500.0, Dist=356.0, Win Bonus=0.0
+[2026-05-08 10:11:35] SCORE CybSec (red): Final=1076.8, Time=86.3, Moves(40)=0.5, Pins(6)=600.0, Dist=390.0, Win Bonus=0.0
+[2026-05-08 10:11:35] MOVE 202: Group 99 (yellow) 82->94 [0.01ms]
+[2026-05-08 10:11:35] SCORE Robert (lawn green): Final=549.2, Time=74.6, Moves(41)=0.6, Pins(1)=100.0, Dist=374.0, Win Bonus=0.0
+[2026-05-08 10:11:35] SCORE jat (gray0): Final=395.0, Time=92.6, Moves(40)=0.5, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:35] SCORE Group 99 (yellow): Final=1244.8, Time=48.2, Moves(41)=0.6, Pins(8)=800.0, Dist=396.0, Win Bonus=0.0
+[2026-05-08 10:11:35] SCORE The bandits (purple): Final=952.0, Time=95.5, Moves(40)=0.5, Pins(5)=500.0, Dist=356.0, Win Bonus=0.0
+[2026-05-08 10:11:35] SCORE CybSec (red): Final=1076.8, Time=86.3, Moves(40)=0.5, Pins(6)=600.0, Dist=390.0, Win Bonus=0.0
+[2026-05-08 10:11:36] MOVE 203: jat (gray0) 21->34 [0.01ms]
+[2026-05-08 10:11:36] SCORE Robert (lawn green): Final=549.2, Time=74.6, Moves(41)=0.6, Pins(1)=100.0, Dist=374.0, Win Bonus=0.0
+[2026-05-08 10:11:36] SCORE jat (gray0): Final=395.0, Time=92.4, Moves(41)=0.6, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:36] SCORE Group 99 (yellow): Final=1244.8, Time=48.2, Moves(41)=0.6, Pins(8)=800.0, Dist=396.0, Win Bonus=0.0
+[2026-05-08 10:11:36] SCORE The bandits (purple): Final=952.0, Time=95.5, Moves(40)=0.5, Pins(5)=500.0, Dist=356.0, Win Bonus=0.0
+[2026-05-08 10:11:36] SCORE CybSec (red): Final=1076.8, Time=86.3, Moves(40)=0.5, Pins(6)=600.0, Dist=390.0, Win Bonus=0.0
+[2026-05-08 10:11:36] MOVE 204: The bandits (purple) 69->59 [0.01ms]
+[2026-05-08 10:11:36] SCORE Robert (lawn green): Final=549.2, Time=74.6, Moves(41)=0.6, Pins(1)=100.0, Dist=374.0, Win Bonus=0.0
+[2026-05-08 10:11:36] SCORE jat (gray0): Final=395.0, Time=92.4, Moves(41)=0.6, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:36] SCORE Group 99 (yellow): Final=1244.8, Time=48.2, Moves(41)=0.6, Pins(8)=800.0, Dist=396.0, Win Bonus=0.0
+[2026-05-08 10:11:36] SCORE The bandits (purple): Final=954.0, Time=95.4, Moves(41)=0.6, Pins(5)=500.0, Dist=358.0, Win Bonus=0.0
+[2026-05-08 10:11:36] SCORE CybSec (red): Final=1076.8, Time=86.3, Moves(40)=0.5, Pins(6)=600.0, Dist=390.0, Win Bonus=0.0
+[2026-05-08 10:11:36] MOVE 205: CybSec (red) 14->15 [0.01ms]
+[2026-05-08 10:11:36] SCORE Robert (lawn green): Final=549.2, Time=74.6, Moves(41)=0.6, Pins(1)=100.0, Dist=374.0, Win Bonus=0.0
+[2026-05-08 10:11:36] SCORE jat (gray0): Final=395.0, Time=92.4, Moves(41)=0.6, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:36] SCORE Group 99 (yellow): Final=1244.8, Time=48.2, Moves(41)=0.6, Pins(8)=800.0, Dist=396.0, Win Bonus=0.0
+[2026-05-08 10:11:36] SCORE The bandits (purple): Final=954.0, Time=95.4, Moves(41)=0.6, Pins(5)=500.0, Dist=358.0, Win Bonus=0.0
+[2026-05-08 10:11:36] SCORE CybSec (red): Final=1076.6, Time=86.0, Moves(41)=0.6, Pins(6)=600.0, Dist=390.0, Win Bonus=0.0
+[2026-05-08 10:11:36] MOVE 206: Robert (lawn green) 47->51 [0.01ms]
+[2026-05-08 10:11:36] SCORE Robert (lawn green): Final=541.1, Time=74.3, Moves(42)=0.8, Pins(1)=100.0, Dist=366.0, Win Bonus=0.0
+[2026-05-08 10:11:36] SCORE jat (gray0): Final=395.0, Time=92.4, Moves(41)=0.6, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:36] SCORE Group 99 (yellow): Final=1244.8, Time=48.2, Moves(41)=0.6, Pins(8)=800.0, Dist=396.0, Win Bonus=0.0
+[2026-05-08 10:11:36] SCORE The bandits (purple): Final=954.0, Time=95.4, Moves(41)=0.6, Pins(5)=500.0, Dist=358.0, Win Bonus=0.0
+[2026-05-08 10:11:36] SCORE CybSec (red): Final=1076.6, Time=86.0, Moves(41)=0.6, Pins(6)=600.0, Dist=390.0, Win Bonus=0.0
+[2026-05-08 10:11:37] MOVE 207: Group 99 (yellow) 94->96 [0.01ms]
+[2026-05-08 10:11:37] SCORE Robert (lawn green): Final=541.1, Time=74.3, Moves(42)=0.8, Pins(1)=100.0, Dist=366.0, Win Bonus=0.0
+[2026-05-08 10:11:37] SCORE jat (gray0): Final=395.0, Time=92.4, Moves(41)=0.6, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:37] SCORE Group 99 (yellow): Final=1346.4, Time=47.6, Moves(42)=0.8, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:11:37] SCORE The bandits (purple): Final=954.0, Time=95.4, Moves(41)=0.6, Pins(5)=500.0, Dist=358.0, Win Bonus=0.0
+[2026-05-08 10:11:37] SCORE CybSec (red): Final=1076.6, Time=86.0, Moves(41)=0.6, Pins(6)=600.0, Dist=390.0, Win Bonus=0.0
+[2026-05-08 10:11:37] MOVE 208: jat (gray0) 34->21 [0.01ms]
+[2026-05-08 10:11:37] SCORE Robert (lawn green): Final=541.1, Time=74.3, Moves(42)=0.8, Pins(1)=100.0, Dist=366.0, Win Bonus=0.0
+[2026-05-08 10:11:37] SCORE jat (gray0): Final=394.9, Time=92.1, Moves(42)=0.8, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:37] SCORE Group 99 (yellow): Final=1346.4, Time=47.6, Moves(42)=0.8, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:11:37] SCORE The bandits (purple): Final=954.0, Time=95.4, Moves(41)=0.6, Pins(5)=500.0, Dist=358.0, Win Bonus=0.0
+[2026-05-08 10:11:37] SCORE CybSec (red): Final=1076.6, Time=86.0, Moves(41)=0.6, Pins(6)=600.0, Dist=390.0, Win Bonus=0.0
+[2026-05-08 10:11:37] MOVE 209: The bandits (purple) 68->58 [0.01ms]
+[2026-05-08 10:11:37] SCORE Robert (lawn green): Final=541.1, Time=74.3, Moves(42)=0.8, Pins(1)=100.0, Dist=366.0, Win Bonus=0.0
+[2026-05-08 10:11:37] SCORE jat (gray0): Final=394.9, Time=92.1, Moves(42)=0.8, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:37] SCORE Group 99 (yellow): Final=1346.4, Time=47.6, Moves(42)=0.8, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:11:37] SCORE The bandits (purple): Final=956.1, Time=95.3, Moves(42)=0.8, Pins(5)=500.0, Dist=360.0, Win Bonus=0.0
+[2026-05-08 10:11:37] SCORE CybSec (red): Final=1076.6, Time=86.0, Moves(41)=0.6, Pins(6)=600.0, Dist=390.0, Win Bonus=0.0
+[2026-05-08 10:11:37] MOVE 210: CybSec (red) 26->14 [0.00ms]
+[2026-05-08 10:11:37] SCORE Robert (lawn green): Final=541.1, Time=74.3, Moves(42)=0.8, Pins(1)=100.0, Dist=366.0, Win Bonus=0.0
+[2026-05-08 10:11:37] SCORE jat (gray0): Final=394.9, Time=92.1, Moves(42)=0.8, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:37] SCORE Group 99 (yellow): Final=1346.4, Time=47.6, Moves(42)=0.8, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:11:37] SCORE The bandits (purple): Final=956.1, Time=95.3, Moves(42)=0.8, Pins(5)=500.0, Dist=360.0, Win Bonus=0.0
+[2026-05-08 10:11:37] SCORE CybSec (red): Final=1078.4, Time=85.7, Moves(42)=0.8, Pins(6)=600.0, Dist=392.0, Win Bonus=0.0
+[2026-05-08 10:11:38] MOVE 211: Robert (lawn green) 51->49 [0.01ms]
+[2026-05-08 10:11:38] SCORE Robert (lawn green): Final=544.6, Time=73.7, Moves(43)=0.9, Pins(1)=100.0, Dist=370.0, Win Bonus=0.0
+[2026-05-08 10:11:38] SCORE jat (gray0): Final=394.9, Time=92.1, Moves(42)=0.8, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:38] SCORE Group 99 (yellow): Final=1346.4, Time=47.6, Moves(42)=0.8, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:11:38] SCORE The bandits (purple): Final=956.1, Time=95.3, Moves(42)=0.8, Pins(5)=500.0, Dist=360.0, Win Bonus=0.0
+[2026-05-08 10:11:38] SCORE CybSec (red): Final=1078.4, Time=85.7, Moves(42)=0.8, Pins(6)=600.0, Dist=392.0, Win Bonus=0.0
+[2026-05-08 10:11:39] MOVE 212: Group 99 (yellow) 107->108 [0.01ms]
+[2026-05-08 10:11:39] SCORE Robert (lawn green): Final=544.6, Time=73.7, Moves(43)=0.9, Pins(1)=100.0, Dist=370.0, Win Bonus=0.0
+[2026-05-08 10:11:39] SCORE jat (gray0): Final=394.9, Time=92.1, Moves(42)=0.8, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:39] SCORE Group 99 (yellow): Final=1345.8, Time=47.0, Moves(43)=0.9, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:11:39] SCORE The bandits (purple): Final=956.1, Time=95.3, Moves(42)=0.8, Pins(5)=500.0, Dist=360.0, Win Bonus=0.0
+[2026-05-08 10:11:39] SCORE CybSec (red): Final=1078.4, Time=85.7, Moves(42)=0.8, Pins(6)=600.0, Dist=392.0, Win Bonus=0.0
+[2026-05-08 10:11:39] MOVE 213: jat (gray0) 21->34 [0.00ms]
+[2026-05-08 10:11:39] SCORE Robert (lawn green): Final=544.6, Time=73.7, Moves(43)=0.9, Pins(1)=100.0, Dist=370.0, Win Bonus=0.0
+[2026-05-08 10:11:39] SCORE jat (gray0): Final=394.7, Time=91.9, Moves(43)=0.9, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:39] SCORE Group 99 (yellow): Final=1345.8, Time=47.0, Moves(43)=0.9, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:11:39] SCORE The bandits (purple): Final=956.1, Time=95.3, Moves(42)=0.8, Pins(5)=500.0, Dist=360.0, Win Bonus=0.0
+[2026-05-08 10:11:39] SCORE CybSec (red): Final=1078.4, Time=85.7, Moves(42)=0.8, Pins(6)=600.0, Dist=392.0, Win Bonus=0.0
+[2026-05-08 10:11:39] MOVE 214: The bandits (purple) 58->35 [0.01ms]
+[2026-05-08 10:11:39] SCORE Robert (lawn green): Final=544.6, Time=73.7, Moves(43)=0.9, Pins(1)=100.0, Dist=370.0, Win Bonus=0.0
+[2026-05-08 10:11:39] SCORE jat (gray0): Final=394.7, Time=91.9, Moves(43)=0.9, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:39] SCORE Group 99 (yellow): Final=1345.8, Time=47.0, Moves(43)=0.9, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:11:39] SCORE The bandits (purple): Final=1062.1, Time=95.3, Moves(43)=0.9, Pins(6)=600.0, Dist=366.0, Win Bonus=0.0
+[2026-05-08 10:11:39] SCORE CybSec (red): Final=1078.4, Time=85.7, Moves(42)=0.8, Pins(6)=600.0, Dist=392.0, Win Bonus=0.0
+[2026-05-08 10:11:39] MOVE 215: CybSec (red) 15->4 [0.00ms]
+[2026-05-08 10:11:39] SCORE Robert (lawn green): Final=544.6, Time=73.7, Moves(43)=0.9, Pins(1)=100.0, Dist=370.0, Win Bonus=0.0
+[2026-05-08 10:11:39] SCORE jat (gray0): Final=394.7, Time=91.9, Moves(43)=0.9, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:39] SCORE Group 99 (yellow): Final=1345.8, Time=47.0, Moves(43)=0.9, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:11:39] SCORE The bandits (purple): Final=1062.1, Time=95.3, Moves(43)=0.9, Pins(6)=600.0, Dist=366.0, Win Bonus=0.0
+[2026-05-08 10:11:39] SCORE CybSec (red): Final=1180.5, Time=85.6, Moves(43)=0.9, Pins(7)=700.0, Dist=394.0, Win Bonus=0.0
+[2026-05-08 10:11:39] MOVE 216: Robert (lawn green) 49->47 [0.01ms]
+[2026-05-08 10:11:39] SCORE Robert (lawn green): Final=548.4, Time=73.4, Moves(44)=1.0, Pins(1)=100.0, Dist=374.0, Win Bonus=0.0
+[2026-05-08 10:11:39] SCORE jat (gray0): Final=394.7, Time=91.9, Moves(43)=0.9, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:39] SCORE Group 99 (yellow): Final=1345.8, Time=47.0, Moves(43)=0.9, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:11:39] SCORE The bandits (purple): Final=1062.1, Time=95.3, Moves(43)=0.9, Pins(6)=600.0, Dist=366.0, Win Bonus=0.0
+[2026-05-08 10:11:39] SCORE CybSec (red): Final=1180.5, Time=85.6, Moves(43)=0.9, Pins(7)=700.0, Dist=394.0, Win Bonus=0.0
+[2026-05-08 10:11:40] MOVE 217: Group 99 (yellow) 108->107 [0.01ms]
+[2026-05-08 10:11:40] SCORE Robert (lawn green): Final=548.4, Time=73.4, Moves(44)=1.0, Pins(1)=100.0, Dist=374.0, Win Bonus=0.0
+[2026-05-08 10:11:40] SCORE jat (gray0): Final=394.7, Time=91.9, Moves(43)=0.9, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:40] SCORE Group 99 (yellow): Final=1345.4, Time=46.4, Moves(44)=1.0, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:11:40] SCORE The bandits (purple): Final=1062.1, Time=95.3, Moves(43)=0.9, Pins(6)=600.0, Dist=366.0, Win Bonus=0.0
+[2026-05-08 10:11:40] SCORE CybSec (red): Final=1180.5, Time=85.6, Moves(43)=0.9, Pins(7)=700.0, Dist=394.0, Win Bonus=0.0
+[2026-05-08 10:11:40] MOVE 218: jat (gray0) 34->21 [0.01ms]
+[2026-05-08 10:11:40] SCORE Robert (lawn green): Final=548.4, Time=73.4, Moves(44)=1.0, Pins(1)=100.0, Dist=374.0, Win Bonus=0.0
+[2026-05-08 10:11:40] SCORE jat (gray0): Final=394.3, Time=91.4, Moves(44)=1.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:40] SCORE Group 99 (yellow): Final=1345.4, Time=46.4, Moves(44)=1.0, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:11:40] SCORE The bandits (purple): Final=1062.1, Time=95.3, Moves(43)=0.9, Pins(6)=600.0, Dist=366.0, Win Bonus=0.0
+[2026-05-08 10:11:40] SCORE CybSec (red): Final=1180.5, Time=85.6, Moves(43)=0.9, Pins(7)=700.0, Dist=394.0, Win Bonus=0.0
+[2026-05-08 10:11:41] MOVE 219: The bandits (purple) 59->58 [0.01ms]
+[2026-05-08 10:11:41] SCORE Robert (lawn green): Final=548.4, Time=73.4, Moves(44)=1.0, Pins(1)=100.0, Dist=374.0, Win Bonus=0.0
+[2026-05-08 10:11:41] SCORE jat (gray0): Final=394.3, Time=91.4, Moves(44)=1.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:41] SCORE Group 99 (yellow): Final=1345.4, Time=46.4, Moves(44)=1.0, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:11:41] SCORE The bandits (purple): Final=1064.0, Time=95.1, Moves(44)=1.0, Pins(6)=600.0, Dist=368.0, Win Bonus=0.0
+[2026-05-08 10:11:41] SCORE CybSec (red): Final=1180.5, Time=85.6, Moves(43)=0.9, Pins(7)=700.0, Dist=394.0, Win Bonus=0.0
+[2026-05-08 10:11:41] MOVE 220: CybSec (red) 18->17 [0.01ms]
+[2026-05-08 10:11:41] SCORE Robert (lawn green): Final=548.4, Time=73.4, Moves(44)=1.0, Pins(1)=100.0, Dist=374.0, Win Bonus=0.0
+[2026-05-08 10:11:41] SCORE jat (gray0): Final=394.3, Time=91.4, Moves(44)=1.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:41] SCORE Group 99 (yellow): Final=1345.4, Time=46.4, Moves(44)=1.0, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:11:41] SCORE The bandits (purple): Final=1064.0, Time=95.1, Moves(44)=1.0, Pins(6)=600.0, Dist=368.0, Win Bonus=0.0
+[2026-05-08 10:11:41] SCORE CybSec (red): Final=1180.3, Time=85.3, Moves(44)=1.0, Pins(7)=700.0, Dist=394.0, Win Bonus=0.0
+[2026-05-08 10:11:41] MOVE 221: Robert (lawn green) 47->49 [0.01ms]
+[2026-05-08 10:11:41] SCORE Robert (lawn green): Final=543.9, Time=72.9, Moves(45)=1.0, Pins(1)=100.0, Dist=370.0, Win Bonus=0.0
+[2026-05-08 10:11:41] SCORE jat (gray0): Final=394.3, Time=91.4, Moves(44)=1.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:41] SCORE Group 99 (yellow): Final=1345.4, Time=46.4, Moves(44)=1.0, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:11:41] SCORE The bandits (purple): Final=1064.0, Time=95.1, Moves(44)=1.0, Pins(6)=600.0, Dist=368.0, Win Bonus=0.0
+[2026-05-08 10:11:41] SCORE CybSec (red): Final=1180.3, Time=85.3, Moves(44)=1.0, Pins(7)=700.0, Dist=394.0, Win Bonus=0.0
+[2026-05-08 10:11:42] MOVE 222: Group 99 (yellow) 96->108 [0.01ms]
+[2026-05-08 10:11:42] SCORE Robert (lawn green): Final=543.9, Time=72.9, Moves(45)=1.0, Pins(1)=100.0, Dist=370.0, Win Bonus=0.0
+[2026-05-08 10:11:42] SCORE jat (gray0): Final=394.3, Time=91.4, Moves(44)=1.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:42] SCORE Group 99 (yellow): Final=1345.1, Time=46.1, Moves(45)=1.0, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:11:42] SCORE The bandits (purple): Final=1064.0, Time=95.1, Moves(44)=1.0, Pins(6)=600.0, Dist=368.0, Win Bonus=0.0
+[2026-05-08 10:11:42] SCORE CybSec (red): Final=1180.3, Time=85.3, Moves(44)=1.0, Pins(7)=700.0, Dist=394.0, Win Bonus=0.0
+[2026-05-08 10:11:42] MOVE 223: jat (gray0) 21->34 [0.01ms]
+[2026-05-08 10:11:42] SCORE Robert (lawn green): Final=543.9, Time=72.9, Moves(45)=1.0, Pins(1)=100.0, Dist=370.0, Win Bonus=0.0
+[2026-05-08 10:11:42] SCORE jat (gray0): Final=394.1, Time=91.1, Moves(45)=1.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:42] SCORE Group 99 (yellow): Final=1345.1, Time=46.1, Moves(45)=1.0, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:11:42] SCORE The bandits (purple): Final=1064.0, Time=95.1, Moves(44)=1.0, Pins(6)=600.0, Dist=368.0, Win Bonus=0.0
+[2026-05-08 10:11:42] SCORE CybSec (red): Final=1180.3, Time=85.3, Moves(44)=1.0, Pins(7)=700.0, Dist=394.0, Win Bonus=0.0
+[2026-05-08 10:11:42] MOVE 224: The bandits (purple) 48->37 [0.00ms]
+[2026-05-08 10:11:42] SCORE Robert (lawn green): Final=543.9, Time=72.9, Moves(45)=1.0, Pins(1)=100.0, Dist=370.0, Win Bonus=0.0
+[2026-05-08 10:11:42] SCORE jat (gray0): Final=394.1, Time=91.1, Moves(45)=1.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:42] SCORE Group 99 (yellow): Final=1345.1, Time=46.1, Moves(45)=1.0, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:11:42] SCORE The bandits (purple): Final=1065.9, Time=94.9, Moves(45)=1.0, Pins(6)=600.0, Dist=370.0, Win Bonus=0.0
+[2026-05-08 10:11:42] SCORE CybSec (red): Final=1180.3, Time=85.3, Moves(44)=1.0, Pins(7)=700.0, Dist=394.0, Win Bonus=0.0
+[2026-05-08 10:11:42] MOVE 225: CybSec (red) 16->15 [0.01ms]
+[2026-05-08 10:11:42] SCORE Robert (lawn green): Final=543.9, Time=72.9, Moves(45)=1.0, Pins(1)=100.0, Dist=370.0, Win Bonus=0.0
+[2026-05-08 10:11:42] SCORE jat (gray0): Final=394.1, Time=91.1, Moves(45)=1.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:42] SCORE Group 99 (yellow): Final=1345.1, Time=46.1, Moves(45)=1.0, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:11:42] SCORE The bandits (purple): Final=1065.9, Time=94.9, Moves(45)=1.0, Pins(6)=600.0, Dist=370.0, Win Bonus=0.0
+[2026-05-08 10:11:42] SCORE CybSec (red): Final=1180.2, Time=85.2, Moves(45)=1.0, Pins(7)=700.0, Dist=394.0, Win Bonus=0.0
+[2026-05-08 10:11:43] MOVE 226: Robert (lawn green) 49->48 [0.01ms]
+[2026-05-08 10:11:43] SCORE Robert (lawn green): Final=545.5, Time=72.5, Moves(46)=1.0, Pins(1)=100.0, Dist=372.0, Win Bonus=0.0
+[2026-05-08 10:11:43] SCORE jat (gray0): Final=394.1, Time=91.1, Moves(45)=1.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:43] SCORE Group 99 (yellow): Final=1345.1, Time=46.1, Moves(45)=1.0, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:11:43] SCORE The bandits (purple): Final=1065.9, Time=94.9, Moves(45)=1.0, Pins(6)=600.0, Dist=370.0, Win Bonus=0.0
+[2026-05-08 10:11:43] SCORE CybSec (red): Final=1180.2, Time=85.2, Moves(45)=1.0, Pins(7)=700.0, Dist=394.0, Win Bonus=0.0
+[2026-05-08 10:11:43] MOVE 227: Group 99 (yellow) 85->96 [0.01ms]
+[2026-05-08 10:11:43] SCORE Robert (lawn green): Final=545.5, Time=72.5, Moves(46)=1.0, Pins(1)=100.0, Dist=372.0, Win Bonus=0.0
+[2026-05-08 10:11:43] SCORE jat (gray0): Final=394.1, Time=91.1, Moves(45)=1.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:43] SCORE Group 99 (yellow): Final=1344.8, Time=45.8, Moves(46)=1.0, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:11:43] SCORE The bandits (purple): Final=1065.9, Time=94.9, Moves(45)=1.0, Pins(6)=600.0, Dist=370.0, Win Bonus=0.0
+[2026-05-08 10:11:43] SCORE CybSec (red): Final=1180.2, Time=85.2, Moves(45)=1.0, Pins(7)=700.0, Dist=394.0, Win Bonus=0.0
+[2026-05-08 10:11:43] MOVE 228: jat (gray0) 34->21 [0.00ms]
+[2026-05-08 10:11:43] SCORE Robert (lawn green): Final=545.5, Time=72.5, Moves(46)=1.0, Pins(1)=100.0, Dist=372.0, Win Bonus=0.0
+[2026-05-08 10:11:43] SCORE jat (gray0): Final=394.0, Time=91.1, Moves(46)=1.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:43] SCORE Group 99 (yellow): Final=1344.8, Time=45.8, Moves(46)=1.0, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:11:43] SCORE The bandits (purple): Final=1065.9, Time=94.9, Moves(45)=1.0, Pins(6)=600.0, Dist=370.0, Win Bonus=0.0
+[2026-05-08 10:11:43] SCORE CybSec (red): Final=1180.2, Time=85.2, Moves(45)=1.0, Pins(7)=700.0, Dist=394.0, Win Bonus=0.0
+[2026-05-08 10:11:43] MOVE 229: The bandits (purple) 25->12 [0.01ms]
+[2026-05-08 10:11:43] SCORE Robert (lawn green): Final=545.5, Time=72.5, Moves(46)=1.0, Pins(1)=100.0, Dist=372.0, Win Bonus=0.0
+[2026-05-08 10:11:43] SCORE jat (gray0): Final=394.0, Time=91.1, Moves(46)=1.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:43] SCORE Group 99 (yellow): Final=1344.8, Time=45.8, Moves(46)=1.0, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:11:43] SCORE The bandits (purple): Final=1065.8, Time=94.8, Moves(46)=1.0, Pins(6)=600.0, Dist=370.0, Win Bonus=0.0
+[2026-05-08 10:11:43] SCORE CybSec (red): Final=1180.2, Time=85.2, Moves(45)=1.0, Pins(7)=700.0, Dist=394.0, Win Bonus=0.0
+[2026-05-08 10:11:43] MOVE 230: CybSec (red) 9->18 [0.01ms]
+[2026-05-08 10:11:43] SCORE Robert (lawn green): Final=545.5, Time=72.5, Moves(46)=1.0, Pins(1)=100.0, Dist=372.0, Win Bonus=0.0
+[2026-05-08 10:11:43] SCORE jat (gray0): Final=394.0, Time=91.1, Moves(46)=1.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:43] SCORE Group 99 (yellow): Final=1344.8, Time=45.8, Moves(46)=1.0, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:11:43] SCORE The bandits (purple): Final=1065.8, Time=94.8, Moves(46)=1.0, Pins(6)=600.0, Dist=370.0, Win Bonus=0.0
+[2026-05-08 10:11:43] SCORE CybSec (red): Final=1078.1, Time=85.1, Moves(46)=1.0, Pins(6)=600.0, Dist=392.0, Win Bonus=0.0
+[2026-05-08 10:11:43] MOVE 231: Robert (lawn green) 48->47 [0.01ms]
+[2026-05-08 10:11:43] SCORE Robert (lawn green): Final=547.3, Time=72.3, Moves(47)=1.0, Pins(1)=100.0, Dist=374.0, Win Bonus=0.0
+[2026-05-08 10:11:43] SCORE jat (gray0): Final=394.0, Time=91.1, Moves(46)=1.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:43] SCORE Group 99 (yellow): Final=1344.8, Time=45.8, Moves(46)=1.0, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:11:43] SCORE The bandits (purple): Final=1065.8, Time=94.8, Moves(46)=1.0, Pins(6)=600.0, Dist=370.0, Win Bonus=0.0
+[2026-05-08 10:11:43] SCORE CybSec (red): Final=1078.1, Time=85.1, Moves(46)=1.0, Pins(6)=600.0, Dist=392.0, Win Bonus=0.0
+[2026-05-08 10:11:44] MOVE 232: Group 99 (yellow) 84->85 [0.01ms]
+[2026-05-08 10:11:44] SCORE Robert (lawn green): Final=547.3, Time=72.3, Moves(47)=1.0, Pins(1)=100.0, Dist=374.0, Win Bonus=0.0
+[2026-05-08 10:11:44] SCORE jat (gray0): Final=394.0, Time=91.1, Moves(46)=1.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:44] SCORE Group 99 (yellow): Final=1344.6, Time=45.6, Moves(47)=1.0, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:11:44] SCORE The bandits (purple): Final=1065.8, Time=94.8, Moves(46)=1.0, Pins(6)=600.0, Dist=370.0, Win Bonus=0.0
+[2026-05-08 10:11:44] SCORE CybSec (red): Final=1078.1, Time=85.1, Moves(46)=1.0, Pins(6)=600.0, Dist=392.0, Win Bonus=0.0
+[2026-05-08 10:11:44] MOVE 233: jat (gray0) 21->34 [0.01ms]
+[2026-05-08 10:11:44] SCORE Robert (lawn green): Final=547.3, Time=72.3, Moves(47)=1.0, Pins(1)=100.0, Dist=374.0, Win Bonus=0.0
+[2026-05-08 10:11:44] SCORE jat (gray0): Final=393.9, Time=90.9, Moves(47)=1.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:44] SCORE Group 99 (yellow): Final=1344.6, Time=45.6, Moves(47)=1.0, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:11:44] SCORE The bandits (purple): Final=1065.8, Time=94.8, Moves(46)=1.0, Pins(6)=600.0, Dist=370.0, Win Bonus=0.0
+[2026-05-08 10:11:44] SCORE CybSec (red): Final=1078.1, Time=85.1, Moves(46)=1.0, Pins(6)=600.0, Dist=392.0, Win Bonus=0.0
+[2026-05-08 10:11:44] MOVE 234: The bandits (purple) 58->49 [0.01ms]
+[2026-05-08 10:11:44] SCORE Robert (lawn green): Final=547.3, Time=72.3, Moves(47)=1.0, Pins(1)=100.0, Dist=374.0, Win Bonus=0.0
+[2026-05-08 10:11:44] SCORE jat (gray0): Final=393.9, Time=90.9, Moves(47)=1.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:44] SCORE Group 99 (yellow): Final=1344.6, Time=45.6, Moves(47)=1.0, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:11:44] SCORE The bandits (purple): Final=1065.8, Time=94.8, Moves(47)=1.0, Pins(6)=600.0, Dist=370.0, Win Bonus=0.0
+[2026-05-08 10:11:44] SCORE CybSec (red): Final=1078.1, Time=85.1, Moves(46)=1.0, Pins(6)=600.0, Dist=392.0, Win Bonus=0.0
+[2026-05-08 10:11:44] MOVE 235: CybSec (red) 17->9 [0.00ms]
+[2026-05-08 10:11:44] SCORE Robert (lawn green): Final=547.3, Time=72.3, Moves(47)=1.0, Pins(1)=100.0, Dist=374.0, Win Bonus=0.0
+[2026-05-08 10:11:44] SCORE jat (gray0): Final=393.9, Time=90.9, Moves(47)=1.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:44] SCORE Group 99 (yellow): Final=1344.6, Time=45.6, Moves(47)=1.0, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:11:44] SCORE The bandits (purple): Final=1065.8, Time=94.8, Moves(47)=1.0, Pins(6)=600.0, Dist=370.0, Win Bonus=0.0
+[2026-05-08 10:11:44] SCORE CybSec (red): Final=1180.0, Time=85.0, Moves(47)=1.0, Pins(7)=700.0, Dist=394.0, Win Bonus=0.0
+[2026-05-08 10:11:44] MOVE 236: Robert (lawn green) 47->57 [0.01ms]
+[2026-05-08 10:11:44] SCORE Robert (lawn green): Final=547.0, Time=72.0, Moves(48)=1.0, Pins(1)=100.0, Dist=374.0, Win Bonus=0.0
+[2026-05-08 10:11:44] SCORE jat (gray0): Final=393.9, Time=90.9, Moves(47)=1.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:44] SCORE Group 99 (yellow): Final=1344.6, Time=45.6, Moves(47)=1.0, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:11:44] SCORE The bandits (purple): Final=1065.8, Time=94.8, Moves(47)=1.0, Pins(6)=600.0, Dist=370.0, Win Bonus=0.0
+[2026-05-08 10:11:44] SCORE CybSec (red): Final=1180.0, Time=85.0, Moves(47)=1.0, Pins(7)=700.0, Dist=394.0, Win Bonus=0.0
+[2026-05-08 10:11:44] MOVE 237: Group 99 (yellow) 96->84 [0.01ms]
+[2026-05-08 10:11:44] SCORE Robert (lawn green): Final=547.0, Time=72.0, Moves(48)=1.0, Pins(1)=100.0, Dist=374.0, Win Bonus=0.0
+[2026-05-08 10:11:44] SCORE jat (gray0): Final=393.9, Time=90.9, Moves(47)=1.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:44] SCORE Group 99 (yellow): Final=1344.5, Time=45.5, Moves(48)=1.0, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:11:44] SCORE The bandits (purple): Final=1065.8, Time=94.8, Moves(47)=1.0, Pins(6)=600.0, Dist=370.0, Win Bonus=0.0
+[2026-05-08 10:11:44] SCORE CybSec (red): Final=1180.0, Time=85.0, Moves(47)=1.0, Pins(7)=700.0, Dist=394.0, Win Bonus=0.0
+[2026-05-08 10:11:45] MOVE 238: jat (gray0) 34->21 [0.00ms]
+[2026-05-08 10:11:45] SCORE Robert (lawn green): Final=547.0, Time=72.0, Moves(48)=1.0, Pins(1)=100.0, Dist=374.0, Win Bonus=0.0
+[2026-05-08 10:11:45] SCORE jat (gray0): Final=393.8, Time=90.8, Moves(48)=1.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:45] SCORE Group 99 (yellow): Final=1344.5, Time=45.5, Moves(48)=1.0, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:11:45] SCORE The bandits (purple): Final=1065.8, Time=94.8, Moves(47)=1.0, Pins(6)=600.0, Dist=370.0, Win Bonus=0.0
+[2026-05-08 10:11:45] SCORE CybSec (red): Final=1180.0, Time=85.0, Moves(47)=1.0, Pins(7)=700.0, Dist=394.0, Win Bonus=0.0
+[2026-05-08 10:11:45] MOVE 239: The bandits (purple) 70->61 [0.00ms]
+[2026-05-08 10:11:45] SCORE Robert (lawn green): Final=547.0, Time=72.0, Moves(48)=1.0, Pins(1)=100.0, Dist=374.0, Win Bonus=0.0
+[2026-05-08 10:11:45] SCORE jat (gray0): Final=393.8, Time=90.8, Moves(48)=1.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:45] SCORE Group 99 (yellow): Final=1344.5, Time=45.5, Moves(48)=1.0, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:11:45] SCORE The bandits (purple): Final=1065.7, Time=94.7, Moves(48)=1.0, Pins(6)=600.0, Dist=370.0, Win Bonus=0.0
+[2026-05-08 10:11:45] SCORE CybSec (red): Final=1180.0, Time=85.0, Moves(47)=1.0, Pins(7)=700.0, Dist=394.0, Win Bonus=0.0
+[2026-05-08 10:11:45] MOVE 240: CybSec (red) 18->30 [0.01ms]
+[2026-05-08 10:11:45] SCORE Robert (lawn green): Final=547.0, Time=72.0, Moves(48)=1.0, Pins(1)=100.0, Dist=374.0, Win Bonus=0.0
+[2026-05-08 10:11:45] SCORE jat (gray0): Final=393.8, Time=90.8, Moves(48)=1.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:45] SCORE Group 99 (yellow): Final=1344.5, Time=45.5, Moves(48)=1.0, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:11:45] SCORE The bandits (purple): Final=1065.7, Time=94.7, Moves(48)=1.0, Pins(6)=600.0, Dist=370.0, Win Bonus=0.0
+[2026-05-08 10:11:45] SCORE CybSec (red): Final=1177.8, Time=84.8, Moves(48)=1.0, Pins(7)=700.0, Dist=392.0, Win Bonus=0.0
+[2026-05-08 10:11:45] MOVE 241: Robert (lawn green) 89->90 [0.00ms]
+[2026-05-08 10:11:45] SCORE Robert (lawn green): Final=544.6, Time=71.6, Moves(49)=1.0, Pins(1)=100.0, Dist=372.0, Win Bonus=0.0
+[2026-05-08 10:11:45] SCORE jat (gray0): Final=393.8, Time=90.8, Moves(48)=1.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:45] SCORE Group 99 (yellow): Final=1344.5, Time=45.5, Moves(48)=1.0, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:11:45] SCORE The bandits (purple): Final=1065.7, Time=94.7, Moves(48)=1.0, Pins(6)=600.0, Dist=370.0, Win Bonus=0.0
+[2026-05-08 10:11:45] SCORE CybSec (red): Final=1177.8, Time=84.8, Moves(48)=1.0, Pins(7)=700.0, Dist=392.0, Win Bonus=0.0
+[2026-05-08 10:11:45] MOVE 242: Group 99 (yellow) 84->96 [0.00ms]
+[2026-05-08 10:11:45] SCORE Robert (lawn green): Final=544.6, Time=71.6, Moves(49)=1.0, Pins(1)=100.0, Dist=372.0, Win Bonus=0.0
+[2026-05-08 10:11:45] SCORE jat (gray0): Final=393.8, Time=90.8, Moves(48)=1.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:45] SCORE Group 99 (yellow): Final=1344.4, Time=45.4, Moves(49)=1.0, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:11:45] SCORE The bandits (purple): Final=1065.7, Time=94.7, Moves(48)=1.0, Pins(6)=600.0, Dist=370.0, Win Bonus=0.0
+[2026-05-08 10:11:45] SCORE CybSec (red): Final=1177.8, Time=84.8, Moves(48)=1.0, Pins(7)=700.0, Dist=392.0, Win Bonus=0.0
+[2026-05-08 10:11:45] MOVE 243: jat (gray0) 21->34 [0.01ms]
+[2026-05-08 10:11:45] SCORE Robert (lawn green): Final=544.6, Time=71.6, Moves(49)=1.0, Pins(1)=100.0, Dist=372.0, Win Bonus=0.0
+[2026-05-08 10:11:45] SCORE jat (gray0): Final=393.6, Time=90.6, Moves(49)=1.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:45] SCORE Group 99 (yellow): Final=1344.4, Time=45.4, Moves(49)=1.0, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:11:45] SCORE The bandits (purple): Final=1065.7, Time=94.7, Moves(48)=1.0, Pins(6)=600.0, Dist=370.0, Win Bonus=0.0
+[2026-05-08 10:11:45] SCORE CybSec (red): Final=1177.8, Time=84.8, Moves(48)=1.0, Pins(7)=700.0, Dist=392.0, Win Bonus=0.0
+[2026-05-08 10:11:46] MOVE 244: The bandits (purple) 37->47 [0.01ms]
+[2026-05-08 10:11:46] SCORE Robert (lawn green): Final=544.6, Time=71.6, Moves(49)=1.0, Pins(1)=100.0, Dist=372.0, Win Bonus=0.0
+[2026-05-08 10:11:46] SCORE jat (gray0): Final=393.6, Time=90.6, Moves(49)=1.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:46] SCORE Group 99 (yellow): Final=1344.4, Time=45.4, Moves(49)=1.0, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:11:46] SCORE The bandits (purple): Final=1065.6, Time=94.6, Moves(49)=1.0, Pins(6)=600.0, Dist=370.0, Win Bonus=0.0
+[2026-05-08 10:11:46] SCORE CybSec (red): Final=1177.8, Time=84.8, Moves(48)=1.0, Pins(7)=700.0, Dist=392.0, Win Bonus=0.0
+[2026-05-08 10:11:46] MOVE 245: CybSec (red) 30->17 [0.01ms]
+[2026-05-08 10:11:46] SCORE Robert (lawn green): Final=544.6, Time=71.6, Moves(49)=1.0, Pins(1)=100.0, Dist=372.0, Win Bonus=0.0
+[2026-05-08 10:11:46] SCORE jat (gray0): Final=393.6, Time=90.6, Moves(49)=1.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:46] SCORE Group 99 (yellow): Final=1344.4, Time=45.4, Moves(49)=1.0, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:11:46] SCORE The bandits (purple): Final=1065.6, Time=94.6, Moves(49)=1.0, Pins(6)=600.0, Dist=370.0, Win Bonus=0.0
+[2026-05-08 10:11:46] SCORE CybSec (red): Final=1179.6, Time=84.7, Moves(49)=1.0, Pins(7)=700.0, Dist=394.0, Win Bonus=0.0
+[2026-05-08 10:11:46] MOVE 246: Robert (lawn green) 90->103 [0.01ms]
+[2026-05-08 10:11:46] SCORE Robert (lawn green): Final=544.3, Time=71.4, Moves(50)=1.0, Pins(1)=100.0, Dist=372.0, Win Bonus=0.0
+[2026-05-08 10:11:46] SCORE jat (gray0): Final=393.6, Time=90.6, Moves(49)=1.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:46] SCORE Group 99 (yellow): Final=1344.4, Time=45.4, Moves(49)=1.0, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:11:46] SCORE The bandits (purple): Final=1065.6, Time=94.6, Moves(49)=1.0, Pins(6)=600.0, Dist=370.0, Win Bonus=0.0
+[2026-05-08 10:11:46] SCORE CybSec (red): Final=1179.6, Time=84.7, Moves(49)=1.0, Pins(7)=700.0, Dist=394.0, Win Bonus=0.0
+[2026-05-08 10:11:46] MOVE 247: Group 99 (yellow) 109->84 [0.01ms]
+[2026-05-08 10:11:46] SCORE Robert (lawn green): Final=544.3, Time=71.4, Moves(50)=1.0, Pins(1)=100.0, Dist=372.0, Win Bonus=0.0
+[2026-05-08 10:11:46] SCORE jat (gray0): Final=393.6, Time=90.6, Moves(49)=1.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:46] SCORE Group 99 (yellow): Final=1344.1, Time=45.1, Moves(50)=1.0, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:11:46] SCORE The bandits (purple): Final=1065.6, Time=94.6, Moves(49)=1.0, Pins(6)=600.0, Dist=370.0, Win Bonus=0.0
+[2026-05-08 10:11:46] SCORE CybSec (red): Final=1179.6, Time=84.7, Moves(49)=1.0, Pins(7)=700.0, Dist=394.0, Win Bonus=0.0
+[2026-05-08 10:11:46] MOVE 248: jat (gray0) 34->21 [0.00ms]
+[2026-05-08 10:11:46] SCORE Robert (lawn green): Final=544.3, Time=71.4, Moves(50)=1.0, Pins(1)=100.0, Dist=372.0, Win Bonus=0.0
+[2026-05-08 10:11:46] SCORE jat (gray0): Final=393.5, Time=90.5, Moves(50)=1.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:46] SCORE Group 99 (yellow): Final=1344.1, Time=45.1, Moves(50)=1.0, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:11:46] SCORE The bandits (purple): Final=1065.6, Time=94.6, Moves(49)=1.0, Pins(6)=600.0, Dist=370.0, Win Bonus=0.0
+[2026-05-08 10:11:46] SCORE CybSec (red): Final=1179.6, Time=84.7, Moves(49)=1.0, Pins(7)=700.0, Dist=394.0, Win Bonus=0.0
+[2026-05-08 10:11:46] MOVE 249: The bandits (purple) 61->52 [0.00ms]
+[2026-05-08 10:11:46] SCORE Robert (lawn green): Final=544.3, Time=71.4, Moves(50)=1.0, Pins(1)=100.0, Dist=372.0, Win Bonus=0.0
+[2026-05-08 10:11:46] SCORE jat (gray0): Final=393.5, Time=90.5, Moves(50)=1.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:46] SCORE Group 99 (yellow): Final=1344.1, Time=45.1, Moves(50)=1.0, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:11:46] SCORE The bandits (purple): Final=1065.5, Time=94.5, Moves(50)=1.0, Pins(6)=600.0, Dist=370.0, Win Bonus=0.0
+[2026-05-08 10:11:46] SCORE CybSec (red): Final=1179.6, Time=84.7, Moves(49)=1.0, Pins(7)=700.0, Dist=394.0, Win Bonus=0.0
+[2026-05-08 10:11:47] MOVE 250: CybSec (red) 8->1 [0.01ms]
+[2026-05-08 10:11:47] SCORE Robert (lawn green): Final=544.3, Time=71.4, Moves(50)=1.0, Pins(1)=100.0, Dist=372.0, Win Bonus=0.0
+[2026-05-08 10:11:47] SCORE jat (gray0): Final=393.5, Time=90.5, Moves(50)=1.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:47] SCORE Group 99 (yellow): Final=1344.1, Time=45.1, Moves(50)=1.0, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:11:47] SCORE The bandits (purple): Final=1065.5, Time=94.5, Moves(50)=1.0, Pins(6)=600.0, Dist=370.0, Win Bonus=0.0
+[2026-05-08 10:11:47] SCORE CybSec (red): Final=1179.4, Time=84.4, Moves(50)=1.0, Pins(7)=700.0, Dist=394.0, Win Bonus=0.0
+[2026-05-08 10:11:47] MOVE 251: Robert (lawn green) 78->89 [0.00ms]
+[2026-05-08 10:11:47] SCORE Robert (lawn green): Final=545.6, Time=70.7, Moves(51)=0.9, Pins(1)=100.0, Dist=374.0, Win Bonus=0.0
+[2026-05-08 10:11:47] SCORE jat (gray0): Final=393.5, Time=90.5, Moves(50)=1.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:47] SCORE Group 99 (yellow): Final=1344.1, Time=45.1, Moves(50)=1.0, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:11:47] SCORE The bandits (purple): Final=1065.5, Time=94.5, Moves(50)=1.0, Pins(6)=600.0, Dist=370.0, Win Bonus=0.0
+[2026-05-08 10:11:47] SCORE CybSec (red): Final=1179.4, Time=84.4, Moves(50)=1.0, Pins(7)=700.0, Dist=394.0, Win Bonus=0.0
+[2026-05-08 10:11:48] MOVE 252: Group 99 (yellow) 107->109 [0.01ms]
+[2026-05-08 10:11:48] SCORE Robert (lawn green): Final=545.6, Time=70.7, Moves(51)=0.9, Pins(1)=100.0, Dist=374.0, Win Bonus=0.0
+[2026-05-08 10:11:48] SCORE jat (gray0): Final=393.5, Time=90.5, Moves(50)=1.0, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:48] SCORE Group 99 (yellow): Final=1343.9, Time=44.9, Moves(51)=0.9, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:11:48] SCORE The bandits (purple): Final=1065.5, Time=94.5, Moves(50)=1.0, Pins(6)=600.0, Dist=370.0, Win Bonus=0.0
+[2026-05-08 10:11:48] SCORE CybSec (red): Final=1179.4, Time=84.4, Moves(50)=1.0, Pins(7)=700.0, Dist=394.0, Win Bonus=0.0
+[2026-05-08 10:11:48] MOVE 253: jat (gray0) 21->34 [0.01ms]
+[2026-05-08 10:11:48] SCORE Robert (lawn green): Final=545.6, Time=70.7, Moves(51)=0.9, Pins(1)=100.0, Dist=374.0, Win Bonus=0.0
+[2026-05-08 10:11:48] SCORE jat (gray0): Final=393.1, Time=90.2, Moves(51)=0.9, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:48] SCORE Group 99 (yellow): Final=1343.9, Time=44.9, Moves(51)=0.9, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:11:48] SCORE The bandits (purple): Final=1065.5, Time=94.5, Moves(50)=1.0, Pins(6)=600.0, Dist=370.0, Win Bonus=0.0
+[2026-05-08 10:11:48] SCORE CybSec (red): Final=1179.4, Time=84.4, Moves(50)=1.0, Pins(7)=700.0, Dist=394.0, Win Bonus=0.0
+[2026-05-08 10:11:48] MOVE 254: The bandits (purple) 52->62 [0.01ms]
+[2026-05-08 10:11:48] SCORE Robert (lawn green): Final=545.6, Time=70.7, Moves(51)=0.9, Pins(1)=100.0, Dist=374.0, Win Bonus=0.0
+[2026-05-08 10:11:48] SCORE jat (gray0): Final=393.1, Time=90.2, Moves(51)=0.9, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:48] SCORE Group 99 (yellow): Final=1343.9, Time=44.9, Moves(51)=0.9, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:11:48] SCORE The bandits (purple): Final=1063.4, Time=94.5, Moves(51)=0.9, Pins(6)=600.0, Dist=368.0, Win Bonus=0.0
+[2026-05-08 10:11:48] SCORE CybSec (red): Final=1179.4, Time=84.4, Moves(50)=1.0, Pins(7)=700.0, Dist=394.0, Win Bonus=0.0
+[2026-05-08 10:11:48] MOVE 255: CybSec (red) 17->8 [0.01ms]
+[2026-05-08 10:11:48] SCORE Robert (lawn green): Final=545.6, Time=70.7, Moves(51)=0.9, Pins(1)=100.0, Dist=374.0, Win Bonus=0.0
+[2026-05-08 10:11:48] SCORE jat (gray0): Final=393.1, Time=90.2, Moves(51)=0.9, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:48] SCORE Group 99 (yellow): Final=1343.9, Time=44.9, Moves(51)=0.9, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:11:48] SCORE The bandits (purple): Final=1063.4, Time=94.5, Moves(51)=0.9, Pins(6)=600.0, Dist=368.0, Win Bonus=0.0
+[2026-05-08 10:11:48] SCORE CybSec (red): Final=1281.1, Time=84.2, Moves(51)=0.9, Pins(8)=800.0, Dist=396.0, Win Bonus=0.0
+[2026-05-08 10:11:49] MOVE 256: Robert (lawn green) 66->68 [0.01ms]
+[2026-05-08 10:11:49] SCORE Robert (lawn green): Final=541.1, Time=70.1, Moves(52)=0.9, Pins(1)=100.0, Dist=370.0, Win Bonus=0.0
+[2026-05-08 10:11:49] SCORE jat (gray0): Final=393.1, Time=90.2, Moves(51)=0.9, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:49] SCORE Group 99 (yellow): Final=1343.9, Time=44.9, Moves(51)=0.9, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:11:49] SCORE The bandits (purple): Final=1063.4, Time=94.5, Moves(51)=0.9, Pins(6)=600.0, Dist=368.0, Win Bonus=0.0
+[2026-05-08 10:11:49] SCORE CybSec (red): Final=1281.1, Time=84.2, Moves(51)=0.9, Pins(8)=800.0, Dist=396.0, Win Bonus=0.0
+[2026-05-08 10:11:49] MOVE 257: Group 99 (yellow) 109->107 [0.00ms]
+[2026-05-08 10:11:49] SCORE Robert (lawn green): Final=541.1, Time=70.1, Moves(52)=0.9, Pins(1)=100.0, Dist=370.0, Win Bonus=0.0
+[2026-05-08 10:11:49] SCORE jat (gray0): Final=393.1, Time=90.2, Moves(51)=0.9, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:49] SCORE Group 99 (yellow): Final=1343.7, Time=44.8, Moves(52)=0.9, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:11:49] SCORE The bandits (purple): Final=1063.4, Time=94.5, Moves(51)=0.9, Pins(6)=600.0, Dist=368.0, Win Bonus=0.0
+[2026-05-08 10:11:49] SCORE CybSec (red): Final=1281.1, Time=84.2, Moves(51)=0.9, Pins(8)=800.0, Dist=396.0, Win Bonus=0.0
+[2026-05-08 10:11:49] MOVE 258: jat (gray0) 34->21 [0.01ms]
+[2026-05-08 10:11:49] SCORE Robert (lawn green): Final=541.1, Time=70.1, Moves(52)=0.9, Pins(1)=100.0, Dist=370.0, Win Bonus=0.0
+[2026-05-08 10:11:49] SCORE jat (gray0): Final=392.9, Time=90.0, Moves(52)=0.9, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:49] SCORE Group 99 (yellow): Final=1343.7, Time=44.8, Moves(52)=0.9, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:11:49] SCORE The bandits (purple): Final=1063.4, Time=94.5, Moves(51)=0.9, Pins(6)=600.0, Dist=368.0, Win Bonus=0.0
+[2026-05-08 10:11:49] SCORE CybSec (red): Final=1281.1, Time=84.2, Moves(51)=0.9, Pins(8)=800.0, Dist=396.0, Win Bonus=0.0
+[2026-05-08 10:11:49] MOVE 259: The bandits (purple) 62->71 [0.01ms]
+[2026-05-08 10:11:49] SCORE Robert (lawn green): Final=541.1, Time=70.1, Moves(52)=0.9, Pins(1)=100.0, Dist=370.0, Win Bonus=0.0
+[2026-05-08 10:11:49] SCORE jat (gray0): Final=392.9, Time=90.0, Moves(52)=0.9, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:49] SCORE Group 99 (yellow): Final=1343.7, Time=44.8, Moves(52)=0.9, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:11:49] SCORE The bandits (purple): Final=1063.3, Time=94.4, Moves(52)=0.9, Pins(6)=600.0, Dist=368.0, Win Bonus=0.0
+[2026-05-08 10:11:49] SCORE CybSec (red): Final=1281.1, Time=84.2, Moves(51)=0.9, Pins(8)=800.0, Dist=396.0, Win Bonus=0.0
+[2026-05-08 10:11:49] MOVE 260: CybSec (red) 5->2 [0.01ms]
+[2026-05-08 10:11:49] SCORE Robert (lawn green): Final=541.1, Time=70.1, Moves(52)=0.9, Pins(1)=100.0, Dist=370.0, Win Bonus=0.0
+[2026-05-08 10:11:49] SCORE jat (gray0): Final=392.9, Time=90.0, Moves(52)=0.9, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:49] SCORE Group 99 (yellow): Final=1343.7, Time=44.8, Moves(52)=0.9, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:11:49] SCORE The bandits (purple): Final=1063.3, Time=94.4, Moves(52)=0.9, Pins(6)=600.0, Dist=368.0, Win Bonus=0.0
+[2026-05-08 10:11:49] SCORE CybSec (red): Final=1280.9, Time=84.0, Moves(52)=0.9, Pins(8)=800.0, Dist=396.0, Win Bonus=0.0
+[2026-05-08 10:11:50] MOVE 261: Robert (lawn green) 68->78 [0.01ms]
+[2026-05-08 10:11:50] SCORE Robert (lawn green): Final=542.1, Time=69.2, Moves(53)=0.9, Pins(1)=100.0, Dist=372.0, Win Bonus=0.0
+[2026-05-08 10:11:50] SCORE jat (gray0): Final=392.9, Time=90.0, Moves(52)=0.9, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:50] SCORE Group 99 (yellow): Final=1343.7, Time=44.8, Moves(52)=0.9, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:11:50] SCORE The bandits (purple): Final=1063.3, Time=94.4, Moves(52)=0.9, Pins(6)=600.0, Dist=368.0, Win Bonus=0.0
+[2026-05-08 10:11:50] SCORE CybSec (red): Final=1280.9, Time=84.0, Moves(52)=0.9, Pins(8)=800.0, Dist=396.0, Win Bonus=0.0
+[2026-05-08 10:11:50] MOVE 262: Group 99 (yellow) 107->109 [0.01ms]
+[2026-05-08 10:11:50] SCORE Robert (lawn green): Final=542.1, Time=69.2, Moves(53)=0.9, Pins(1)=100.0, Dist=372.0, Win Bonus=0.0
+[2026-05-08 10:11:50] SCORE jat (gray0): Final=392.9, Time=90.0, Moves(52)=0.9, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:50] SCORE Group 99 (yellow): Final=1343.5, Time=44.6, Moves(53)=0.9, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:11:50] SCORE The bandits (purple): Final=1063.3, Time=94.4, Moves(52)=0.9, Pins(6)=600.0, Dist=368.0, Win Bonus=0.0
+[2026-05-08 10:11:50] SCORE CybSec (red): Final=1280.9, Time=84.0, Moves(52)=0.9, Pins(8)=800.0, Dist=396.0, Win Bonus=0.0
+[2026-05-08 10:11:51] MOVE 263: jat (gray0) 21->34 [0.00ms]
+[2026-05-08 10:11:51] SCORE Robert (lawn green): Final=542.1, Time=69.2, Moves(53)=0.9, Pins(1)=100.0, Dist=372.0, Win Bonus=0.0
+[2026-05-08 10:11:51] SCORE jat (gray0): Final=392.8, Time=89.9, Moves(53)=0.9, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:51] SCORE Group 99 (yellow): Final=1343.5, Time=44.6, Moves(53)=0.9, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:11:51] SCORE The bandits (purple): Final=1063.3, Time=94.4, Moves(52)=0.9, Pins(6)=600.0, Dist=368.0, Win Bonus=0.0
+[2026-05-08 10:11:51] SCORE CybSec (red): Final=1280.9, Time=84.0, Moves(52)=0.9, Pins(8)=800.0, Dist=396.0, Win Bonus=0.0
+[2026-05-08 10:11:51] MOVE 264: The bandits (purple) 24->36 [0.01ms]
+[2026-05-08 10:11:51] SCORE Robert (lawn green): Final=542.1, Time=69.2, Moves(53)=0.9, Pins(1)=100.0, Dist=372.0, Win Bonus=0.0
+[2026-05-08 10:11:51] SCORE jat (gray0): Final=392.8, Time=89.9, Moves(53)=0.9, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:51] SCORE Group 99 (yellow): Final=1343.5, Time=44.6, Moves(53)=0.9, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:11:51] SCORE The bandits (purple): Final=1063.2, Time=94.3, Moves(53)=0.9, Pins(6)=600.0, Dist=368.0, Win Bonus=0.0
+[2026-05-08 10:11:51] SCORE CybSec (red): Final=1280.9, Time=84.0, Moves(52)=0.9, Pins(8)=800.0, Dist=396.0, Win Bonus=0.0
+[2026-05-08 10:11:51] MOVE 265: CybSec (red) 14->5 [0.01ms]
+[2026-05-08 10:11:51] SCORE Robert (lawn green): Final=542.1, Time=69.2, Moves(53)=0.9, Pins(1)=100.0, Dist=372.0, Win Bonus=0.0
+[2026-05-08 10:11:51] SCORE jat (gray0): Final=392.8, Time=89.9, Moves(53)=0.9, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:51] SCORE Group 99 (yellow): Final=1343.5, Time=44.6, Moves(53)=0.9, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:11:51] SCORE The bandits (purple): Final=1063.2, Time=94.3, Moves(53)=0.9, Pins(6)=600.0, Dist=368.0, Win Bonus=0.0
+[2026-05-08 10:11:51] SCORE CybSec (red): Final=1382.7, Time=83.8, Moves(53)=0.9, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:11:51] MOVE 266: Robert (lawn green) 46->66 [0.01ms]
+[2026-05-08 10:11:51] SCORE Robert (lawn green): Final=543.9, Time=69.0, Moves(54)=0.9, Pins(1)=100.0, Dist=374.0, Win Bonus=0.0
+[2026-05-08 10:11:51] SCORE jat (gray0): Final=392.8, Time=89.9, Moves(53)=0.9, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:51] SCORE Group 99 (yellow): Final=1343.5, Time=44.6, Moves(53)=0.9, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:11:51] SCORE The bandits (purple): Final=1063.2, Time=94.3, Moves(53)=0.9, Pins(6)=600.0, Dist=368.0, Win Bonus=0.0
+[2026-05-08 10:11:51] SCORE CybSec (red): Final=1382.7, Time=83.8, Moves(53)=0.9, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:11:51] MOVE 267: Group 99 (yellow) 109->107 [0.00ms]
+[2026-05-08 10:11:51] SCORE Robert (lawn green): Final=543.9, Time=69.0, Moves(54)=0.9, Pins(1)=100.0, Dist=374.0, Win Bonus=0.0
+[2026-05-08 10:11:51] SCORE jat (gray0): Final=392.8, Time=89.9, Moves(53)=0.9, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:51] SCORE Group 99 (yellow): Final=1343.4, Time=44.5, Moves(54)=0.9, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:11:51] SCORE The bandits (purple): Final=1063.2, Time=94.3, Moves(53)=0.9, Pins(6)=600.0, Dist=368.0, Win Bonus=0.0
+[2026-05-08 10:11:51] SCORE CybSec (red): Final=1382.7, Time=83.8, Moves(53)=0.9, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:11:51] MOVE 268: jat (gray0) 34->21 [0.01ms]
+[2026-05-08 10:11:51] SCORE Robert (lawn green): Final=543.9, Time=69.0, Moves(54)=0.9, Pins(1)=100.0, Dist=374.0, Win Bonus=0.0
+[2026-05-08 10:11:51] SCORE jat (gray0): Final=392.4, Time=89.6, Moves(54)=0.9, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:52] SCORE Group 99 (yellow): Final=1343.4, Time=44.5, Moves(54)=0.9, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:11:52] SCORE The bandits (purple): Final=1063.2, Time=94.3, Moves(53)=0.9, Pins(6)=600.0, Dist=368.0, Win Bonus=0.0
+[2026-05-08 10:11:52] SCORE CybSec (red): Final=1382.7, Time=83.8, Moves(53)=0.9, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:11:52] MOVE 269: The bandits (purple) 12->24 [0.00ms]
+[2026-05-08 10:11:52] SCORE Robert (lawn green): Final=543.9, Time=69.0, Moves(54)=0.9, Pins(1)=100.0, Dist=374.0, Win Bonus=0.0
+[2026-05-08 10:11:52] SCORE jat (gray0): Final=392.4, Time=89.6, Moves(54)=0.9, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:52] SCORE Group 99 (yellow): Final=1343.4, Time=44.5, Moves(54)=0.9, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:11:52] SCORE The bandits (purple): Final=1063.1, Time=94.2, Moves(54)=0.9, Pins(6)=600.0, Dist=368.0, Win Bonus=0.0
+[2026-05-08 10:11:52] SCORE CybSec (red): Final=1382.7, Time=83.8, Moves(53)=0.9, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:11:52] MOVE 270: CybSec (red) 4->17 [0.01ms]
+[2026-05-08 10:11:52] SCORE Robert (lawn green): Final=543.9, Time=69.0, Moves(54)=0.9, Pins(1)=100.0, Dist=374.0, Win Bonus=0.0
+[2026-05-08 10:11:52] SCORE jat (gray0): Final=392.4, Time=89.6, Moves(54)=0.9, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:52] SCORE Group 99 (yellow): Final=1343.4, Time=44.5, Moves(54)=0.9, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:11:52] SCORE The bandits (purple): Final=1063.1, Time=94.2, Moves(54)=0.9, Pins(6)=600.0, Dist=368.0, Win Bonus=0.0
+[2026-05-08 10:11:52] SCORE CybSec (red): Final=1280.4, Time=83.5, Moves(54)=0.9, Pins(8)=800.0, Dist=396.0, Win Bonus=0.0
+[2026-05-08 10:11:52] SCORE Robert (lawn green): Final=543.9, Time=69.0, Moves(54)=0.9, Pins(1)=100.0, Dist=374.0, Win Bonus=0.0
+[2026-05-08 10:11:52] SCORE jat (gray0): Final=392.4, Time=89.6, Moves(54)=0.9, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:52] SCORE Group 99 (yellow): Final=1343.4, Time=44.5, Moves(54)=0.9, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:11:52] SCORE The bandits (purple): Final=1063.1, Time=94.2, Moves(54)=0.9, Pins(6)=600.0, Dist=368.0, Win Bonus=0.0
+[2026-05-08 10:11:52] SCORE CybSec (red): Final=1280.4, Time=83.5, Moves(54)=0.9, Pins(8)=800.0, Dist=396.0, Win Bonus=0.0
+[2026-05-08 10:11:52] GAME TIME LIMIT REACHED.
+[2026-05-08 10:11:52] SCORE Robert (lawn green): Final=543.9, Time=69.0, Moves(54)=0.9, Pins(1)=100.0, Dist=374.0, Win Bonus=0.0
+[2026-05-08 10:11:52] SCORE jat (gray0): Final=392.4, Time=89.6, Moves(54)=0.9, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:52] SCORE Group 99 (yellow): Final=1343.4, Time=44.5, Moves(54)=0.9, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:11:52] SCORE The bandits (purple): Final=1063.1, Time=94.2, Moves(54)=0.9, Pins(6)=600.0, Dist=368.0, Win Bonus=0.0
+[2026-05-08 10:11:52] SCORE CybSec (red): Final=1280.4, Time=83.5, Moves(54)=0.9, Pins(8)=800.0, Dist=396.0, Win Bonus=0.0
+[2026-05-08 10:11:52] GAME TIME LIMIT REACHED.
+[2026-05-08 10:11:52] SCORE Robert (lawn green): Final=543.9, Time=69.0, Moves(54)=0.9, Pins(1)=100.0, Dist=374.0, Win Bonus=0.0
+[2026-05-08 10:11:52] SCORE jat (gray0): Final=392.4, Time=89.6, Moves(54)=0.9, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:52] SCORE Group 99 (yellow): Final=1343.4, Time=44.5, Moves(54)=0.9, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:11:52] SCORE The bandits (purple): Final=1063.1, Time=94.2, Moves(54)=0.9, Pins(6)=600.0, Dist=368.0, Win Bonus=0.0
+[2026-05-08 10:11:52] SCORE CybSec (red): Final=1280.4, Time=83.5, Moves(54)=0.9, Pins(8)=800.0, Dist=396.0, Win Bonus=0.0
+[2026-05-08 10:11:52] GAME TIME LIMIT REACHED.
+[2026-05-08 10:11:52] SCORE Robert (lawn green): Final=543.9, Time=69.0, Moves(54)=0.9, Pins(1)=100.0, Dist=374.0, Win Bonus=0.0
+[2026-05-08 10:11:52] SCORE jat (gray0): Final=392.4, Time=89.6, Moves(54)=0.9, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:52] SCORE Group 99 (yellow): Final=1343.4, Time=44.5, Moves(54)=0.9, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:11:52] SCORE The bandits (purple): Final=1063.1, Time=94.2, Moves(54)=0.9, Pins(6)=600.0, Dist=368.0, Win Bonus=0.0
+[2026-05-08 10:11:52] SCORE CybSec (red): Final=1280.4, Time=83.5, Moves(54)=0.9, Pins(8)=800.0, Dist=396.0, Win Bonus=0.0
+[2026-05-08 10:11:52] GAME TIME LIMIT REACHED.
+[2026-05-08 10:11:52] SCORE Robert (lawn green): Final=543.9, Time=69.0, Moves(54)=0.9, Pins(1)=100.0, Dist=374.0, Win Bonus=0.0
+[2026-05-08 10:11:52] SCORE jat (gray0): Final=392.4, Time=89.6, Moves(54)=0.9, Pins(1)=100.0, Dist=202.0, Win Bonus=0.0
+[2026-05-08 10:11:52] SCORE Group 99 (yellow): Final=1343.4, Time=44.5, Moves(54)=0.9, Pins(9)=900.0, Dist=398.0, Win Bonus=0.0
+[2026-05-08 10:11:52] SCORE The bandits (purple): Final=1063.1, Time=94.2, Moves(54)=0.9, Pins(6)=600.0, Dist=368.0, Win Bonus=0.0
+[2026-05-08 10:11:52] SCORE CybSec (red): Final=1280.4, Time=83.5, Moves(54)=0.9, Pins(8)=800.0, Dist=396.0, Win Bonus=0.0
+[2026-05-08 10:11:52] GAME TIME LIMIT REACHED.

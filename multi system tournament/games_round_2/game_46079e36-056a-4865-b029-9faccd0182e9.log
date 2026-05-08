@@ -1,0 +1,329 @@
+[2026-05-08 09:38:52] GAME CREATED
+[2026-05-08 09:38:53] PLAYER JOINED: jat as red
+[2026-05-08 09:39:01] PLAYER JOINED: CybSec as blue
+[2026-05-08 09:39:01] PLAYER START: jat (red)
+[2026-05-08 09:39:01] PLAYER START: CybSec (blue)
+[2026-05-08 09:39:01] GAME START — turn order ['red', 'blue']
+[2026-05-08 09:39:01] MOVE 1: jat (red) 115->104 [0.02ms]
+[2026-05-08 09:39:01] SCORE jat (red): Final=283.9, Time=99.9, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 09:39:01] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:39:03] SCORE jat (red): Final=283.9, Time=99.9, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 09:39:03] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:39:03] TURN TIMEOUT: Player with colour blue exceeded 2s at move 1. Turn skipped.
+[2026-05-08 09:39:03] MOVE 2: jat (red) 120->102 [0.01ms]
+[2026-05-08 09:39:03] SCORE jat (red): Final=291.8, Time=99.8, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 09:39:03] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:39:06] SCORE jat (red): Final=291.8, Time=99.8, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-08 09:39:06] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:39:06] TURN TIMEOUT: Player with colour blue exceeded 2s at move 2. Turn skipped.
+[2026-05-08 09:39:06] MOVE 3: jat (red) 113->91 [0.00ms]
+[2026-05-08 09:39:06] SCORE jat (red): Final=295.8, Time=99.8, Moves(3)=0.0, Pins(0)=0.0, Dist=196.0, Win Bonus=0.0
+[2026-05-08 09:39:06] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:39:08] SCORE jat (red): Final=295.8, Time=99.8, Moves(3)=0.0, Pins(0)=0.0, Dist=196.0, Win Bonus=0.0
+[2026-05-08 09:39:08] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:39:08] TURN TIMEOUT: Player with colour blue exceeded 2s at move 3. Turn skipped.
+[2026-05-08 09:39:08] MOVE 4: jat (red) 116->80 [0.00ms]
+[2026-05-08 09:39:08] SCORE jat (red): Final=303.8, Time=99.8, Moves(4)=0.0, Pins(0)=0.0, Dist=204.0, Win Bonus=0.0
+[2026-05-08 09:39:08] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:39:10] SCORE jat (red): Final=303.8, Time=99.8, Moves(4)=0.0, Pins(0)=0.0, Dist=204.0, Win Bonus=0.0
+[2026-05-08 09:39:10] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:39:10] TURN TIMEOUT: Player with colour blue exceeded 2s at move 4. Turn skipped.
+[2026-05-08 09:39:10] MOVE 5: jat (red) 112->69 [0.01ms]
+[2026-05-08 09:39:10] SCORE jat (red): Final=311.7, Time=99.7, Moves(5)=0.0, Pins(0)=0.0, Dist=212.0, Win Bonus=0.0
+[2026-05-08 09:39:10] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:39:12] SCORE jat (red): Final=311.7, Time=99.7, Moves(5)=0.0, Pins(0)=0.0, Dist=212.0, Win Bonus=0.0
+[2026-05-08 09:39:12] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:39:12] TURN TIMEOUT: Player with colour blue exceeded 2s at move 5. Turn skipped.
+[2026-05-08 09:39:12] MOVE 6: jat (red) 117->106 [0.00ms]
+[2026-05-08 09:39:12] SCORE jat (red): Final=315.6, Time=99.6, Moves(6)=0.0, Pins(0)=0.0, Dist=216.0, Win Bonus=0.0
+[2026-05-08 09:39:12] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:39:14] SCORE jat (red): Final=315.6, Time=99.6, Moves(6)=0.0, Pins(0)=0.0, Dist=216.0, Win Bonus=0.0
+[2026-05-08 09:39:14] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:39:14] TURN TIMEOUT: Player with colour blue exceeded 2s at move 6. Turn skipped.
+[2026-05-08 09:39:14] MOVE 7: jat (red) 104->60 [0.00ms]
+[2026-05-08 09:39:14] SCORE jat (red): Final=323.6, Time=99.6, Moves(7)=0.0, Pins(0)=0.0, Dist=224.0, Win Bonus=0.0
+[2026-05-08 09:39:14] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:39:16] SCORE jat (red): Final=323.6, Time=99.6, Moves(7)=0.0, Pins(0)=0.0, Dist=224.0, Win Bonus=0.0
+[2026-05-08 09:39:16] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:39:16] TURN TIMEOUT: Player with colour blue exceeded 2s at move 7. Turn skipped.
+[2026-05-08 09:39:16] MOVE 8: jat (red) 91->50 [0.01ms]
+[2026-05-08 09:39:16] SCORE jat (red): Final=331.5, Time=99.5, Moves(8)=0.0, Pins(0)=0.0, Dist=232.0, Win Bonus=0.0
+[2026-05-08 09:39:16] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:39:18] SCORE jat (red): Final=331.5, Time=99.5, Moves(8)=0.0, Pins(0)=0.0, Dist=232.0, Win Bonus=0.0
+[2026-05-08 09:39:18] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:39:18] TURN TIMEOUT: Player with colour blue exceeded 2s at move 8. Turn skipped.
+[2026-05-08 09:39:19] MOVE 9: jat (red) 80->40 [0.01ms]
+[2026-05-08 09:39:19] SCORE jat (red): Final=339.5, Time=99.5, Moves(9)=0.0, Pins(0)=0.0, Dist=240.0, Win Bonus=0.0
+[2026-05-08 09:39:19] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:39:21] SCORE jat (red): Final=339.5, Time=99.5, Moves(9)=0.0, Pins(0)=0.0, Dist=240.0, Win Bonus=0.0
+[2026-05-08 09:39:21] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:39:21] TURN TIMEOUT: Player with colour blue exceeded 2s at move 9. Turn skipped.
+[2026-05-08 09:39:21] MOVE 10: jat (red) 111->89 [0.01ms]
+[2026-05-08 09:39:21] SCORE jat (red): Final=343.5, Time=99.5, Moves(10)=0.0, Pins(0)=0.0, Dist=244.0, Win Bonus=0.0
+[2026-05-08 09:39:21] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:39:23] SCORE jat (red): Final=343.5, Time=99.5, Moves(10)=0.0, Pins(0)=0.0, Dist=244.0, Win Bonus=0.0
+[2026-05-08 09:39:23] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:39:23] TURN TIMEOUT: Player with colour blue exceeded 2s at move 10. Turn skipped.
+[2026-05-08 09:39:23] MOVE 11: jat (red) 114->94 [0.01ms]
+[2026-05-08 09:39:23] SCORE jat (red): Final=347.4, Time=99.4, Moves(11)=0.0, Pins(0)=0.0, Dist=248.0, Win Bonus=0.0
+[2026-05-08 09:39:23] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:39:25] SCORE jat (red): Final=347.4, Time=99.4, Moves(11)=0.0, Pins(0)=0.0, Dist=248.0, Win Bonus=0.0
+[2026-05-08 09:39:25] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:39:25] TURN TIMEOUT: Player with colour blue exceeded 2s at move 11. Turn skipped.
+[2026-05-08 09:39:25] MOVE 12: jat (red) 69->28 [0.01ms]
+[2026-05-08 09:39:25] SCORE jat (red): Final=355.3, Time=99.3, Moves(12)=0.0, Pins(0)=0.0, Dist=256.0, Win Bonus=0.0
+[2026-05-08 09:39:25] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:39:27] SCORE jat (red): Final=355.3, Time=99.3, Moves(12)=0.0, Pins(0)=0.0, Dist=256.0, Win Bonus=0.0
+[2026-05-08 09:39:27] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:39:27] TURN TIMEOUT: Player with colour blue exceeded 2s at move 12. Turn skipped.
+[2026-05-08 09:39:27] MOVE 13: jat (red) 118->115 [0.01ms]
+[2026-05-08 09:39:27] SCORE jat (red): Final=357.3, Time=99.3, Moves(13)=0.0, Pins(0)=0.0, Dist=258.0, Win Bonus=0.0
+[2026-05-08 09:39:27] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:39:29] SCORE jat (red): Final=357.3, Time=99.3, Moves(13)=0.0, Pins(0)=0.0, Dist=258.0, Win Bonus=0.0
+[2026-05-08 09:39:29] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:39:29] TURN TIMEOUT: Player with colour blue exceeded 2s at move 13. Turn skipped.
+[2026-05-08 09:39:30] MOVE 14: jat (red) 119->117 [0.01ms]
+[2026-05-08 09:39:30] SCORE jat (red): Final=359.3, Time=99.3, Moves(14)=0.0, Pins(0)=0.0, Dist=260.0, Win Bonus=0.0
+[2026-05-08 09:39:30] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:39:32] SCORE jat (red): Final=359.3, Time=99.3, Moves(14)=0.0, Pins(0)=0.0, Dist=260.0, Win Bonus=0.0
+[2026-05-08 09:39:32] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:39:32] TURN TIMEOUT: Player with colour blue exceeded 2s at move 14. Turn skipped.
+[2026-05-08 09:39:32] MOVE 15: jat (red) 117->113 [0.01ms]
+[2026-05-08 09:39:32] SCORE jat (red): Final=361.2, Time=99.2, Moves(15)=0.0, Pins(0)=0.0, Dist=262.0, Win Bonus=0.0
+[2026-05-08 09:39:32] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:39:34] SCORE jat (red): Final=361.2, Time=99.2, Moves(15)=0.0, Pins(0)=0.0, Dist=262.0, Win Bonus=0.0
+[2026-05-08 09:39:34] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:39:34] TURN TIMEOUT: Player with colour blue exceeded 2s at move 15. Turn skipped.
+[2026-05-08 09:39:34] MOVE 16: jat (red) 113->105 [0.00ms]
+[2026-05-08 09:39:34] SCORE jat (red): Final=363.2, Time=99.2, Moves(16)=0.0, Pins(0)=0.0, Dist=264.0, Win Bonus=0.0
+[2026-05-08 09:39:34] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:39:36] SCORE jat (red): Final=363.2, Time=99.2, Moves(16)=0.0, Pins(0)=0.0, Dist=264.0, Win Bonus=0.0
+[2026-05-08 09:39:36] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:39:36] TURN TIMEOUT: Player with colour blue exceeded 2s at move 16. Turn skipped.
+[2026-05-08 09:39:36] MOVE 17: jat (red) 115->112 [0.00ms]
+[2026-05-08 09:39:36] SCORE jat (red): Final=365.1, Time=99.1, Moves(17)=0.0, Pins(0)=0.0, Dist=266.0, Win Bonus=0.0
+[2026-05-08 09:39:36] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:39:38] SCORE jat (red): Final=365.1, Time=99.1, Moves(17)=0.0, Pins(0)=0.0, Dist=266.0, Win Bonus=0.0
+[2026-05-08 09:39:38] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:39:38] TURN TIMEOUT: Player with colour blue exceeded 2s at move 17. Turn skipped.
+[2026-05-08 09:39:38] MOVE 18: jat (red) 112->103 [0.01ms]
+[2026-05-08 09:39:38] SCORE jat (red): Final=367.1, Time=99.1, Moves(18)=0.0, Pins(0)=0.0, Dist=268.0, Win Bonus=0.0
+[2026-05-08 09:39:38] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:39:41] SCORE jat (red): Final=367.1, Time=99.1, Moves(18)=0.0, Pins(0)=0.0, Dist=268.0, Win Bonus=0.0
+[2026-05-08 09:39:41] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:39:41] TURN TIMEOUT: Player with colour blue exceeded 2s at move 18. Turn skipped.
+[2026-05-08 09:39:41] MOVE 19: jat (red) 103->78 [0.01ms]
+[2026-05-08 09:39:41] SCORE jat (red): Final=371.0, Time=99.0, Moves(19)=0.0, Pins(0)=0.0, Dist=272.0, Win Bonus=0.0
+[2026-05-08 09:39:41] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:39:43] SCORE jat (red): Final=371.0, Time=99.0, Moves(19)=0.0, Pins(0)=0.0, Dist=272.0, Win Bonus=0.0
+[2026-05-08 09:39:43] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:39:43] TURN TIMEOUT: Player with colour blue exceeded 2s at move 19. Turn skipped.
+[2026-05-08 09:39:43] MOVE 20: jat (red) 102->77 [0.01ms]
+[2026-05-08 09:39:43] SCORE jat (red): Final=375.0, Time=99.0, Moves(20)=0.0, Pins(0)=0.0, Dist=276.0, Win Bonus=0.0
+[2026-05-08 09:39:43] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:39:45] SCORE jat (red): Final=375.0, Time=99.0, Moves(20)=0.0, Pins(0)=0.0, Dist=276.0, Win Bonus=0.0
+[2026-05-08 09:39:45] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:39:45] TURN TIMEOUT: Player with colour blue exceeded 2s at move 20. Turn skipped.
+[2026-05-08 09:39:45] MOVE 21: jat (red) 105->82 [0.01ms]
+[2026-05-08 09:39:45] SCORE jat (red): Final=378.9, Time=98.9, Moves(21)=0.0, Pins(0)=0.0, Dist=280.0, Win Bonus=0.0
+[2026-05-08 09:39:45] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:39:47] SCORE jat (red): Final=378.9, Time=98.9, Moves(21)=0.0, Pins(0)=0.0, Dist=280.0, Win Bonus=0.0
+[2026-05-08 09:39:47] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:39:47] TURN TIMEOUT: Player with colour blue exceeded 2s at move 21. Turn skipped.
+[2026-05-08 09:39:47] MOVE 22: jat (red) 106->83 [0.01ms]
+[2026-05-08 09:39:47] SCORE jat (red): Final=382.9, Time=98.9, Moves(22)=0.0, Pins(0)=0.0, Dist=284.0, Win Bonus=0.0
+[2026-05-08 09:39:47] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:39:49] SCORE jat (red): Final=382.9, Time=98.9, Moves(22)=0.0, Pins(0)=0.0, Dist=284.0, Win Bonus=0.0
+[2026-05-08 09:39:49] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:39:49] TURN TIMEOUT: Player with colour blue exceeded 2s at move 22. Turn skipped.
+[2026-05-08 09:39:49] MOVE 23: jat (red) 89->68 [0.00ms]
+[2026-05-08 09:39:49] SCORE jat (red): Final=386.7, Time=98.7, Moves(23)=0.0, Pins(0)=0.0, Dist=288.0, Win Bonus=0.0
+[2026-05-08 09:39:49] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:39:52] SCORE jat (red): Final=386.7, Time=98.7, Moves(23)=0.0, Pins(0)=0.0, Dist=288.0, Win Bonus=0.0
+[2026-05-08 09:39:52] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:39:52] TURN TIMEOUT: Player with colour blue exceeded 2s at move 23. Turn skipped.
+[2026-05-08 09:39:52] MOVE 24: jat (red) 78->59 [0.01ms]
+[2026-05-08 09:39:52] SCORE jat (red): Final=390.6, Time=98.6, Moves(24)=0.0, Pins(0)=0.0, Dist=292.0, Win Bonus=0.0
+[2026-05-08 09:39:52] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:39:54] SCORE jat (red): Final=390.6, Time=98.6, Moves(24)=0.0, Pins(0)=0.0, Dist=292.0, Win Bonus=0.0
+[2026-05-08 09:39:54] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:39:54] TURN TIMEOUT: Player with colour blue exceeded 2s at move 24. Turn skipped.
+[2026-05-08 09:39:54] MOVE 25: jat (red) 94->71 [0.00ms]
+[2026-05-08 09:39:54] SCORE jat (red): Final=394.5, Time=98.5, Moves(25)=0.0, Pins(0)=0.0, Dist=296.0, Win Bonus=0.0
+[2026-05-08 09:39:54] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:39:56] SCORE jat (red): Final=394.5, Time=98.5, Moves(25)=0.0, Pins(0)=0.0, Dist=296.0, Win Bonus=0.0
+[2026-05-08 09:39:56] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:39:56] TURN TIMEOUT: Player with colour blue exceeded 2s at move 25. Turn skipped.
+[2026-05-08 09:39:56] MOVE 26: jat (red) 82->61 [0.00ms]
+[2026-05-08 09:39:56] SCORE jat (red): Final=398.5, Time=98.5, Moves(26)=0.0, Pins(0)=0.0, Dist=300.0, Win Bonus=0.0
+[2026-05-08 09:39:56] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:39:59] SCORE jat (red): Final=398.5, Time=98.5, Moves(26)=0.0, Pins(0)=0.0, Dist=300.0, Win Bonus=0.0
+[2026-05-08 09:39:59] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:39:59] TURN TIMEOUT: Player with colour blue exceeded 2s at move 26. Turn skipped.
+[2026-05-08 09:39:59] MOVE 27: jat (red) 71->51 [0.00ms]
+[2026-05-08 09:39:59] SCORE jat (red): Final=402.2, Time=98.2, Moves(27)=0.0, Pins(0)=0.0, Dist=304.0, Win Bonus=0.0
+[2026-05-08 09:39:59] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:40:01] SCORE jat (red): Final=402.2, Time=98.2, Moves(27)=0.0, Pins(0)=0.0, Dist=304.0, Win Bonus=0.0
+[2026-05-08 09:40:01] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:40:01] TURN TIMEOUT: Player with colour blue exceeded 2s at move 27. Turn skipped.
+[2026-05-08 09:40:01] MOVE 28: jat (red) 77->67 [0.01ms]
+[2026-05-08 09:40:01] SCORE jat (red): Final=404.1, Time=98.1, Moves(28)=0.0, Pins(0)=0.0, Dist=306.0, Win Bonus=0.0
+[2026-05-08 09:40:01] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:40:03] SCORE jat (red): Final=404.1, Time=98.1, Moves(28)=0.0, Pins(0)=0.0, Dist=306.0, Win Bonus=0.0
+[2026-05-08 09:40:03] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:40:03] TURN TIMEOUT: Player with colour blue exceeded 2s at move 28. Turn skipped.
+[2026-05-08 09:40:03] MOVE 29: jat (red) 67->49 [0.01ms]
+[2026-05-08 09:40:03] SCORE jat (red): Final=408.0, Time=98.0, Moves(29)=0.0, Pins(0)=0.0, Dist=310.0, Win Bonus=0.0
+[2026-05-08 09:40:03] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:40:06] SCORE jat (red): Final=408.0, Time=98.0, Moves(29)=0.0, Pins(0)=0.0, Dist=310.0, Win Bonus=0.0
+[2026-05-08 09:40:06] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:40:06] TURN TIMEOUT: Player with colour blue exceeded 2s at move 29. Turn skipped.
+[2026-05-08 09:40:06] MOVE 30: jat (red) 60->39 [0.01ms]
+[2026-05-08 09:40:06] SCORE jat (red): Final=412.0, Time=98.0, Moves(30)=0.0, Pins(0)=0.0, Dist=314.0, Win Bonus=0.0
+[2026-05-08 09:40:06] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:40:08] SCORE jat (red): Final=412.0, Time=98.0, Moves(30)=0.0, Pins(0)=0.0, Dist=314.0, Win Bonus=0.0
+[2026-05-08 09:40:08] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:40:08] TURN TIMEOUT: Player with colour blue exceeded 2s at move 30. Turn skipped.
+[2026-05-08 09:40:08] MOVE 31: jat (red) 83->72 [0.00ms]
+[2026-05-08 09:40:08] SCORE jat (red): Final=413.7, Time=97.7, Moves(31)=0.0, Pins(0)=0.0, Dist=316.0, Win Bonus=0.0
+[2026-05-08 09:40:08] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:40:10] SCORE jat (red): Final=413.7, Time=97.7, Moves(31)=0.0, Pins(0)=0.0, Dist=316.0, Win Bonus=0.0
+[2026-05-08 09:40:10] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:40:10] TURN TIMEOUT: Player with colour blue exceeded 2s at move 31. Turn skipped.
+[2026-05-08 09:40:10] MOVE 32: jat (red) 59->38 [0.01ms]
+[2026-05-08 09:40:10] SCORE jat (red): Final=417.6, Time=97.6, Moves(32)=0.0, Pins(0)=0.0, Dist=320.0, Win Bonus=0.0
+[2026-05-08 09:40:10] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:40:13] SCORE jat (red): Final=417.6, Time=97.6, Moves(32)=0.0, Pins(0)=0.0, Dist=320.0, Win Bonus=0.0
+[2026-05-08 09:40:13] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:40:13] TURN TIMEOUT: Player with colour blue exceeded 2s at move 32. Turn skipped.
+[2026-05-08 09:40:13] MOVE 33: jat (red) 68->59 [0.01ms]
+[2026-05-08 09:40:13] SCORE jat (red): Final=419.5, Time=97.5, Moves(33)=0.0, Pins(0)=0.0, Dist=322.0, Win Bonus=0.0
+[2026-05-08 09:40:13] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:40:15] SCORE jat (red): Final=419.5, Time=97.5, Moves(33)=0.0, Pins(0)=0.0, Dist=322.0, Win Bonus=0.0
+[2026-05-08 09:40:15] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:40:15] TURN TIMEOUT: Player with colour blue exceeded 2s at move 33. Turn skipped.
+[2026-05-08 09:40:15] MOVE 34: jat (red) 72->62 [0.01ms]
+[2026-05-08 09:40:15] SCORE jat (red): Final=421.4, Time=97.4, Moves(34)=0.0, Pins(0)=0.0, Dist=324.0, Win Bonus=0.0
+[2026-05-08 09:40:15] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:40:17] SCORE jat (red): Final=421.4, Time=97.4, Moves(34)=0.0, Pins(0)=0.0, Dist=324.0, Win Bonus=0.0
+[2026-05-08 09:40:17] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:40:17] TURN TIMEOUT: Player with colour blue exceeded 2s at move 34. Turn skipped.
+[2026-05-08 09:40:17] MOVE 35: jat (red) 62->41 [0.01ms]
+[2026-05-08 09:40:17] SCORE jat (red): Final=425.3, Time=97.3, Moves(35)=0.0, Pins(0)=0.0, Dist=328.0, Win Bonus=0.0
+[2026-05-08 09:40:17] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:40:19] SCORE jat (red): Final=425.3, Time=97.3, Moves(35)=0.0, Pins(0)=0.0, Dist=328.0, Win Bonus=0.0
+[2026-05-08 09:40:19] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:40:19] TURN TIMEOUT: Player with colour blue exceeded 2s at move 35. Turn skipped.
+[2026-05-08 09:40:19] MOVE 36: jat (red) 50->27 [0.01ms]
+[2026-05-08 09:40:19] SCORE jat (red): Final=429.2, Time=97.2, Moves(36)=0.1, Pins(0)=0.0, Dist=332.0, Win Bonus=0.0
+[2026-05-08 09:40:19] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:40:22] SCORE jat (red): Final=429.2, Time=97.2, Moves(36)=0.1, Pins(0)=0.0, Dist=332.0, Win Bonus=0.0
+[2026-05-08 09:40:22] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:40:22] TURN TIMEOUT: Player with colour blue exceeded 2s at move 36. Turn skipped.
+[2026-05-08 09:40:22] MOVE 37: jat (red) 59->50 [0.01ms]
+[2026-05-08 09:40:22] SCORE jat (red): Final=431.2, Time=97.0, Moves(37)=0.1, Pins(0)=0.0, Dist=334.0, Win Bonus=0.0
+[2026-05-08 09:40:22] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:40:24] SCORE jat (red): Final=431.2, Time=97.0, Moves(37)=0.1, Pins(0)=0.0, Dist=334.0, Win Bonus=0.0
+[2026-05-08 09:40:24] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:40:24] TURN TIMEOUT: Player with colour blue exceeded 2s at move 37. Turn skipped.
+[2026-05-08 09:40:24] MOVE 38: jat (red) 61->52 [0.01ms]
+[2026-05-08 09:40:24] SCORE jat (red): Final=433.1, Time=96.9, Moves(38)=0.2, Pins(0)=0.0, Dist=336.0, Win Bonus=0.0
+[2026-05-08 09:40:24] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:40:26] SCORE jat (red): Final=433.1, Time=96.9, Moves(38)=0.2, Pins(0)=0.0, Dist=336.0, Win Bonus=0.0
+[2026-05-08 09:40:26] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:40:26] TURN TIMEOUT: Player with colour blue exceeded 2s at move 38. Turn skipped.
+[2026-05-08 09:40:27] MOVE 39: jat (red) 52->29 [0.01ms]
+[2026-05-08 09:40:27] SCORE jat (red): Final=437.0, Time=96.7, Moves(39)=0.3, Pins(0)=0.0, Dist=340.0, Win Bonus=0.0
+[2026-05-08 09:40:27] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:40:29] SCORE jat (red): Final=437.0, Time=96.7, Moves(39)=0.3, Pins(0)=0.0, Dist=340.0, Win Bonus=0.0
+[2026-05-08 09:40:29] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:40:29] TURN TIMEOUT: Player with colour blue exceeded 2s at move 39. Turn skipped.
+[2026-05-08 09:40:29] MOVE 40: jat (red) 49->26 [0.01ms]
+[2026-05-08 09:40:29] SCORE jat (red): Final=441.1, Time=96.7, Moves(40)=0.5, Pins(0)=0.0, Dist=344.0, Win Bonus=0.0
+[2026-05-08 09:40:29] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:40:31] SCORE jat (red): Final=441.1, Time=96.7, Moves(40)=0.5, Pins(0)=0.0, Dist=344.0, Win Bonus=0.0
+[2026-05-08 09:40:31] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:40:31] TURN TIMEOUT: Player with colour blue exceeded 2s at move 40. Turn skipped.
+[2026-05-08 09:40:31] MOVE 41: jat (red) 51->30 [0.00ms]
+[2026-05-08 09:40:31] SCORE jat (red): Final=444.9, Time=96.3, Moves(41)=0.6, Pins(0)=0.0, Dist=348.0, Win Bonus=0.0
+[2026-05-08 09:40:31] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:40:33] SCORE jat (red): Final=444.9, Time=96.3, Moves(41)=0.6, Pins(0)=0.0, Dist=348.0, Win Bonus=0.0
+[2026-05-08 09:40:33] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:40:33] TURN TIMEOUT: Player with colour blue exceeded 2s at move 41. Turn skipped.
+[2026-05-08 09:40:34] MOVE 42: jat (red) 39->14 [0.01ms]
+[2026-05-08 09:40:34] SCORE jat (red): Final=448.5, Time=95.7, Moves(42)=0.8, Pins(0)=0.0, Dist=352.0, Win Bonus=0.0
+[2026-05-08 09:40:34] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:40:37] SCORE jat (red): Final=448.5, Time=95.7, Moves(42)=0.8, Pins(0)=0.0, Dist=352.0, Win Bonus=0.0
+[2026-05-08 09:40:37] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:40:37] TURN TIMEOUT: Player with colour blue exceeded 2s at move 42. Turn skipped.
+[2026-05-08 09:40:37] MOVE 43: jat (red) 50->39 [0.00ms]
+[2026-05-08 09:40:37] SCORE jat (red): Final=450.4, Time=95.5, Moves(43)=0.9, Pins(0)=0.0, Dist=354.0, Win Bonus=0.0
+[2026-05-08 09:40:37] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:40:39] SCORE jat (red): Final=450.4, Time=95.5, Moves(43)=0.9, Pins(0)=0.0, Dist=354.0, Win Bonus=0.0
+[2026-05-08 09:40:39] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:40:39] TURN TIMEOUT: Player with colour blue exceeded 2s at move 43. Turn skipped.
+[2026-05-08 09:40:39] MOVE 44: jat (red) 38->13 [0.01ms]
+[2026-05-08 09:40:39] SCORE jat (red): Final=452.5, Time=95.5, Moves(44)=1.0, Pins(0)=0.0, Dist=356.0, Win Bonus=0.0
+[2026-05-08 09:40:39] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:40:41] SCORE jat (red): Final=452.5, Time=95.5, Moves(44)=1.0, Pins(0)=0.0, Dist=356.0, Win Bonus=0.0
+[2026-05-08 09:40:41] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:40:41] TURN TIMEOUT: Player with colour blue exceeded 2s at move 44. Turn skipped.
+[2026-05-08 09:40:41] MOVE 45: jat (red) 41->18 [0.00ms]
+[2026-05-08 09:40:41] SCORE jat (red): Final=456.4, Time=95.4, Moves(45)=1.0, Pins(0)=0.0, Dist=360.0, Win Bonus=0.0
+[2026-05-08 09:40:41] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:40:44] SCORE jat (red): Final=456.4, Time=95.4, Moves(45)=1.0, Pins(0)=0.0, Dist=360.0, Win Bonus=0.0
+[2026-05-08 09:40:44] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:40:44] TURN TIMEOUT: Player with colour blue exceeded 2s at move 45. Turn skipped.
+[2026-05-08 09:40:44] MOVE 46: jat (red) 40->15 [0.01ms]
+[2026-05-08 09:40:44] SCORE jat (red): Final=460.4, Time=95.4, Moves(46)=1.0, Pins(0)=0.0, Dist=364.0, Win Bonus=0.0
+[2026-05-08 09:40:44] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:40:46] SCORE jat (red): Final=460.4, Time=95.4, Moves(46)=1.0, Pins(0)=0.0, Dist=364.0, Win Bonus=0.0
+[2026-05-08 09:40:46] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:40:46] TURN TIMEOUT: Player with colour blue exceeded 2s at move 46. Turn skipped.
+[2026-05-08 09:40:46] MOVE 47: jat (red) 15->19 [0.02ms]
+[2026-05-08 09:40:46] SCORE jat (red): Final=458.1, Time=95.1, Moves(47)=1.0, Pins(0)=0.0, Dist=362.0, Win Bonus=0.0
+[2026-05-08 09:40:47] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:40:49] SCORE jat (red): Final=458.1, Time=95.1, Moves(47)=1.0, Pins(0)=0.0, Dist=362.0, Win Bonus=0.0
+[2026-05-08 09:40:49] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:40:49] TURN TIMEOUT: Player with colour blue exceeded 2s at move 47. Turn skipped.
+[2026-05-08 09:40:49] MOVE 48: jat (red) 18->31 [0.01ms]
+[2026-05-08 09:40:49] SCORE jat (red): Final=456.0, Time=95.0, Moves(48)=1.0, Pins(0)=0.0, Dist=360.0, Win Bonus=0.0
+[2026-05-08 09:40:49] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:40:51] SCORE jat (red): Final=456.0, Time=95.0, Moves(48)=1.0, Pins(0)=0.0, Dist=360.0, Win Bonus=0.0
+[2026-05-08 09:40:51] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:40:51] TURN TIMEOUT: Player with colour blue exceeded 2s at move 48. Turn skipped.
+[2026-05-08 09:40:51] MOVE 49: jat (red) 39->18 [0.01ms]
+[2026-05-08 09:40:51] SCORE jat (red): Final=459.8, Time=94.8, Moves(49)=1.0, Pins(0)=0.0, Dist=364.0, Win Bonus=0.0
+[2026-05-08 09:40:51] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:40:53] SCORE jat (red): Final=459.8, Time=94.8, Moves(49)=1.0, Pins(0)=0.0, Dist=364.0, Win Bonus=0.0
+[2026-05-08 09:40:53] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:40:53] TURN TIMEOUT: Player with colour blue exceeded 2s at move 49. Turn skipped.
+[2026-05-08 09:40:53] MOVE 50: jat (red) 18->17 [0.01ms]
+[2026-05-08 09:40:53] SCORE jat (red): Final=459.7, Time=94.7, Moves(50)=1.0, Pins(0)=0.0, Dist=364.0, Win Bonus=0.0
+[2026-05-08 09:40:53] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:40:55] SCORE jat (red): Final=459.7, Time=94.7, Moves(50)=1.0, Pins(0)=0.0, Dist=364.0, Win Bonus=0.0
+[2026-05-08 09:40:55] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:40:55] TURN TIMEOUT: Player with colour blue exceeded 2s at move 50. Turn skipped.
+[2026-05-08 09:40:56] MOVE 51: jat (red) 17->18 [0.00ms]
+[2026-05-08 09:40:56] SCORE jat (red): Final=459.6, Time=94.6, Moves(51)=0.9, Pins(0)=0.0, Dist=364.0, Win Bonus=0.0
+[2026-05-08 09:40:56] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:40:58] SCORE jat (red): Final=459.6, Time=94.6, Moves(51)=0.9, Pins(0)=0.0, Dist=364.0, Win Bonus=0.0
+[2026-05-08 09:40:58] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:40:58] TURN TIMEOUT: Player with colour blue exceeded 2s at move 51. Turn skipped.
+[2026-05-08 09:40:58] MOVE 52: jat (red) 18->17 [0.01ms]
+[2026-05-08 09:40:58] SCORE jat (red): Final=459.5, Time=94.5, Moves(52)=0.9, Pins(0)=0.0, Dist=364.0, Win Bonus=0.0
+[2026-05-08 09:40:58] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:41:00] SCORE jat (red): Final=459.5, Time=94.5, Moves(52)=0.9, Pins(0)=0.0, Dist=364.0, Win Bonus=0.0
+[2026-05-08 09:41:00] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:41:00] TURN TIMEOUT: Player with colour blue exceeded 2s at move 52. Turn skipped.
+[2026-05-08 09:41:00] MOVE 53: jat (red) 17->18 [0.01ms]
+[2026-05-08 09:41:00] SCORE jat (red): Final=459.0, Time=94.1, Moves(53)=0.9, Pins(0)=0.0, Dist=364.0, Win Bonus=0.0
+[2026-05-08 09:41:00] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:41:01] SCORE jat (red): Final=459.0, Time=94.1, Moves(53)=0.9, Pins(0)=0.0, Dist=364.0, Win Bonus=0.0
+[2026-05-08 09:41:01] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:41:01] GAME TIME LIMIT REACHED.
+[2026-05-08 09:41:31] PLAYER START: jat (red)
+[2026-05-08 09:41:31] PLAYER START: CybSec (blue)
+[2026-05-08 09:41:31] SCORE jat (red): Final=459.0, Time=94.1, Moves(53)=0.9, Pins(0)=0.0, Dist=364.0, Win Bonus=0.0
+[2026-05-08 09:41:31] SCORE CybSec (blue): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 09:41:31] GAME TIME LIMIT REACHED.
