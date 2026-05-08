@@ -177,7 +177,7 @@ def main():
             pid, moves = random.choice(movable)
             to_index = random.choice(moves)
 
-            delay = random.randint(1, 12)
+            delay = random.randint(1, 2)
             print("Randomized delay:", delay)
             time.sleep(delay)
             '''-----------------PLAYING LOGIC----------------'''

@@ -163,6 +163,7 @@ class Game:
                 self.turn_timeout_notice = "GAME TIME LIMIT REACHED."
                 self.compute_scores()
                 write_log(self.game_id, self.turn_timeout_notice)
+                print(self.game_id, ':',self.turn_timeout_notice)
                 return
 
         # Per-turn timeout
@@ -175,6 +176,7 @@ class Game:
                 )
                 self.compute_scores()
                 write_log(self.game_id, f"TURN TIMEOUT: {self.turn_timeout_notice}")
+                print(self.game_id, ':',self.turn_timeout_notice)
                 self.advance_turn()
 
     # ----------------------------------
@@ -235,6 +237,13 @@ class Game:
 
             final_score = time_score + move_score + pin_goal_score + distance_score
 
+            #if pl.status == "WIN", add a big bonus to final_score to ensure wins rank higher than any non-win
+            if pl.status == "WIN":
+                final_score += 1000.0
+                win_bonus = 1000.0
+            else:
+                win_bonus = 0.0
+
             self.scores[pl.player_id] = {
                 "final_score": final_score,
                 "time_score": time_score,
@@ -245,13 +254,16 @@ class Game:
                 "pins_in_goal": pins_in_goal,
                 "total_distance": total_dist,
                 "time_taken_sec": pl.time_taken_sec,
+                "win_bonus": win_bonus
             }
+
+            
 
             write_log(
                 self.game_id,
                 f"SCORE {pl.name} ({colour}): Final={final_score:.1f}, "
                 f"Time={time_score:.1f}, Moves({pl.move_count})={move_score:.1f}, "
-                f"Pins({pins_in_goal})={pin_goal_score:.1f}, Dist={distance_score:.1f}"
+                f"Pins({pins_in_goal})={pin_goal_score:.1f}, Dist={distance_score:.1f}, Win Bonus={win_bonus:.1f}"
             )
 
     # ----------------------------------
@@ -334,6 +346,7 @@ class Session:
                 g.status = "READY_TO_START"
 
             write_log(g.game_id, f"PLAYER JOINED: {player_name} as {colour}")
+            print(f"Player {player_name} joined game {g.game_id} as {colour}.")
 
 
             return {
@@ -543,9 +556,9 @@ def handle_request(req: Dict[str, Any]) -> Dict[str, Any]:
 def server_loop():
     s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     s.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
-    s.bind(("0.0.0.0", 50555))
+    s.bind(("10.245.30.229", 50555))
     s.listen(50)
-    print("[Server] Listening on 0.0.0.0:50555")
+    print("[Server] Listening on 10.245.30.229:50555")
 
     while True:
         conn, addr = s.accept()

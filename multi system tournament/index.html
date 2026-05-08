@@ -13,7 +13,7 @@
 </head>
 <body>
 
-<h2>Player Leaderboard</h2>
+<h2>Players Leaderboard</h2>
 
 <table>
   <thead>
@@ -32,20 +32,21 @@
 
       <th>Avg Time</th>
       <th>Total Time</th>
+      <th>Status</th>
     </tr>
   </thead>
   <tbody id="leaderboard"></tbody>
 </table>
 
 <script>
-	// ✅ Define your files here
+	// 
 	/*const ROUND_FILES = [
 	"round1.txt",
 	"round2.txt",
 	"round3.txt"
 	];*/
 	const ROUND_FILES = [
-	"round1.txt", "round2.txt"
+	"round1.txt"
 	];
 
 	async function loadAllData() {
@@ -62,6 +63,7 @@
 
 	const text = await res.text();
 	const rows = text.trim().split("\n").map(r => r.split(","));
+  console.log(`Loaded ${rows.length} rows from ${file}`);
 
 	rows.shift(); // remove header
 	allRows.push(...rows);
@@ -70,15 +72,17 @@
 	console.warn("Error loading:", file, err);
 	}
 	}
-
+  console.log(`Total rows loaded: ${allRows}`);
 	return allRows;
 	}
 
 	function parseScores(str) {
+    console.log("Parsing scores:", str);
 	if (!str || str === "NA") return {};
 	return Object.fromEntries(
 	str.split(";").map(entry => {
 	const [player, score] = entry.split(":");
+  console.log(`Parsed score - Player: ${player}, Score: ${score}`);
 	return [player, parseFloat(score)];
 	})
 	);
@@ -89,8 +93,8 @@
 
 	for (const row of rows) {
 	const [
-	, , p1, p2, p3, p4,
-	, // ignore status
+	, , p1, p2, p3, p4, p5, p6, 
+	playstatus, // ignore status
 	finalS, timeS, distS, pinS
 	] = row;
 
@@ -99,7 +103,9 @@
 	const dists  = parseScores(distS);
 	const pins   = parseScores(pinS);
 
-	[p1, p2, p3, p4].filter(p => p !== "NA").forEach(player => {
+  console.log("Processing game with players:", p1, p2, p3, p4,p5,p6);
+
+	[p1, p2, p3, p4, p5, p6].filter(p => p !== "NA").forEach(player => {
 	if (!(player in finals)) return;
 
 	if (!stats[player]) {
@@ -108,17 +114,21 @@
 	final: 0,
 	dist: 0,
 	pin: 0,
-	time: 0
+	time: 0,
+  status:"Unknown"
 	};
 	}
-
+console.log(`Updating stats for player: ${stats[player].games} games, ${stats[player].final} final, ${stats[player].dist} dist, ${stats[player].pin} pin, ${stats[player].time} time`);
 	stats[player].games++;
 	stats[player].final += finals[player] ?? 0;
 	stats[player].dist  += dists[player]  ?? 0;
 	stats[player].pin   += pins[player]   ?? 0;
 	stats[player].time  += times[player]  ?? 0;
+  stats[player].status = playstatus;
 	});
+
 	}
+
 
 
 	return Object.entries(stats).map(([player, s]) => ({
@@ -135,9 +145,11 @@
 	totalPin: s.pin,
 
 	avgTime: s.time / s.games,
-	totalTime: s.time
+	totalTime: s.time,
+  status: s.status
 	}))
 	.sort((a, b) =>
+  b.games    - a.games     ||
 	b.avgFinal - a.avgFinal ||
 	b.avgDist  - a.avgDist ||
 	a.avgPin   - b.avgPin ||
@@ -166,6 +178,7 @@
 
         <td>${p.avgTime.toFixed(2)}</td>
         <td>${p.totalTime.toFixed(2)}</td>
+        <td>${p.status}</td>
       </tr>`;
   });
 }
@@ -177,7 +190,7 @@ async function refresh() {
 }
 
 refresh();
-setInterval(refresh, 5000);
+setInterval(refresh, 50000);
 </script>
 
 </body>

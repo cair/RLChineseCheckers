@@ -1,28 +1,36 @@
-#Given a list of names ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J'] create a list of games involving the players. 
-#Each game can have between 2 and 6 players. 
-#Organize the list in terms of Rounds. Each round should have a list of games, and each game should be a list of player names. 
-#Ensure that no player plays against the same opponent more than once across all rounds.
-#Each player should play only once in each round, and the total number of games for each player should be limited to number of rounds.
-from itertools import combinations
 import random
-player_list = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
-number_of_rounds = 5
 
-def generate_games(players):
+def generate_games(players, num_rounds=3):
+    # Create a list to hold rounds of games
     rounds = []
-    all_combinations = list(combinations(players, 2))  # Generate all possible pairs of players
-    random.shuffle(all_combinations)  # Shuffle to randomize the order of games
-    for round_num in range(number_of_rounds):
+    
+    # Create a set to track player matchups
+    matchups = set()
+    
+    for round_num in range(num_rounds):
         round_games = []
-        used_players = set()  # Track players used in this round
-        for game in all_combinations:
-            if game[0] not in used_players and game[1] not in used_players:
-                round_games.append(list(game))
-                used_players.update(game)  # Mark these players as used
-            if len(round_games) >= len(players) // 2:  # Limit number of games per round
-                break
+        available_players = set(players)
+        
+        while len(available_players) >= 2:
+            # Randomly select the number of players for this game (between 2 and 6)
+            num_players_in_game = random.randint(2, min(6, len(available_players)))
+            
+            # Randomly select players for this game
+            available_players = list(available_players)
+            selected_players = random.sample(available_players, num_players_in_game)
+            
+            # Check if this matchup has occurred before
+            matchup_tuple = tuple(sorted(selected_players))
+            if matchup_tuple not in matchups:
+                matchups.add(matchup_tuple)
+                round_games.append(selected_players)
+                available_players = set(available_players) - set(selected_players)
+        
         rounds.append(round_games)
+    
     return rounds
+
+player_list = ["CybSec","Dandori", "Deepseekers", "Erlend Og Linor", "Group 7", "Group 16", "group 99", "Gruppe 2", "Gruppe 10", "Gruppe 67", "Gruppe 69", "Hexagram", "jat", "LosTurcos", "PCS", "RL", "S&S", "SP", "The bandits", "Tiefes Verstarkendes Lernen"]
 
 r = generate_games(player_list)
 
@@ -34,4 +42,38 @@ for ground in r:
         print(f"Round {rnum} Game {gnum}",game)
         gnum+=1
     rnum+=1
+
+#count total games for each player
+player_game_count = {player: 0 for player in player_list}
+for ground in r:
+    for game in ground:
+        for player in game:
+            player_game_count[player] += 1
 #print("Rounds of games:", r)
+print("Player game counts:", player_game_count)
+
+for round_num, ground in enumerate(r, start=1):
+    round_text = "game_number,game_id,player1,player2,player3,player4,player5,player6,status,final_scores,time_scores,distance_scores,pin_scores,winner\n"
+    for game_num, game in enumerate(ground, start=1):
+        game_number = f"R{round_num}G{game_num}"
+        player1 = game[0] if len(game) > 0 else "NA"
+        player2 = game[1] if len(game) > 1 else "NA"
+        player3 = game[2] if len(game) > 2 else "NA"
+        player4 = game[3] if len(game) > 3 else "NA"
+        player5 = game[4] if len(game) > 4 else "NA"
+        player6 = game[5] if len(game) > 5 else "NA"
+        game_id = "NA"
+        status = "NOT_CREATED"
+        final_scores = "NA"
+        time_scores = "NA"
+        distance_scores = "NA"
+        pin_scores = "NA"
+        winner = None
+        round_text += f"{game_number},{game_id},{player1},{player2},{player3},{player4},{player5},{player6},{status},{final_scores},{time_scores},{distance_scores},{pin_scores},{winner}\n"
+        
+    print(f"Round {round_num}:\n{round_text}")
+    #write to file round{round_num}.txt
+    with open(f"round{round_num}.txt", "w") as f:
+        f.write(round_text)
+    with open(f"round{round_num}_initialcopy.txt", "w") as f:
+        f.write(round_text)

@@ -33,5 +33,5 @@ Once you create required number of players, press Enter in each terminal to star
 Current game logic is player requests server for list of valid moves, and chooses one move at random from the list. 
 This is marked as 'PLAYING LOGIC' in the code.
 
-[You'll need to replace the code inside 'PLAYING LOGIC' to your logic.]
+[You'll need to replace the code inside 'PLAYING LOGIC' to your own logic.]
 

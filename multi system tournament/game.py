@@ -18,7 +18,7 @@ from checkers_pins import Pin
 import pandas as pd
 
 
-round_number = 2  # Update this for each new round of the tournament to track games and players in the round data file
+round_number = 1  # Update this for each new round of the tournament to track games and players in the round data file
 # ==========================================================
 # Utilities
 # ==========================================================
@@ -51,7 +51,7 @@ PRIMARY_COLOURS = ['red', 'lawn green', 'yellow']
 #random.shuffle(PRIMARY_COLOURS)
 COMPLEMENT = {'red': 'blue', 'lawn green': 'gray0', 'yellow': 'purple'}
 MAX_PLAYERS = 6
-TURN_TIMEOUT_SEC = 10
+TURN_TIMEOUT_SEC = 2
 GAME_TIME_LIMIT_SEC = 60
 
 
@@ -235,7 +235,7 @@ class Game:
                     best = min(axial_dist(self.board.cells[p.axialindex], tgt)
                                for tgt in target_cells)
                     total_dist += best
-            distance_score = max(0.0, 200.0 - total_dist) if pl.move_count > 0 else 0
+            distance_score = max(0.0, 400.0 - 2*total_dist) if pl.move_count > 0 else 0
 
             final_score = time_score + move_score + pin_goal_score + distance_score
 
@@ -324,13 +324,6 @@ class Session:
         self.games: Dict[str, Game] = {}
         self.session_games: List[str] = []
         self.lock = threading.RLock()
-        '''read text file round1.txt into a dataframe.
-        round1.txt looks like this:
-        game_number game_id player1 player2 player3 player4 status  final_scores time_scores distance_scores pin_scores winner
-        1   NA  pA  pB  NA  NA  NOT_CREATED NA  NA  NA  NA  None
-        2   NA  pC  pD  NA  NA  NOT_CREATED NA  NA  NA  NA  None
-        3   NA  pA  pD  NA  NA  NOT_CREATED NA  NA  NA  NA  None
-        '''
         self.round_path = f"round{round_number}.txt"
         if os.path.exists(self.round_path):
             with open(self.round_path, "r", encoding="utf-8") as f:
@@ -339,7 +332,7 @@ class Session:
         else:
             self.round_data = []
         print(self.round_data)
-        self.round_headers = ["game_number", "game_id", "player1", "player2", "player3", "player4", "status", "final_scores", "time_scores", "distance_scores", "pin_scores", "winner"]
+        self.round_headers = ["game_number", "game_id", "player1", "player2", "player3", "player4","player5","player6", "status", "final_scores", "time_scores", "distance_scores", "pin_scores", "winner"]
         self.round_df = None
         if self.round_data:
             self.round_df = pd.DataFrame(self.round_data[1:], columns=self.round_headers) 
@@ -410,26 +403,26 @@ class Session:
         with self.lock:
             # Filter rows where player_name is in any of the player columns and status is GAME_CREATED or WAITING_FOR_OTHER_PLAYER and player has not already joined the game (to prevent joining multiple times if player refreshes)
             candidate_rows = self.round_df[
-                (self.round_df[['player1', 'player2', 'player3', 'player4']].apply(lambda row: player_name in row.values, axis=1)) &
+                (self.round_df[['player1', 'player2', 'player3', 'player4', 'player5', 'player6'].apply(lambda row: player_name in row.values, axis=1)) &
                 (self.round_df['status'].isin(['GAME_CREATED', 'WAITING_FOR_OTHER_PLAYER'])) ]
             for row in candidate_rows.itertuples():
                 candidate_game_id = row.game_id
                 candidate_game_players = self.games[candidate_game_id].players
                 if any(p.name == player_name for p in candidate_game_players):
                     candidate_rows = candidate_rows.drop(row.Index)
-            print(f"Found {len(candidate_rows)} candidate rows for player {player_name} in round data.")
+            #print(f"Found {len(candidate_rows)} candidate rows for player {player_name} in round data.")
 
             if candidate_rows.empty:
                 return {"ok": False, "error": f"No available game found for player {player_name}. Check if the player name is correct and if there are games waiting for players."}
 
             # Prioritize rows with WAITING_FOR_OTHER_PLAYER status
             waiting_rows = candidate_rows[candidate_rows['status'] == 'WAITING_FOR_OTHER_PLAYER']
-            print(f"Found {len(waiting_rows)} candidate rows with WAITING_FOR_OTHER_PLAYER status for player {player_name}.")
+            #print(f"Found {len(waiting_rows)} candidate rows with WAITING_FOR_OTHER_PLAYER status for player {player_name}.")
             if not waiting_rows.empty:
                 candidate_rows = waiting_rows
 
             # Pick the row with the maximum number of players already joined
-            candidate_rows['joined_count'] = candidate_rows.apply(lambda row: sum(pd.notna(row[['player1', 'player2', 'player3', 'player4']])), axis=1)
+            candidate_rows['joined_count'] = candidate_rows.apply(lambda row: sum(pd.notna(row[['player1', 'player2', 'player3', 'player4', 'player5', 'player6']])), axis=1)
             selected_row = candidate_rows.sort_values(by='joined_count', ascending=False).iloc[0]
 
             game_id = selected_row['game_id']
@@ -447,8 +440,21 @@ class Session:
             g.init_pins(colour)
 
             # Update game status based on how many players have joined compared to how many are expected from the round data
-            all_players_in_row = selected_row[['player1', 'player2', 'player3', 'player4']]
+            all_players_in_row = selected_row[['player1', 'player2', 'player3', 'player4', 'player5', 'player6']]
             all_players_in_row = all_players_in_row[all_players_in_row != 'NA']
+            try:
+                with open(f"joined_{self.round_number}.txt", "w") as f:
+                    for gid in self.session_games:
+                        g = self.games[gid]
+                        for p in g.players:
+                            f.write(f"{p.name} joined game {gid} as {p.colour}\n")
+                    not_joined = [p for p in all_players_in_row if p != player_name and p not in joined_players]
+                    f.write(f"Players not joined yet for game {game_id}: {', '.join(not_joined) if not_joined else 'None'}\n")
+            except Exception as e:
+                error_msg = f"Error occurred while writing to joined_{self.round_number}.txt: {e}"
+                print(error_msg)
+                write_log("SESSION", error_msg)
+
             if len(g.players) < len(all_players_in_row):
                 g.status = "waiting for other player"
                 self.round_df.at[selected_row.name, 'status'] = 'WAITING_FOR_OTHER_PLAYER'

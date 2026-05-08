@@ -100,6 +100,6 @@ class Pin:
         self.board.cells[self.axialindex].occupied = False
         self.axialindex = int(new_axialindex)
         self.board.cells[int(new_axialindex)].occupied = True
-        print('Pin placed successfully.')
+        #print('Pin placed successfully.')
         return True
 
