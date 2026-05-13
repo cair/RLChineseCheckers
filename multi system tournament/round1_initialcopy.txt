@@ -1,5 +1,3 @@
-game_number,game_id,player1,player2,player3,player4,player5,player6,status,final_scores,time_scores,distance_scores,pin_scores,winner
-R1G1,NA,Tiefes Verstarkendes Lernen,Group7,jat,Gruppe 67,The bandits,Group 99,NOT_CREATED,NA,NA,NA,NA,None
-R1G2,NA,AlphaZeroClue,S&S,CybSec,Gruppe 1,Apollo,NA,NOT_CREATED,NA,NA,NA,NA,None
-R1G3,NA,Gruppe 2,RL,NA,NA,NA,NA,NOT_CREATED,NA,NA,NA,NA,None
-R1G4,NA,Robert,Erlend Og Linor,NA,NA,NA,NA,NOT_CREATED,NA,NA,NA,NA,None
+game_number,game_id,player1,player2,player3,player4,player5,player6,status,joined,final_scores,time_scores,distance_scores,pin_scores,winner
+R1G1,NA,C,F,A,B,NA,NA,NOT_CREATED,NA,NA,NA,NA,NA,None
+R1G2,NA,D,E,NA,NA,NA,NA,NOT_CREATED,NA,NA,NA,NA,NA,None

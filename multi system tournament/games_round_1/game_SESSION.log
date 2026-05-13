@@ -58,3 +58,11 @@
 [2026-05-08 10:06:21] Round game created: 27bf15d4-3c02-4168-a0ca-71ad86aa0e83 for row 1
 [2026-05-08 10:06:21] Round game created: e6d34dcf-2612-43ba-9d4f-5e1a2b8cf78a for row 2
 [2026-05-08 10:06:21] Round game created: f9273559-606a-492a-9ed6-606ddda5a9e1 for row 3
+[2026-05-11 10:50:23] Round game created: ac05d3fb-a2de-447a-9da3-02877984cc5a for row 0
+[2026-05-11 10:50:23] Round game created: 9784cf67-ca80-444d-8432-0e008efbfc10 for row 1
+[2026-05-11 10:50:28] Error occurred while writing to joined_1.txt: name 'joined_players' is not defined
+[2026-05-11 10:50:39] Error occurred while writing to joined_1.txt: name 'joined_players' is not defined
+[2026-05-11 10:58:54] Round game created: 1a1df780-dced-44fa-b6b2-8660ceeafa54 for row 0
+[2026-05-11 10:58:54] Round game created: db98461f-214a-42c0-94cd-5257e200a701 for row 1
+[2026-05-11 10:59:15] Error occurred while writing to joined_1.txt: name 'joined_players' is not defined
+[2026-05-11 10:59:38] Error occurred while writing to joined_1.txt: name 'joined_players' is not defined

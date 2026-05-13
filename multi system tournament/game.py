@@ -18,7 +18,7 @@ from checkers_pins import Pin
 import pandas as pd
 
 
-round_number = 3  # Update this for each new round of the tournament to track games and players in the round data file
+round_number = 1  # Update this for each new round of the tournament to track games and players in the round data file
 # ==========================================================
 # Utilities
 # ==========================================================
@@ -332,7 +332,7 @@ class Session:
         else:
             self.round_data = []
         print(self.round_data)
-        self.round_headers = ["game_number", "game_id", "player1", "player2", "player3", "player4","player5","player6", "status", "final_scores", "time_scores", "distance_scores", "pin_scores", "winner"]
+        self.round_headers = ["game_number", "game_id", "player1", "player2", "player3", "player4","player5","player6", "status", "joined", "final_scores", "time_scores", "distance_scores", "pin_scores", "winner"]
         self.round_df = None
         if self.round_data:
             self.round_df = pd.DataFrame(self.round_data[1:], columns=self.round_headers) 
@@ -387,16 +387,6 @@ class Session:
                     return g
         return None
 
-    ''' Search for a row in round_df where player_name is in player1/player2... and status is GAME_CREATED or WAITING_FOR_OTHER_PLAYER, and return "ok": True,
-                {"game_id": g.game_id,
-                "player_id": pid,
-                "colour": colour,
-                "status": g.status}
-        If multiple rows match, pick the one where status is WAITING_FOR_OTHER_PLAYER first. If a matching row is found, also add the player to the corresponding game, assign colour, and update game status to WAITING_FOR_OTHER_PLAYER or READY_TO_START as appropriate depending on how many players have joined.
-        If multiple rows match and have status WAITING_FOR_OTHER_PLAYER, pick the one with the maximum number of players already joined to try to fill up games.
-    Also update the round_df status to WAITING_FOR_OTHER_PLAYER if it was GAME_CREATED, and save the round_df back to the round file. This allows us to track which player joined which game and update the round data accordingly.
-    If no such row exists, return "ok": False with an error message.
-    '''
     def find_round_game_for_player(self, player_name: str) -> Dict[str, Any]:
         if self.round_df is None:
             return {"ok": False, "error": "No round data available."}
@@ -442,8 +432,8 @@ class Session:
             # Update game status based on how many players have joined compared to how many are expected from the round data
             all_players_in_row = selected_row[['player1', 'player2', 'player3', 'player4', 'player5', 'player6']]
             all_players_in_row = all_players_in_row[all_players_in_row != 'NA']
-            '''try:
-                with open(f"joined_{self.round_number}.txt", "w") as f:
+            try:
+                with open(f"joined_{round_number}.txt", "w") as f:
                     for gid in self.session_games:
                         g = self.games[gid]
                         for p in g.players:
@@ -451,10 +441,13 @@ class Session:
                     not_joined = [p for p in all_players_in_row if p != player_name and p not in joined_players]
                     f.write(f"Players not joined yet for game {game_id}: {', '.join(not_joined) if not_joined else 'None'}\n")
             except Exception as e:
-                error_msg = f"Error occurred while writing to joined_{self.round_number}.txt: {e}"
+                error_msg = f"Error occurred while writing to joined_{round_number}.txt: {e}"
                 print(error_msg)
-                write_log("SESSION", error_msg)'''
-
+                write_log("SESSION", error_msg)
+            if self.round_df.at[selected_row.name, 'joined'] == 'NA':
+                self.round_df.at[selected_row.name, 'joined'] = player_name+':'+colour
+            else:
+                self.round_df.at[selected_row.name, 'joined'] += ';'+player_name+':'+colour
             if len(g.players) < len(all_players_in_row):
                 g.status = "waiting for other player"
                 self.round_df.at[selected_row.name, 'status'] = 'WAITING_FOR_OTHER_PLAYER'
@@ -463,7 +456,6 @@ class Session:
                 self.round_df.at[selected_row.name, 'status'] = 'READY_TO_START'
             write_log(g.game_id, f"PLAYER JOINED: {player_name} as {colour}")
             print(f"Player {player_name} joined game {g.game_id} as {colour}.")
-            # try to save the round_df back to the round file, and log any errors that occur during saving without crashing the server
             try:
                 self.round_df.to_csv(self.round_path, sep=',', index=False) 
             except Exception as e:
@@ -797,9 +789,9 @@ def handle_request(req: Dict[str, Any]) -> Dict[str, Any]:
 def server_loop():
     s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     s.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
-    s.bind(("10.245.30.129", 50555))
+    s.bind(("0.0.0.0", 50555))
     s.listen(50)
-    print("[Server] Listening on 10.245.30.129:50555")
+    print("[Server] Listening on 0.0.0.0:50555")
 
     while True:
         conn, addr = s.accept()

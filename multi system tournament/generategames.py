@@ -30,8 +30,8 @@ def generate_games(players, num_rounds=3):
     
     return rounds
 
-player_list = ["CybSec", "Group7", "Gruppe 2","AlphaZeroClue","Apollo", "Gruppe 1","Robert", "Tiefes Verstarkendes Lernen", "Gruppe 67", "The bandits", "jat", "S&S", "Group 99", "Erlend Og Linor", "RL"]
-
+#player_list = ["CybSec", "Group7", "Gruppe 2","AlphaZeroClue","Apollo", "Gruppe 1","Robert", "Tiefes Verstarkendes Lernen", "Gruppe 67", "The bandits", "jat", "S&S", "Group 99", "Erlend Og Linor", "RL"]
+player_list = ["A", "B", "C", "D", "E", "F"]
 r = generate_games(player_list)
 
 #pretty print the round
@@ -53,7 +53,7 @@ for ground in r:
 print("Player game counts:", player_game_count)
 
 for round_num, ground in enumerate(r, start=1):
-    round_text = "game_number,game_id,player1,player2,player3,player4,player5,player6,status,final_scores,time_scores,distance_scores,pin_scores,winner\n"
+    round_text = "game_number,game_id,player1,player2,player3,player4,player5,player6,status,joined,final_scores,time_scores,distance_scores,pin_scores,winner\n"
     for game_num, game in enumerate(ground, start=1):
         game_number = f"R{round_num}G{game_num}"
         player1 = game[0] if len(game) > 0 else "NA"
@@ -68,8 +68,9 @@ for round_num, ground in enumerate(r, start=1):
         time_scores = "NA"
         distance_scores = "NA"
         pin_scores = "NA"
+        joined = "NA"
         winner = None
-        round_text += f"{game_number},{game_id},{player1},{player2},{player3},{player4},{player5},{player6},{status},{final_scores},{time_scores},{distance_scores},{pin_scores},{winner}\n"
+        round_text += f"{game_number},{game_id},{player1},{player2},{player3},{player4},{player5},{player6},{status},{joined},{final_scores},{time_scores},{distance_scores},{pin_scores},{winner}\n"
         
     print(f"Round {round_num}:\n{round_text}")
     #write to file round{round_num}.txt

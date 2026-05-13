@@ -1,5 +1,3 @@
-game_number,game_id,player1,player2,player3,player4,player5,player6,status,final_scores,time_scores,distance_scores,pin_scores,winner
-R1G1,08ddd5d7-f46a-482b-81f1-d2d37571e851,Tiefes Verstarkendes Lernen,Group7,jat,Gruppe 67,The bandits,Group 99,FINISHED,jat:722.9;The bandits:376.1;Tiefes Verstarkendes Lernen:290.9;Gruppe 67:299.5;Group7:787.1;Group 99:687.6,jat:94.9;The bandits:98.1;Tiefes Verstarkendes Lernen:98.9;Gruppe 67:89.5;Group7:79.1;Group 99:71.6,jat:328.0;The bandits:278.0;Tiefes Verstarkendes Lernen:192.0;Gruppe 67:210.0;Group7:308.0;Group 99:316.0,jat:300.0;The bandits:0.0;Tiefes Verstarkendes Lernen:0.0;Gruppe 67:0.0;Group7:400.0;Group 99:300.0,None
-R1G2,27bf15d4-3c02-4168-a0ca-71ad86aa0e83,AlphaZeroClue,S&S,CybSec,Gruppe 1,Apollo,NA,WAITING_FOR_OTHER_PLAYER,NA,NA,NA,NA,None
-R1G3,e6d34dcf-2612-43ba-9d4f-5e1a2b8cf78a,Gruppe 2,RL,NA,NA,NA,NA,FINISHED,Gruppe 2:0.0;RL:367.1,Gruppe 2:0.0;RL:64.6,Gruppe 2:0.0;RL:302.0,Gruppe 2:0.0;RL:0.0,None
-R1G4,f9273559-606a-492a-9ed6-606ddda5a9e1,Robert,Erlend Og Linor,NA,NA,NA,NA,FINISHED,Robert:1157.7;Erlend Og Linor:2494.4,Robert:68.7;Erlend Og Linor:93.6,Robert:388.0;Erlend Og Linor:400.0,Robert:700.0;Erlend Og Linor:1000.0,Erlend Og Linor
+game_number,game_id,player1,player2,player3,player4,player5,player6,status,joined,final_scores,time_scores,distance_scores,pin_scores,winner
+R1G1,1a1df780-dced-44fa-b6b2-8660ceeafa54,C,F,A,B,NA,NA,GAME_CREATED,NA,NA,NA,NA,NA,None
+R1G2,db98461f-214a-42c0-94cd-5257e200a701,D,E,NA,NA,NA,NA,FINISHED,D:yellow;E:purple;,D:286.1;E:291.8,D:72.1;E:71.8,D:214.0;E:220.0,D:0.0;E:0.0,None
