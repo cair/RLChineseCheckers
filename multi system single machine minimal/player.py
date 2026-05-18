@@ -29,7 +29,13 @@ def rpc(payload: Dict[str, Any]) -> Dict[str, Any]:
         return {"ok": False, "error": f"connect-failed: {e}"}
 
     s.sendall(json.dumps(payload).encode("utf-8"))
-    data = s.recv(1_000_000)
+    chunks = []
+    while True:
+        chunk = s.recv(65_536)
+        if not chunk:
+             break
+        chunks.append(chunk)
+    data = b"".join(chunks)
     s.close()
 
     if not data:
@@ -86,7 +92,7 @@ def main():
         print("Waiting for players...")
         time.sleep(0.5)
 
-    input("Press ENTER to send START...")
+    #input("Press ENTER to send START...")
     rpc({"op": "start", "game_id": game_id, "player_id": player_id})
     print("Sent START")
 
