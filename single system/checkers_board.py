@@ -21,7 +21,7 @@ class HexBoard:
         self.hole_radius = hole_radius   # circle radius in pixels for each hole
         self.spacing = spacing           # distance between neighboring hex centers
         self.colour_opposites ={'red':'blue', 'lawn green':'gray0', 'blue':'red', 'yellow':'purple', 'purple':'yellow', 'gray0':'lawn green'}
-
+        self.num_goal_pos = int((R**2 + R)/2)
 
         # Axial coordinates (q, r), with s = -q - r
         self.cells = []                  # list of (q, r)
@@ -44,12 +44,23 @@ class HexBoard:
                     newcell = BoardPosition(q, r, self.spacing)
                     cells.append(newcell)
                     #cells.append((q, r, 'p'))
+
+        base_blue = self.generate_triangle(rotate_times=0) # 0 rotations for blue
+        base_green = self.generate_triangle(rotate_times=1)
+        base_purple = self.generate_triangle(rotate_times=2)
+        base_red = self.generate_triangle(rotate_times=3)
+        base_gray0 = self.generate_triangle(rotate_times=4)
+        base_yellow = self.generate_triangle(rotate_times=5)
+
+        '''
         base_blue =[(1,-5),(2,-5),(3,-5),(4,-5), (2,-6),(3,-6),(4,-6), (3,-7),(4,-7), (4,-8)]
         base_red =[(-1,5),(-2,5),(-3,5), (-4,5),(-2,6),(-3,6),(-4,6),(-3,7),(-4,7),(-4,8)]
         base_yellow =[(-1,-4),(-2,-3),(-3,-2),(-4,-1), (-2,-4),(-3,-3),(-4,-2), (-3,-4), (-4,-3), (-4,-4) ]
         base_green =[(5,-4),(5,-3),(5,-2),(5,-1), (6,-4),(6,-3),(6,-2), (7,-4),(7,-3), (8,-4)]
         base_purple =[(1,4),(2,3),(3,2),(4,1), (2,4),(3,3),(4,2), (3,4),(4,3), (4,4)]
         base_gray0 =[(-5,1),(-5,2),(-5,3),(-5,4), (-6,2),(-6,3),(-6,4), (-7,3),(-7,4), (-8,4)]
+        '''
+
         for (q,r) in base_blue:
             newcell = BoardPosition(q, r, self.spacing, postype='blue')
             cells.append(newcell)
@@ -83,7 +94,7 @@ class HexBoard:
             x = t.x
             y = t.y
             cart.append((x, y))
-            print (f"Cell (q={t.q}, r={t.r}) -> (x={x}, y={y}), {self.spacing}* {t.q} + {t.r}, {t.postype}")
+            #print (f"Cell (q={t.q}, r={t.r}) -> (x={x}, y={y}), {self.spacing}* {t.q} + {t.r}, {t.postype}")
         self.cartesian = cart
 
     def _build_rows_for_ascii(self):
@@ -133,7 +144,34 @@ class HexBoard:
         l = [(cell.q, cell.r) for cell in self.cells if cell.postype == colour]
         return [self.index_of[(q,r)] for (q,r) in l]
 
+    def rotate_60_deg(self, q: int, r: int, times: int):
+        """Rotates the axial (q, r) 60 degrees clock-wise."""
+        for _ in range(times % 6):
+            q, r = (-r, q+r)
+        return q, r
 
+    def generate_triangle(self, rotate_times: int):
+        '''
+        Generates a triangle given R board size; it makes a list of triangle points and rotates it N times.
+        :param rotate_times: 60*N rotation
+        :return: the list of triangle points
+        '''
+
+        blueprint = []
+        for i in range(self.R):
+            r0 = -self.R - 1 - i
+            for j in range(i, self.R):
+                q0 = 1 + j
+                blueprint.append((q0, r0))
+
+        positions = []
+        for position in blueprint:
+            q, r = position
+            q, r= self.rotate_60_deg(q, r, rotate_times)
+
+            positions.append((q, r))
+
+        return positions
 
 
 
