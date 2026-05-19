@@ -18,7 +18,7 @@ from checkers_pins import Pin
 import pandas as pd
 
 
-round_number = 13  # Update this for each new round of the tournament to track games and players in the round data file
+round_number = 11  # Update this for each new round of the tournament to track games and players in the round data file
 # ==========================================================
 # Utilities
 # ==========================================================
@@ -52,7 +52,7 @@ PRIMARY_COLOURS = ['red', 'lawn green', 'yellow']
 COMPLEMENT = {'red': 'blue', 'lawn green': 'gray0', 'yellow': 'purple'}
 MAX_PLAYERS = 6
 TURN_TIMEOUT_SEC = 2
-GAME_TIME_LIMIT_SEC = 120
+GAME_TIME_LIMIT_SEC = 60
 
 
 # ==========================================================
@@ -162,7 +162,7 @@ class Game:
         # Game time limit
         if self.total_start_ns:
             elapsed = (time.perf_counter_ns() - self.total_start_ns) / 1e9
-            if elapsed > GAME_TIME_LIMIT_SEC:
+            if elapsed > GAME_TIME_LIMIT_SEC*self.players.__len__():
                 self.status = "FINISHED"
                 self.turn_timeout_notice = "GAME TIME LIMIT REACHED."
                 self.compute_scores()
