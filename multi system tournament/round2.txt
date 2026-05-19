@@ -1,2 +1,0 @@
-game_number,game_id,player1,player2,player3,player4,player5,player6,status,joined,final_scores,time_scores,distance_scores,pin_scores,winner
-R2G1,NA,F,D,B,A,C,NA,WAITING_FOR_OTHER_PLAYER,D:yellow;B:purple;,NA,NA,NA,NA,None

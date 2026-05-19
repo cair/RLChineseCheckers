@@ -1,3 +1,0 @@
-game_number,game_id,player1,player2,player3,player4,player5,player6,status,joined,final_scores,time_scores,distance_scores,pin_scores,winner
-R1G1,1a1df780-dced-44fa-b6b2-8660ceeafa54,C,F,A,B,NA,NA,GAME_CREATED,NA,NA,NA,NA,NA,None
-R1G2,db98461f-214a-42c0-94cd-5257e200a701,D,E,NA,NA,NA,NA,FINISHED,D:yellow;E:purple;,D:286.1;E:291.8,D:72.1;E:71.8,D:214.0;E:220.0,D:0.0;E:0.0,None

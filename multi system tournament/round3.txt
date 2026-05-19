@@ -1,3 +1,0 @@
-game_number,game_id,player1,player2,player3,player4,player5,player6,status,joined,final_scores,time_scores,distance_scores,pin_scores,winner
-R3G1,NA,C,B,NA,NA,NA,NA,NOT_CREATED,NA,NA,NA,NA,NA,None
-R3G2,NA,F,D,E,A,NA,NA,NOT_CREATED,NA,NA,NA,NA,NA,None

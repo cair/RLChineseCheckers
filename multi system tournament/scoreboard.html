@@ -27,6 +27,7 @@ at the bottom of the table, display total number of games played per round, disp
   th, td { border: 1px solid #ccc; padding: 6px; text-align: right; }
   th { background: #f0f0f0; }
   th:first-child, td:first-child { text-align: left; }
+  tr:hover { background-color: #dada82; }
 </style>
 </head>
 <body>
@@ -35,17 +36,22 @@ at the bottom of the table, display total number of games played per round, disp
 <table>
   <thead>
     <tr>
+        <th>Rank</th>
       <th>Player</th>
       <th>Games</th>
+      <th>Norm.</th>
 
       <th>Avg Final</th>
       <th>Total Final</th>
 
-      <th>Avg Distance</th>
-      <th>Total Distance</th>
+      <th>Avg Dist.</th>
+      <th>Total Dist.</th>
 
       <th>Avg Pin</th>
       <th>Total Pin</th>
+
+      <th>Avg Move</th>
+      <th>Total Move</th>
 
       <th>Avg Time</th>
       <th>Total Time</th>
@@ -66,10 +72,37 @@ at the bottom of the table, display total number of games played per round, disp
 <div id="waiting-games"></div>
 <div id = "Refresh-time"></div>
 <script>
+    //column header 'Norm.' italicized to indicate default sorting by normalized final score
+    document.querySelectorAll("th").forEach(header => {
+        if (header.innerText === "Norm.") {
+            header.style.fontStyle = "italic";
+        }
+    });
+
+    //add column sorting on click of header
+    document.querySelectorAll("th").forEach(header => {
+        header.addEventListener("click", () => {
+            const column = header.cellIndex;
+            const tbody = document.getElementById("leaderboard");
+            const rows = Array.from(tbody.querySelectorAll("tr"));
+            const sortedRows = rows.sort((a, b) => {
+                const cellA = a.cells[column].innerText;
+                const cellB = b.cells[column].innerText;
+                if (!isNaN(cellA) && !isNaN(cellB)) {
+                    return parseFloat(cellB) - parseFloat(cellA);
+                }
+                return cellA.localeCompare(cellB);
+            });
+            sortedRows.forEach(row => tbody.appendChild(row));
+            document.querySelectorAll("th").forEach(h => h.style.fontStyle = "normal");
+            header.style.fontStyle = "italic";
+        });
+        }
+    );
 
 
     const ROUND_FILES = [
-    "round1.txt", "round2.txt", "round3.txt"
+    "round11.txt", "round12.txt", "round13.txt"
     ];
 
     async function loadAllData() {
@@ -132,19 +165,18 @@ at the bottom of the table, display total number of games played per round, disp
             colourmapping[colour] = player;
         }}
 
-            //[2026-05-11 10:59:42] MOVE 3: D (yellow) 35->56 [0.00ms]
-            if (row.includes("MOVE")) {
+        //[2026-05-11 10:59:42] MOVE 3: D (yellow) 35->56 [0.00ms]
+        if (row.includes("MOVE")) {
         const moveMatch = row.match(/MOVE (\d+)\: (.*)? (\(.*\))? (.*)/);
         //console.log("Checking for move in row:", row, "Move match:", moveMatch);
         if (moveMatch) {
-            colour = moveMatch[3].replace(/[()]/g, '');
+            movecolour = moveMatch[3].replace(/[()]/g, '');
             movenumber = moveMatch[1];
-            
-            const player = moveMatch[2];
+            const player = colourmapping[movecolour];
             if (gamedetails[game_id][player] === undefined) {
                 gamedetails[game_id][player] = { moves: 1, skipped: 0, skipmoves: [] };
-                lastMovePlayer = {'playern': player, 'colour': colour, 'movenumber': movenumber};
-                if (couldntParse.colour === colour) {
+                lastMovePlayer = {'playern': player, 'colour': movecolour, 'movenumber': movenumber};
+            if (couldntParse.colour === movecolour) {
                     gamedetails[game_id][player].skipped += 1;
                     gamedetails[game_id][player].skipmoves.push(movenumber); // don't count the move if it was skipped due to timeout
                     couldntParse = {'colour': '', 'movenumber': ''};
@@ -152,10 +184,10 @@ at the bottom of the table, display total number of games played per round, disp
             }
             else {
                 gamedetails[game_id][player].moves += 1;
-                lastMovePlayer = {'playern': player, 'colour': colour, 'movenumber': movenumber};
-                if (couldntParse.colour === colour) {
+                lastMovePlayer = {'playern': player, 'colour': movecolour, 'movenumber': movenumber};
+                if (couldntParse.colour === movecolour) {
                     gamedetails[game_id][player].skipped += 1;
-                    gamedetails[game_id][player].skipmoves.push(movenumber);
+                    gamedetails[game_id][player].skipmoves.push(movecolour + ":" + movenumber);
                     couldntParse = {'colour': '', 'movenumber': ''};
                 }
             }     
@@ -165,28 +197,31 @@ at the bottom of the table, display total number of games played per round, disp
         const timeoutMatch = row.match(/Player with colour (\w+) exceeded (\d+)s at move (\d+)\./);
         //lastSkippedMove ={'colour': timeoutMatch ? timeoutMatch[1] : '', 'movenumber': timeoutMatch ? timeoutMatch[3] : ''};
         if (timeoutMatch) {
-            const colour = timeoutMatch[1];
+            const movecolour = timeoutMatch[1];
             const movenumber = timeoutMatch[3];
+            const moveplayer = colourmapping[movecolour];
+            console.log(`Timeout detected for player ${moveplayer} with colour ${movecolour} at move ${movenumber} in game ${game_id}`);
             //if lastSkippedMove is not empty and has same colour and movenumber as current timeout, skip to avoid double counting
             if (lastMovePlayer.playern !== '') {
-            if (lastSkippedMove.colour === timeoutMatch[1] && lastSkippedMove.movenumber === timeoutMatch[3]) {
-                console.log(`Skipping duplicate timeout for player with colour ${timeoutMatch[1]} at move ${timeoutMatch[3]} in game ${game_id}`);
-                return;
-            }
-            else {
-                if (colourmapping[colour]) {
-                    gamedetails[game_id][colourmapping[colour]].skipped += 1;
-                    gamedetails[game_id][colourmapping[colour]].skipmoves.push(timeoutMatch[1] + " " + timeoutMatch[3]);
+                if (lastSkippedMove.colour === timeoutMatch[1] && lastSkippedMove.movenumber === timeoutMatch[3]) {
+                    console.log(`Skipping duplicate timeout for player with colour ${timeoutMatch[1]} at move ${timeoutMatch[3]} in game ${game_id}`);
+                    return;
                 }
-                
-                //console.log(`Player ${lastMovePlayer.playern} timed out in game ${game_id} at move ${timeoutMatch[3]} with colour ${timeoutMatch[1]}`);
-                lastSkippedMove = {'colour': timeoutMatch ? timeoutMatch[1] : '', 'movenumber': timeoutMatch ? timeoutMatch[3] : ''};
-                return;
-            }
+                else {
+                    if (colourmapping[movecolour]) {
+                        gamedetails[game_id][moveplayer].skipped += 1;
+                        gamedetails[game_id][moveplayer].skipmoves.push(movecolour + ":" + movenumber);
+                    }
+                    
+                    //console.log(`Player ${lastMovePlayer.playern} timed out in game ${game_id} at move ${timeoutMatch[3]} with colour ${timeoutMatch[1]}`);
+                    lastSkippedMove = {'colour': timeoutMatch ? movecolour : '', 'movenumber': timeoutMatch ? movenumber : ''};
+                    return;
+                }
         }
         else {
             console.warn(`${game_id}Could not parse timeout information from row: ${row}`);
-            couldntParse = {'colour': timeoutMatch ? timeoutMatch[1] : '', 'movenumber': timeoutMatch ? timeoutMatch[3] : ''};
+            couldntParse = {'colour': timeoutMatch ? movecolour : '', 'movenumber': timeoutMatch ? movenumber : ''};
+
         }
                 
             }
@@ -279,7 +314,7 @@ at the bottom of the table, display total number of games played per round, disp
     const playerStats = {};
     const roundStats = {};
     for (const row of rows) {
-    const [game_number, game_id, player1, player2, player3, player4, player5, player6, status, joined, final_scores, time_scores, distance_scores, pin_scores, winner] = row.split(",");
+    const [game_number, game_id, player1, player2, player3, player4, player5, player6, status, joined, final_scores, time_scores, distance_scores, pin_scores, move_scores, valid_moves,skipped_turns,winner] = row.split(",");
     const players = [player1, player2, player3, player4, player5, player6].filter(p => p !== "NA");
     const gamestatus = status;
     const game_round = game_number.match(/R\d+/) ? game_number.match(/R\d+/)[0] : "Unknown Round";
@@ -296,6 +331,7 @@ at the bottom of the table, display total number of games played per round, disp
     totalDistance: 0,
     totalPin: 0,
     totalTime: 0,
+    totalMoveScore: 0,
     wins: 0,
     numMoves: 0,
     skippedTurns: 0,
@@ -309,25 +345,33 @@ at the bottom of the table, display total number of games played per round, disp
     const finalScores = final_scores.split(";").reduce((acc, entry) => { const [p, score] = entry.split(":"); acc[p] = parseFloat(score); return acc; }, {});
     const distanceScores = distance_scores.split(";").reduce((acc, entry) => { const [p, score] = entry.split(":"); acc[p] = parseFloat(score); return acc; }, {});
     const pinScores = pin_scores.split(";").reduce((acc, entry) => { const [p, score] = entry.split(":"); acc[p] = parseFloat(score); return acc; }, {});
+    const moveScores = move_scores.split(";").reduce((acc, entry) => { const [p, score] = entry.split(":"); acc[p] = parseFloat(score); return acc; }, {});
+    console.log('Move Scores:', moveScores);
     const timeScores = time_scores.split(";").reduce((acc, entry) => { const [p, score] = entry.split(":"); acc[p] = parseFloat(score); return acc; }, {});
+    const validMoves = valid_moves.split(";").reduce((acc, entry) => { const [p, score] = entry.split(":"); acc[p] = parseInt(score); return acc; }, {});
+    const skippedTurns = skipped_turns.split(";").reduce((acc, entry) => { const [p, score] = entry.split(":"); acc[p] = parseInt(score); return acc; }, {});
     for (const player of players) {
         
         playerStats[player].totalFinal += finalScores[player] || 0;
         playerStats[player].totalDistance += distanceScores[player] || 0;
         playerStats[player].totalPin += pinScores[player] || 0;
         playerStats[player].totalTime += timeScores[player] || 0;
+        playerStats[player].totalMoveScore += moveScores[player] || 0;
+        console.log("moveScores for player", player, ":", playerStats[player].totalMoveScore[player], moveScores[player] || 0);
+        console.log("time for player", player, ":", timeScores[player]);
         playerStats[player].lastGame = game_number;
+        playerStats[player].numMoves += validMoves[player] || 0;
+        playerStats[player].skippedTurns += skippedTurns[player] || 0;
         console.log(gamestatus, winner, player);
-        if (gamestatus === "FINISHED") {
+        if (gamestatus === "FINISHED" && finalScores[player] !== undefined) {
             playerStats[player].finishedstatus+= `${game_round}, `;
             playerStats[player].gamesPlayed += 1;
-            const { moves, skipped } =  parseGameDetails(game_round, game_id, playerStats, player);
-            playerStats[player].numMoves += moves ? moves : 0;
-            playerStats[player].skippedTurns += skipped ? skipped : 0;
-            console.log('Updated stats for player:', player, playerStats[player].numMoves, playerStats[player].skippedTurns);
         } else if (gamestatus === "PLAYING" || gamestatus === "WAITING_FOR_OTHER_PLAYER") {
-            playerStats[player].playingstatus+= `${game_number}, `;
-            playerStats[player].gamesPlayed += 1;
+            if (finalScores[player] !== undefined) {
+                playerStats[player].playingstatus+= `${game_number}, `;
+                playerStats[player].gamesPlayed += 1;
+            }
+            
         } else {
             playerStats[player].notstartedstatus+= `${game_round}, `;
         }
@@ -343,59 +387,93 @@ at the bottom of the table, display total number of games played per round, disp
     }
 
     function renderLeaderboard(playerStats) {
+        console.log("Rendering leaderboard with player stats:", playerStats);
     const tbody = document.getElementById("leaderboard");
     tbody.innerHTML = "";
 
-    <!--group players by games played, then sort by average final score, then by average pin score, then by average distance score-->
     const sortedPlayers = Object.entries(playerStats).sort((a, b) => {
     const [playerA, statsA] = a;
     const [playerB, statsB] = b;
+    
+    if (statsA.gamesPlayed !== statsB.gamesPlayed) 
+    return statsB.gamesPlayed - statsA.gamesPlayed;
+    
     const avgFinalA = statsA.gamesPlayed ? statsA.totalFinal / statsA.gamesPlayed : 0;
     const avgFinalB = statsB.gamesPlayed ? statsB.totalFinal / statsB.gamesPlayed : 0;
     if (avgFinalB !== avgFinalA) return avgFinalB - avgFinalA;
-    if (statsA.gamesPlayed !== statsB.gamesPlayed) return statsA.gamesPlayed - statsB.gamesPlayed;
+    
     const avgPinA = statsA.gamesPlayed ? statsA.totalPin / statsA.gamesPlayed : 0;
     const avgPinB = statsB.gamesPlayed ? statsB.totalPin / statsB.gamesPlayed : 0;
-    if (avgPinB !== avgPinA) return avgPinB - avgPinA;
+    if (avgPinB !== avgPinA) return avgPinB - avgPinA
+
     const avgDistanceA = statsA.gamesPlayed ? statsA.totalDistance / statsA.gamesPlayed : 0;
     const avgDistanceB = statsB.gamesPlayed ? statsB.totalDistance / statsB.gamesPlayed : 0;
-    if (avgDistanceB !== avgDistanceA) return avgDistanceB - avgDistanceA;  
-    return 0;
-    });
+    if (avgDistanceB !== avgDistanceA) return avgDistanceB - avgDistanceA;
 
- 
+    const avgTimeA = statsA.gamesPlayed ? statsA.totalTime / statsA.gamesPlayed : 0;
+    const avgTimeB = statsB.gamesPlayed ? statsB.totalTime / statsB.gamesPlayed : 0;
+    if (avgTimeB !== avgTimeA) return avgTimeB - avgTimeA;
+
+    const avgMoveScoreA = statsA.gamesPlayed ? statsA.totalMoveScore / statsA.gamesPlayed : 0;
+    const avgMoveScoreB = statsB.gamesPlayed ? statsB.totalMoveScore / statsB.gamesPlayed : 0;
+    if (avgMoveScoreB !== avgMoveScoreA) return avgMoveScoreB - avgMoveScoreA;
+
+    }
+    );
+    const maxFinalscore = sortedPlayers[0][1].totalFinal;
+    const minFinalscore = sortedPlayers[sortedPlayers.length - 1][1].totalFinal;
+    console.log("Max final score:", maxFinalscore, "Min final score:", minFinalscore);
+    rank = 0;
     sortedPlayers.forEach(([player, stats]) => {
     const avgFinal = stats.gamesPlayed ? (stats.totalFinal / stats.gamesPlayed).toFixed(2) : "0.00";
     const avgDistance = stats.gamesPlayed ? (stats.totalDistance / stats.gamesPlayed).toFixed(2) : "0.00";
     const avgPin = stats.gamesPlayed ? (stats.totalPin / stats.gamesPlayed).toFixed(2) : "0.00";
     const avgTime = stats.gamesPlayed ? (stats.totalTime / stats.gamesPlayed).toFixed(2) : "0.00";
+    const avgMoveScore = stats.gamesPlayed ? (stats.totalMoveScore / stats.gamesPlayed).toFixed(2) : "0.00";
+    const avgNumMoves = stats.gamesPlayed ? (stats.numMoves / stats.gamesPlayed).toFixed(2) : "0.00";
+    const avgSkippedTurns = stats.gamesPlayed ? (stats.skippedTurns / stats.gamesPlayed).toFixed(2) : "0.00";
+    const status = stats.playingstatus ? `Playing: ${stats.playingstatus}` : (stats.finishedstatus ? `Finished: ${stats.finishedstatus}` : "Not Playing");
+    const totalNumMoves = stats.numMoves;
+    const totalSkippedTurns = stats.skippedTurns;
+    stats.totalFinal = stats.totalFinal.toFixed(2);
+    stats.totalDistance = stats.totalDistance.toFixed(2);
+    stats.totalPin = stats.totalPin.toFixed(2);
+    stats.totalTime = stats.totalTime.toFixed(2);
+    stats.totalMoveScore = stats.totalMoveScore.toFixed(2);
+    const normalizedFinal = 1 + (stats.totalFinal - minFinalscore) / (maxFinalscore - minFinalscore) * 99 || 0;
+    rank += 1;
     tbody.innerHTML += `<tr>
-        <td>${player}</td>
-        <td>${stats.gamesPlayed}</td>
-        <td>${avgFinal}</td>
-        <td>${stats.totalFinal.toFixed(2)}</td>
-        <td>${avgDistance}</td>
-        <td>${stats.totalDistance.toFixed(2)}</td>
-        <td>${avgPin}</td>
-        <td>${stats.totalPin.toFixed(2)}</td>
-        <td>${avgTime}</td>
-        <td>${stats.totalTime.toFixed(2)}</td>
-        <td>${stats.wins}</td>
-        <td>${'<b>F:</b> ' + (stats.finishedstatus || 'X,')} <b>P:</b> ${stats.playingstatus || 'X'} </td> <!---<b>NS:</b> ${stats.notstartedstatus || 'X'}</td--->
-        <td>${stats.numMoves}</td>
-        <td>${(stats.numMoves / stats.gamesPlayed).toFixed(2)}</td>
-        <td>${stats.skippedTurns}</td>
-        <td>${(stats.skippedTurns / stats.gamesPlayed).toFixed(2)}</td>
-      </tr>`;
+    <td>${rank}</td>
+    <td>${player}</td>
+    <td>${stats.gamesPlayed}</td>
+    <td>${normalizedFinal.toFixed(2)}</td>
+    <td>${avgFinal}</td>
+    <td>${stats.totalFinal}</td>
+    <td>${avgDistance}</td>
+    <td>${stats.totalDistance}</td>
+    <td>${avgPin}</td>
+    <td>${stats.totalPin}</td>
+    <td>${avgMoveScore}</td>
+    <td>${stats.totalMoveScore}</td>
+    <td>${avgTime}</td>
+    <td>${stats.totalTime}</td>
+    <td>${stats.wins}</td>
+    <td>${status}</td>
+    <td>${totalNumMoves}</td>
+    <td>${avgNumMoves}</td>
+    <td>${totalSkippedTurns}</td>
+    <td>${avgSkippedTurns}</td>
+    </tr>`;
     });
-    }
+
+}
 
     function renderroundStats(rows) {
     const waitingGamesDiv = document.getElementById("waiting-games");
     waitingGamesDiv.innerHTML = "";
     const stats = {};
     rows.forEach(row => {
-                const [game_number, game_id, player1, player2, player3, player4, player5, player6, playstatus, joined, final_scores, time_scores, distance_scores, pin_scores, winner] = row.split(",");
+                const [game_number, game_id, player1, player2, player3, player4, player5, player6, playstatus, joined, final_scores, time_scores, distance_scores, pin_scores, move_scores, winner] = row.split(",");
     const players = [player1, player2, player3, player4, player5, player6].filter(p => p !== "NA");
     const status = playstatus;
     if (status === "WAITING_FOR_OTHER_PLAYER")
@@ -403,15 +481,18 @@ at the bottom of the table, display total number of games played per round, disp
         const joinedPlayers = joined.split(";").map(entry => entry.split(":")[0]);
         const notJoinedPlayers = players.filter(p => !joinedPlayers.includes(p));
         
-        
         waitingGamesDiv.innerHTML += `<p>Game ${game_number} is waiting to start. Joined : ${joinedPlayers.join(", ")} . Not joined: ${notJoinedPlayers.join(", ")}</p>`;
-    }});
+    }
+    else if (status === "GAME_CREATED") {
+        waitingGamesDiv.innerHTML += `<p>Game ${game_number} is currently not started.</p>`;
+
+    }
+    });
 
 }
 
     async function refresh() {
     const rows = await loadAllData();
-    const gameDetails = await loadGameDetails("R1"); // Load details for round 1 as an example, can be extended to load details for all rounds
     const { playerStats, roundStats } = processData(rows);
     renderLeaderboard(playerStats);
     const refreshTime = new Date().toLocaleTimeString();

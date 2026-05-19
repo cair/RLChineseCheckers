@@ -18,7 +18,7 @@ from checkers_pins import Pin
 import pandas as pd
 
 
-round_number = 1  # Update this for each new round of the tournament to track games and players in the round data file
+round_number = 13  # Update this for each new round of the tournament to track games and players in the round data file
 # ==========================================================
 # Utilities
 # ==========================================================
@@ -68,6 +68,7 @@ class Player:
 
         # Scoring stats
         self.move_count = 0
+        self.wrong_moves = {}
         self.time_taken_sec = 0.0
 
 
@@ -99,6 +100,7 @@ class Game:
         self.move_times_ms: List[float] = []
         self.last_move = None
         self.turn_timeout_notice = None
+        self.wrong_moves_by_colour: Dict[str, List[str]] = {}
 
         # Score dictionary
         self.scores: Dict[str, Dict[str, float]] = {}
@@ -173,6 +175,11 @@ class Game:
             turn_elapsed = (time.perf_counter_ns() - self.turn_started_ns) / 1e9
             if turn_elapsed > TURN_TIMEOUT_SEC:
                 colour = self.current_turn_colour()
+                self.move_count += 1
+                if colour in self.wrong_moves_by_colour:
+                    self.wrong_moves_by_colour[colour].append(str(self.move_count)+" (turn timeout)")
+                else:
+                    self.wrong_moves_by_colour[colour] = [str(self.move_count)+" (turn timeout)"]
                 self.turn_timeout_notice = (
                     f"Player with colour {colour} exceeded {TURN_TIMEOUT_SEC}s at move {self.move_count}. Turn skipped."
                 )
@@ -217,7 +224,7 @@ class Game:
             # Move score — asymmetric Gaussian
             move_score_func = lambda x: math.exp(-((x - 45) ** 2) /
                                                  (2 * ((4 if x < 45 else 18) ** 2)))
-            move_score = move_score_func(pl.move_count) if pl.move_count > 0 else 0
+            move_score = 100*move_score_func(pl.move_count) if pl.move_count > 0 else 0
 
             # Pins in goal
             pins_in_goal = sum(
@@ -265,7 +272,7 @@ class Game:
                 f"Time={time_score:.1f}, Moves({pl.move_count})={move_score:.1f}, "
                 f"Pins({pins_in_goal})={pin_goal_score:.1f}, Dist={distance_score:.1f}, Win Bonus={win_bonus:.1f}"
             )
-
+        write_log(self.game_id, f"ALL WRONG MOVES BY COLOUR: {self.wrong_moves_by_colour}")
         #update round_df with final score and status if this game is in the round data
         if SESSION.round_df is not None:
             idx = SESSION.round_df.index[SESSION.round_df['game_id'] == self.game_id].tolist()
@@ -278,7 +285,9 @@ class Game:
                 SESSION.round_df.at[idx, 'time_scores'] = ';'.join([f"{pl.name}:{self.scores[pl.player_id]['time_score']:.1f}" for pl in self.players]) 
                 SESSION.round_df.at[idx, 'distance_scores'] = ';'.join([f"{pl.name}:{self.scores[pl.player_id]['distance_score']:.1f}" for pl in self.players]) 
                 SESSION.round_df.at[idx, 'pin_scores'] = ';'.join([f"{pl.name}:{self.scores[pl.player_id]['pin_goal_score']:.1f}" for pl in self.players])  
-                
+                SESSION.round_df.at[idx, 'move_scores'] = ';'.join([f"{pl.name}:{self.scores[pl.player_id]['move_score']:.1f}" for pl in self.players])  
+                SESSION.round_df.at[idx, 'valid_moves'] = ';'.join([f"{pl.name}:{pl.move_count}" for pl in self.players])
+                SESSION.round_df.at[idx, 'skipped_turns'] = ';'.join([f"{pl.name}:{len(self.wrong_moves_by_colour[pl.colour]) if pl.colour in self.wrong_moves_by_colour else 0}" for pl in self.players])
                 try:
                     SESSION.round_df.to_csv(SESSION.round_path, sep=',', index=False)
                 except Exception as e:
@@ -332,7 +341,7 @@ class Session:
         else:
             self.round_data = []
         print(self.round_data)
-        self.round_headers = ["game_number", "game_id", "player1", "player2", "player3", "player4","player5","player6", "status", "joined", "final_scores", "time_scores", "distance_scores", "pin_scores", "winner"]
+        self.round_headers = ["game_number", "game_id", "player1", "player2", "player3", "player4","player5","player6", "status", "joined", "final_scores", "time_scores", "distance_scores", "pin_scores","move_scores", "valid_moves", "skipped_turns", "winner"]
         self.round_df = None
         if self.round_data:
             self.round_df = pd.DataFrame(self.round_data[1:], columns=self.round_headers) 
@@ -432,7 +441,7 @@ class Session:
             # Update game status based on how many players have joined compared to how many are expected from the round data
             all_players_in_row = selected_row[['player1', 'player2', 'player3', 'player4', 'player5', 'player6']]
             all_players_in_row = all_players_in_row[all_players_in_row != 'NA']
-            try:
+            '''try:
                 with open(f"joined_{round_number}.txt", "w") as f:
                     for gid in self.session_games:
                         g = self.games[gid]
@@ -443,7 +452,7 @@ class Session:
             except Exception as e:
                 error_msg = f"Error occurred while writing to joined_{round_number}.txt: {e}"
                 print(error_msg)
-                write_log("SESSION", error_msg)
+                write_log("SESSION", error_msg)'''
             if self.round_df.at[selected_row.name, 'joined'] == 'NA':
                 self.round_df.at[selected_row.name, 'joined'] = player_name+':'+colour
             else:
@@ -550,6 +559,46 @@ class Session:
                 "status": g.status,
             }
 
+
+    '''
+    forcestart_game is a method that can be called by the admin to force start a game if players are waiting for others to join. This is useful in cases where some players may have left or are not joining, and we don't want the remaining players to be stuck waiting indefinitely. It will mark all current players as ready and start the game if there are at least 2 players, even if the expected number of players from the round data has not been reached.
+    '''
+    def forcestart_game(self, game_id: str) -> Dict[str, Any]:
+        with self.lock:
+            g = self.games.get(game_id)
+            if not g:
+                return {"ok": False, "error": "Game not found"}
+
+            for pl in g.players:
+                pl.ready = True
+                write_log(g.game_id, f"PLAYER START (FORCE): {pl.name} ({pl.colour})")
+            
+
+            if g.status in ["READY_TO_START", "waiting for other player"]:
+                g.lock_joining = True
+                if len(g.players) >= 2 :
+                    g.status = "PLAYING"
+                    g.total_start_ns = time.perf_counter_ns()
+                    g.compute_turn_order()
+                    g.turn_started_ns = time.perf_counter_ns()
+                    write_log(g.game_id, f"GAME FORCE-STARTED — turn order {g.turn_order}")
+
+            # Update round_df status to PLAYING if this game is in the round data
+            if self.round_df is not None:
+                idx = self.round_df.index[self.round_df['game_id'] == game_id].tolist()
+                if idx:
+                    idx = idx[0]
+                    if g.status == "PLAYING":
+                        self.round_df.at[idx, 'status'] = 'PLAYING'
+                        # try to save the round_df back to the round file, and log any errors that occur during saving without crashing the server
+                        try:
+                            self.round_df.to_csv(self.round_path, sep=',', index=False) 
+                        except Exception as e:
+                            error_msg = f"Error occurred while saving round_df: {e}"
+                            print(error_msg)
+                            write_log("SESSION", error_msg)
+
+            return {"ok": True, "status": g.status}
     '''
     If all players have joined a game, and the game status is READY_TO_START, then mark the player as ready. If all players are ready, change game status to PLAYING and compute turn order. This allows us to track when players are ready and when the game starts in the round data.
     '''
@@ -648,15 +697,30 @@ class Session:
                 return {"ok": False, "error": "Player not in game"}
 
             if g.current_turn_colour() != pl.colour:
+                '''g.move_count += 1
+                if pl.colour in g.wrong_moves_by_colour:
+                    g.wrong_moves_by_colour[pl.colour].append(str(g.move_count)+" (not player's turn)")
+                else:
+                    g.wrong_moves_by_colour[pl.colour] = [str(g.move_count)+" (not player's turn)"]'''
                 return {"ok": False, "error": f"Not {pl.colour}'s turn. "}
 
             pins = g.pins_by_colour[pl.colour]
             if not (0 <= pin_id < len(pins)):
+                g.move_count += 1
+                if pl.colour in g.wrong_moves_by_colour:
+                    g.wrong_moves_by_colour[pl.colour].append(str(g.move_count)+" (invalid pin_id)")
+                else:
+                    g.wrong_moves_by_colour[pl.colour] = [str(g.move_count)+" (invalid pin_id)"]
                 return {"ok": False, "error": "Invalid pin ID"}
 
             pin = pins[pin_id]
             legal = pin.getPossibleMoves()
             if to_index not in legal:
+                g.move_count += 1
+                if pl.colour in g.wrong_moves_by_colour:
+                    g.wrong_moves_by_colour[pl.colour].append(str(g.move_count)+" (illegal move)")
+                else:
+                    g.wrong_moves_by_colour[pl.colour] = [str(g.move_count)+" (illegal move)"]
                 return {"ok": False, "error": "Illegal move"}
 
             # Time tracking
@@ -780,6 +844,7 @@ def handle_request(req: Dict[str, Any]) -> Dict[str, Any]:
     if op == "status":
         return {"ok": True, "games": SESSION.game_status_list()}
 
+
     return {"ok": False, "error": f"Unknown op {op}"}
 
 
@@ -836,6 +901,14 @@ def cli_loop():
                 print(g)
         elif cmd == "quit":
             os._exit(0)
+        elif cmd.startswith("start"):
+            start_game_id = cmd.split(' ')[1] if len(cmd.split(' ')) > 1 else None
+            if start_game_id:
+                result = SESSION.forcestart_game(start_game_id)
+                if result.get("ok"):
+                    print(f"Game {start_game_id} started.")
+                else:
+                    print(f"Error starting game {start_game_id}: {result.get('error')}")
         else:
             print("Invalid command")
 

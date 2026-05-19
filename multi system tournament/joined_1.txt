@@ -1,2 +1,0 @@
-D joined game db98461f-214a-42c0-94cd-5257e200a701 as yellow
-E joined game db98461f-214a-42c0-94cd-5257e200a701 as purple
