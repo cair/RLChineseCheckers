@@ -1,0 +1,468 @@
+[2026-05-21 22:14:53] GAME CREATED
+[2026-05-21 22:15:02] PLAYER JOINED: A as lawn green
+[2026-05-21 22:15:10] PLAYER JOINED: B as gray0
+[2026-05-21 22:15:10] PLAYER START: A (lawn green)
+[2026-05-21 22:15:10] PLAYER START: B (gray0)
+[2026-05-21 22:15:10] GAME START — turn order ['lawn green', 'gray0']
+[2026-05-21 22:15:10] PLAYER START: A (lawn green)
+[2026-05-21 22:15:10] PLAYER START: B (gray0)
+[2026-05-21 22:15:11] MOVE 1: A (lawn green) 44->54 [0.00ms]
+[2026-05-21 22:15:11] SCORE A (lawn green): Final=280.5, Time=98.5, Moves(1)=0.0, Pins(0)=0.0, Dist=182.0, Win Bonus=0.0
+[2026-05-21 22:15:11] SCORE B (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-21 22:15:11] ALL WRONG MOVES BY COLOUR: {}
+[2026-05-21 22:15:12] MOVE 2: B (gray0) 75->56 [0.01ms]
+[2026-05-21 22:15:12] SCORE A (lawn green): Final=280.5, Time=98.5, Moves(1)=0.0, Pins(0)=0.0, Dist=182.0, Win Bonus=0.0
+[2026-05-21 22:15:12] SCORE B (gray0): Final=283.5, Time=99.5, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-21 22:15:12] ALL WRONG MOVES BY COLOUR: {}
+[2026-05-21 22:15:14] SCORE A (lawn green): Final=280.5, Time=98.5, Moves(1)=0.0, Pins(0)=0.0, Dist=182.0, Win Bonus=0.0
+[2026-05-21 22:15:14] SCORE B (gray0): Final=283.5, Time=99.5, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-21 22:15:14] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)']}
+[2026-05-21 22:15:14] TURN TIMEOUT: Player with colour lawn green exceeded 2s at move 3. Turn skipped.
+[2026-05-21 22:15:14] MOVE 4: B (gray0) 98->77 [0.00ms]
+[2026-05-21 22:15:14] SCORE A (lawn green): Final=280.5, Time=98.5, Moves(1)=0.0, Pins(0)=0.0, Dist=182.0, Win Bonus=0.0
+[2026-05-21 22:15:14] SCORE B (gray0): Final=291.1, Time=99.1, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-21 22:15:14] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)']}
+[2026-05-21 22:15:16] SCORE A (lawn green): Final=280.5, Time=98.5, Moves(1)=0.0, Pins(0)=0.0, Dist=182.0, Win Bonus=0.0
+[2026-05-21 22:15:16] SCORE B (gray0): Final=291.1, Time=99.1, Moves(2)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0
+[2026-05-21 22:15:16] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)']}
+[2026-05-21 22:15:16] TURN TIMEOUT: Player with colour lawn green exceeded 2s at move 5. Turn skipped.
+[2026-05-21 22:15:17] MOVE 6: B (gray0) 65->47 [0.00ms]
+[2026-05-21 22:15:17] SCORE A (lawn green): Final=280.5, Time=98.5, Moves(1)=0.0, Pins(0)=0.0, Dist=182.0, Win Bonus=0.0
+[2026-05-21 22:15:17] SCORE B (gray0): Final=294.7, Time=98.7, Moves(3)=0.0, Pins(0)=0.0, Dist=196.0, Win Bonus=0.0
+[2026-05-21 22:15:17] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)']}
+[2026-05-21 22:15:18] MOVE 7: A (lawn green) 55->44 [0.00ms]
+[2026-05-21 22:15:18] SCORE A (lawn green): Final=279.4, Time=97.4, Moves(2)=0.0, Pins(0)=0.0, Dist=182.0, Win Bonus=0.0
+[2026-05-21 22:15:18] SCORE B (gray0): Final=294.7, Time=98.7, Moves(3)=0.0, Pins(0)=0.0, Dist=196.0, Win Bonus=0.0
+[2026-05-21 22:15:18] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)']}
+[2026-05-21 22:15:18] MOVE 8: B (gray0) 87->48 [0.00ms]
+[2026-05-21 22:15:18] SCORE A (lawn green): Final=279.4, Time=97.4, Moves(2)=0.0, Pins(0)=0.0, Dist=182.0, Win Bonus=0.0
+[2026-05-21 22:15:18] SCORE B (gray0): Final=302.2, Time=98.2, Moves(4)=0.0, Pins(0)=0.0, Dist=204.0, Win Bonus=0.0
+[2026-05-21 22:15:18] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)']}
+[2026-05-21 22:15:20] SCORE A (lawn green): Final=279.4, Time=97.4, Moves(2)=0.0, Pins(0)=0.0, Dist=182.0, Win Bonus=0.0
+[2026-05-21 22:15:20] SCORE B (gray0): Final=302.2, Time=98.2, Moves(4)=0.0, Pins(0)=0.0, Dist=204.0, Win Bonus=0.0
+[2026-05-21 22:15:20] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)']}
+[2026-05-21 22:15:20] TURN TIMEOUT: Player with colour lawn green exceeded 2s at move 9. Turn skipped.
+[2026-05-21 22:15:21] MOVE 10: B (gray0) 76->78 [0.00ms]
+[2026-05-21 22:15:21] SCORE A (lawn green): Final=279.4, Time=97.4, Moves(2)=0.0, Pins(0)=0.0, Dist=182.0, Win Bonus=0.0
+[2026-05-21 22:15:21] SCORE B (gray0): Final=305.8, Time=97.8, Moves(5)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-21 22:15:21] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)']}
+[2026-05-21 22:15:23] SCORE A (lawn green): Final=279.4, Time=97.4, Moves(2)=0.0, Pins(0)=0.0, Dist=182.0, Win Bonus=0.0
+[2026-05-21 22:15:23] SCORE B (gray0): Final=305.8, Time=97.8, Moves(5)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-21 22:15:23] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)']}
+[2026-05-21 22:15:23] TURN TIMEOUT: Player with colour lawn green exceeded 2s at move 11. Turn skipped.
+[2026-05-21 22:15:23] MOVE 12: B (gray0) 77->79 [0.00ms]
+[2026-05-21 22:15:23] SCORE A (lawn green): Final=279.4, Time=97.4, Moves(2)=0.0, Pins(0)=0.0, Dist=182.0, Win Bonus=0.0
+[2026-05-21 22:15:23] SCORE B (gray0): Final=309.3, Time=97.3, Moves(6)=0.0, Pins(0)=0.0, Dist=212.0, Win Bonus=0.0
+[2026-05-21 22:15:23] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)']}
+[2026-05-21 22:15:25] MOVE 13: A (lawn green) 32->53 [0.00ms]
+[2026-05-21 22:15:25] SCORE A (lawn green): Final=281.9, Time=95.9, Moves(3)=0.0, Pins(0)=0.0, Dist=186.0, Win Bonus=0.0
+[2026-05-21 22:15:25] SCORE B (gray0): Final=309.3, Time=97.3, Moves(6)=0.0, Pins(0)=0.0, Dist=212.0, Win Bonus=0.0
+[2026-05-21 22:15:25] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)']}
+[2026-05-21 22:15:25] MOVE 14: B (gray0) 56->58 [0.00ms]
+[2026-05-21 22:15:25] SCORE A (lawn green): Final=281.9, Time=95.9, Moves(3)=0.0, Pins(0)=0.0, Dist=186.0, Win Bonus=0.0
+[2026-05-21 22:15:25] SCORE B (gray0): Final=312.8, Time=96.8, Moves(7)=0.0, Pins(0)=0.0, Dist=216.0, Win Bonus=0.0
+[2026-05-21 22:15:25] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)']}
+[2026-05-21 22:15:27] SCORE A (lawn green): Final=281.9, Time=95.9, Moves(3)=0.0, Pins(0)=0.0, Dist=186.0, Win Bonus=0.0
+[2026-05-21 22:15:27] SCORE B (gray0): Final=312.8, Time=96.8, Moves(7)=0.0, Pins(0)=0.0, Dist=216.0, Win Bonus=0.0
+[2026-05-21 22:15:27] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)']}
+[2026-05-21 22:15:28] TURN TIMEOUT: Player with colour lawn green exceeded 2s at move 15. Turn skipped.
+[2026-05-21 22:15:28] MOVE 16: B (gray0) 47->49 [0.00ms]
+[2026-05-21 22:15:28] SCORE A (lawn green): Final=281.9, Time=95.9, Moves(3)=0.0, Pins(0)=0.0, Dist=186.0, Win Bonus=0.0
+[2026-05-21 22:15:28] SCORE B (gray0): Final=316.4, Time=96.4, Moves(8)=0.0, Pins(0)=0.0, Dist=220.0, Win Bonus=0.0
+[2026-05-21 22:15:28] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)']}
+[2026-05-21 22:15:30] SCORE A (lawn green): Final=281.9, Time=95.9, Moves(3)=0.0, Pins(0)=0.0, Dist=186.0, Win Bonus=0.0
+[2026-05-21 22:15:30] SCORE B (gray0): Final=316.4, Time=96.4, Moves(8)=0.0, Pins(0)=0.0, Dist=220.0, Win Bonus=0.0
+[2026-05-21 22:15:30] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)']}
+[2026-05-21 22:15:30] TURN TIMEOUT: Player with colour lawn green exceeded 2s at move 17. Turn skipped.
+[2026-05-21 22:15:30] MOVE 18: B (gray0) 48->50 [0.00ms]
+[2026-05-21 22:15:30] SCORE A (lawn green): Final=281.9, Time=95.9, Moves(3)=0.0, Pins(0)=0.0, Dist=186.0, Win Bonus=0.0
+[2026-05-21 22:15:30] SCORE B (gray0): Final=320.0, Time=96.0, Moves(9)=0.0, Pins(0)=0.0, Dist=224.0, Win Bonus=0.0
+[2026-05-21 22:15:30] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)']}
+[2026-05-21 22:15:30] MOVE 19: A (lawn green) 45->43 [0.00ms]
+[2026-05-21 22:15:30] SCORE A (lawn green): Final=285.9, Time=95.9, Moves(4)=0.0, Pins(0)=0.0, Dist=190.0, Win Bonus=0.0
+[2026-05-21 22:15:30] SCORE B (gray0): Final=320.0, Time=96.0, Moves(9)=0.0, Pins(0)=0.0, Dist=224.0, Win Bonus=0.0
+[2026-05-21 22:15:30] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)']}
+[2026-05-21 22:15:31] MOVE 20: B (gray0) 49->51 [0.00ms]
+[2026-05-21 22:15:31] SCORE A (lawn green): Final=285.9, Time=95.9, Moves(4)=0.0, Pins(0)=0.0, Dist=190.0, Win Bonus=0.0
+[2026-05-21 22:15:31] SCORE B (gray0): Final=323.4, Time=95.4, Moves(10)=0.0, Pins(0)=0.0, Dist=228.0, Win Bonus=0.0
+[2026-05-21 22:15:31] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)']}
+[2026-05-21 22:15:32] MOVE 21: A (lawn green) 44->63 [0.00ms]
+[2026-05-21 22:15:32] SCORE A (lawn green): Final=288.5, Time=94.5, Moves(5)=0.0, Pins(0)=0.0, Dist=194.0, Win Bonus=0.0
+[2026-05-21 22:15:32] SCORE B (gray0): Final=323.4, Time=95.4, Moves(10)=0.0, Pins(0)=0.0, Dist=228.0, Win Bonus=0.0
+[2026-05-21 22:15:32] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)']}
+[2026-05-21 22:15:33] MOVE 22: B (gray0) 50->52 [0.00ms]
+[2026-05-21 22:15:33] SCORE A (lawn green): Final=288.5, Time=94.5, Moves(5)=0.0, Pins(0)=0.0, Dist=194.0, Win Bonus=0.0
+[2026-05-21 22:15:33] SCORE B (gray0): Final=326.8, Time=94.8, Moves(11)=0.0, Pins(0)=0.0, Dist=232.0, Win Bonus=0.0
+[2026-05-21 22:15:33] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)']}
+[2026-05-21 22:15:35] MOVE 23: A (lawn green) 22->45 [0.00ms]
+[2026-05-21 22:15:35] SCORE A (lawn green): Final=291.0, Time=93.0, Moves(6)=0.0, Pins(0)=0.0, Dist=198.0, Win Bonus=0.0
+[2026-05-21 22:15:35] SCORE B (gray0): Final=326.8, Time=94.8, Moves(11)=0.0, Pins(0)=0.0, Dist=232.0, Win Bonus=0.0
+[2026-05-21 22:15:35] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)']}
+[2026-05-21 22:15:35] MOVE 24: B (gray0) 78->80 [0.01ms]
+[2026-05-21 22:15:35] SCORE A (lawn green): Final=291.0, Time=93.0, Moves(6)=0.0, Pins(0)=0.0, Dist=198.0, Win Bonus=0.0
+[2026-05-21 22:15:35] SCORE B (gray0): Final=330.3, Time=94.3, Moves(12)=0.0, Pins(0)=0.0, Dist=236.0, Win Bonus=0.0
+[2026-05-21 22:15:35] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)']}
+[2026-05-21 22:15:37] SCORE A (lawn green): Final=291.0, Time=93.0, Moves(6)=0.0, Pins(0)=0.0, Dist=198.0, Win Bonus=0.0
+[2026-05-21 22:15:37] SCORE B (gray0): Final=330.3, Time=94.3, Moves(12)=0.0, Pins(0)=0.0, Dist=236.0, Win Bonus=0.0
+[2026-05-21 22:15:37] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)']}
+[2026-05-21 22:15:37] TURN TIMEOUT: Player with colour lawn green exceeded 2s at move 25. Turn skipped.
+[2026-05-21 22:15:37] MOVE 26: B (gray0) 79->81 [0.01ms]
+[2026-05-21 22:15:37] SCORE A (lawn green): Final=291.0, Time=93.0, Moves(6)=0.0, Pins(0)=0.0, Dist=198.0, Win Bonus=0.0
+[2026-05-21 22:15:37] SCORE B (gray0): Final=333.9, Time=93.9, Moves(13)=0.0, Pins(0)=0.0, Dist=240.0, Win Bonus=0.0
+[2026-05-21 22:15:37] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)']}
+[2026-05-21 22:15:40] SCORE A (lawn green): Final=291.0, Time=93.0, Moves(6)=0.0, Pins(0)=0.0, Dist=198.0, Win Bonus=0.0
+[2026-05-21 22:15:40] SCORE B (gray0): Final=333.9, Time=93.9, Moves(13)=0.0, Pins(0)=0.0, Dist=240.0, Win Bonus=0.0
+[2026-05-21 22:15:40] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)']}
+[2026-05-21 22:15:40] TURN TIMEOUT: Player with colour lawn green exceeded 2s at move 27. Turn skipped.
+[2026-05-21 22:15:40] MOVE 28: B (gray0) 80->82 [0.00ms]
+[2026-05-21 22:15:40] SCORE A (lawn green): Final=291.0, Time=93.0, Moves(6)=0.0, Pins(0)=0.0, Dist=198.0, Win Bonus=0.0
+[2026-05-21 22:15:40] SCORE B (gray0): Final=337.5, Time=93.5, Moves(14)=0.0, Pins(0)=0.0, Dist=244.0, Win Bonus=0.0
+[2026-05-21 22:15:40] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)']}
+[2026-05-21 22:15:41] MOVE 29: A (lawn green) 19->31 [0.00ms]
+[2026-05-21 22:15:41] SCORE A (lawn green): Final=291.9, Time=91.9, Moves(7)=0.0, Pins(0)=0.0, Dist=200.0, Win Bonus=0.0
+[2026-05-21 22:15:41] SCORE B (gray0): Final=337.5, Time=93.5, Moves(14)=0.0, Pins(0)=0.0, Dist=244.0, Win Bonus=0.0
+[2026-05-21 22:15:41] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)']}
+[2026-05-21 22:15:42] MOVE 30: B (gray0) 58->49 [0.00ms]
+[2026-05-21 22:15:42] SCORE A (lawn green): Final=291.9, Time=91.9, Moves(7)=0.0, Pins(0)=0.0, Dist=200.0, Win Bonus=0.0
+[2026-05-21 22:15:42] SCORE B (gray0): Final=339.0, Time=93.0, Moves(15)=0.0, Pins(0)=0.0, Dist=246.0, Win Bonus=0.0
+[2026-05-21 22:15:42] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)']}
+[2026-05-21 22:15:43] MOVE 31: A (lawn green) 54->70 [0.00ms]
+[2026-05-21 22:15:43] SCORE A (lawn green): Final=298.4, Time=90.4, Moves(8)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-21 22:15:43] SCORE B (gray0): Final=339.0, Time=93.0, Moves(15)=0.0, Pins(0)=0.0, Dist=246.0, Win Bonus=0.0
+[2026-05-21 22:15:43] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)']}
+[2026-05-21 22:15:44] MOVE 32: B (gray0) 82->44 [0.00ms]
+[2026-05-21 22:15:44] SCORE A (lawn green): Final=298.4, Time=90.4, Moves(8)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-21 22:15:44] SCORE B (gray0): Final=446.5, Time=92.5, Moves(16)=0.0, Pins(1)=100.0, Dist=254.0, Win Bonus=0.0
+[2026-05-21 22:15:44] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)']}
+[2026-05-21 22:15:46] SCORE A (lawn green): Final=298.4, Time=90.4, Moves(8)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-21 22:15:46] SCORE B (gray0): Final=446.5, Time=92.5, Moves(16)=0.0, Pins(1)=100.0, Dist=254.0, Win Bonus=0.0
+[2026-05-21 22:15:46] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)']}
+[2026-05-21 22:15:46] TURN TIMEOUT: Player with colour lawn green exceeded 2s at move 33. Turn skipped.
+[2026-05-21 22:15:46] MOVE 34: B (gray0) 81->41 [0.00ms]
+[2026-05-21 22:15:46] SCORE A (lawn green): Final=298.4, Time=90.4, Moves(8)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-21 22:15:46] SCORE B (gray0): Final=450.1, Time=92.1, Moves(17)=0.0, Pins(1)=100.0, Dist=258.0, Win Bonus=0.0
+[2026-05-21 22:15:46] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)']}
+[2026-05-21 22:15:48] SCORE A (lawn green): Final=298.4, Time=90.4, Moves(8)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-21 22:15:48] SCORE B (gray0): Final=450.1, Time=92.1, Moves(17)=0.0, Pins(1)=100.0, Dist=258.0, Win Bonus=0.0
+[2026-05-21 22:15:48] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)']}
+[2026-05-21 22:15:48] TURN TIMEOUT: Player with colour lawn green exceeded 2s at move 35. Turn skipped.
+[2026-05-21 22:15:49] MOVE 36: B (gray0) 51->55 [0.00ms]
+[2026-05-21 22:15:49] SCORE A (lawn green): Final=298.4, Time=90.4, Moves(8)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-21 22:15:49] SCORE B (gray0): Final=557.7, Time=91.7, Moves(18)=0.0, Pins(2)=200.0, Dist=266.0, Win Bonus=0.0
+[2026-05-21 22:15:49] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)']}
+[2026-05-21 22:15:50] MOVE 37: A (lawn green) 34->32 [0.00ms]
+[2026-05-21 22:15:50] SCORE A (lawn green): Final=301.2, Time=89.2, Moves(9)=0.0, Pins(0)=0.0, Dist=212.0, Win Bonus=0.0
+[2026-05-21 22:15:50] SCORE B (gray0): Final=557.7, Time=91.7, Moves(18)=0.0, Pins(2)=200.0, Dist=266.0, Win Bonus=0.0
+[2026-05-21 22:15:50] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)']}
+[2026-05-21 22:15:50] MOVE 38: B (gray0) 41->64 [0.00ms]
+[2026-05-21 22:15:50] SCORE A (lawn green): Final=301.2, Time=89.2, Moves(9)=0.0, Pins(0)=0.0, Dist=212.0, Win Bonus=0.0
+[2026-05-21 22:15:50] SCORE B (gray0): Final=561.1, Time=91.1, Moves(19)=0.0, Pins(2)=200.0, Dist=270.0, Win Bonus=0.0
+[2026-05-21 22:15:50] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)']}
+[2026-05-21 22:15:52] MOVE 39: A (lawn green) 70->81 [0.00ms]
+[2026-05-21 22:15:52] SCORE A (lawn green): Final=299.8, Time=87.8, Moves(10)=0.0, Pins(0)=0.0, Dist=212.0, Win Bonus=0.0
+[2026-05-21 22:15:52] SCORE B (gray0): Final=561.1, Time=91.1, Moves(19)=0.0, Pins(2)=200.0, Dist=270.0, Win Bonus=0.0
+[2026-05-21 22:15:52] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)']}
+[2026-05-21 22:15:52] MOVE 40: B (gray0) 100->77 [0.00ms]
+[2026-05-21 22:15:52] SCORE A (lawn green): Final=299.8, Time=87.8, Moves(10)=0.0, Pins(0)=0.0, Dist=212.0, Win Bonus=0.0
+[2026-05-21 22:15:52] SCORE B (gray0): Final=564.6, Time=90.6, Moves(20)=0.0, Pins(2)=200.0, Dist=274.0, Win Bonus=0.0
+[2026-05-21 22:15:52] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)']}
+[2026-05-21 22:15:54] MOVE 41: A (lawn green) 20->22 [0.00ms]
+[2026-05-21 22:15:54] SCORE A (lawn green): Final=294.3, Time=86.3, Moves(11)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-21 22:15:54] SCORE B (gray0): Final=564.6, Time=90.6, Moves(20)=0.0, Pins(2)=200.0, Dist=274.0, Win Bonus=0.0
+[2026-05-21 22:15:54] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)']}
+[2026-05-21 22:15:54] MOVE 42: B (gray0) 49->39 [0.00ms]
+[2026-05-21 22:15:54] SCORE A (lawn green): Final=294.3, Time=86.3, Moves(11)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-21 22:15:54] SCORE B (gray0): Final=566.1, Time=90.1, Moves(21)=0.0, Pins(2)=200.0, Dist=276.0, Win Bonus=0.0
+[2026-05-21 22:15:54] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)']}
+[2026-05-21 22:15:55] MOVE 43: A (lawn green) 21->20 [0.00ms]
+[2026-05-21 22:15:55] SCORE A (lawn green): Final=295.2, Time=85.2, Moves(12)=0.0, Pins(0)=0.0, Dist=210.0, Win Bonus=0.0
+[2026-05-21 22:15:55] SCORE B (gray0): Final=566.1, Time=90.1, Moves(21)=0.0, Pins(2)=200.0, Dist=276.0, Win Bonus=0.0
+[2026-05-21 22:15:55] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)']}
+[2026-05-21 22:15:56] MOVE 44: B (gray0) 101->78 [0.00ms]
+[2026-05-21 22:15:56] SCORE A (lawn green): Final=295.2, Time=85.2, Moves(12)=0.0, Pins(0)=0.0, Dist=210.0, Win Bonus=0.0
+[2026-05-21 22:15:56] SCORE B (gray0): Final=569.7, Time=89.7, Moves(22)=0.0, Pins(2)=200.0, Dist=280.0, Win Bonus=0.0
+[2026-05-21 22:15:56] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)']}
+[2026-05-21 22:15:57] MOVE 45: A (lawn green) 20->21 [0.00ms]
+[2026-05-21 22:15:57] SCORE A (lawn green): Final=292.1, Time=84.1, Moves(13)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-21 22:15:57] SCORE B (gray0): Final=569.7, Time=89.7, Moves(22)=0.0, Pins(2)=200.0, Dist=280.0, Win Bonus=0.0
+[2026-05-21 22:15:57] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)']}
+[2026-05-21 22:15:58] MOVE 46: B (gray0) 88->90 [0.00ms]
+[2026-05-21 22:15:58] SCORE A (lawn green): Final=292.1, Time=84.1, Moves(13)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-21 22:15:58] SCORE B (gray0): Final=573.1, Time=89.1, Moves(23)=0.0, Pins(2)=200.0, Dist=284.0, Win Bonus=0.0
+[2026-05-21 22:15:58] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)']}
+[2026-05-21 22:15:59] MOVE 47: A (lawn green) 53->42 [0.00ms]
+[2026-05-21 22:15:59] SCORE A (lawn green): Final=290.6, Time=82.6, Moves(14)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-21 22:15:59] SCORE B (gray0): Final=573.1, Time=89.1, Moves(23)=0.0, Pins(2)=200.0, Dist=284.0, Win Bonus=0.0
+[2026-05-21 22:15:59] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)']}
+[2026-05-21 22:16:00] MOVE 48: B (gray0) 99->100 [0.00ms]
+[2026-05-21 22:16:00] SCORE A (lawn green): Final=290.6, Time=82.6, Moves(14)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-21 22:16:00] SCORE B (gray0): Final=574.5, Time=88.5, Moves(24)=0.0, Pins(2)=200.0, Dist=286.0, Win Bonus=0.0
+[2026-05-21 22:16:00] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)']}
+[2026-05-21 22:16:01] MOVE 49: A (lawn green) 32->34 [0.00ms]
+[2026-05-21 22:16:01] SCORE A (lawn green): Final=285.2, Time=81.2, Moves(15)=0.0, Pins(0)=0.0, Dist=204.0, Win Bonus=0.0
+[2026-05-21 22:16:01] SCORE B (gray0): Final=574.5, Time=88.5, Moves(24)=0.0, Pins(2)=200.0, Dist=286.0, Win Bonus=0.0
+[2026-05-21 22:16:01] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)']}
+[2026-05-21 22:16:02] MOVE 50: B (gray0) 77->79 [0.00ms]
+[2026-05-21 22:16:02] SCORE A (lawn green): Final=285.2, Time=81.2, Moves(15)=0.0, Pins(0)=0.0, Dist=204.0, Win Bonus=0.0
+[2026-05-21 22:16:02] SCORE B (gray0): Final=578.0, Time=88.0, Moves(25)=0.0, Pins(2)=200.0, Dist=290.0, Win Bonus=0.0
+[2026-05-21 22:16:02] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)']}
+[2026-05-21 22:16:03] MOVE 51: A (lawn green) 21->20 [0.00ms]
+[2026-05-21 22:16:03] SCORE A (lawn green): Final=286.2, Time=80.2, Moves(16)=0.0, Pins(0)=0.0, Dist=206.0, Win Bonus=0.0
+[2026-05-21 22:16:03] SCORE B (gray0): Final=578.0, Time=88.0, Moves(25)=0.0, Pins(2)=200.0, Dist=290.0, Win Bonus=0.0
+[2026-05-21 22:16:03] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)']}
+[2026-05-21 22:16:03] MOVE 52: B (gray0) 78->82 [0.00ms]
+[2026-05-21 22:16:03] SCORE A (lawn green): Final=286.2, Time=80.2, Moves(16)=0.0, Pins(0)=0.0, Dist=206.0, Win Bonus=0.0
+[2026-05-21 22:16:03] SCORE B (gray0): Final=585.5, Time=87.5, Moves(26)=0.0, Pins(2)=200.0, Dist=298.0, Win Bonus=0.0
+[2026-05-21 22:16:03] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)']}
+[2026-05-21 22:16:04] MOVE 53: A (lawn green) 43->54 [0.00ms]
+[2026-05-21 22:16:04] SCORE A (lawn green): Final=285.0, Time=79.0, Moves(17)=0.0, Pins(0)=0.0, Dist=206.0, Win Bonus=0.0
+[2026-05-21 22:16:04] SCORE B (gray0): Final=585.5, Time=87.5, Moves(26)=0.0, Pins(2)=200.0, Dist=298.0, Win Bonus=0.0
+[2026-05-21 22:16:04] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)']}
+[2026-05-21 22:16:05] MOVE 54: B (gray0) 79->69 [0.00ms]
+[2026-05-21 22:16:05] SCORE A (lawn green): Final=285.0, Time=79.0, Moves(17)=0.0, Pins(0)=0.0, Dist=206.0, Win Bonus=0.0
+[2026-05-21 22:16:05] SCORE B (gray0): Final=586.9, Time=86.9, Moves(27)=0.0, Pins(2)=200.0, Dist=300.0, Win Bonus=0.0
+[2026-05-21 22:16:05] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)']}
+[2026-05-21 22:16:06] MOVE 55: A (lawn green) 42->41 [0.00ms]
+[2026-05-21 22:16:06] SCORE A (lawn green): Final=285.6, Time=77.6, Moves(18)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-21 22:16:06] SCORE B (gray0): Final=586.9, Time=86.9, Moves(27)=0.0, Pins(2)=200.0, Dist=300.0, Win Bonus=0.0
+[2026-05-21 22:16:06] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)']}
+[2026-05-21 22:16:07] MOVE 56: B (gray0) 39->28 [0.01ms]
+[2026-05-21 22:16:07] SCORE A (lawn green): Final=285.6, Time=77.6, Moves(18)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-21 22:16:07] SCORE B (gray0): Final=588.4, Time=86.3, Moves(28)=0.0, Pins(2)=200.0, Dist=302.0, Win Bonus=0.0
+[2026-05-21 22:16:07] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)']}
+[2026-05-21 22:16:09] SCORE A (lawn green): Final=285.6, Time=77.6, Moves(18)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-21 22:16:09] SCORE B (gray0): Final=588.4, Time=86.3, Moves(28)=0.0, Pins(2)=200.0, Dist=302.0, Win Bonus=0.0
+[2026-05-21 22:16:09] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)', '57 (turn timeout)']}
+[2026-05-21 22:16:09] TURN TIMEOUT: Player with colour lawn green exceeded 2s at move 57. Turn skipped.
+[2026-05-21 22:16:09] MOVE 58: B (gray0) 69->70 [0.00ms]
+[2026-05-21 22:16:09] SCORE A (lawn green): Final=285.6, Time=77.6, Moves(18)=0.0, Pins(0)=0.0, Dist=208.0, Win Bonus=0.0
+[2026-05-21 22:16:09] SCORE B (gray0): Final=590.0, Time=85.9, Moves(29)=0.0, Pins(2)=200.0, Dist=304.0, Win Bonus=0.0
+[2026-05-21 22:16:09] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)', '57 (turn timeout)']}
+[2026-05-21 22:16:09] MOVE 59: A (lawn green) 34->51 [0.01ms]
+[2026-05-21 22:16:09] SCORE A (lawn green): Final=297.6, Time=77.6, Moves(19)=0.0, Pins(0)=0.0, Dist=220.0, Win Bonus=0.0
+[2026-05-21 22:16:09] SCORE B (gray0): Final=590.0, Time=85.9, Moves(29)=0.0, Pins(2)=200.0, Dist=304.0, Win Bonus=0.0
+[2026-05-21 22:16:09] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)', '57 (turn timeout)']}
+[2026-05-21 22:16:10] MOVE 60: B (gray0) 82->19 [0.00ms]
+[2026-05-21 22:16:10] SCORE A (lawn green): Final=297.6, Time=77.6, Moves(19)=0.0, Pins(0)=0.0, Dist=220.0, Win Bonus=0.0
+[2026-05-21 22:16:10] SCORE B (gray0): Final=697.4, Time=85.3, Moves(30)=0.1, Pins(3)=300.0, Dist=312.0, Win Bonus=0.0
+[2026-05-21 22:16:10] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)', '57 (turn timeout)']}
+[2026-05-21 22:16:12] SCORE A (lawn green): Final=297.6, Time=77.6, Moves(19)=0.0, Pins(0)=0.0, Dist=220.0, Win Bonus=0.0
+[2026-05-21 22:16:12] SCORE B (gray0): Final=697.4, Time=85.3, Moves(30)=0.1, Pins(3)=300.0, Dist=312.0, Win Bonus=0.0
+[2026-05-21 22:16:12] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)', '57 (turn timeout)', '61 (turn timeout)']}
+[2026-05-21 22:16:12] TURN TIMEOUT: Player with colour lawn green exceeded 2s at move 61. Turn skipped.
+[2026-05-21 22:16:12] MOVE 62: B (gray0) 28->16 [0.00ms]
+[2026-05-21 22:16:12] SCORE A (lawn green): Final=297.6, Time=77.6, Moves(19)=0.0, Pins(0)=0.0, Dist=220.0, Win Bonus=0.0
+[2026-05-21 22:16:12] SCORE B (gray0): Final=699.2, Time=84.9, Moves(31)=0.2, Pins(3)=300.0, Dist=314.0, Win Bonus=0.0
+[2026-05-21 22:16:12] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)', '57 (turn timeout)', '61 (turn timeout)']}
+[2026-05-21 22:16:14] MOVE 63: A (lawn green) 81->60 [0.00ms]
+[2026-05-21 22:16:14] SCORE A (lawn green): Final=296.1, Time=76.1, Moves(20)=0.0, Pins(0)=0.0, Dist=220.0, Win Bonus=0.0
+[2026-05-21 22:16:14] SCORE B (gray0): Final=699.2, Time=84.9, Moves(31)=0.2, Pins(3)=300.0, Dist=314.0, Win Bonus=0.0
+[2026-05-21 22:16:14] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)', '57 (turn timeout)', '61 (turn timeout)']}
+[2026-05-21 22:16:14] MOVE 64: B (gray0) 86->75 [0.00ms]
+[2026-05-21 22:16:14] SCORE A (lawn green): Final=296.1, Time=76.1, Moves(20)=0.0, Pins(0)=0.0, Dist=220.0, Win Bonus=0.0
+[2026-05-21 22:16:14] SCORE B (gray0): Final=701.0, Time=84.5, Moves(32)=0.5, Pins(3)=300.0, Dist=316.0, Win Bonus=0.0
+[2026-05-21 22:16:14] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)', '57 (turn timeout)', '61 (turn timeout)']}
+[2026-05-21 22:16:16] SCORE A (lawn green): Final=296.1, Time=76.1, Moves(20)=0.0, Pins(0)=0.0, Dist=220.0, Win Bonus=0.0
+[2026-05-21 22:16:16] SCORE B (gray0): Final=701.0, Time=84.5, Moves(32)=0.5, Pins(3)=300.0, Dist=316.0, Win Bonus=0.0
+[2026-05-21 22:16:16] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)', '57 (turn timeout)', '61 (turn timeout)', '65 (turn timeout)']}
+[2026-05-21 22:16:16] TURN TIMEOUT: Player with colour lawn green exceeded 2s at move 65. Turn skipped.
+[2026-05-21 22:16:17] MOVE 66: B (gray0) 100->101 [0.00ms]
+[2026-05-21 22:16:17] SCORE A (lawn green): Final=296.1, Time=76.1, Moves(20)=0.0, Pins(0)=0.0, Dist=220.0, Win Bonus=0.0
+[2026-05-21 22:16:17] SCORE B (gray0): Final=703.1, Time=84.0, Moves(33)=1.1, Pins(3)=300.0, Dist=318.0, Win Bonus=0.0
+[2026-05-21 22:16:17] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)', '57 (turn timeout)', '61 (turn timeout)', '65 (turn timeout)']}
+[2026-05-21 22:16:18] MOVE 67: A (lawn green) 51->30 [0.00ms]
+[2026-05-21 22:16:18] SCORE A (lawn green): Final=291.0, Time=75.0, Moves(21)=0.0, Pins(0)=0.0, Dist=216.0, Win Bonus=0.0
+[2026-05-21 22:16:18] SCORE B (gray0): Final=703.1, Time=84.0, Moves(33)=1.1, Pins(3)=300.0, Dist=318.0, Win Bonus=0.0
+[2026-05-21 22:16:18] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)', '57 (turn timeout)', '61 (turn timeout)', '65 (turn timeout)']}
+[2026-05-21 22:16:19] MOVE 68: B (gray0) 70->71 [0.00ms]
+[2026-05-21 22:16:19] SCORE A (lawn green): Final=291.0, Time=75.0, Moves(21)=0.0, Pins(0)=0.0, Dist=216.0, Win Bonus=0.0
+[2026-05-21 22:16:19] SCORE B (gray0): Final=705.7, Time=83.4, Moves(34)=2.3, Pins(3)=300.0, Dist=320.0, Win Bonus=0.0
+[2026-05-21 22:16:19] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)', '57 (turn timeout)', '61 (turn timeout)', '65 (turn timeout)']}
+[2026-05-21 22:16:21] SCORE A (lawn green): Final=291.0, Time=75.0, Moves(21)=0.0, Pins(0)=0.0, Dist=216.0, Win Bonus=0.0
+[2026-05-21 22:16:21] SCORE B (gray0): Final=705.7, Time=83.4, Moves(34)=2.3, Pins(3)=300.0, Dist=320.0, Win Bonus=0.0
+[2026-05-21 22:16:21] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)', '57 (turn timeout)', '61 (turn timeout)', '65 (turn timeout)', '69 (turn timeout)']}
+[2026-05-21 22:16:21] TURN TIMEOUT: Player with colour lawn green exceeded 2s at move 69. Turn skipped.
+[2026-05-21 22:16:21] MOVE 70: B (gray0) 75->65 [0.00ms]
+[2026-05-21 22:16:21] SCORE A (lawn green): Final=291.0, Time=75.0, Moves(21)=0.0, Pins(0)=0.0, Dist=216.0, Win Bonus=0.0
+[2026-05-21 22:16:21] SCORE B (gray0): Final=709.4, Time=83.0, Moves(35)=4.4, Pins(3)=300.0, Dist=322.0, Win Bonus=0.0
+[2026-05-21 22:16:21] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)', '57 (turn timeout)', '61 (turn timeout)', '65 (turn timeout)', '69 (turn timeout)']}
+[2026-05-21 22:16:23] MOVE 71: A (lawn green) 22->34 [0.00ms]
+[2026-05-21 22:16:23] SCORE A (lawn green): Final=291.6, Time=73.6, Moves(22)=0.0, Pins(0)=0.0, Dist=218.0, Win Bonus=0.0
+[2026-05-21 22:16:23] SCORE B (gray0): Final=709.4, Time=83.0, Moves(35)=4.4, Pins(3)=300.0, Dist=322.0, Win Bonus=0.0
+[2026-05-21 22:16:23] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)', '57 (turn timeout)', '61 (turn timeout)', '65 (turn timeout)', '69 (turn timeout)']}
+[2026-05-21 22:16:23] MOVE 72: B (gray0) 65->66 [0.01ms]
+[2026-05-21 22:16:23] SCORE A (lawn green): Final=291.6, Time=73.6, Moves(22)=0.0, Pins(0)=0.0, Dist=218.0, Win Bonus=0.0
+[2026-05-21 22:16:23] SCORE B (gray0): Final=714.4, Time=82.4, Moves(36)=8.0, Pins(3)=300.0, Dist=324.0, Win Bonus=0.0
+[2026-05-21 22:16:23] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)', '57 (turn timeout)', '61 (turn timeout)', '65 (turn timeout)', '69 (turn timeout)']}
+[2026-05-21 22:16:25] MOVE 73: A (lawn green) 63->73 [0.00ms]
+[2026-05-21 22:16:25] SCORE A (lawn green): Final=290.1, Time=72.1, Moves(23)=0.0, Pins(0)=0.0, Dist=218.0, Win Bonus=0.0
+[2026-05-21 22:16:25] SCORE B (gray0): Final=714.4, Time=82.4, Moves(36)=8.0, Pins(3)=300.0, Dist=324.0, Win Bonus=0.0
+[2026-05-21 22:16:25] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)', '57 (turn timeout)', '61 (turn timeout)', '65 (turn timeout)', '69 (turn timeout)']}
+[2026-05-21 22:16:25] MOVE 74: B (gray0) 101->102 [0.00ms]
+[2026-05-21 22:16:25] SCORE A (lawn green): Final=290.1, Time=72.1, Moves(23)=0.0, Pins(0)=0.0, Dist=218.0, Win Bonus=0.0
+[2026-05-21 22:16:25] SCORE B (gray0): Final=721.4, Time=81.9, Moves(37)=13.5, Pins(3)=300.0, Dist=326.0, Win Bonus=0.0
+[2026-05-21 22:16:25] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)', '57 (turn timeout)', '61 (turn timeout)', '65 (turn timeout)', '69 (turn timeout)']}
+[2026-05-21 22:16:27] MOVE 75: A (lawn green) 41->62 [0.00ms]
+[2026-05-21 22:16:27] SCORE A (lawn green): Final=288.6, Time=70.6, Moves(24)=0.0, Pins(0)=0.0, Dist=218.0, Win Bonus=0.0
+[2026-05-21 22:16:27] SCORE B (gray0): Final=721.4, Time=81.9, Moves(37)=13.5, Pins(3)=300.0, Dist=326.0, Win Bonus=0.0
+[2026-05-21 22:16:27] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)', '57 (turn timeout)', '61 (turn timeout)', '65 (turn timeout)', '69 (turn timeout)']}
+[2026-05-21 22:16:27] MOVE 76: B (gray0) 102->79 [0.00ms]
+[2026-05-21 22:16:27] SCORE A (lawn green): Final=288.6, Time=70.6, Moves(24)=0.0, Pins(0)=0.0, Dist=218.0, Win Bonus=0.0
+[2026-05-21 22:16:27] SCORE B (gray0): Final=733.0, Time=81.3, Moves(38)=21.6, Pins(3)=300.0, Dist=330.0, Win Bonus=0.0
+[2026-05-21 22:16:27] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)', '57 (turn timeout)', '61 (turn timeout)', '65 (turn timeout)', '69 (turn timeout)']}
+[2026-05-21 22:16:29] MOVE 77: A (lawn green) 33->32 [0.00ms]
+[2026-05-21 22:16:29] SCORE A (lawn green): Final=289.1, Time=69.1, Moves(25)=0.0, Pins(0)=0.0, Dist=220.0, Win Bonus=0.0
+[2026-05-21 22:16:29] SCORE B (gray0): Final=733.0, Time=81.3, Moves(38)=21.6, Pins(3)=300.0, Dist=330.0, Win Bonus=0.0
+[2026-05-21 22:16:29] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)', '57 (turn timeout)', '61 (turn timeout)', '65 (turn timeout)', '69 (turn timeout)']}
+[2026-05-21 22:16:29] MOVE 78: B (gray0) 90->53 [0.00ms]
+[2026-05-21 22:16:29] SCORE A (lawn green): Final=289.1, Time=69.1, Moves(25)=0.0, Pins(0)=0.0, Dist=220.0, Win Bonus=0.0
+[2026-05-21 22:16:29] SCORE B (gray0): Final=755.3, Time=80.9, Moves(39)=32.5, Pins(3)=300.0, Dist=342.0, Win Bonus=0.0
+[2026-05-21 22:16:29] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)', '57 (turn timeout)', '61 (turn timeout)', '65 (turn timeout)', '69 (turn timeout)']}
+[2026-05-21 22:16:30] MOVE 79: A (lawn green) 54->74 [0.00ms]
+[2026-05-21 22:16:30] SCORE A (lawn green): Final=288.0, Time=68.0, Moves(26)=0.0, Pins(0)=0.0, Dist=220.0, Win Bonus=0.0
+[2026-05-21 22:16:30] SCORE B (gray0): Final=755.3, Time=80.9, Moves(39)=32.5, Pins(3)=300.0, Dist=342.0, Win Bonus=0.0
+[2026-05-21 22:16:30] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)', '57 (turn timeout)', '61 (turn timeout)', '65 (turn timeout)', '69 (turn timeout)']}
+[2026-05-21 22:16:31] MOVE 80: B (gray0) 52->33 [0.00ms]
+[2026-05-21 22:16:31] SCORE A (lawn green): Final=288.0, Time=68.0, Moves(26)=0.0, Pins(0)=0.0, Dist=220.0, Win Bonus=0.0
+[2026-05-21 22:16:31] SCORE B (gray0): Final=874.2, Time=80.5, Moves(40)=45.8, Pins(4)=400.0, Dist=348.0, Win Bonus=0.0
+[2026-05-21 22:16:31] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)', '57 (turn timeout)', '61 (turn timeout)', '65 (turn timeout)', '69 (turn timeout)']}
+[2026-05-21 22:16:33] SCORE A (lawn green): Final=288.0, Time=68.0, Moves(26)=0.0, Pins(0)=0.0, Dist=220.0, Win Bonus=0.0
+[2026-05-21 22:16:33] SCORE B (gray0): Final=874.2, Time=80.5, Moves(40)=45.8, Pins(4)=400.0, Dist=348.0, Win Bonus=0.0
+[2026-05-21 22:16:33] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)', '57 (turn timeout)', '61 (turn timeout)', '65 (turn timeout)', '69 (turn timeout)', '81 (turn timeout)']}
+[2026-05-21 22:16:33] TURN TIMEOUT: Player with colour lawn green exceeded 2s at move 81. Turn skipped.
+[2026-05-21 22:16:33] MOVE 82: B (gray0) 79->80 [0.00ms]
+[2026-05-21 22:16:33] SCORE A (lawn green): Final=288.0, Time=68.0, Moves(26)=0.0, Pins(0)=0.0, Dist=220.0, Win Bonus=0.0
+[2026-05-21 22:16:33] SCORE B (gray0): Final=890.7, Time=80.1, Moves(41)=60.7, Pins(4)=400.0, Dist=350.0, Win Bonus=0.0
+[2026-05-21 22:16:33] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)', '57 (turn timeout)', '61 (turn timeout)', '65 (turn timeout)', '69 (turn timeout)', '81 (turn timeout)']}
+[2026-05-21 22:16:35] SCORE A (lawn green): Final=288.0, Time=68.0, Moves(26)=0.0, Pins(0)=0.0, Dist=220.0, Win Bonus=0.0
+[2026-05-21 22:16:35] SCORE B (gray0): Final=890.7, Time=80.1, Moves(41)=60.7, Pins(4)=400.0, Dist=350.0, Win Bonus=0.0
+[2026-05-21 22:16:35] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)', '57 (turn timeout)', '61 (turn timeout)', '65 (turn timeout)', '69 (turn timeout)', '81 (turn timeout)', '83 (turn timeout)']}
+[2026-05-21 22:16:35] TURN TIMEOUT: Player with colour lawn green exceeded 2s at move 83. Turn skipped.
+[2026-05-21 22:16:36] MOVE 84: B (gray0) 53->54 [0.00ms]
+[2026-05-21 22:16:36] SCORE A (lawn green): Final=288.0, Time=68.0, Moves(26)=0.0, Pins(0)=0.0, Dist=220.0, Win Bonus=0.0
+[2026-05-21 22:16:36] SCORE B (gray0): Final=907.1, Time=79.7, Moves(42)=75.5, Pins(4)=400.0, Dist=352.0, Win Bonus=0.0
+[2026-05-21 22:16:36] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)', '57 (turn timeout)', '61 (turn timeout)', '65 (turn timeout)', '69 (turn timeout)', '81 (turn timeout)', '83 (turn timeout)']}
+[2026-05-21 22:16:37] MOVE 85: A (lawn green) 60->61 [0.00ms]
+[2026-05-21 22:16:37] SCORE A (lawn green): Final=284.9, Time=66.9, Moves(27)=0.0, Pins(0)=0.0, Dist=218.0, Win Bonus=0.0
+[2026-05-21 22:16:37] SCORE B (gray0): Final=907.1, Time=79.7, Moves(42)=75.5, Pins(4)=400.0, Dist=352.0, Win Bonus=0.0
+[2026-05-21 22:16:37] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)', '57 (turn timeout)', '61 (turn timeout)', '65 (turn timeout)', '69 (turn timeout)', '81 (turn timeout)', '83 (turn timeout)']}
+[2026-05-21 22:16:37] MOVE 86: B (gray0) 71->53 [0.00ms]
+[2026-05-21 22:16:37] SCORE A (lawn green): Final=284.9, Time=66.9, Moves(27)=0.0, Pins(0)=0.0, Dist=218.0, Win Bonus=0.0
+[2026-05-21 22:16:37] SCORE B (gray0): Final=923.4, Time=79.1, Moves(43)=88.2, Pins(4)=400.0, Dist=356.0, Win Bonus=0.0
+[2026-05-21 22:16:37] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)', '57 (turn timeout)', '61 (turn timeout)', '65 (turn timeout)', '69 (turn timeout)', '81 (turn timeout)', '83 (turn timeout)']}
+[2026-05-21 22:16:38] MOVE 87: A (lawn green) 61->51 [0.00ms]
+[2026-05-21 22:16:38] SCORE A (lawn green): Final=283.9, Time=65.8, Moves(28)=0.0, Pins(0)=0.0, Dist=218.0, Win Bonus=0.0
+[2026-05-21 22:16:38] SCORE B (gray0): Final=923.4, Time=79.1, Moves(43)=88.2, Pins(4)=400.0, Dist=356.0, Win Bonus=0.0
+[2026-05-21 22:16:38] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)', '57 (turn timeout)', '61 (turn timeout)', '65 (turn timeout)', '69 (turn timeout)', '81 (turn timeout)', '83 (turn timeout)']}
+[2026-05-21 22:16:39] MOVE 88: B (gray0) 80->70 [0.00ms]
+[2026-05-21 22:16:39] SCORE A (lawn green): Final=283.9, Time=65.8, Moves(28)=0.0, Pins(0)=0.0, Dist=218.0, Win Bonus=0.0
+[2026-05-21 22:16:39] SCORE B (gray0): Final=933.6, Time=78.7, Moves(44)=96.9, Pins(4)=400.0, Dist=358.0, Win Bonus=0.0
+[2026-05-21 22:16:39] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)', '57 (turn timeout)', '61 (turn timeout)', '65 (turn timeout)', '69 (turn timeout)', '81 (turn timeout)', '83 (turn timeout)']}
+[2026-05-21 22:16:40] MOVE 89: A (lawn green) 32->43 [0.00ms]
+[2026-05-21 22:16:40] SCORE A (lawn green): Final=284.8, Time=64.7, Moves(29)=0.0, Pins(0)=0.0, Dist=220.0, Win Bonus=0.0
+[2026-05-21 22:16:40] SCORE B (gray0): Final=933.6, Time=78.7, Moves(44)=96.9, Pins(4)=400.0, Dist=358.0, Win Bonus=0.0
+[2026-05-21 22:16:40] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)', '57 (turn timeout)', '61 (turn timeout)', '65 (turn timeout)', '69 (turn timeout)', '81 (turn timeout)', '83 (turn timeout)']}
+[2026-05-21 22:16:41] MOVE 90: B (gray0) 16->17 [0.00ms]
+[2026-05-21 22:16:41] SCORE A (lawn green): Final=284.8, Time=64.7, Moves(29)=0.0, Pins(0)=0.0, Dist=220.0, Win Bonus=0.0
+[2026-05-21 22:16:41] SCORE B (gray0): Final=938.1, Time=78.1, Moves(45)=100.0, Pins(4)=400.0, Dist=360.0, Win Bonus=0.0
+[2026-05-21 22:16:41] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)', '57 (turn timeout)', '61 (turn timeout)', '65 (turn timeout)', '69 (turn timeout)', '81 (turn timeout)', '83 (turn timeout)']}
+[2026-05-21 22:16:43] SCORE A (lawn green): Final=284.8, Time=64.7, Moves(29)=0.0, Pins(0)=0.0, Dist=220.0, Win Bonus=0.0
+[2026-05-21 22:16:43] SCORE B (gray0): Final=938.1, Time=78.1, Moves(45)=100.0, Pins(4)=400.0, Dist=360.0, Win Bonus=0.0
+[2026-05-21 22:16:43] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)', '57 (turn timeout)', '61 (turn timeout)', '65 (turn timeout)', '69 (turn timeout)', '81 (turn timeout)', '83 (turn timeout)', '91 (turn timeout)']}
+[2026-05-21 22:16:43] TURN TIMEOUT: Player with colour lawn green exceeded 2s at move 91. Turn skipped.
+[2026-05-21 22:16:43] MOVE 92: B (gray0) 70->61 [0.00ms]
+[2026-05-21 22:16:43] SCORE A (lawn green): Final=284.8, Time=64.7, Moves(29)=0.0, Pins(0)=0.0, Dist=220.0, Win Bonus=0.0
+[2026-05-21 22:16:43] SCORE B (gray0): Final=939.6, Time=77.7, Moves(46)=99.8, Pins(4)=400.0, Dist=362.0, Win Bonus=0.0
+[2026-05-21 22:16:43] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)', '57 (turn timeout)', '61 (turn timeout)', '65 (turn timeout)', '69 (turn timeout)', '81 (turn timeout)', '83 (turn timeout)', '91 (turn timeout)']}
+[2026-05-21 22:16:45] SCORE A (lawn green): Final=284.8, Time=64.7, Moves(29)=0.0, Pins(0)=0.0, Dist=220.0, Win Bonus=0.0
+[2026-05-21 22:16:45] SCORE B (gray0): Final=939.6, Time=77.7, Moves(46)=99.8, Pins(4)=400.0, Dist=362.0, Win Bonus=0.0
+[2026-05-21 22:16:45] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)', '57 (turn timeout)', '61 (turn timeout)', '65 (turn timeout)', '69 (turn timeout)', '81 (turn timeout)', '83 (turn timeout)', '91 (turn timeout)', '93 (turn timeout)']}
+[2026-05-21 22:16:45] TURN TIMEOUT: Player with colour lawn green exceeded 2s at move 93. Turn skipped.
+[2026-05-21 22:16:46] MOVE 94: B (gray0) 61->63 [0.00ms]
+[2026-05-21 22:16:46] SCORE A (lawn green): Final=284.8, Time=64.7, Moves(29)=0.0, Pins(0)=0.0, Dist=220.0, Win Bonus=0.0
+[2026-05-21 22:16:46] SCORE B (gray0): Final=942.7, Time=77.3, Moves(47)=99.4, Pins(4)=400.0, Dist=366.0, Win Bonus=0.0
+[2026-05-21 22:16:46] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)', '57 (turn timeout)', '61 (turn timeout)', '65 (turn timeout)', '69 (turn timeout)', '81 (turn timeout)', '83 (turn timeout)', '91 (turn timeout)', '93 (turn timeout)']}
+[2026-05-21 22:16:47] MOVE 95: A (lawn green) 51->60 [0.00ms]
+[2026-05-21 22:16:47] SCORE A (lawn green): Final=285.3, Time=63.2, Moves(30)=0.1, Pins(0)=0.0, Dist=222.0, Win Bonus=0.0
+[2026-05-21 22:16:47] SCORE B (gray0): Final=942.7, Time=77.3, Moves(47)=99.4, Pins(4)=400.0, Dist=366.0, Win Bonus=0.0
+[2026-05-21 22:16:47] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)', '57 (turn timeout)', '61 (turn timeout)', '65 (turn timeout)', '69 (turn timeout)', '81 (turn timeout)', '83 (turn timeout)', '91 (turn timeout)', '93 (turn timeout)']}
+[2026-05-21 22:16:48] MOVE 96: B (gray0) 53->32 [0.00ms]
+[2026-05-21 22:16:48] SCORE A (lawn green): Final=285.3, Time=63.2, Moves(30)=0.1, Pins(0)=0.0, Dist=222.0, Win Bonus=0.0
+[2026-05-21 22:16:48] SCORE B (gray0): Final=1045.5, Time=76.9, Moves(48)=98.6, Pins(5)=500.0, Dist=370.0, Win Bonus=0.0
+[2026-05-21 22:16:48] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)', '57 (turn timeout)', '61 (turn timeout)', '65 (turn timeout)', '69 (turn timeout)', '81 (turn timeout)', '83 (turn timeout)', '91 (turn timeout)', '93 (turn timeout)']}
+[2026-05-21 22:16:50] SCORE A (lawn green): Final=285.3, Time=63.2, Moves(30)=0.1, Pins(0)=0.0, Dist=222.0, Win Bonus=0.0
+[2026-05-21 22:16:50] SCORE B (gray0): Final=1045.5, Time=76.9, Moves(48)=98.6, Pins(5)=500.0, Dist=370.0, Win Bonus=0.0
+[2026-05-21 22:16:50] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)', '57 (turn timeout)', '61 (turn timeout)', '65 (turn timeout)', '69 (turn timeout)', '81 (turn timeout)', '83 (turn timeout)', '91 (turn timeout)', '93 (turn timeout)', '97 (turn timeout)']}
+[2026-05-21 22:16:50] TURN TIMEOUT: Player with colour lawn green exceeded 2s at move 97. Turn skipped.
+[2026-05-21 22:16:50] MOVE 98: B (gray0) 66->67 [0.00ms]
+[2026-05-21 22:16:50] SCORE A (lawn green): Final=285.3, Time=63.2, Moves(30)=0.1, Pins(0)=0.0, Dist=222.0, Win Bonus=0.0
+[2026-05-21 22:16:50] SCORE B (gray0): Final=1046.0, Time=76.4, Moves(49)=97.6, Pins(5)=500.0, Dist=372.0, Win Bonus=0.0
+[2026-05-21 22:16:50] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)', '57 (turn timeout)', '61 (turn timeout)', '65 (turn timeout)', '69 (turn timeout)', '81 (turn timeout)', '83 (turn timeout)', '91 (turn timeout)', '93 (turn timeout)', '97 (turn timeout)']}
+[2026-05-21 22:16:52] SCORE A (lawn green): Final=285.3, Time=63.2, Moves(30)=0.1, Pins(0)=0.0, Dist=222.0, Win Bonus=0.0
+[2026-05-21 22:16:52] SCORE B (gray0): Final=1046.0, Time=76.4, Moves(49)=97.6, Pins(5)=500.0, Dist=372.0, Win Bonus=0.0
+[2026-05-21 22:16:52] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)', '57 (turn timeout)', '61 (turn timeout)', '65 (turn timeout)', '69 (turn timeout)', '81 (turn timeout)', '83 (turn timeout)', '91 (turn timeout)', '93 (turn timeout)', '97 (turn timeout)', '99 (turn timeout)']}
+[2026-05-21 22:16:52] TURN TIMEOUT: Player with colour lawn green exceeded 2s at move 99. Turn skipped.
+[2026-05-21 22:16:53] MOVE 100: B (gray0) 67->58 [0.00ms]
+[2026-05-21 22:16:53] SCORE A (lawn green): Final=285.3, Time=63.2, Moves(30)=0.1, Pins(0)=0.0, Dist=222.0, Win Bonus=0.0
+[2026-05-21 22:16:53] SCORE B (gray0): Final=1046.2, Time=76.0, Moves(50)=96.2, Pins(5)=500.0, Dist=374.0, Win Bonus=0.0
+[2026-05-21 22:16:53] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)', '57 (turn timeout)', '61 (turn timeout)', '65 (turn timeout)', '69 (turn timeout)', '81 (turn timeout)', '83 (turn timeout)', '91 (turn timeout)', '93 (turn timeout)', '97 (turn timeout)', '99 (turn timeout)']}
+[2026-05-21 22:16:55] SCORE A (lawn green): Final=285.3, Time=63.2, Moves(30)=0.1, Pins(0)=0.0, Dist=222.0, Win Bonus=0.0
+[2026-05-21 22:16:55] SCORE B (gray0): Final=1046.2, Time=76.0, Moves(50)=96.2, Pins(5)=500.0, Dist=374.0, Win Bonus=0.0
+[2026-05-21 22:16:55] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)', '57 (turn timeout)', '61 (turn timeout)', '65 (turn timeout)', '69 (turn timeout)', '81 (turn timeout)', '83 (turn timeout)', '91 (turn timeout)', '93 (turn timeout)', '97 (turn timeout)', '99 (turn timeout)', '101 (turn timeout)']}
+[2026-05-21 22:16:55] TURN TIMEOUT: Player with colour lawn green exceeded 2s at move 101. Turn skipped.
+[2026-05-21 22:16:55] MOVE 102: B (gray0) 58->59 [0.00ms]
+[2026-05-21 22:16:55] SCORE A (lawn green): Final=285.3, Time=63.2, Moves(30)=0.1, Pins(0)=0.0, Dist=222.0, Win Bonus=0.0
+[2026-05-21 22:16:55] SCORE B (gray0): Final=1046.2, Time=75.6, Moves(51)=94.6, Pins(5)=500.0, Dist=376.0, Win Bonus=0.0
+[2026-05-21 22:16:55] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)', '57 (turn timeout)', '61 (turn timeout)', '65 (turn timeout)', '69 (turn timeout)', '81 (turn timeout)', '83 (turn timeout)', '91 (turn timeout)', '93 (turn timeout)', '97 (turn timeout)', '99 (turn timeout)', '101 (turn timeout)']}
+[2026-05-21 22:16:57] SCORE A (lawn green): Final=285.3, Time=63.2, Moves(30)=0.1, Pins(0)=0.0, Dist=222.0, Win Bonus=0.0
+[2026-05-21 22:16:57] SCORE B (gray0): Final=1046.2, Time=75.6, Moves(51)=94.6, Pins(5)=500.0, Dist=376.0, Win Bonus=0.0
+[2026-05-21 22:16:57] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)', '57 (turn timeout)', '61 (turn timeout)', '65 (turn timeout)', '69 (turn timeout)', '81 (turn timeout)', '83 (turn timeout)', '91 (turn timeout)', '93 (turn timeout)', '97 (turn timeout)', '99 (turn timeout)', '101 (turn timeout)', '103 (turn timeout)']}
+[2026-05-21 22:16:57] TURN TIMEOUT: Player with colour lawn green exceeded 2s at move 103. Turn skipped.
+[2026-05-21 22:16:58] MOVE 104: B (gray0) 59->61 [0.00ms]
+[2026-05-21 22:16:58] SCORE A (lawn green): Final=285.3, Time=63.2, Moves(30)=0.1, Pins(0)=0.0, Dist=222.0, Win Bonus=0.0
+[2026-05-21 22:16:58] SCORE B (gray0): Final=1048.0, Time=75.3, Moves(52)=92.7, Pins(5)=500.0, Dist=380.0, Win Bonus=0.0
+[2026-05-21 22:16:58] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)', '57 (turn timeout)', '61 (turn timeout)', '65 (turn timeout)', '69 (turn timeout)', '81 (turn timeout)', '83 (turn timeout)', '91 (turn timeout)', '93 (turn timeout)', '97 (turn timeout)', '99 (turn timeout)', '101 (turn timeout)', '103 (turn timeout)']}
+[2026-05-21 22:17:00] SCORE A (lawn green): Final=285.3, Time=63.2, Moves(30)=0.1, Pins(0)=0.0, Dist=222.0, Win Bonus=0.0
+[2026-05-21 22:17:00] SCORE B (gray0): Final=1048.0, Time=75.3, Moves(52)=92.7, Pins(5)=500.0, Dist=380.0, Win Bonus=0.0
+[2026-05-21 22:17:00] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)', '57 (turn timeout)', '61 (turn timeout)', '65 (turn timeout)', '69 (turn timeout)', '81 (turn timeout)', '83 (turn timeout)', '91 (turn timeout)', '93 (turn timeout)', '97 (turn timeout)', '99 (turn timeout)', '101 (turn timeout)', '103 (turn timeout)', '105 (turn timeout)']}
+[2026-05-21 22:17:00] TURN TIMEOUT: Player with colour lawn green exceeded 2s at move 105. Turn skipped.
+[2026-05-21 22:17:00] MOVE 106: B (gray0) 17->18 [0.01ms]
+[2026-05-21 22:17:00] SCORE A (lawn green): Final=285.3, Time=63.2, Moves(30)=0.1, Pins(0)=0.0, Dist=222.0, Win Bonus=0.0
+[2026-05-21 22:17:00] SCORE B (gray0): Final=1047.5, Time=74.9, Moves(53)=90.6, Pins(5)=500.0, Dist=382.0, Win Bonus=0.0
+[2026-05-21 22:17:00] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)', '57 (turn timeout)', '61 (turn timeout)', '65 (turn timeout)', '69 (turn timeout)', '81 (turn timeout)', '83 (turn timeout)', '91 (turn timeout)', '93 (turn timeout)', '97 (turn timeout)', '99 (turn timeout)', '101 (turn timeout)', '103 (turn timeout)', '105 (turn timeout)']}
+[2026-05-21 22:17:02] SCORE A (lawn green): Final=285.3, Time=63.2, Moves(30)=0.1, Pins(0)=0.0, Dist=222.0, Win Bonus=0.0
+[2026-05-21 22:17:02] SCORE B (gray0): Final=1047.5, Time=74.9, Moves(53)=90.6, Pins(5)=500.0, Dist=382.0, Win Bonus=0.0
+[2026-05-21 22:17:02] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)', '57 (turn timeout)', '61 (turn timeout)', '65 (turn timeout)', '69 (turn timeout)', '81 (turn timeout)', '83 (turn timeout)', '91 (turn timeout)', '93 (turn timeout)', '97 (turn timeout)', '99 (turn timeout)', '101 (turn timeout)', '103 (turn timeout)', '105 (turn timeout)', '107 (turn timeout)']}
+[2026-05-21 22:17:02] TURN TIMEOUT: Player with colour lawn green exceeded 2s at move 107. Turn skipped.
+[2026-05-21 22:17:03] MOVE 108: B (gray0) 61->52 [0.00ms]
+[2026-05-21 22:17:03] SCORE A (lawn green): Final=285.3, Time=63.2, Moves(30)=0.1, Pins(0)=0.0, Dist=222.0, Win Bonus=0.0
+[2026-05-21 22:17:03] SCORE B (gray0): Final=1046.7, Time=74.5, Moves(54)=88.2, Pins(5)=500.0, Dist=384.0, Win Bonus=0.0
+[2026-05-21 22:17:03] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)', '57 (turn timeout)', '61 (turn timeout)', '65 (turn timeout)', '69 (turn timeout)', '81 (turn timeout)', '83 (turn timeout)', '91 (turn timeout)', '93 (turn timeout)', '97 (turn timeout)', '99 (turn timeout)', '101 (turn timeout)', '103 (turn timeout)', '105 (turn timeout)', '107 (turn timeout)']}
+[2026-05-21 22:17:05] SCORE A (lawn green): Final=285.3, Time=63.2, Moves(30)=0.1, Pins(0)=0.0, Dist=222.0, Win Bonus=0.0
+[2026-05-21 22:17:05] SCORE B (gray0): Final=1046.7, Time=74.5, Moves(54)=88.2, Pins(5)=500.0, Dist=384.0, Win Bonus=0.0
+[2026-05-21 22:17:05] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)', '57 (turn timeout)', '61 (turn timeout)', '65 (turn timeout)', '69 (turn timeout)', '81 (turn timeout)', '83 (turn timeout)', '91 (turn timeout)', '93 (turn timeout)', '97 (turn timeout)', '99 (turn timeout)', '101 (turn timeout)', '103 (turn timeout)', '105 (turn timeout)', '107 (turn timeout)', '109 (turn timeout)']}
+[2026-05-21 22:17:05] TURN TIMEOUT: Player with colour lawn green exceeded 2s at move 109. Turn skipped.
+[2026-05-21 22:17:05] MOVE 110: B (gray0) 52->53 [0.00ms]
+[2026-05-21 22:17:05] SCORE A (lawn green): Final=285.3, Time=63.2, Moves(30)=0.1, Pins(0)=0.0, Dist=222.0, Win Bonus=0.0
+[2026-05-21 22:17:05] SCORE B (gray0): Final=1045.8, Time=74.1, Moves(55)=85.7, Pins(5)=500.0, Dist=386.0, Win Bonus=0.0
+[2026-05-21 22:17:05] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)', '57 (turn timeout)', '61 (turn timeout)', '65 (turn timeout)', '69 (turn timeout)', '81 (turn timeout)', '83 (turn timeout)', '91 (turn timeout)', '93 (turn timeout)', '97 (turn timeout)', '99 (turn timeout)', '101 (turn timeout)', '103 (turn timeout)', '105 (turn timeout)', '107 (turn timeout)', '109 (turn timeout)']}
+[2026-05-21 22:17:07] SCORE A (lawn green): Final=285.3, Time=63.2, Moves(30)=0.1, Pins(0)=0.0, Dist=222.0, Win Bonus=0.0
+[2026-05-21 22:17:07] SCORE B (gray0): Final=1045.8, Time=74.1, Moves(55)=85.7, Pins(5)=500.0, Dist=386.0, Win Bonus=0.0
+[2026-05-21 22:17:07] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)', '57 (turn timeout)', '61 (turn timeout)', '65 (turn timeout)', '69 (turn timeout)', '81 (turn timeout)', '83 (turn timeout)', '91 (turn timeout)', '93 (turn timeout)', '97 (turn timeout)', '99 (turn timeout)', '101 (turn timeout)', '103 (turn timeout)', '105 (turn timeout)', '107 (turn timeout)', '109 (turn timeout)', '111 (turn timeout)']}
+[2026-05-21 22:17:07] TURN TIMEOUT: Player with colour lawn green exceeded 2s at move 111. Turn skipped.
+[2026-05-21 22:17:08] MOVE 112: B (gray0) 44->21 [0.00ms]
+[2026-05-21 22:17:08] SCORE A (lawn green): Final=285.3, Time=63.2, Moves(30)=0.1, Pins(0)=0.0, Dist=222.0, Win Bonus=0.0
+[2026-05-21 22:17:08] SCORE B (gray0): Final=1042.6, Time=73.7, Moves(56)=83.0, Pins(5)=500.0, Dist=386.0, Win Bonus=0.0
+[2026-05-21 22:17:08] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)', '57 (turn timeout)', '61 (turn timeout)', '65 (turn timeout)', '69 (turn timeout)', '81 (turn timeout)', '83 (turn timeout)', '91 (turn timeout)', '93 (turn timeout)', '97 (turn timeout)', '99 (turn timeout)', '101 (turn timeout)', '103 (turn timeout)', '105 (turn timeout)', '107 (turn timeout)', '109 (turn timeout)', '111 (turn timeout)']}
+[2026-05-21 22:17:10] SCORE A (lawn green): Final=285.3, Time=63.2, Moves(30)=0.1, Pins(0)=0.0, Dist=222.0, Win Bonus=0.0
+[2026-05-21 22:17:10] SCORE B (gray0): Final=1042.6, Time=73.7, Moves(56)=83.0, Pins(5)=500.0, Dist=386.0, Win Bonus=0.0
+[2026-05-21 22:17:10] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)', '57 (turn timeout)', '61 (turn timeout)', '65 (turn timeout)', '69 (turn timeout)', '81 (turn timeout)', '83 (turn timeout)', '91 (turn timeout)', '93 (turn timeout)', '97 (turn timeout)', '99 (turn timeout)', '101 (turn timeout)', '103 (turn timeout)', '105 (turn timeout)', '107 (turn timeout)', '109 (turn timeout)', '111 (turn timeout)']}
+[2026-05-21 22:17:10] GAME TIME LIMIT REACHED.
+[2026-05-21 22:17:10] SCORE A (lawn green): Final=285.3, Time=63.2, Moves(30)=0.1, Pins(0)=0.0, Dist=222.0, Win Bonus=0.0
+[2026-05-21 22:17:10] SCORE B (gray0): Final=1042.6, Time=73.7, Moves(56)=83.0, Pins(5)=500.0, Dist=386.0, Win Bonus=0.0
+[2026-05-21 22:17:10] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)', '57 (turn timeout)', '61 (turn timeout)', '65 (turn timeout)', '69 (turn timeout)', '81 (turn timeout)', '83 (turn timeout)', '91 (turn timeout)', '93 (turn timeout)', '97 (turn timeout)', '99 (turn timeout)', '101 (turn timeout)', '103 (turn timeout)', '105 (turn timeout)', '107 (turn timeout)', '109 (turn timeout)', '111 (turn timeout)']}
+[2026-05-21 22:17:10] GAME TIME LIMIT REACHED.
+[2026-05-21 22:17:10] SCORE A (lawn green): Final=285.3, Time=63.2, Moves(30)=0.1, Pins(0)=0.0, Dist=222.0, Win Bonus=0.0
+[2026-05-21 22:17:10] SCORE B (gray0): Final=1042.6, Time=73.7, Moves(56)=83.0, Pins(5)=500.0, Dist=386.0, Win Bonus=0.0
+[2026-05-21 22:17:10] ALL WRONG MOVES BY COLOUR: {'lawn green': ['3 (turn timeout)', '5 (turn timeout)', '9 (turn timeout)', '11 (turn timeout)', '15 (turn timeout)', '17 (turn timeout)', '25 (turn timeout)', '27 (turn timeout)', '33 (turn timeout)', '35 (turn timeout)', '57 (turn timeout)', '61 (turn timeout)', '65 (turn timeout)', '69 (turn timeout)', '81 (turn timeout)', '83 (turn timeout)', '91 (turn timeout)', '93 (turn timeout)', '97 (turn timeout)', '99 (turn timeout)', '101 (turn timeout)', '103 (turn timeout)', '105 (turn timeout)', '107 (turn timeout)', '109 (turn timeout)', '111 (turn timeout)']}
+[2026-05-21 22:17:10] GAME TIME LIMIT REACHED.

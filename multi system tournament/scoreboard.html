@@ -485,7 +485,9 @@ at the bottom of the table, display total number of games played per round, disp
         waitingGamesDiv.innerHTML += `<p>Game ${game_number} is waiting to start. Joined : ${joinedPlayers.join(", ")} . Not joined: ${notJoinedPlayers.join(", ")}</p>`;
     }
     else if (status === "GAME_CREATED") {
-        waitingGamesDiv.innerHTML += `<p>Game ${game_number} is currently not started.</p>`;
+        const joinedPlayers = joined.split(";").map(entry => entry.split(":")[0]);
+        const notJoinedPlayers = players.filter(p => !joinedPlayers.includes(p));
+        waitingGamesDiv.innerHTML += `<p>Game ${game_number} is currently not started. Not joined: ${notJoinedPlayers.join(", ")}</p>`;
 
     }
     });
